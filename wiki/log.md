@@ -49,3 +49,16 @@ Note: in problems/engine-cranks-but-wont-start.md, the sibling Problem links tur
 - raw/Articles/poweredoutdoors.com/replace-exmark-mower-deck-parts.md → ingested → guides/customer-intake.md
 
 Note: problems/engine-cranks-but-wont-start.md's Diagnostic questions now link to the customer-intake Guide. Each of these Sources was used only for intake content; their repair content is not yet ingested.
+
+## 2026-11-23 | ingest | fuel-supply Sources for the cranks-but-won't-start Causes
+
+- raw/Articles/poweredoutdoors.com/carburetor-is-not-getting-fuel.md → ingested → causes/old-fuel.md, causes/clogged-fuel-filter.md, causes/clogged-fuel-line.md, causes/bad-fuel-pump.md, causes/dirty-carburetor.md, causes/plugged-fuel-cap-vent.md
+- raw/Articles/poweredoutdoors.com/briggs-and-stratton-engine-isnt-getting-gas.md → ingested → causes/old-fuel.md, causes/clogged-fuel-filter.md, causes/clogged-fuel-line.md, causes/bad-fuel-pump.md, causes/dirty-carburetor.md, causes/plugged-fuel-cap-vent.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-isnt-getting-fuel.md → ingested → causes/old-fuel.md, causes/clogged-fuel-filter.md, causes/clogged-fuel-line.md, causes/bad-fuel-pump.md, causes/dirty-carburetor.md
+- raw/Articles/poweredoutdoors.com/clean-a-zero-turn-mower-carburetor.md → ingested → causes/dirty-carburetor.md, causes/old-fuel.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md → ingested → causes/old-fuel.md, causes/clogged-fuel-filter.md, causes/clogged-fuel-line.md, causes/bad-fuel-pump.md, causes/dirty-carburetor.md, causes/plugged-fuel-cap-vent.md
+- raw/Articles/poweredoutdoors.com/honda-lawn-mower-isnt-getting-gas.md → ingested → causes/old-fuel.md, causes/clogged-fuel-filter.md, causes/clogged-fuel-line.md, causes/dirty-carburetor.md, causes/plugged-fuel-cap-vent.md
+- raw/Articles/poweredoutdoors.com/best-lawn-mower-for-your-yard-size.md → skipped: buying guide
+- raw/Articles/poweredoutdoors.com/5-places-to-take-your-lawn-mower-for-repairs.md → skipped: repair-shop listing
+
+Note: the "⚠ Conflicting advice" callout on causes/plugged-fuel-cap-vent.md (clean the cap first vs replace it) now cites three Sources for cleaning first. These Sources describe a running engine that is starved of fuel or only runs with the choke on. No Problem page covers that symptom yet, so they update Cause pages only and aren't cited on problems/engine-cranks-but-wont-start.md. A "bad carburetor gasket" Cause (cub-cadet-mower-runs-with-choke-on.md) is noted on causes/dirty-carburetor.md until a "runs only with the choke on" Problem exists to hang it on.

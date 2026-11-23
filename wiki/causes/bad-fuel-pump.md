@@ -6,7 +6,7 @@ problems:
 part_types:
   - fuel pump
 procedures: []
-source_count: 9
+source_count: 13
 updated: 2026-11-23
 ---
 
@@ -16,7 +16,7 @@ updated: 2026-11-23
 
 A mower needs a fuel pump when the carburetor sits higher than the fuel tank, because fuel has to be pushed uphill. Most use a plastic or metal vacuum fuel pump that runs off crankcase vacuum. Some engines have electronic fuel injection (EFI) with an injection fuel pump instead. When the pump cracks, leaks or stops pumping, fuel doesn't reach the engine and it turns over but won't start. Replacing the pump is a moderate job.
 
-Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S2](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but-wont-start.md), [S8](../../raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old-gas.md), [S9](../../raw/Articles/poweredoutdoors.com/lawn-mower-isnt-getting-gas.md)
+Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S2](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but-wont-start.md), [S8](../../raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old-gas.md), [S9](../../raw/Articles/poweredoutdoors.com/lawn-mower-isnt-getting-gas.md), [S10](../../raw/Articles/poweredoutdoors.com/carburetor-is-not-getting-fuel.md), [S11](../../raw/Articles/poweredoutdoors.com/briggs-and-stratton-engine-isnt-getting-gas.md), [S12](../../raw/Articles/poweredoutdoors.com/cub-cadet-isnt-getting-fuel.md), [S13](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md)
 
 ## Before you start
 
@@ -29,28 +29,30 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-w
 ## Symptoms it produces
 
 - [Engine cranks but won't start](../problems/engine-cranks-but-wont-start.md): fuel reaches the pump's inlet, but no steady or pulsing flow comes out of the line to the carburetor. The pump may be visibly cracked or leaking.
+- A running engine starved of fuel that only keeps going with the choke on.
 
-Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md)
+Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S13](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md)
 
 ## How to confirm
 
 1. Look for cracks, damage or fuel leaking from the pump. If you find any, replace it.
-2. Confirm fuel reaches the pump's inlet port. If it doesn't, check the fuel line and fuel filter first.
+2. Confirm fuel reaches the pump's inlet port: shut off the fuel, pull the line off the inlet, put it in a container set lower than the tank, and turn the fuel back on. If nothing flows, check the fuel line and fuel filter first.
 3. **Vacuum pump:** pull the fuel line off the carburetor and put it in a container. Turn the fuel on and start the engine. A steady or pulsing flow means the pump works.
 4. **EFI pump:** read the pressure with a fuel pressure gauge and compare it with the spec in the operator's manual. The flow test doesn't apply.
 
-Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S3](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-turns-over-but-wont-start.md), [S4](../../raw/Articles/poweredoutdoors.com/john-deere-mower-turns-over-but-wont-start.md), [S5](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-cranks-but-wont-start.md), [S6](../../raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-turns-over-but-wont-start.md), [S9](../../raw/Articles/poweredoutdoors.com/lawn-mower-isnt-getting-gas.md)
+Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S3](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-turns-over-but-wont-start.md), [S4](../../raw/Articles/poweredoutdoors.com/john-deere-mower-turns-over-but-wont-start.md), [S5](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-cranks-but-wont-start.md), [S6](../../raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-turns-over-but-wont-start.md), [S9](../../raw/Articles/poweredoutdoors.com/lawn-mower-isnt-getting-gas.md), [S10](../../raw/Articles/poweredoutdoors.com/carburetor-is-not-getting-fuel.md), [S11](../../raw/Articles/poweredoutdoors.com/briggs-and-stratton-engine-isnt-getting-gas.md), [S12](../../raw/Articles/poweredoutdoors.com/cub-cadet-isnt-getting-fuel.md)
 
 ## Fix
 
 Replace the fuel pump if it is cracked, damaged or leaking, if it doesn't move gas through the line to the carburetor, or (EFI) if its pressure is below the engine maker's spec.
 
-Sources: [S2](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but-wont-start.md), [S6](../../raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S8](../../raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old-gas.md), [S9](../../raw/Articles/poweredoutdoors.com/lawn-mower-isnt-getting-gas.md)
+Sources: [S2](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but-wont-start.md), [S6](../../raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S8](../../raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old-gas.md), [S9](../../raw/Articles/poweredoutdoors.com/lawn-mower-isnt-getting-gas.md), [S10](../../raw/Articles/poweredoutdoors.com/carburetor-is-not-getting-fuel.md), [S11](../../raw/Articles/poweredoutdoors.com/briggs-and-stratton-engine-isnt-getting-gas.md), [S12](../../raw/Articles/poweredoutdoors.com/cub-cadet-isnt-getting-fuel.md), [S13](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md)
 
 ## Brand notes
 
 - **Husqvarna, John Deere, SCAG with EFI:** test the pump with a fuel pressure gauge against the spec in the operator's manual. Sources: [S3](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-turns-over-but-wont-start.md), [S4](../../raw/Articles/poweredoutdoors.com/john-deere-mower-turns-over-but-wont-start.md), [S6](../../raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-turns-over-but-wont-start.md)
-- **Cub Cadet zero-turn:** most use a vacuum fuel pump. With fuel reaching the pump, it should give a steady or pulsing flow. Otherwise, replace it. Source: [S5](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-cranks-but-wont-start.md)
+- **Cub Cadet zero-turn:** most use a vacuum fuel pump. With fuel reaching the pump, it should give a steady or pulsing flow. Otherwise, replace it. Sources: [S5](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-cranks-but-wont-start.md), [S12](../../raw/Articles/poweredoutdoors.com/cub-cadet-isnt-getting-fuel.md), [S13](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md)
+- **Briggs & Stratton:** a plastic or metal vacuum pump is fitted when the tank sits lower than the carburetor; the same flow test applies. Source: [S11](../../raw/Articles/poweredoutdoors.com/briggs-and-stratton-engine-isnt-getting-gas.md)
 
 ## Parts & fitment
 
@@ -74,3 +76,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-w
 - [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md) — Riding lawn mower engine spins but won't start video (manufacturer)
 - [S8](../../raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old-gas.md) — How to Start a Lawn Mower with Old Gas: Step-By-Step (expert-blog)
 - [S9](../../raw/Articles/poweredoutdoors.com/lawn-mower-isnt-getting-gas.md) — Your Lawn Mower Isn't Getting Gas: Fix it NOW! (expert-blog)
+- [S10](../../raw/Articles/poweredoutdoors.com/carburetor-is-not-getting-fuel.md) — This is Why a Lawn Mower Carburetor is Not Getting Fuel (expert-blog)
+- [S11](../../raw/Articles/poweredoutdoors.com/briggs-and-stratton-engine-isnt-getting-gas.md) — This is Why a Briggs and Stratton Engine Isn't Getting Gas (expert-blog)
+- [S12](../../raw/Articles/poweredoutdoors.com/cub-cadet-isnt-getting-fuel.md) — 5 Reasons Your Cub Cadet Isn't Getting Fuel: FIXED! (expert-blog)
+- [S13](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md) — Cub Cadet Only Runs With the Choke On: FIXED! (expert-blog)

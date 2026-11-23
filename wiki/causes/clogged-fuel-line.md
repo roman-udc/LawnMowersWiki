@@ -6,7 +6,7 @@ problems:
 part_types:
   - fuel line
 procedures: []
-source_count: 9
+source_count: 14
 updated: 2026-11-23
 ---
 
@@ -29,18 +29,19 @@ Sources: [S4](../../raw/Articles/poweredoutdoors.com/john-deere-mower-turns-over
 ## Symptoms it produces
 
 - [Engine cranks but won't start](../problems/engine-cranks-but-wont-start.md): weak or no fuel flow when a section of line is pulled off, or a visibly kinked, cracked or damaged line.
+- A running engine that only keeps going with the choke on: a clog starves it of fuel, and a puncture or crack lets air into the line so it runs lean.
 
-Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md)
+Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S13](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md)
 
 ## How to confirm
 
-1. Follow the line from the tank to the carburetor and look for kinks.
+1. Follow the line from the tank to the carburetor and look for kinks, and for punctures or cracks that let air in.
 2. Shut off the fuel with the shut-off valve or fuel pinch-off pliers.
 3. Pick a section and pull off the end furthest from the tank: at the fuel pump inlet if there is a pump, otherwise at the carburetor. Put the end in a container.
 4. Place the container lower than the tank. Fuel can't run uphill without a pump.
 5. Turn the fuel back on and watch the flow. Good flow means that section is clear. Repeat for each section.
 
-Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S4](../../raw/Articles/poweredoutdoors.com/john-deere-mower-turns-over-but-wont-start.md), [S8](../../raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old-gas.md), [S9](../../raw/Articles/poweredoutdoors.com/lawn-mower-isnt-getting-gas.md)
+Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S4](../../raw/Articles/poweredoutdoors.com/john-deere-mower-turns-over-but-wont-start.md), [S8](../../raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old-gas.md), [S9](../../raw/Articles/poweredoutdoors.com/lawn-mower-isnt-getting-gas.md), [S10](../../raw/Articles/poweredoutdoors.com/carburetor-is-not-getting-fuel.md), [S11](../../raw/Articles/poweredoutdoors.com/briggs-and-stratton-engine-isnt-getting-gas.md), [S12](../../raw/Articles/poweredoutdoors.com/cub-cadet-isnt-getting-fuel.md), [S13](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md), [S14](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-isnt-getting-gas.md)
 
 ## Fix
 
@@ -50,7 +51,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-w
 4. Reinstall the cleared line. Replace it with a new line if the clog won't come out, or if the line is damaged, aged or starting to crack.
 5. Turn the fuel back on and try to start. If it still won't run, move on to the carburetor.
 
-Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S2](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but-wont-start.md), [S3](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-turns-over-but-wont-start.md), [S5](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-cranks-but-wont-start.md), [S6](../../raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S8](../../raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old-gas.md), [S9](../../raw/Articles/poweredoutdoors.com/lawn-mower-isnt-getting-gas.md)
+Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S2](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but-wont-start.md), [S3](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-turns-over-but-wont-start.md), [S5](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-cranks-but-wont-start.md), [S6](../../raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S8](../../raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old-gas.md), [S9](../../raw/Articles/poweredoutdoors.com/lawn-mower-isnt-getting-gas.md), [S10](../../raw/Articles/poweredoutdoors.com/carburetor-is-not-getting-fuel.md), [S12](../../raw/Articles/poweredoutdoors.com/cub-cadet-isnt-getting-fuel.md), [S13](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md), [S14](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-isnt-getting-gas.md)
 
 ## Brand notes
 
@@ -59,14 +60,15 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-w
 
 ## Parts & fitment
 
-- **Fuel line:** buy line of the same length and inside diameter as the original. You will usually need to cut it to length.
+- **Fuel line:** buy line of the same length and inside diameter as the original. You will usually need to cut it to length. Replace a punctured line, or one that is dry and cracking, before it starts leaking.
 
-Sources: [S8](../../raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old-gas.md)
+Sources: [S8](../../raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old-gas.md), [S12](../../raw/Articles/poweredoutdoors.com/cub-cadet-isnt-getting-fuel.md), [S13](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md)
 
 ## Tips & life hacks
 
 - Old gas is the usual root cause. Drain and refill with fresh gas too, or the line will clog again. Sources: [S4](../../raw/Articles/poweredoutdoors.com/john-deere-mower-turns-over-but-wont-start.md), [S9](../../raw/Articles/poweredoutdoors.com/lawn-mower-isnt-getting-gas.md)
 - Always shut off the fuel before pulling a line, and catch the fuel in a container. Source: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md)
+- No shut-off valve? Hose pinch-off pliers clamp the line to stop the flow. Sources: [S10](../../raw/Articles/poweredoutdoors.com/carburetor-is-not-getting-fuel.md), [S11](../../raw/Articles/poweredoutdoors.com/briggs-and-stratton-engine-isnt-getting-gas.md), [S12](../../raw/Articles/poweredoutdoors.com/cub-cadet-isnt-getting-fuel.md)
 - Confirm good flow through the line before rebuilding the carburetor. Source: [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md)
 
 ## Sources
@@ -80,3 +82,8 @@ Sources: [S8](../../raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old
 - [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md) — Riding lawn mower engine spins but won't start video (manufacturer)
 - [S8](../../raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old-gas.md) — How to Start a Lawn Mower with Old Gas: Step-By-Step (expert-blog)
 - [S9](../../raw/Articles/poweredoutdoors.com/lawn-mower-isnt-getting-gas.md) — Your Lawn Mower Isn't Getting Gas: Fix it NOW! (expert-blog)
+- [S10](../../raw/Articles/poweredoutdoors.com/carburetor-is-not-getting-fuel.md) — This is Why a Lawn Mower Carburetor is Not Getting Fuel (expert-blog)
+- [S11](../../raw/Articles/poweredoutdoors.com/briggs-and-stratton-engine-isnt-getting-gas.md) — This is Why a Briggs and Stratton Engine Isn't Getting Gas (expert-blog)
+- [S12](../../raw/Articles/poweredoutdoors.com/cub-cadet-isnt-getting-fuel.md) — 5 Reasons Your Cub Cadet Isn't Getting Fuel: FIXED! (expert-blog)
+- [S13](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md) — Cub Cadet Only Runs With the Choke On: FIXED! (expert-blog)
+- [S14](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-isnt-getting-gas.md) — 5 Reasons Your Honda Lawn Mower Isn't Getting Gas (expert-blog)
