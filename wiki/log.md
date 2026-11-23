@@ -66,3 +66,7 @@ Note: the "⚠ Conflicting advice" callout on causes/plugged-fuel-cap-vent.md (c
 ## 2026-11-23 | lint | whole wiki
 
 Report: reports/lint/2026-11-23.md. Structural: 602 violations (602 unlogged, 0 other), 0 orphans. Content: 9 missing pages (3 Problems, 1 Cause, 5 Procedures), 5 unflagged conflicts, 2 superseded claims, 1 overlap suspicion, 0 thin pages (4 near-thin).
+
+## 2026-11-23 | fix | lint follow-up: conflict callouts
+
+Applied two fixes from reports/lint/2026-11-23.md at the maintainer's request. problems/engine-cranks-but-wont-start.md: added a starter fluid vs carburetor cleaner callout under Quick triage, and its Sources line now cites S3, S4 and S6. causes/old-fuel.md: the stabilizer callout now cites linked Sources with Trust tiers. Still open from that report: unflagged conflicts 2–4.
