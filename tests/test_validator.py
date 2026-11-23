@@ -15,6 +15,8 @@ ROOT = Path(__file__).resolve().parent.parent
 VALIDATOR = ROOT / "tools" / "validate_wiki.py"
 BASELINE = Path(__file__).resolve().parent / "fixtures" / "valid"
 PAGE = Path("wiki/problems/engine-wont-start.md")
+CAUSE = Path("wiki/causes/old-fuel.md")
+PROC = Path("wiki/procedures/drain-the-fuel-tank.md")
 
 
 class ValidatorTest(unittest.TestCase):
@@ -42,7 +44,7 @@ class ValidatorTest(unittest.TestCase):
     def assert_only_rule(self, rule):
         code, out = self.run_validator()
         self.assertNotEqual(code, 0, out)
-        rules = re.findall(r"\[([a-z-]+)\]", out)
+        rules = re.findall(r"^\S+: \[([a-z-]+)\] ", out, re.MULTILINE)
         self.assertTrue(rules, out)
         self.assertEqual(set(rules), {rule}, out)
         return out
@@ -81,7 +83,38 @@ class ValidatorTest(unittest.TestCase):
         path.write_text(text.split("---\n", 2)[2], encoding="utf-8")
         self.assert_only_rule("frontmatter")
 
+    def test_invalid_difficulty(self):
+        self.edit(PROC, "difficulty: easy", "difficulty: hard")
+        out = self.assert_only_rule("frontmatter")
+        self.assertIn("hard", out)
+
+    def test_procedure_without_tools(self):
+        self.edit(PROC, "tools: [siphon pump, gas can]", "tools: []")
+        out = self.assert_only_rule("frontmatter")
+        self.assertIn("tools", out)
+
+    def test_procedure_without_time_estimate(self):
+        self.edit(PROC, "time_estimate: 15 minutes\n", "")
+        out = self.assert_only_rule("frontmatter")
+        self.assertIn("time_estimate", out)
+
+    def test_unknown_cause_frontmatter_key(self):
+        self.edit(CAUSE, "updated: 2024-01-01\n", "updated: 2024-01-01\naliases: [x]\n")
+        out = self.assert_only_rule("frontmatter")
+        self.assertIn("aliases", out)
+
     # --- sections -------------------------------------------------------
+    def test_cause_missing_section(self):
+        self.edit(CAUSE, "## How to confirm\n\nSmell it.\n\n", "")
+        out = self.assert_only_rule("sections")
+        self.assertIn("How to confirm", out)
+
+    def test_procedure_sections_out_of_order(self):
+        self.edit(PROC, "## Safety\n\nWork outside.\n\n", "")
+        self.edit(PROC, "## Sources\n", "## Safety\n\nWork outside.\n\n## Sources\n")
+        out = self.assert_only_rule("sections")
+        self.assertIn("order", out)
+
     def test_missing_section(self):
         self.edit(PAGE, "## Brand notes\n\nNone.\n\n", "")
         out = self.assert_only_rule("sections")
@@ -122,6 +155,94 @@ class ValidatorTest(unittest.TestCase):
         )
         out = self.assert_only_rule("index")
         self.assertIn("ghost.md", out)
+
+    # --- links ----------------------------------------------------------
+    def test_broken_relative_link(self):
+        self.edit(PAGE, "## Related problems\n\nNone yet.",
+                  "## Related problems\n\nSee [Engine won't crank](engine-wont-crank.md).")
+        out = self.assert_only_rule("broken-link")
+        self.assertIn("engine-wont-crank.md", out)
+
+    def test_broken_source_link(self):
+        self.edit(CAUSE, "How long has it sat?",
+                  "How long has it sat? Sources: [S9](../../raw/Articles/example.com/missing.md)")
+        out = self.assert_only_rule("broken-link")
+        self.assertIn("missing.md", out)
+
+    def test_external_and_anchor_links_are_not_checked(self):
+        self.edit(PAGE, "None yet.", "See [docs](https://example.com/x) and [top](#summary).")
+        code, out = self.run_validator()
+        self.assertEqual((code, out.strip()), (0, ""))
+
+    def test_wikilink_is_rejected(self):
+        self.edit(CAUSE, "Smell it.", "Smell it, then see [[drain-the-fuel-tank]].")
+        out = self.assert_only_rule("wikilink")
+        self.assertIn("[[drain-the-fuel-tank]]", out)
+
+    def test_frontmatter_lists_cause_body_does_not_link(self):
+        path = self.root / PAGE
+        text = path.read_text(encoding="utf-8")
+        path.write_text(text.replace("[Old fuel](../causes/old-fuel.md)", "Old fuel"), encoding="utf-8")
+        out = self.assert_only_rule("link-lists")
+        self.assertIn("old-fuel.md", out)
+
+    def test_body_links_procedure_frontmatter_does_not_list(self):
+        self.edit(CAUSE, "  - ../procedures/drain-the-fuel-tank.md\n", "")
+        self.edit(CAUSE, "procedures:\n", "procedures: []\n")
+        self.edit(PROC, "  - ../causes/old-fuel.md\n", "")
+        self.edit(PROC, "causes:\n", "causes: []\n")
+        self.edit(PROC, "Fixes [Old fuel](../causes/old-fuel.md).", "Fixes old fuel.")
+        out = self.assert_only_rule("link-lists")
+        self.assertIn("drain-the-fuel-tank.md", out)
+        self.assertIn("causes/old-fuel.md", out)
+
+    def test_cause_missing_back_link_to_problem(self):
+        self.edit(CAUSE, "  - ../problems/engine-starts-then-dies.md\n", "")
+        self.edit(CAUSE, "- [Engine starts then dies](../problems/engine-starts-then-dies.md)\n", "")
+        out = self.assert_only_rule("backlink")
+        self.assertIn("engine-starts-then-dies.md", out)
+
+    def test_procedure_missing_back_link_to_cause(self):
+        self.edit(PROC, "  - ../causes/old-fuel.md\n", "")
+        self.edit(PROC, "causes:\n", "causes: []\n")
+        self.edit(PROC, "Fixes [Old fuel](../causes/old-fuel.md).", "Fixes old fuel.")
+        out = self.assert_only_rule("backlink")
+        self.assertIn("drain-the-fuel-tank.md", out)
+
+    def test_cause_missing_back_link_to_procedure(self):
+        self.edit(CAUSE, "  - ../procedures/drain-the-fuel-tank.md\n", "")
+        self.edit(CAUSE, "procedures:\n", "procedures: []\n")
+        self.edit(CAUSE, "[Drain the fuel tank](../procedures/drain-the-fuel-tank.md).", "Drain the tank.")
+        out = self.assert_only_rule("backlink")
+        self.assertIn("old-fuel.md", out)
+
+    # --- graph completeness ---------------------------------------------
+    def add_page(self, src, dst, replacements, index_section):
+        text = (self.root / src).read_text(encoding="utf-8")
+        for old, new in replacements:
+            self.assertIn(old, text)
+            text = text.replace(old, new)
+        (self.root / dst).write_text(text, encoding="utf-8")
+        link = Path(dst).relative_to("wiki").as_posix()
+        self.edit("wiki/index.md", f"## {index_section}\n", f"## {index_section}\n\n- [New]({link}) — new\n")
+
+    def test_problem_without_causes(self):
+        self.add_page(PAGE, "wiki/problems/mower-smokes.md", [
+            ("causes:\n  - ../causes/old-fuel.md\n", "causes: []\n"),
+            ("[Old fuel](../causes/old-fuel.md)", "Old fuel"),
+        ], "Problems")
+        out = self.assert_only_rule("no-causes")
+        self.assertIn("mower-smokes.md", out)
+
+    def test_cause_without_problems(self):
+        self.add_page(CAUSE, "wiki/causes/bad-coil.md", [
+            ("problems:\n  - ../problems/engine-wont-start.md\n  - ../problems/engine-starts-then-dies.md\n", "problems: []\n"),
+            ("procedures:\n  - ../procedures/drain-the-fuel-tank.md\n", "procedures: []\n"),
+            ("- [Engine won't start](../problems/engine-wont-start.md)\n- [Engine starts then dies](../problems/engine-starts-then-dies.md)\n", "- None\n"),
+            ("[Drain the fuel tank](../procedures/drain-the-fuel-tank.md)", "Drain it"),
+        ], "Causes")
+        out = self.assert_only_rule("no-problems")
+        self.assertIn("bad-coil.md", out)
 
 
 if __name__ == "__main__":

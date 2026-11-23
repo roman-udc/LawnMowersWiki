@@ -146,8 +146,8 @@ Sources: [S2](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but
 
 ## Related problems
 
-- **Not this problem? The engine doesn't spin at all, or only clicks:** see [Engine won't crank or turn over](engine-wont-crank.md).
-- **Not this problem? It starts, then dies after a few seconds:** see [Engine starts then dies](engine-starts-then-dies.md).
+- **Not this problem? The engine doesn't spin at all, or only clicks:** see the Engine won't crank or turn over Problem (page not written yet).
+- **Not this problem? It starts, then dies after a few seconds:** see the Engine starts then dies Problem (page not written yet).
 
 ## Sources
 

@@ -11,6 +11,12 @@ Rules (see .scratch/wiki-bootstrap/spec.md, "Validator"):
   sections      - required H2 sections present and in template order
   source-count  - source_count equals the distinct Sources in ## Sources
   index         - every page is in index.md; every index link resolves
+  broken-link   - every relative link (to a page or a Source) resolves
+  wikilink      - [[wikilinks]] are not used; links are relative markdown
+  link-lists    - frontmatter causes/problems/procedures match the body links
+  backlink      - Problem <-> Cause and Cause <-> Procedure links go both ways
+  no-causes     - every Problem lists at least one Cause
+  no-problems   - every Cause lists at least one Problem
 """
 import re
 import sys
@@ -20,6 +26,7 @@ import yaml
 
 MOWER_TYPES = {"push", "self-propelled", "riding", "zero-turn"}
 POWER_SOURCES = {"gas", "battery", "diesel"}
+DIFFICULTIES = {"easy", "moderate", "pro"}
 
 SCHEMAS = {
     "problem": {
@@ -31,10 +38,31 @@ SCHEMAS = {
                      "When to send to a technician", "Related problems",
                      "Sources"],
     },
+    "cause": {
+        "keys": ["type", "title", "problems", "part_types", "procedures",
+                 "source_count", "updated"],
+        "sections": ["Summary", "Before you start", "Symptoms it produces",
+                     "How to confirm", "Fix", "Brand notes", "Parts & fitment",
+                     "Tips & life hacks", "Sources"],
+    },
+    "procedure": {
+        "keys": ["type", "title", "causes", "part_types", "difficulty",
+                 "time_estimate", "tools", "source_count", "updated"],
+        "sections": ["Before you start", "Safety", "Tools & parts", "Steps",
+                     "Brand notes", "Tips & common mistakes", "Verify the fix",
+                     "Sources"],
+    },
 }
 
 PAGE_DIRS = ("problems", "causes", "procedures", "guides")
+# Frontmatter link lists per page type: field -> folder its entries point into.
+LINK_LISTS = {
+    "problem": {"causes": "causes"},
+    "cause": {"problems": "problems", "procedures": "procedures"},
+    "procedure": {"causes": "causes"},
+}
 LINK_RE = re.compile(r"\[[^\]]*\]\(([^)\s]+)\)")
+WIKILINK_RE = re.compile(r"!?\[\[[^\]]*\]\]")
 H2_RE = re.compile(r"^## +(.+?)\s*$", re.MULTILINE)
 
 
@@ -61,6 +89,35 @@ def section(body, name):
     return body[m.end():nxt.start() if nxt else len(body)]
 
 
+def resolve(page, link):
+    """Absolute path a relative link points to, or None for URLs and same-page anchors."""
+    if "://" in link or link.startswith(("#", "mailto:")):
+        return None
+    return (page.parent / link.split("#")[0]).resolve()
+
+
+def link_list(page, fm, field):
+    """Resolved targets of a frontmatter link list (empty when absent or malformed)."""
+    value = fm.get(field)
+    if not isinstance(value, list):
+        return set()
+    return {resolve(page, str(v)) for v in value} - {None}
+
+
+def check_link_lists(page, wiki, fm, body):
+    out = []
+    body_targets = {resolve(page, l) for l in LINK_RE.findall(body)} - {None}
+    for field, folder in LINK_LISTS.get(fm.get("type"), {}).items():
+        listed = link_list(page, fm, field)
+        linked = {t for t in body_targets if t.parent == (wiki / folder).resolve()}
+        rel = lambda paths: ", ".join(sorted(p.relative_to(wiki.resolve()).as_posix() for p in paths))
+        if listed - linked:
+            out.append(("link-lists", f"{field} lists pages the body never links: {rel(listed - linked)}"))
+        if linked - listed:
+            out.append(("link-lists", f"body links {folder} missing from {field}: {rel(linked - listed)}"))
+    return out
+
+
 def check_vocab(field, value, allowed):
     if not isinstance(value, list) or not value:
         return [f"{field} must be a non-empty list"]
@@ -71,7 +128,7 @@ def check_vocab(field, value, allowed):
     return []
 
 
-def check_page(path):
+def check_page(path, wiki):
     out = []
     text = path.read_text(encoding="utf-8").replace("\r\n", "\n")
     fm, body = split_frontmatter(text)
@@ -93,6 +150,14 @@ def check_page(path):
     if "power_sources" in fm:
         out += [("frontmatter", m) for m in check_vocab("power_sources", fm["power_sources"], POWER_SOURCES)]
 
+    if "difficulty" in fm and fm["difficulty"] not in DIFFICULTIES:
+        out.append(("frontmatter", f"difficulty {fm['difficulty']!r} is outside the vocabulary "
+                                   f"(allowed: {', '.join(sorted(DIFFICULTIES))})"))
+    if "time_estimate" in fm and not (isinstance(fm["time_estimate"], str) and fm["time_estimate"].strip()):
+        out.append(("frontmatter", "time_estimate must be a non-empty string"))
+    if "tools" in fm and not (isinstance(fm["tools"], list) and fm["tools"]):
+        out.append(("frontmatter", "tools must be a non-empty list"))
+
     found = H2_RE.findall(body)
     required = schema["sections"]
     absent = [s for s in required if s not in found]
@@ -103,6 +168,16 @@ def check_page(path):
     if present != expected:
         out.append(("sections", f"sections out of order: {' -> '.join(present)} "
                                 f"(expected {' -> '.join(expected)})"))
+
+    for link in dict.fromkeys(LINK_RE.findall(body)):
+        target = resolve(path, link)
+        if target is not None and not target.exists():
+            out.append(("broken-link", f"link target does not exist: {link}"))
+
+    for wl in WIKILINK_RE.findall(body):
+        out.append(("wikilink", f"wikilink {wl} used; use a relative markdown link instead"))
+
+    out += check_link_lists(path, wiki, fm, body)
 
     if "source_count" in fm and "Sources" in found:
         cited = {t for t in LINK_RE.findall(section(body, "Sources")) if "raw/" in t}
@@ -131,12 +206,49 @@ def check_index(wiki, pages):
     return out
 
 
+# (type, field) whose entries must be mirrored by (target type, target field).
+BACKLINKS = [
+    ("problem", "causes", "cause", "problems"),
+    ("cause", "problems", "problem", "causes"),
+    ("cause", "procedures", "procedure", "causes"),
+    ("procedure", "causes", "cause", "procedures"),
+]
+
+
+def check_graph(wiki, pages):
+    out = []
+    fms = {}
+    for page in pages:
+        fm, _ = split_frontmatter(page.read_text(encoding="utf-8").replace("\r\n", "\n"))
+        if fm is not None:
+            fms[page.resolve()] = fm
+    rel = lambda p: p.relative_to(wiki.resolve()).as_posix()
+    for page, fm in fms.items():
+        kind = fm.get("type")
+        if kind == "problem" and not link_list(page, fm, "causes"):
+            out.append((rel(page), "no-causes", "Problem lists no Causes"))
+        if kind == "cause" and not link_list(page, fm, "problems"):
+            out.append((rel(page), "no-problems", "Cause lists no Problems"))
+        for src_type, field, dst_type, back in BACKLINKS:
+            if kind != src_type:
+                continue
+            for target in link_list(page, fm, field):
+                tfm = fms.get(target)
+                if tfm is None or tfm.get("type") != dst_type:
+                    continue
+                if page not in link_list(target, tfm, back):
+                    out.append((rel(target), "backlink",
+                                f"{back} is missing a back-link to {rel(page)}, which lists this page in {field}"))
+    return out
+
+
 def validate(wiki, raw):
     pages = sorted(p for d in PAGE_DIRS for p in (wiki / d).rglob("*.md"))
     violations = []
     for page in pages:
         rel = page.relative_to(wiki).as_posix()
-        violations += [(rel, rule, msg) for rule, msg in check_page(page)]
+        violations += [(rel, rule, msg) for rule, msg in check_page(page, wiki)]
+    violations += check_graph(wiki, pages)
     violations += check_index(wiki, pages)
     return violations
 
