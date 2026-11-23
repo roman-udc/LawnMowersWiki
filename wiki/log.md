@@ -39,3 +39,13 @@ Append-only record of every operation on the wiki, and the only record of which 
 - raw/Articles/searspartsdirect.com/runs-rough-or-misfires.ridtr03.md → ingested → causes/low-compression.md, causes/sheared-flywheel-key.md
 
 Note: in problems/engine-cranks-but-wont-start.md, the sibling Problem links turned into plain text until those pages exist
+
+## 2026-11-23 | ingest | customer-intake Guide
+
+- raw/Articles/searspartsdirect.com/how-to-find-the-age-of-your-craftsman-riding-lawn-mower-or-lawn-tractor.md → ingested → guides/customer-intake.md
+- raw/Articles/searspartsdirect.com/how-to-measure-a-mower-blade.md → ingested → guides/customer-intake.md
+- raw/Articles/searspartsdirect.com/what-are-the-riding-mower-parts-that-require-replacement-most-often.md → ingested → guides/customer-intake.md
+- raw/Articles/poweredoutdoors.com/push-mower-is-leaking-gas.md → ingested → guides/customer-intake.md
+- raw/Articles/poweredoutdoors.com/replace-exmark-mower-deck-parts.md → ingested → guides/customer-intake.md
+
+Note: problems/engine-cranks-but-wont-start.md's Diagnostic questions now link to the customer-intake Guide. Each of these Sources was used only for intake content; their repair content is not yet ingested.

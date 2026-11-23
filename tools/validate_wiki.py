@@ -13,7 +13,8 @@ Rules (see .scratch/wiki-bootstrap/spec.md, "Validator"):
   index         - every page is in index.md; every index link resolves
   broken-link   - every relative link (to a page or a Source) resolves
   wikilink      - [[wikilinks]] are not used; links are relative markdown
-  link-lists    - frontmatter causes/problems/procedures match the body links
+  link-lists    - frontmatter causes/problems/procedures match the body links;
+                  a Guide's related pages are linked from ## Related
   backlink      - Problem <-> Cause and Cause <-> Procedure links go both ways
   no-causes     - every Problem lists at least one Cause
   no-problems   - every Cause lists at least one Problem
@@ -50,6 +51,12 @@ SCHEMAS = {
                  "time_estimate", "tools", "source_count", "updated"],
         "sections": ["Before you start", "Safety", "Tools & parts", "Steps",
                      "Brand notes", "Tips & common mistakes", "Verify the fix",
+                     "Sources"],
+    },
+    "guide": {
+        "keys": ["type", "title", "related", "source_count", "updated"],
+        "sections": ["Summary", "Key facts", "Recommendations",
+                     "Tips & life hacks", "Common mistakes", "Related",
                      "Sources"],
     },
 }
@@ -115,6 +122,13 @@ def check_link_lists(page, wiki, fm, body):
             out.append(("link-lists", f"{field} lists pages the body never links: {rel(listed - linked)}"))
         if linked - listed:
             out.append(("link-lists", f"body links {folder} missing from {field}: {rel(linked - listed)}"))
+    if fm.get("type") == "guide":
+        # `related` may point at any page type; each entry must be linked from ## Related.
+        related_links = {resolve(page, l) for l in LINK_RE.findall(section(body, "Related"))} - {None}
+        unlinked = link_list(page, fm, "related") - related_links
+        if unlinked:
+            names = ", ".join(sorted(p.relative_to(wiki.resolve()).as_posix() for p in unlinked))
+            out.append(("link-lists", f"related lists pages the Related section never links: {names}"))
     return out
 
 

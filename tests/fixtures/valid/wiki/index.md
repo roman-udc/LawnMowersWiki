@@ -14,3 +14,5 @@
 - [Drain the fuel tank](procedures/drain-the-fuel-tank.md) — siphon old gas.
 
 ## Guides
+
+- [Customer intake](guides/customer-intake.md) — basics to collect first.

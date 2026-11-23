@@ -27,3 +27,5 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Replace the spark plug](procedures/replace-the-spark-plug.md) — remove the old plug, gap the new one to spec, tighten firmly and reconnect the wire (easy, 15 minutes or less).
 
 ## Guides
+
+- [Customer intake](guides/customer-intake.md) — the basic questions to ask every customer first, why each matters, and where to find the model, serial and engine numbers.

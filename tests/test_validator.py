@@ -17,6 +17,7 @@ BASELINE = Path(__file__).resolve().parent / "fixtures" / "valid"
 PAGE = Path("wiki/problems/engine-wont-start.md")
 CAUSE = Path("wiki/causes/old-fuel.md")
 PROC = Path("wiki/procedures/drain-the-fuel-tank.md")
+GUIDE = Path("wiki/guides/customer-intake.md")
 
 
 class ValidatorTest(unittest.TestCase):
@@ -103,7 +104,28 @@ class ValidatorTest(unittest.TestCase):
         out = self.assert_only_rule("frontmatter")
         self.assertIn("aliases", out)
 
+    def test_unknown_guide_frontmatter_key(self):
+        self.edit(GUIDE, "updated: 2024-01-01\n", "updated: 2024-01-01\ncauses: []\n")
+        out = self.assert_only_rule("frontmatter")
+        self.assertIn("causes", out)
+
+    def test_guide_missing_related_key(self):
+        self.edit(GUIDE, "related:\n  - ../problems/engine-wont-start.md\n", "")
+        out = self.assert_only_rule("frontmatter")
+        self.assertIn("related", out)
+
     # --- sections -------------------------------------------------------
+    def test_guide_missing_section(self):
+        self.edit(GUIDE, "## Common mistakes\n\nConfusing the engine model with the mower model.\n\n", "")
+        out = self.assert_only_rule("sections")
+        self.assertIn("Common mistakes", out)
+
+    def test_guide_sections_out_of_order(self):
+        self.edit(GUIDE, "## Key facts\n\nThe model tag is under the seat.\n\n", "")
+        self.edit(GUIDE, "## Related\n", "## Key facts\n\nThe model tag is under the seat.\n\n## Related\n")
+        out = self.assert_only_rule("sections")
+        self.assertIn("order", out)
+
     def test_cause_missing_section(self):
         self.edit(CAUSE, "## How to confirm\n\nSmell it.\n\n", "")
         out = self.assert_only_rule("sections")
@@ -195,6 +217,11 @@ class ValidatorTest(unittest.TestCase):
         out = self.assert_only_rule("link-lists")
         self.assertIn("drain-the-fuel-tank.md", out)
         self.assertIn("causes/old-fuel.md", out)
+
+    def test_guide_related_page_body_does_not_link(self):
+        self.edit(GUIDE, "- [Engine won't start](../problems/engine-wont-start.md)\n", "- None\n")
+        out = self.assert_only_rule("link-lists")
+        self.assertIn("engine-wont-start.md", out)
 
     def test_cause_missing_back_link_to_problem(self):
         self.edit(CAUSE, "  - ../problems/engine-starts-then-dies.md\n", "")

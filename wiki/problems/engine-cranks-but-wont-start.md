@@ -50,6 +50,8 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-w
 
 ## Diagnostic questions
 
+Collect the basics first with the [customer intake Guide](../guides/customer-intake.md).
+
 | Question | Answer A → Causes | Answer B → Causes |
 |---|---|---|
 | Is the engine cold or warm, and where is the choke set? | Cold engine with the choke off/open → [Wrong choke setting](../causes/wrong-choke-setting.md) | Warm engine with the choke on/closed → [Wrong choke setting](../causes/wrong-choke-setting.md) |
