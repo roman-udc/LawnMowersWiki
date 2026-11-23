@@ -4,10 +4,10 @@
 
 **Blocked by:** 02, 03
 
-**Status:** ready-for-agent
+**Status:** resolved
 
-- [ ] New validator rule, with failing fixtures: any Source in the raw folder that has no log entry is reported.
-- [ ] The ingest skill is a project skill and encodes all of the following:
+- [x] New validator rule, with failing fixtures: any Source in the raw folder that has no log entry is reported.
+- [x] The ingest skill is a project skill and encodes all of the following:
   - finds new Sources by comparing the raw folder with the log (no separate manifest)
   - never modifies Sources
   - assigns the Trust tier from the Source's domain or type (searspartsdirect.com → manufacturer, poweredoutdoors.com → expert-blog, forum domains → forum)
@@ -22,5 +22,5 @@
   - writes the log entry listing each raw path with its outcome
   - repeats the validator until it passes
   - makes one commit per ingest
-- [ ] Verified on a real batch of about 5–10 Sources that touch the tracer Problem cluster, plus at least one Source that should be skipped. The resulting log entry, page updates and commit are correct.
-- [ ] The project instructions point to the skill.
+- [x] Verified on a real batch of about 5–10 Sources that touch the tracer Problem cluster, plus at least one Source that should be skipped. The resulting log entry, page updates and commit are correct.
+- [x] The project instructions point to the skill.
