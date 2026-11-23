@@ -1,0 +1,218 @@
+---
+source_url: https://poweredoutdoors.com/common-snapper-lawn-mower-problems-solutions/
+title: 10 Common Snapper Lawn Mower Problems & Solutions
+domain: poweredoutdoors.com
+type: article
+published: '2021-11-29T19:30:07Z'
+modified: '2023-05-11T03:35:43Z'
+---
+
+# 10 Common Snapper Lawn Mower Problems & Solutions
+
+Source: https://poweredoutdoors.com/common-snapper-lawn-mower-problems-solutions/
+
+It’s bound to happen. When you own your Snapper lawn mower long enough you are going to run into problems that will need to be repaired.
+
+Some of these problems can be avoided by regularly maintaining your equipment changing out filters, greasing your fittings, lubricating your cables, and properly caring for your fuel. Other items will just wear with time and need to be replaced.
+
+I have put together a list of problems that are common to most Snapper mowers to assist you the next time you run into a problem with your Snapper. This is a great page to bookmark and keep on hand. Not only do I provide a list, but there are also links to give more detailed information.
+
+![](https://poweredoutdoors.com/wp-content/uploads/2021/11/Snapper-Mower-Problems-1024x341.jpg.webp)
+
+## Common Snapper Lawn Mower Problems & Solutions
+
+### Mower Won’t Start
+
+A mower may not start because your mower isn’t getting the air, fuel, or spark required for combustion. This can be due to a plugged air filter; clogging or failing parts in the fuel system; a dirty spark plug; or a faulty ignition coil.
+
+Check for fuel in the gas tank and make sure your battery isn’t dead. These can also contribute to your Snapper lawn mower’s starting problem.
+
+**Detailed information can be found at:**[**Snapper Lawn Mower Won’t Start: Solved!**](https://poweredoutdoors.com/snapper-lawn-mower-wont-start/)
+
+| **Cause** | **Reason for Problem** | **Solution** |
+| --- | --- | --- |
+| No gas in the fuel tank | Fuel tank is empty | Fill with fresh fuel |
+| Bad or old fuel | Fuel breaks down overtime making your fuel less efficient and prone to clogging the fuel system | Drain the fuel tank and fill it with fresh fuel. Use a fuel additive like Sea Foam to stabilize the fuel and assist with cleaning the fuel system. [Use the right fuel.](https://poweredoutdoors.com/gas-to-use-in-your-snapper-lawn-mower/) |
+| Faulty or clogged fuel cap | The vent in the cap can get clogged causing your tank to form a vacuum restricting fuel flow | Try to clean the cap and remove the clogged vent. Replace the cap if needed. |
+| Bad spark plug | Excessively dirty or broken spark plug; bad connection; not gapped correctly | Replace with a new spark plug, secure connections, and ensure it is gapped to manufacturer specifications |
+| Plugged air filter | Dirt and grass can plug the air filter preventing airflow | Remove the filter and [clean it](https://poweredoutdoors.com/guide-to-lawn-mower-air-filters-differences-how-to-clean-them/). Replace the filter if it is in bad condition. |
+| Plugged fuel filter | A dirty fuel filter will restrict fuel flow | Replace the fuel filter |
+| Bad fuel pump | A failed or leaking fuel pump will no longer create the pressure needed to pump fuel | Replace the fuel pump |
+| Blocked fuel lines | Bad fuel deposits and dirt can build up and clog the fuel lines preventing the engine from getting the required fuel | Use a carb cleaner and compressed air to clear the clog out of the fuel line. Replace the line if necessary. |
+| Dirty carburetor | The carburetor can become dirty and clogged due to bad fuel and ethanol deposits preventing fuel flow | Clean the components making up the carburetor. Replace if needed. |
+| Bad battery or loose & dirty terminals | A dead battery, loose cables, or corroded terminals can cause starting problems | [Charge your battery](https://poweredoutdoors.com/5-things-that-are-draining-the-life-of-your-lawn-mower-battery/) and replace it if it won’t hold a charge. Make sure your cables are tight and clean the corrosion from terminals. |
+| Bad safety switch | Safety switches are a safety measure that exists to prevent your mower from starting in certain situations. When a switch fails, your mower may not start. | Test and replace faulty safety switch |
+| Bad ignition switch or coil | Your mower will not start when either the ignition switch or coil is bad | Test and replace a bad switch |
+| Broken recoil | A pull start mower may have a damaged or broken recoil preventing the recoil to initiate starting your engine | Check the recoil to see if it can be restrung or broken parts, like the pulley, can be replaced. Replace the recoil assembly if needed. |
+
+Reasons Your Snapper Mower Won’t Start
+
+### Mower Loses Power and Dies
+
+A mower may die after running when the engine is overheated due to plugged cooling fins not being able to circulate air around the engine to keep it cool; a low engine oil level creating friction and heat in the engine, and a plugged mower deck creating extra draw on the engine.
+
+Your Snapper mower can also die after running for a while when a fuel or air restriction develops from running old fuel, that clogs the fuel system components or a plugged air filter.
+
+**Detailed information can be found at:**
+**[Snapper Lawn Mower Starts Then Dies](https://poweredoutdoors.com/snapper-lawn-mower-starts-then-dies/)**
+
+| **Cause** | **Reason for Problem** | **Solution** |
+| --- | --- | --- |
+| Bad fuel | Fuel breaks down overtime making your fuel less efficient and prone to clogging the fuel system and engine damage | Drain the fuel tank and fill it with fresh fuel. Use a fuel additive like [Sea Foam to stabilize the fuel](https://poweredoutdoors.com/sea-foam-fuel-additive-in-a-lawn-mower/) and assist with cleaning the fuel system |
+| Plugged air filter | Dirt and grass can plug the air filter preventing airflow | Remove the filter and clean it. Replace the filter if it is in bad condition. |
+| Dirty or broken cooling fins | Cooling fins get packed with dirt, oil, and grass not allowing air to effectively cool the engine block | Replace broken fins and clean the cooling fins. |
+| Clogged fuel lines | Bad fuel deposits and dirt can build up and clog the fuel lines preventing the engine from getting the required fuel. | Use a carb cleaner and compressed air to clear the clog out of the fuel line |
+| Dirty carburetor | The carburetor can become dirty and clogged due to bad fuel and ethanol deposits preventing fuel flow | Clean all the components making up the carburetor. Replace if needed. |
+
+Reasons Why Your Snapper Mower Dies While Mowing
+
+### Mower is Smoking
+
+Smoking in your Snapper lawn mower can be the result of oil burning off a hot component like the muffler or inside the engine cylinder. It can also be the result of burning more fuel than air when forming combustion in the engine.
+
+**Detailed information can be found at:**[**Why Your Snapper Lawn Mower is Smoking**](https://poweredoutdoors.com/snapper-lawn-mower-is-smoking/)
+
+| **Cause** | **Reason for Problem** | **Solution** |
+| --- | --- | --- |
+| Plugged air filter | Dirt and grass can plug the air filter preventing airflow | Remove the filter and clean it. Replace the filter if it is in bad condition. |
+| Too much oil in the crankcase | Excessive oil can cause pressure to build in the engine allowing oil to get into the cylinder through the valve train | [Drain a little engine oil](https://poweredoutdoors.com/this-is-what-happens-if-you-put-too-much-oil-in-a-lawn-mower/) until it is at the manufacturer’s recommended oil level. |
+| Engine oil level is too low | Lack of oil can increase friction in your engine causing extreme heat. | Bring to a small engine repair shop to inspect engine damage. You can try adding oil, but it is often too late to this fix your engine problem. |
+| Internal problems including the piston ring, valve train, or engine gasket | Internal engine problems can have a detrimental effect on your mower if they are not caught soon enough and fixed. | Bring your Snapper to your local small engine repair shop for troubleshooting |
+
+Reasons Why Your Snapper Mower is Smoking
+
+### Weak Hydrostatic Transmission
+
+A hydrostatic transmission on a Snapper mower can feel weak from the use of a bad hydraulic belt or pulley. It can also be the result of running old hydraulic oil or not having enough oil in the hydraulic tank.
+
+Note: Some transmissions are non-serviceable. This means you are unable to change the hydraulic oil because the system is sealed.
+
+Bring your mower to your local lawn mower repair shop or Snapper dealership when you have problems with a non-serviceable hydraulic system.
+
+| **Cause** | **Reason for Problem** | **Solution** |
+| --- | --- | --- |
+| Bad drive belt | A bad drive belt can cause your pump not to work efficiently | Replace a frayed, cracked or worn belt |
+| Bad tensioner pulley | When a tensioner pulley fails, it fails to keep tension on the drive belt | Replace the pulley and grease the tensioner arm |
+| Low or old hydraulic oil | Low or old hydraulic oil can fail to lubricate the hydraulic system causing your hydraulic system to seem weak | Change your hydraulic oil at regular intervals as recommended by Snapper. Check your hydraulic oil periodically to ensure your hydraulic fluid is full. |
+
+Reasons Why Your Snapper Mower’s Hydrostatic Transmission Seems Weak
+
+### Won’t Drive Straight or Steer Correctly
+
+Several items can affect your mower’s steering including incorrect tire pressures and worn steering components. If you have a Snapper zero-turn mower, the tracking may be off causing your mower to veer to one side.
+
+| **Cause** | **Reason for Problem** | **Solution** |
+| --- | --- | --- |
+| Incorrect tire pressure | Unequal tire pressure can cause your mower to pull to one side. | Check tire pressures and keep them filled to the manufacturer’s spec. Tires on each side of your mower require equal pressure. |
+| Bad dampers on zero turn | Bad dampers will cause your mower to jerk to one side when moving forward | Replace with a new damper |
+| Tracking adjustment needed on zero turn | When one tire is moving faster than the other, your mower can pull to one side | Adjust the speed adjustment bolt to change the rotation speed of the tire. Refer to your owner’s manual. |
+| Worn or loose steering components in riding mower | Worn bushings, washers, and gears can cause your mower to not steer one way or the other | Inspect and replace the parts that failed on your steering system |
+
+Reasons Why Your Mower Won’t Drive Straight or Steer Correctly
+
+### Won’t Move
+
+The items that can cause your mower to move slowly or seem weak can also be the reason your mower will not move.
+
+You may have a bad drive belt, a broken tensioner spring, or a tensioner pulley that is worn. A low hydraulic oil level will also cause your Snapper to not move.
+
+Again, some hydraulic systems are sealed so you won’t be able to work on them. Take your mower in for repair at your local Snapper mower dealership.
+
+You may also want to check your drive release levers. If they are not in the operating position, your mower will not move.
+
+**Detailed information can be found at:**[**9 Reasons Your Mower Won’t Move or Go Forward**](https://poweredoutdoors.com/mower-wont-move-or-go-forward/)
+
+| **Cause** | **Reason for Problem** | **Solution** |
+| --- | --- | --- |
+| Drive release lever in the wrong position | The drive release lever allows hydrostatic mowers to roll freely | The drive release lever must be in the operating position. |
+| Missing key in the axle | Your riding mower may have a small key in the axle that may have fallen out of place | Replace the key in the axle |
+| Drive pump belt is worn | The mower won’t move if your drive belt has fallen off. It could also not move if the belt is worn. | Replace a worn or cracked belt. Make sure the belt is securely around the pulleys. |
+| Bad tensioner pulley | The bearing in the tensioner pulley can fail | Replace the tensioner pulley |
+| Missing idler arm spring | If the idler arm spring breaks or goes missing, it can no longer place tension on the drive belt | Replace the broken or missing spring |
+| Low or old hydraulic oil | Low or old hydraulic oil can fail to lubricate the hydraulic system causing your hydraulic system to seem weak | Change your hydraulic oil at regular intervals as recommended by Snapper. Check your hydraulic oil periodically to ensure your hydraulic fluid is full. |
+| Hot hydraulic fluid | Hot hydraulic fluid can be a sign of damage to your hydrostatic transmission system | Let your hydraulic oil cool. If you find your mower runs fine when it is cold, but becomes weak when the hydraulic system gets hot, have your mower checked at your local Snapper dealership. |
+| Air in the hydraulic system | Air must be bled from the hydraulic system after changing your hydraulic fluid or the mower will not be able to move at normal speeds | Follow Snapper’s procedures for changing the hydraulic fluid and bleeding air from the system in your owner’s manual. |
+
+Reasons Why Your Snapper Will Not Move or Go Forward
+
+### Mower is Vibrating
+
+Your Snapper mower naturally vibrates when operating normally. This vibration can intensify when there are loose or broken parts on your mower or your mower has worn linkages, a bad clutch, or debris stuck in your mower.
+
+Even the smallest little item can cause a significant vibration so inspect your mower closely.
+
+Bad deck components can also cause your Snapper mower to shake. This can from unbalanced mower blades; worn bearings in the spindle housings and pulleys; a worn belt; or bent brackets.
+
+**Detailed information can be found at:
+[Your Snapper Lawn Mower is Vibrating](https://poweredoutdoors.com/snapper-lawn-mower-is-vibrating/)**
+
+| **Cause** | **Reason for Problem** | **Solution** |
+| --- | --- | --- |
+| Loose or missing engine mounting bolts | Engine bolts are used to reduce the vibration of the mower when the engine is running | Secure engine bolts and replace any missing bolts |
+| Clutch is bad | When there is bearing failure and it falls out of the clutch it can cause vibration. A manual engagement clutch can have a bushing and linkages that can fail. | Replace the clutch |
+| Unbalanced or damaged mower blades | Damaged and unbalanced blades can send a vibration through your mower. Blades must be balanced before installing | Replace any damaged blades and make sure they are balanced. |
+| Material wrapped around the blade spindle | Foreign materials like string or long weeds can get wrapped around your blade shaft causing vibration | Remove all debris and items wrapped around the blade shaft. Check for spindle damage. |
+| Bad spindle housing bearings | Vibration can be caused by a bad bearing in the spindle housing. | Replace the bearing in the spindle housing or replace the whole spindle housing assembly |
+| Worn pulleys or deck belt | Check deck belt and pulleys for wearing of the belt and bearing failure in the pulleys | Replace any damaged or worn belts and pulleys |
+| Debris lodged in mower | The smallest little things can cause your Snapper to excessively vibrate. Check over your mower for debris stuck in the deck or mower. Don’t overlook the small stuff. | Check over your mower deck and mower for any place small items can be stuck in your mower. Remove these foreign materials. |
+
+Reasons Your Snapper Mower is Vibrating
+
+### Bad or Uneven Cut
+
+An uneven cut with your Snapper mower isn’t always a problem in the mower deck. It can be something as simple as a low tire that can make you’re your mower not sit level. Always check the tire pressure first and then move on to looking at your mower deck.
+
+**Detailed information can be found at:**[**12 Reasons Your Snapper Mower Cuts Uneven**](https://poweredoutdoors.com/snapper-lawn-mower-cuts-uneven/)
+
+|  |  |  |
+| --- | --- | --- |
+| Worn mower blade | Uneven tire pressures | Engine speed is too low |
+| Bent mower blade | Unleveled mower deck | Ground speed is too fast |
+| Blade installed wrong | Bent blade spindle or spindle bearing | Damaged deck shell |
+| Clogged Mower Deck | Worn deck pulleys or belt | Operator error |
+
+Reasons Your Snapper Mower is Cutting Uneven
+
+### Snapper Lawn Mower is Leaking Gas
+
+Your garage or storage shed may be filled with a strong gas odor from your Snapper mower leaking gas. Unless you can see a wet spot on your mower, it may be hard to locate the area of your leak. Fuel will evaporate over time and may not leave you with a handy clue like a wet area.
+
+Not only do you need to fix your fuel leak so you don’t waste expensive fuel, but the gas that continues to leak on your lawn can also kill the grass. It is also not good to have a leaking lawn mower stored in an area that isn’t ventilated.
+
+**Detailed information can be found at:**
+[Your Snapper Mower is Leaking Gas](https://poweredoutdoors.com/snapper-mower-is-leaking-gas/)
+
+| **Cause** | **Reason for Problem** | **Solution** |
+| --- | --- | --- |
+| Dirty of Failed Carburetor | The carburetor can collect a buildup of substances remaining from old gas that can cause blockages or parts failures | Clean the carburetor and replace any damaged parts |
+| Old Fuel Filter | Filter can become plugged | Replace fuel filter |
+| Bad Fuel Pump | Pump can wear and deteriorate over time and may begin leaking at the seams | Replace the fuel pump |
+| Bad Fuel Tank | A metal tank can develop a rust hole. A poly tank can leak at the seams of the tank. | Replace the fuel tank. Sometimes, a rust hole can be repaired if you can no longer find a replacement tank. |
+| Bad Fuel Shut-Off Valve | Metal and plastic shut-off valves are prone to leaking | Replace the shut-off valve |
+| Cracked Fuel Lines | Rubber fuel lines become dry and cracked causing gas to leak | Replace the fuel lines |
+| Cracked Primer Bulb | The rubber of the primer bulb can begin leaking when it cracks or isn’t attached well to the fuel hose. | Replace the primer bulb |
+| Bad Seal in the Gas Cap | The gas cap seal can fail and no longer seal allowing gas to splash out of the fuel tank around the gas cap | Replace the gas cap |
+
+Places Your Snapper Mower May Be Leaking Gas
+
+### Blades Won’t Engage
+
+The mower blades on a Snapper mower may fail to engage when the deck belt is worn or has fallen off; the PTO switch is bad, or the clutch failed.
+
+The linkages or cable on a manual engagement clutch may be worn or the battery may fail to power an electric clutch solenoid.
+
+**Detailed information can be found at:
+[Snapper Mower Blades Won’t Engage or Turn On](https://poweredoutdoors.com/snapper-blades-wont-engage/)**
+
+| Cause | Reason for Problem | Solution |
+| --- | --- | --- |
+| Worn Deck Belt | A worn belt is unable to grip the pulleys to turn the blades. | Replace a belt that is worn, cracked, or shiny in appearance. |
+| Belt Coming Off of the Pulleys | A worn idler arm and spring may fail to keep tension on the belt. The belt may be stretched and loose. The pulleys may not sit parallel to the deck causing the belt to come off. | Replace worn or damaged deck parts. Replace a deck belt that is stretched. Ensure the belt is routed correctly around the pulleys. |
+| Bad PTO Switch | When the PTO switch fails to allow the battery to energize the clutch the blades won’t turn on. | Replace a bad PTO switch |
+| Bad Clutch | The clutch is unable to transfer power from the engine to the blades when it is faulty or worn. | Replace a bad clutch. |
+| Worn Clutch Cable, Lever, Spring & Linkages | A manual engagement clutch may not work when the clutch cable, lever, spring, or linkages are worn. | Replace worn parts. |
+| Weak Battery | A weak battery is unable to power the clutch. | Test the battery and place it on a charger if the 12-volt battery has a reading of less than 12.7 volts. |
+| Bad Safety Switch | When the seat switch doesn’t sense the operator, it won’t allow the blades to be engaged. | Replace a bad battery. |
+| Blown Fuse | The fuse can blow to protect the electrical system. The mower components will not receive the required battery power. | Replace a blown fuse with the same amperage fuse. Have a mechanic find the root cause if the mower continues to blow a fuse. |
+
+Snapper blades won’t turn on or engage

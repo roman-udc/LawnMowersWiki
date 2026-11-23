@@ -1,0 +1,13 @@
+{
+  "userIgnoreFilters": [
+    "raw/",
+    "templates/",
+    "docs/",
+    ".scratch/",
+    "tools/",
+    "tests/",
+    "CLAUDE.md",
+    "GLOSSARY.md",
+    "llm-wiki.md"
+  ]
+}
