@@ -62,3 +62,7 @@ Note: problems/engine-cranks-but-wont-start.md's Diagnostic questions now link t
 - raw/Articles/poweredoutdoors.com/5-places-to-take-your-lawn-mower-for-repairs.md → skipped: repair-shop listing
 
 Note: the "⚠ Conflicting advice" callout on causes/plugged-fuel-cap-vent.md (clean the cap first vs replace it) now cites three Sources for cleaning first. These Sources describe a running engine that is starved of fuel or only runs with the choke on. No Problem page covers that symptom yet, so they update Cause pages only and aren't cited on problems/engine-cranks-but-wont-start.md. A "bad carburetor gasket" Cause (cub-cadet-mower-runs-with-choke-on.md) is noted on causes/dirty-carburetor.md until a "runs only with the choke on" Problem exists to hang it on.
+
+## 2026-11-23 | lint | whole wiki
+
+Report: reports/lint/2026-11-23.md. Structural: 602 violations (602 unlogged, 0 other), 0 orphans. Content: 9 missing pages (3 Problems, 1 Cause, 5 Procedures), 5 unflagged conflicts, 2 superseded claims, 1 overlap suspicion, 0 thin pages (4 near-thin).
