@@ -90,8 +90,8 @@ Ranked by how many of the 7 Sources name the Cause for this Problem. On ties, a 
 | [Dirty carburetor](../causes/dirty-carburetor.md) | 7 of 7 | Good fuel flow to the carburetor, but the engine fires only with starter fluid | moderate |
 | [Wrong choke setting](../causes/wrong-choke-setting.md) | 6 of 7 | Choke closed on a warm engine or open on a cold one, sticky choke cable | easy |
 | [Plugged fuel cap vent](../causes/plugged-fuel-cap-vent.md) | 6 of 7 | Starts with the cap loosened | easy |
-| [Low compression](../causes/low-compression.md) | 3 of 7 | Fuel and spark are fine, compression gauge reads under about 40 psi | pro |
-| [Bad ignition coil](../causes/bad-ignition-coil.md) | 1 of 7 | No spark on a tester with a good plug, damaged spark plug wire | moderate |
+| [Low compression](../causes/low-compression.md) | 2 of 7 | Fuel and spark are fine, compression gauge reads under about 40 psi | pro |
+| [Bad ignition coil](../causes/bad-ignition-coil.md) | 2 of 7 | No spark on a tester with a good plug, damaged spark plug wire | moderate |
 | [Sheared flywheel key](../causes/sheared-flywheel-key.md) | 1 of 7 | Engine stopped suddenly after the blade hit something, spark is present but mistimed | moderate |
 | [Disconnected fuel solenoid](../causes/disconnected-fuel-solenoid.md) | 1 of 7 | Riding mower, wire harness off the carburetor's fuel solenoid valve | easy |
 
@@ -142,7 +142,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-w
 - The engine has an automatic compression release, which makes a plain compression test unreliable. A leak-down test is the better check.
 - Air, fuel and spark all check out and the engine still won't fire.
 
-Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md)
+Sources: [S2](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md)
 
 ## Related problems
 
