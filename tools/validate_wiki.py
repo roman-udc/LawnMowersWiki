@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Deterministic structural validator for the lawn mower wiki.
 
-Usage: python tools/validate_wiki.py <wiki_root> <raw_root>
+Usage: python tools/validate_wiki.py [--allow-unlogged] <wiki_root> <raw_root>
 
 Prints one line per violation as `<page>: [<rule>] <message>` and exits 1 when
 any are found, 0 when the wiki is clean. Only dependency: PyYAML.
@@ -18,6 +18,9 @@ Rules (see .scratch/wiki-bootstrap/spec.md, "Validator"):
   backlink      - Problem <-> Cause and Cause <-> Procedure links go both ways
   no-causes     - every Problem lists at least one Cause
   no-problems   - every Cause lists at least one Problem
+  unlogged      - every file under the raw root has a log.md entry line
+                  `- raw/<path> → <outcome>` (any outcome). --allow-unlogged turns this
+                  rule off; use it only while the bootstrap ingest is unfinished.
 """
 import re
 import sys
@@ -256,7 +259,17 @@ def check_graph(wiki, pages):
     return out
 
 
-def validate(wiki, raw):
+def check_log(wiki, raw):
+    """Every Source under the raw root must be named in the log."""
+    log = wiki / "log.md"
+    sources = sorted("raw/" + p.relative_to(raw).as_posix() for p in raw.rglob("*") if p.is_file())
+    if not log.exists():
+        return [("log.md", "unlogged", "log.md is missing, so no Source is logged")] if sources else []
+    logged = set(re.findall(r"^- (raw/\S+) →", log.read_text(encoding="utf-8"), re.MULTILINE))
+    return [(s, "unlogged", "Source has no log entry") for s in sources if s not in logged]
+
+
+def validate(wiki, raw, allow_unlogged=False):
     pages = sorted(p for d in PAGE_DIRS for p in (wiki / d).rglob("*.md"))
     violations = []
     for page in pages:
@@ -264,20 +277,25 @@ def validate(wiki, raw):
         violations += [(rel, rule, msg) for rule, msg in check_page(page, wiki)]
     violations += check_graph(wiki, pages)
     violations += check_index(wiki, pages)
+    if not allow_unlogged:
+        violations += check_log(wiki, raw)
     return violations
 
 
 def main(argv):
-    if len(argv) != 3:
-        print("usage: validate_wiki.py <wiki_root> <raw_root>", file=sys.stderr)
+    args = argv[1:]
+    allow_unlogged = "--allow-unlogged" in args
+    args = [a for a in args if a != "--allow-unlogged"]
+    if len(args) != 2:
+        print("usage: validate_wiki.py [--allow-unlogged] <wiki_root> <raw_root>", file=sys.stderr)
         return 2
-    wiki, raw = Path(argv[1]), Path(argv[2])
+    wiki, raw = Path(args[0]), Path(args[1])
     for root in (wiki, raw):
         if not root.is_dir():
             print(f"not a directory: {root}", file=sys.stderr)
             return 2
     sys.stdout.reconfigure(encoding="utf-8")
-    violations = validate(wiki, raw)
+    violations = validate(wiki, raw, allow_unlogged)
     for rel, rule, msg in violations:
         print(f"{rel}: [{rule}] {msg}")
     return 1 if violations else 0

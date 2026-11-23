@@ -29,9 +29,9 @@ class ValidatorTest(unittest.TestCase):
     def tearDown(self):
         self._tmp.cleanup()
 
-    def run_validator(self):
+    def run_validator(self, *flags):
         proc = subprocess.run(
-            [sys.executable, str(VALIDATOR), str(self.root / "wiki"), str(self.root / "raw")],
+            [sys.executable, str(VALIDATOR), *flags, str(self.root / "wiki"), str(self.root / "raw")],
             capture_output=True, text=True, encoding="utf-8",
         )
         return proc.returncode, proc.stdout
@@ -270,6 +270,55 @@ class ValidatorTest(unittest.TestCase):
         ], "Causes")
         out = self.assert_only_rule("no-problems")
         self.assertIn("bad-coil.md", out)
+
+    # --- log coverage ---------------------------------------------------
+    def add_source(self, rel="raw/Articles/example.com/new-tip.md"):
+        path = self.root / rel
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text("---\ntitle: New tip\n---\nBody\n", encoding="utf-8")
+        return rel
+
+    def test_source_missing_from_log(self):
+        self.add_source()
+        out = self.assert_only_rule("unlogged")
+        self.assertIn("raw/Articles/example.com/new-tip.md", out)
+
+    def test_non_conforming_source_outside_convention_is_still_checked(self):
+        self.add_source("raw/stray-note.txt")
+        out = self.assert_only_rule("unlogged")
+        self.assertIn("raw/stray-note.txt", out)
+
+    def test_skipped_source_counts_as_logged(self):
+        rel = self.add_source()
+        self.edit("wiki/log.md", "→ ingested → problems/engine-wont-start.md\n",
+                  f"→ ingested → problems/engine-wont-start.md\n- {rel} → skipped: buying guide\n")
+        code, out = self.run_validator()
+        self.assertEqual((code, out.strip()), (0, ""))
+
+    def test_source_named_only_in_a_note_is_unlogged(self):
+        rel = self.add_source()
+        with (self.root / "wiki" / "log.md").open("a", encoding="utf-8") as log:
+            log.write(f"\nNote: {rel} still to do.\n")
+        out = self.assert_only_rule("unlogged")
+        self.assertIn(rel, out)
+
+    def test_allow_unlogged_flag_suppresses_the_rule(self):
+        self.add_source()
+        code, out = self.run_validator("--allow-unlogged")
+        self.assertEqual((code, out.strip()), (0, ""))
+
+    def test_allow_unlogged_flag_keeps_other_rules(self):
+        self.add_source()
+        self.edit(PAGE, "source_count: 2", "source_count: 9")
+        code, out = self.run_validator("--allow-unlogged")
+        self.assertNotEqual(code, 0)
+        self.assertIn("[source-count]", out)
+        self.assertNotIn("[unlogged]", out)
+
+    def test_missing_log_is_reported(self):
+        (self.root / "wiki" / "log.md").unlink()
+        out = self.assert_only_rule("unlogged")
+        self.assertIn("log.md is missing", out)
 
 
 if __name__ == "__main__":
