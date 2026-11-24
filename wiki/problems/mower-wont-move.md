@@ -28,6 +28,7 @@ causes:
   - ../causes/brake-hung-up.md
   - ../causes/bad-safety-switch.md
   - ../causes/dirty-carburetor.md
+  - ../causes/bad-belt-tensioner-spring.md
 part_types:
   - drive belt
   - tensioner pulley
@@ -91,7 +92,7 @@ Ranked by the number of Sources (of 43) that name the Cause for this Problem. Ti
 | [Worn pulley or idler bearing](../causes/worn-pulley-or-idler-bearing.md) | 36 of 43 | Drive tensioner pulley bearing failed; belt slack or thrown | moderate |
 | [Air in hydraulic system](../causes/air-in-hydraulic-system.md) | 35 of 43 | Won't reach normal speed after an oil change or rough-ground driving | easy |
 | [Missing axle key](../causes/missing-axle-key.md) | 12 of 43 | Lawn tractor, right after a rear tire change; wheel doesn't turn with the axle | easy |
-| Bad belt tensioner spring | 8 of 43 | Tensioner spring worn or broken | not yet rated |
+| [Bad belt tensioner spring](../causes/bad-belt-tensioner-spring.md) | 8 of 43 | Tensioner spring worn or broken | easy |
 | [Bad hydrostatic transmission](../causes/bad-hydrostatic-transmission.md) | 4 of 43 | Pump leaks; weak when hot; one side slower | pro |
 | [Brake hung up](../causes/brake-hung-up.md) | 2 of 43 | Parking brake left on | easy if left on; moderate to repair |
 | [Bad safety switch](../causes/bad-safety-switch.md) | 1 of 43 | Engine dies when you release the brake (seat switch unplugged or broken) | easy to moderate |

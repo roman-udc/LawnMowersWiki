@@ -58,7 +58,7 @@ Sources: [S2](../../raw/Articles/poweredoutdoors.com/replace-exmark-mower-deck-p
 4. Scrape the deck and clean all debris from where the pulley bolt goes through, so the bolt sits square.
 5. From under the deck, slide the carriage bolt through the hole. On top, slide the spacer over the bolt, set the pulley on the spacer, and loosely tighten the nut with a 3/8 wrench to hold everything in place.
 6. Make sure the square part near the head of the carriage bolt fits the square hole in the deck. Hold the bolt tight against the deck from underneath and tighten the lock nut from the top with a socket. Torque it to the spec in your owner's manual. The flange of the lock nut contacts the bearing so the pulley spins properly.
-7. Put the deck belt back on (see replace the deck belt).
+7. Put the deck belt back on (see [Replace the deck belt](replace-the-deck-belt.md)).
 
 Sources: [S2](../../raw/Articles/poweredoutdoors.com/replace-exmark-mower-deck-parts.md)
 

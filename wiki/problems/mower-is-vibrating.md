@@ -38,6 +38,7 @@ causes:
   - ../causes/missing-idler-arm-spring.md
   - ../causes/bad-clutch-cable-or-linkage.md
   - ../causes/bad-drive-control-linkage-or-damper.md
+  - ../causes/bad-belt-tensioner-spring.md
 part_types:
   - mower blade
   - engine mounting bolts
@@ -101,7 +102,7 @@ Ranked by how many of the 64 Sources name the Cause for this Problem. Tie-break:
 | [Engine mount loose](../causes/engine-mount-loose.md) | 52 of 64 | Engine mounting bolts loose, worn or missing; vibration even with blades off | easy |
 | [Worn or stretched belt](../causes/worn-or-stretched-belt.md) | 48 of 64 | Deck belt worn, cracked or loose | moderate |
 | [Bad PTO clutch](../causes/bad-pto-clutch.md) | 45 of 64 | Vibration from a failing clutch ball bearing; worn bushings or linkage on a manual clutch | moderate |
-| Bad belt tensioner spring | 16 of 64 | Worn idler bracket or spring | not yet rated |
+| [Bad belt tensioner spring](../causes/bad-belt-tensioner-spring.md) | 16 of 64 | Worn idler bracket or spring | easy |
 | [Bad blade adapter or loose blade](../causes/bad-blade-adapter-or-loose-blade.md) | 11 of 64 | Wrong-size or wrongly installed blade; broken blade adapter on a push mower | moderate |
 | [Bad clutch cable or linkage](../causes/bad-clutch-cable-or-linkage.md) | 5 of 64 | Push mower blade engagement lever loose or worn; worn clutch cable or lever | not rated by Sources |
 | [Bent crankshaft](../causes/bent-crankshaft.md) | 5 of 64 | Push mower after a blade strike; blade and deck parts check out | pro |
@@ -154,7 +155,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/ariens-mower-is-vibrating.m
 
 ## Related problems
 
-Not this problem? If the deck vibration also leaves a bad or stair-step cut, see [Mower cuts uneven](uneven-cut.md). Belt keeps coming off has no page yet.
+Not this problem? If the deck vibration also leaves a bad or stair-step cut, see [Mower cuts uneven](uneven-cut.md). If the deck belt keeps slipping off, see [Belt keeps coming off](belt-keeps-coming-off.md).
 
 Sources: [S26](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md), [S53](../../raw/Articles/poweredoutdoors.com/troubleshoot-cub-cadet-mower-deck-problems.md)
 
