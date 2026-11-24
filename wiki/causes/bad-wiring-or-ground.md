@@ -5,6 +5,7 @@ problems:
   - ../problems/engine-wont-crank.md
   - ../problems/engine-starts-then-dies.md
   - ../problems/battery-keeps-dying.md
+  - ../problems/battery-mower-wont-start.md
 part_types:
   - ground cable
   - starter cable
@@ -37,7 +38,7 @@ Sources: [S4](../../raw/Articles/poweredoutdoors.com/battery-lawn-mower-wont-sta
 ## Symptoms it produces
 
 - [Engine won't crank](../problems/engine-wont-crank.md): the mower clicks but won't turn over, or nothing happens when you turn the key, because the solenoid or starter isn't getting power.
-- Battery mower won't start, or starts then stops while mowing: a loose or pinched wire is shorting.
+- [Battery mower won't start](../problems/battery-mower-wont-start.md), or starts then stops while mowing: a loose or pinched wire is shorting.
 - Fuse keeps blowing: a broken wire or damaged harness is shorting to the frame.
 - Engine dies when you release the brake: if the brake switch passes its checks, a short in the wire harness can be shutting the engine off.
 
@@ -50,6 +51,8 @@ Sources for Engine starts then dies: [S12](../../raw/Articles/poweredoutdoors.co
 - [Battery keeps dying](../problems/battery-keeps-dying.md): dirty or loose wiring connections let the battery go flat; check them when the battery and charging system test good.
 
 Sources for Battery keeps dying: [S39](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-starts-then-dies.md)
+
+Sources for Battery mower won't start: [S4](../../raw/Articles/poweredoutdoors.com/battery-lawn-mower-wont-start.md), [S11](../../raw/Articles/poweredoutdoors.com/dewalt-electric-mower-wont-start.md), [S13](../../raw/Articles/poweredoutdoors.com/electric-lawn-mower-wont-start.md), [S14](../../raw/Articles/poweredoutdoors.com/electric-lawn-mowers-dangers-and-safety-guide.md), [S16](../../raw/Articles/poweredoutdoors.com/greenworks-lawn-mower-wont-start.md), [S21](../../raw/Articles/poweredoutdoors.com/kobalt-electric-mower-wont-start.md), [S24](../../raw/Articles/poweredoutdoors.com/reasons-why-your-ego-electric-lawn-mower-wont-start.md), [S27](../../raw/Articles/poweredoutdoors.com/ryobi-electric-battery-mower-wont-start.md), [S28](../../raw/Articles/poweredoutdoors.com/skil-electric-mower-wont-start-12-starting-problems.md), [S29](../../raw/Articles/poweredoutdoors.com/sun-joe-electric-mower-wont-start.md), [S30](../../raw/Articles/poweredoutdoors.com/toro-electric-mower-wont-start.md), [S32](../../raw/Articles/poweredoutdoors.com/worx-electric-mower-wont-start.md)
 
 ## How to confirm
 

@@ -28,6 +28,7 @@ causes:
   - ../causes/bad-head-gasket.md
   - ../causes/old-fuel.md
   - ../causes/worn-or-stretched-belt.md
+  - ../causes/clogged-motor-vents.md
 part_types:
   - engine oil
   - air filter
@@ -92,7 +93,7 @@ Ranked by how many of the 37 Sources name the Cause for this Problem. Tie-break:
 | [Old fuel](../causes/old-fuel.md) | 1 of 37 | Stale gas burns lean and hotter | easy |
 | [Worn or stretched belt](../causes/worn-or-stretched-belt.md) | 1 of 37 | Slipping or misaligned belt adds friction or blocks airflow; cracked, frayed or glazed | moderate |
 | Clogged blower tubes or inlet | 1 of 37 | Bagger tubes plugged | not yet rated |
-| Clogged motor vents | 1 of 37 | Electric mower: grass and debris in the motor's air vents | not yet rated |
+| [Clogged motor vents](../causes/clogged-motor-vents.md) | 1 of 37 | Electric mower: grass and debris in the motor's air vents | easy |
 
 > Six brand troubleshooting tables (Ferris, Cub Cadet zero-turn, Hustler, John Deere zero-turn, Kubota zero-turn, Husqvarna zero-turn) have scrambled "low engine oil" and "plugged cooling fins" rows. Those Sources are counted for naming the Causes, but their row text is not cited.
 

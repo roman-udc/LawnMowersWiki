@@ -4,6 +4,7 @@ title: Wet electrical components
 problems:
   - ../problems/engine-cranks-but-wont-start.md
   - ../problems/engine-wont-crank.md
+  - ../problems/battery-mower-wont-start.md
 part_types:
   - ignition switch
   - safety switch
@@ -11,7 +12,7 @@ part_types:
   - wiring
 procedures: []
 source_count: 11
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Wet electrical components
@@ -33,11 +34,13 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/can-you-use-your-electric-l
 ## Symptoms it produces
 
 - [Engine cranks but won't start](../problems/engine-cranks-but-wont-start.md): after rain or storage, water in the ignition switch, safety switches or spark plug boot gives bad connections, so the mower won't start.
-- Battery mower won't start: after rain exposure an electric mower won't turn on, or runs with less power. It may smoke if water has shorted it.
+- [Battery mower won't start](../problems/battery-mower-wont-start.md): after rain exposure an electric mower won't turn on, or runs with less power. It may smoke if water has shorted it.
 - Mower won't start after winter: moisture during storage corrodes switches and wiring, and rodents may have chewed the wires.
 - [Engine won't crank](../problems/engine-wont-crank.md): after the mower sat in the rain, water in the electrical system can keep it from cranking; check this when the starter solenoid tests good.
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/can-you-use-your-electric-lawn-mower-in-the-rain.md), [S5](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-after-winter.md), [S6](../../raw/Articles/poweredoutdoors.com/reasons-why-your-ego-electric-lawn-mower-wont-start.md), [S7](../../raw/Articles/poweredoutdoors.com/riding-mower-wont-start-after-winter.md), [S9](../../raw/Articles/poweredoutdoors.com/why-your-mower-wont-start-after-leaving-in-the-rain.md); engine won't crank [S10](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-starter-solenoid-bad.md), [S11](../../raw/Articles/poweredoutdoors.com/scag-bad-solenoid.md)
+
+Sources for Battery mower won't start: [S6](../../raw/Articles/poweredoutdoors.com/reasons-why-your-ego-electric-lawn-mower-wont-start.md)
 
 ## How to confirm
 

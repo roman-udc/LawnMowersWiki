@@ -91,8 +91,9 @@ Sources: [S11](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-starts-
 - Keep the cables clean and tight and the battery held down.
 - Don't let the battery freeze: keep it fully charged in cold weather, since a battery that isn't fully charged can freeze and be damaged.
 - Charge the battery fully before winter storage; it can lose charge in the off-season and may need charging again before the first spring start.
+- How long a charge lasts: one Source claims a fully charged lawn mower battery typically lasts about one hour, and that a full (especially trickle) charge reduces how often it needs charging. That is this Source's claim; no other Source gives a run time.
 
-Sources: [S4](../../raw/Articles/poweredoutdoors.com/bad-boy-battery-keeps-dying.md), [S2](../../raw/Articles/poweredoutdoors.com/john-deere-mower-battery-keeps-dying.md), [S5](../../raw/Articles/searspartsdirect.com/dead-battery.ltrtr141.md)
+Sources: [S16](../../raw/Articles/poweredoutdoors.com/lawn-mower-battery-charging-times-explained.md), [S4](../../raw/Articles/poweredoutdoors.com/bad-boy-battery-keeps-dying.md), [S2](../../raw/Articles/poweredoutdoors.com/john-deere-mower-battery-keeps-dying.md), [S5](../../raw/Articles/searspartsdirect.com/dead-battery.ltrtr141.md)
 
 ## Parts commonly needed
 
@@ -120,7 +121,7 @@ Sources: [S11](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-starts-
 
 - Battery too weak to crank the engine, or the mower just clicks? See [Engine won't crank](engine-wont-crank.md).
 - Mower dies while mowing because the battery isn't charging? See [Engine starts then dies](engine-starts-then-dies.md).
-- Battery-powered (cordless) mower won't start or run? Battery mower won't start has no page yet.
+- Battery-powered (cordless) mower won't start or run? See [Battery mower won't start](battery-mower-wont-start.md).
 
 Sources: [S3](../../raw/Articles/poweredoutdoors.com/troy-bilt-battery-keeps-dying.md), [S6](../../raw/Articles/searspartsdirect.com/lawn-tractor-won-t-start.ridtr04.md), [S14](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-dies-while-mowing.md), [S8](../../raw/Articles/poweredoutdoors.com/spartan-starts-then-dies.md)
 

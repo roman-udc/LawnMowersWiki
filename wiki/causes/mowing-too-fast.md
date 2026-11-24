@@ -7,10 +7,11 @@ problems:
   - ../problems/engine-loses-power.md
   - ../problems/engine-runs-rough.md
   - ../problems/engine-overheats.md
+  - ../problems/battery-mower-wont-start.md
 part_types:
   - none (operator technique)
 procedures: []
-source_count: 75
+source_count: 76
 updated: 2026-11-24
 ---
 
@@ -46,6 +47,10 @@ Sources for Engine loses power: [S3](../../raw/Articles/poweredoutdoors.com/bad-
 Sources for Engine runs rough: [S6](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S7](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S10](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-running-rough-sputtering.md), [S14](../../raw/Articles/poweredoutdoors.com/ferris-runs-rough.md), [S24](../../raw/Articles/poweredoutdoors.com/hustler-mower-runs-rough.md), [S26](../../raw/Articles/poweredoutdoors.com/john-deere-mower-running-rough.md), [S30](../../raw/Articles/poweredoutdoors.com/kubota-mower-rough-sputtering.md), [S32](../../raw/Articles/poweredoutdoors.com/lawn-mower-is-running-rough.md), [S34](../../raw/Articles/poweredoutdoors.com/lawn-mower-sputtering-solved.md), [S41](../../raw/Articles/poweredoutdoors.com/push-mower-runs-rough-sputters.md), [S67](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S68](../../raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md), [S69](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md), [S70](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md), [S71](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md), [S72](../../raw/Articles/poweredoutdoors.com/hustler-mower-problems.md), [S73](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md), [S74](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md), [S75](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md)
 
 Sources for Engine overheats: [S6](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S12](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-engine-overheats.md), [S20](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-engine-overheats.md), [S23](../../raw/Articles/poweredoutdoors.com/hustler-mower-overheating.md), [S38](../../raw/Articles/poweredoutdoors.com/push-mower-engine-overheats.md), [S66](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md), [S69](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md), [S70](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md), [S71](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md), [S72](../../raw/Articles/poweredoutdoors.com/hustler-mower-problems.md), [S73](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md), [S74](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md), [S75](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md)
+
+- [Battery mower won't start](../problems/battery-mower-wont-start.md): an overloaded battery mower stops and won't restart.
+
+Sources for Battery mower won't start: [S76](../../raw/Articles/poweredoutdoors.com/toro-electric-mower-wont-start.md)
 
 ## How to confirm
 
@@ -164,3 +169,4 @@ Sources: [S24](../../raw/Articles/poweredoutdoors.com/hustler-mower-runs-rough.m
 - [S73](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md) — (Troubleshoot) 13 Common John Deere Zero Turn Problems (expert-blog)
 - [S74](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md) — 13 Kubota Zero Turn Problems (Troubleshoot) (expert-blog)
 - [S75](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md) — Troubleshoot 14 Simplicity Mower Problems: SOLVED (expert-blog)
+- [S76](../../raw/Articles/poweredoutdoors.com/toro-electric-mower-wont-start.md) — 10 Reasons a Toro Electric Battery Mower Won't Start: SOLVED! (expert-blog)

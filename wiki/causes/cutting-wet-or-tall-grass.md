@@ -5,10 +5,11 @@ problems:
   - ../problems/engine-loses-power.md
   - ../problems/engine-starts-then-dies.md
   - ../problems/engine-overheats.md
+  - ../problems/battery-mower-wont-start.md
 part_types:
   - none (operator technique)
 procedures: []
-source_count: 41
+source_count: 42
 updated: 2026-11-24
 ---
 
@@ -45,6 +46,10 @@ Sources for Engine starts then dies: [S11](../../raw/Articles/poweredoutdoors.co
 Sources for the other signs: [S2](../../raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-lawn-mower-to-overheat.md), [S7](../../raw/Articles/poweredoutdoors.com/craftsman-mower-overheating.md), [S9](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-engine-overheats.md), [S14](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-engine-overheats.md), [S16](../../raw/Articles/poweredoutdoors.com/hustler-mower-overheating.md), [S18](../../raw/Articles/poweredoutdoors.com/john-deere-mower-engine-overheats.md), [S24](../../raw/Articles/poweredoutdoors.com/push-mower-engine-overheats.md), [S32](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md), [S1](../../raw/Articles/poweredoutdoors.com/15-reasons-why-your-lawn-mower-is-not-picking-up-grass.md), [S21](../../raw/Articles/poweredoutdoors.com/mower-is-not-bagging-grass-solved.md), [S23](../../raw/Articles/poweredoutdoors.com/pick-up-leaves-with-a-mower.md), [S12](../../raw/Articles/poweredoutdoors.com/greenworks-lawn-mower-is-cutting-uneven.md), [S5](../../raw/Articles/poweredoutdoors.com/can-you-use-your-electric-lawn-mower-in-the-rain.md)
 
 Sources for Engine overheats: [S2](../../raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-lawn-mower-to-overheat.md), [S7](../../raw/Articles/poweredoutdoors.com/craftsman-mower-overheating.md), [S9](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-engine-overheats.md), [S14](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-engine-overheats.md), [S16](../../raw/Articles/poweredoutdoors.com/hustler-mower-overheating.md), [S18](../../raw/Articles/poweredoutdoors.com/john-deere-mower-engine-overheats.md), [S19](../../raw/Articles/poweredoutdoors.com/kubota-mower-engine-overheats.md), [S24](../../raw/Articles/poweredoutdoors.com/push-mower-engine-overheats.md), [S33](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S34](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S35](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S36](../../raw/Articles/poweredoutdoors.com/common-john-deere-lawn-mower-problems.md), [S37](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md), [S38](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md), [S39](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md), [S40](../../raw/Articles/poweredoutdoors.com/lawn-mower-engine-cooling-times-explained.md), [S41](../../raw/Articles/poweredoutdoors.com/mower-stopped-running.md), [S42](../../raw/Articles/poweredoutdoors.com/solved-toro-lawn-mower-quits-when-hot.md)
+
+- [Battery mower won't start](../problems/battery-mower-wont-start.md): on a battery mower, thick, tall or wet grass overloads the motor; it stops and won't restart. Raise the cutting height and slow down.
+
+Sources for Battery mower won't start: [S10](../../raw/Articles/poweredoutdoors.com/dewalt-electric-mower-wont-start.md), [S27](../../raw/Articles/poweredoutdoors.com/skil-electric-mower-wont-start-12-starting-problems.md), [S43](../../raw/Articles/poweredoutdoors.com/ryobi-electric-battery-mower-wont-start.md)
 
 ## How to confirm
 
@@ -129,3 +134,4 @@ Sources: [S13](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-loses-pow
 - [S40](../../raw/Articles/poweredoutdoors.com/lawn-mower-engine-cooling-times-explained.md) — Lawn Mower Engine Cooling Times Explained (expert-blog)
 - [S41](../../raw/Articles/poweredoutdoors.com/mower-stopped-running.md) — 9 Reasons Your Mower Stopped Running: SOLVED! (expert-blog)
 - [S42](../../raw/Articles/poweredoutdoors.com/solved-toro-lawn-mower-quits-when-hot.md) — SOLVED! Toro Lawn Mower Quits When Hot (expert-blog)
+- [S43](../../raw/Articles/poweredoutdoors.com/ryobi-electric-battery-mower-wont-start.md) — 11 Reasons Your RYOBI Electric Mower Won't Start (Solved!) (expert-blog)

@@ -61,6 +61,9 @@ causes:
   - ../causes/cutting-wet-or-tall-grass.md
   - ../causes/water-in-fuel.md
   - ../causes/bad-cooling-shroud.md
+  - ../causes/bad-motor.md
+  - ../causes/battery-not-seated.md
+  - ../causes/overheated-battery.md
 part_types:
   - fuel filter
   - fuel line
@@ -100,7 +103,7 @@ Collect the basics first with the [customer intake Guide](../guides/customer-int
 | Does it start on a spray of carburetor cleaner and then die again? | Yes → [Dirty carburetor](../causes/dirty-carburetor.md) | No → check the air filter and spark |
 | Riding mower: does it die when you release the brake, even while seated? | Yes → [Bad safety switch](../causes/bad-safety-switch.md) (seat switch broken or unplugged), [Bad wiring or ground](../causes/bad-wiring-or-ground.md) | No → keep checking |
 | Does it die under load (blades engaged, thick, tall or wet grass)? | Yes → [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md), Clogged deck chute, [Dull or bent blade](../causes/dull-or-bent-blade.md), [Mowing too fast](../causes/mowing-too-fast.md), [Wrong engine speed](../causes/wrong-engine-speed.md) | No → work through the fuel and air checks |
-| Is it a battery (cordless) mower? | Yes → [Weak or dead battery](../causes/weak-or-dead-battery.md), Overheated battery, Battery not seated, [Bad wiring or ground](../causes/bad-wiring-or-ground.md), [Bad safety switch](../causes/bad-safety-switch.md), Bad motor | No (gas) → use the questions above |
+| Is it a battery (cordless) mower? | Yes → [Weak or dead battery](../causes/weak-or-dead-battery.md), [Overheated battery](../causes/overheated-battery.md), [Battery not seated](../causes/battery-not-seated.md), [Bad wiring or ground](../causes/bad-wiring-or-ground.md), [Bad safety switch](../causes/bad-safety-switch.md), [Bad motor](../causes/bad-motor.md); see also [Battery mower won't start](battery-mower-wont-start.md) | No (gas) → use the questions above |
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/8-reasons-your-lawn-mower-wont-stay-running.md), [S37](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-isnt-getting-fuel.md), [S77](../../raw/Articles/poweredoutdoors.com/your-lawn-tractor-isnt-getting-fuel.md), [S75](../../raw/Articles/poweredoutdoors.com/your-john-deere-mower-isnt-getting-gas.md), [S82](../../raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md), [S13](../../raw/Articles/poweredoutdoors.com/common-john-deere-lawn-mower-problems.md), [S17](../../raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md), [S81](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-dies-when-you-release-the-brake-video.md), [S52](../../raw/Articles/poweredoutdoors.com/lawn-mower-keeps-stalling.md), [S28](../../raw/Articles/poweredoutdoors.com/ego-mower-starts-then-stops.md)
 
@@ -149,11 +152,11 @@ Ranked by how many of the 82 Sources name the Cause for this Problem. Tie-break:
 | [Bad wiring or ground](../causes/bad-wiring-or-ground.md) | 2 of 82 | Loose, pinched or unplugged wires (seat switch, battery mower) | easy to moderate |
 | [Mowing too fast](../causes/mowing-too-fast.md) | 2 of 82 | Engine or motor overloaded by fast ground speed | not yet rated |
 | [Bad cooling shroud](../causes/bad-cooling-shroud.md) | 1 of 82 | Dirty engine shroud or heat shield not in place | easy |
-| Bad motor | 1 of 82 | Battery mower; motor failed | not yet rated |
-| Battery not seated | 1 of 82 | Battery mower; battery loose in its slot | not yet rated |
+| [Bad motor](../causes/bad-motor.md) | 1 of 82 | Battery mower; motor failed | pro |
+| [Battery not seated](../causes/battery-not-seated.md) | 1 of 82 | Battery mower; battery loose in its slot | easy |
 | [Cutting wet or tall grass](../causes/cutting-wet-or-tall-grass.md) | 1 of 82 | Battery mower stops in wet, tall or thick grass | easy |
 | [Fuel valve off](../causes/fuel-valve-off.md) | 1 of 82 | Fuel shut-off valve closed | easy |
-| Overheated battery | 1 of 82 | Battery mower; battery or circuits hot | not yet rated |
+| [Overheated battery](../causes/overheated-battery.md) | 1 of 82 | Battery mower; battery or circuits hot | easy |
 | [Water in fuel](../causes/water-in-fuel.md) | 1 of 82 | Water in the gas | easy |
 | [Wrong engine speed](../causes/wrong-engine-speed.md) | 1 of 82 | Engine not run at full throttle while mowing | not yet rated |
 

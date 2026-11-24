@@ -3,12 +3,13 @@ type: cause
 title: Debris wrapped around blade spindle
 problems:
   - ../problems/mower-is-vibrating.md
+  - ../problems/battery-mower-wont-start.md
 part_types:
   - blade spindle
   - spindle housing
 procedures:
   - ../procedures/replace-the-spindle-assembly.md
-source_count: 28
+source_count: 29
 updated: 2026-11-24
 ---
 
@@ -35,6 +36,10 @@ Sources: [S2](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-is-vibra
 - [Mower is vibrating](../problems/mower-is-vibrating.md): the deck or the whole mower shakes while the blades turn; string, wire or weeds are wound around the blade shaft above the blade. A spindle that was damaged by the wrapped material can also squeal.
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/ariens-mower-is-vibrating.md), [S2](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-is-vibrating.md), [S6](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-is-vibrating.md), [S8](../../raw/Articles/poweredoutdoors.com/exmark-lawn-mower-is-vibrating-solved.md), [S13](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-is-vibrating.md), [S28](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-deck-problems.md), [S3](../../raw/Articles/poweredoutdoors.com/common-lawn-mower-problems-fixed.md), [S4](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md), [S5](../../raw/Articles/poweredoutdoors.com/common-zero-turn-problems-how-to-fix-them.md)
+
+- [Battery mower won't start](../problems/battery-mower-wont-start.md): debris restricting the blade's rotation stops a battery mower turning on.
+
+Sources for Battery mower won't start: [S30](../../raw/Articles/poweredoutdoors.com/electric-lawn-mower-wont-start.md)
 
 ## How to confirm
 
@@ -101,3 +106,4 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/ariens-mower-is-vibrating.m
 - [S27](../../raw/Articles/poweredoutdoors.com/your-lawn-tractor-is-vibrating.md) — This is Why Your Lawn Tractor is Vibrating (SOLVED) (expert-blog)
 - [S28](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-deck-problems.md) — Troubleshoot 6 Common Zero Turn Mower Deck Problems (expert-blog)
 - [S29](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-is-shaking-vibrating.md) — Solved! Your Zero Turn Mower is Shaking & Vibrating (expert-blog)
+- [S30](../../raw/Articles/poweredoutdoors.com/electric-lawn-mower-wont-start.md) — 16 Reasons Why Your Electric Lawn Mower Won't Start (expert-blog)
