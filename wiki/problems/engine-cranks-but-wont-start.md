@@ -181,6 +181,8 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-w
 - Don't blow out a paper air filter with an air compressor. Tap it against a hard surface instead. Source: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md)
 - Before a compression test, check that the crankcase isn't overfilled with oil, and drain it below the max mark if it is. Too much oil can also foul the plug and get into the carburetor and air filter. Sources: [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S96](../../raw/Articles/poweredoutdoors.com/too-much-oil-cub-cadet-lawn-mower.md), [S97](../../raw/Articles/poweredoutdoors.com/too-much-oil-john-deere.md)
 
+- For general owner know-how, see the Guide: [Winterizing and storage](../guides/winterizing-and-storage.md).
+
 ## Parts commonly needed
 
 - **Air filter / foam pre-filter:** replace if no light shows through, or if it is torn or brittle.

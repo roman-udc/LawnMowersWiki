@@ -16,7 +16,7 @@ tools:
   - fuel pinch-off pliers
   - safety glasses
 source_count: 7
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Start a mower with old gas
@@ -75,6 +75,8 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/ariens-lawn-mower-isnt-gett
 - If the mower needs carburetor cleaner to start every time, take it to a professional; it's an emergency measure, not a fix. Source: [S7](../../raw/Articles/poweredoutdoors.com/why-not-to-use-starter-fluid-on-a-lawn-mower.md)
 - If the carburetor sits higher than the tank, the mower has a fuel pump: check for steady or pulsating flow out of the carburetor line, and replace the pump if there's none. Source: [S6](../../raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old-gas.md)
 - A plugged gas cap vent can mimic old fuel: if the engine runs with the cap off but quits shortly after you put it back on, replace the cap. Source: [S6](../../raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old-gas.md)
+
+- For general owner know-how, see the Guide: [Fuel storage and stabilizers](../guides/fuel-storage-and-stabilizers.md).
 
 ## Verify the fix
 

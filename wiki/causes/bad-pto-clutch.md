@@ -83,6 +83,7 @@ Sources: [S46](../../raw/Articles/searspartsdirect.com/won-t-cut-grass.ridtr01.m
 ## Tips & life hacks
 
 - Keeping the clutch tight at the right torque helps it last longer.
+- For general owner know-how, see the Guide: [How clutches work](../guides/how-clutches-work.md).
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/a-look-into-how-lawn-mower-clutches-work.md)
 

@@ -8,7 +8,7 @@ part_types:
   - gasoline
 procedures: []
 source_count: 51
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Wrong fuel
@@ -80,6 +80,8 @@ Sources: [S29](../../raw/Articles/poweredoutdoors.com/push-mower-wont-start.md),
 - The fuel rules are the same across mower types: push, riding and zero-turn mowers and lawn tractors all want the same gas. Sources: [S15](../../raw/Articles/poweredoutdoors.com/gas-you-need-for-a-riding-lawn-mower.md), [S27](../../raw/Articles/poweredoutdoors.com/lawn-tractor-wont-start-solved.md), [S36](../../raw/Articles/poweredoutdoors.com/this-is-the-type-of-gas-lawn-mowers-use.md), [S50](../../raw/Articles/poweredoutdoors.com/zero-turn-lawn-mowers-use-this-type-of-gas.md), [S51](../../raw/Articles/poweredoutdoors.com/zero-turn-wont-start.md)
 - E15 and E85 are showing up at more stations, and most stations carry E10 and E15. Read the label every time. Sources: [S4](../../raw/Articles/poweredoutdoors.com/cub-cadet-dies-while-mowing.md), [S43](../../raw/Articles/poweredoutdoors.com/why-your-craftsman-lawn-mower-dies-how-to-fix.md), [S51](../../raw/Articles/poweredoutdoors.com/zero-turn-wont-start.md)
 - Never put diesel in a gas tractor, or gas in a diesel tractor. Source: [S9](../../raw/Articles/poweredoutdoors.com/gas-lawn-tractors-use.md)
+
+- For general owner know-how, see the Guide: [Choosing the right gas](../guides/choosing-the-right-gas.md).
 
 ## Sources
 

@@ -74,6 +74,8 @@ Sources: [S3](../../raw/Articles/poweredoutdoors.com/5-things-that-are-draining-
 - A battery that won't hold a charge, or won't charge above 12 V after an hour or two on the charger, needs replacing. Sources: [S10](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-battery-keeps-dying.md), [S13](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md), [S18](../../raw/Articles/poweredoutdoors.com/murray-lawn-mower-wont-start.md)
 - While you're at the battery, make sure the cables are tight, and clean or replace corroded terminals. The Husqvarna guide cleans them with a wire brush in a bath of 3 cups water and 2 heaping teaspoons baking soda, then adds dielectric grease. Sources: [S1](../../raw/Articles/poweredoutdoors.com/how-to-service-a-zero-turn-lawn-mower.md), [S2](../../raw/Articles/poweredoutdoors.com/service-a-husqvarna-zero-turn-lawn-mower.md)
 
+- For general owner know-how, see the Guide: [Battery care and charging](../guides/battery-care-and-charging.md).
+
 ## Verify the fix
 
 A charged battery reads about 12.6–12.7 V with the engine off, and 13.2–13.9 V or more with the engine running at 3/4 throttle. If it reads well but the engine still won't crank, test the starter solenoid next (see [Test the starter solenoid](test-the-starter-solenoid.md)).

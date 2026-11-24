@@ -65,6 +65,7 @@ Sources: [S3](../../raw/Articles/poweredoutdoors.com/sun-joe-electric-mower-wont
 ## Tips & life hacks
 
 - Chargers, batteries, blades and power cords are the parts most often replaced on battery mowers.
+- For general owner know-how, see the Guide: [Electric mower care and safety](../guides/electric-mower-care-and-safety.md).
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/battery-lawn-mower-wont-start.md)
 

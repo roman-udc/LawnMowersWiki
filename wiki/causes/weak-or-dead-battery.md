@@ -115,6 +115,7 @@ Sources: [S3](../../raw/Articles/poweredoutdoors.com/ariens-blades-wont-engage.m
 - Clean corroded terminals with a baking soda solution (2 cups water to 3 rounded tablespoons baking soda) and a wire brush.
 
 > **Safety:** wear eye and skin protection when charging, connect the charger's positive (red) clamp first, and touch only rubber-coated parts.
+- For general owner know-how, see the Guides: [Battery care and charging](../guides/battery-care-and-charging.md), [Winterizing and storage](../guides/winterizing-and-storage.md).
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/5-things-that-are-draining-the-life-of-your-lawn-mower-battery.md), [S2](../../raw/Articles/poweredoutdoors.com/a-walker-mower-wont-turn-over.md), [S4](../../raw/Articles/poweredoutdoors.com/ariens-lawn-mower-wont-turn-over.md), [S35](../../raw/Articles/poweredoutdoors.com/dixon-lawn-mower-wont-start.md), [S75](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-after-winter.md), [S78](../../raw/Articles/poweredoutdoors.com/lawn-tractor-wont-start-solved.md), [S85](../../raw/Articles/poweredoutdoors.com/riding-mower-blades-wont-engage-or-turn-on.md), [S87](../../raw/Articles/poweredoutdoors.com/riding-mower-wont-start-after-winter.md), [S115](../../raw/Articles/poweredoutdoors.com/winter-lawn-mower-battery-care.md), [S119](../../raw/Articles/poweredoutdoors.com/your-ariens-mower-wont-start-solved.md), [S121](../../raw/Articles/poweredoutdoors.com/your-toro-lawn-mower-wont-start.md), [S126](../../raw/Articles/poweredoutdoors.com/zero-turn-wont-start.md)
 

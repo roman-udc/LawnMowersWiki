@@ -102,6 +102,7 @@ Sources: [S16](../../raw/Articles/poweredoutdoors.com/lawn-mower-keeps-stalling.
 - Scrape more often in wet conditions.
 - Silicone spray inside the bagger chute helps grass and leaves flow.
 - On a battery mower overloaded by thick, tall or wet grass: raise the cutting height and slow down.
+- For general owner know-how, see the Guide: [Cleaning the mower](../guides/cleaning-the-mower.md).
 
 Sources: [S11](../../raw/Articles/poweredoutdoors.com/hustler-mower-bad-uneven-cut.md), [S10](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md), [S28](../../raw/Articles/poweredoutdoors.com/spartan-mower-bad-or-uneven-cut.md), [S32](../../raw/Articles/poweredoutdoors.com/why-your-cub-cadet-lawn-mower-cuts-uneven.md), [S20](../../raw/Articles/poweredoutdoors.com/pick-up-leaves-with-a-mower.md), [S35](../../raw/Articles/poweredoutdoors.com/worx-electric-mower-wont-start.md), [S18](../../raw/Articles/poweredoutdoors.com/lawn-mowers-bad-cut-solved.md)
 

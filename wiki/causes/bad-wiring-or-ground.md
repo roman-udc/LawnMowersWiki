@@ -102,6 +102,7 @@ Sources: [S6](../../raw/Articles/poweredoutdoors.com/craftsman-clicks-wont-start
 
 - Fold and unfold the handle carefully, keeping the wires on the outside of the handle, so they don't get pinched.
 - Corded mowers: constant pulling, flexing or yanking can damage the wires inside the power cord; check it with a multimeter. Cords are easy to replace.
+- For general owner know-how, see the Guide: [Reading wiring schematics](../guides/reading-wiring-schematics.md).
 
 Sources: [S14](../../raw/Articles/poweredoutdoors.com/electric-lawn-mowers-dangers-and-safety-guide.md), [S28](../../raw/Articles/poweredoutdoors.com/skil-electric-mower-wont-start-12-starting-problems.md), [S29](../../raw/Articles/poweredoutdoors.com/sun-joe-electric-mower-wont-start.md), [S30](../../raw/Articles/poweredoutdoors.com/toro-electric-mower-wont-start.md), [S32](../../raw/Articles/poweredoutdoors.com/worx-electric-mower-wont-start.md)
 

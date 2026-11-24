@@ -103,6 +103,7 @@ Sources: [S34](../../raw/Articles/poweredoutdoors.com/spartan-mower-blades-wont-
 
 - If the engine runs but the blades don't cut, check the blade belt first. If the belt is OK, move on to the idler pulley, the cable and lever (manual clutch), or the PTO switch and electric clutch.
 - A weak battery that won't hold a charge needs replacing, not just charging.
+- For general owner know-how, see the Guide: [How clutches work](../guides/how-clutches-work.md).
 
 Sources: [S41](../../raw/Articles/searspartsdirect.com/won-t-cut-grass.ridtr01.md), [S40](../../raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md), [S6](../../raw/Articles/poweredoutdoors.com/common-john-deere-lawn-mower-problems.md), [S10](../../raw/Articles/poweredoutdoors.com/common-toro-lawn-mower-problems-solutions.md), [S21](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md)
 

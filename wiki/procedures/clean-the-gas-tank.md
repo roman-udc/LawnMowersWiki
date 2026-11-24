@@ -24,7 +24,7 @@ tools:
   - vinegar
   - small rocks or pebbles
 source_count: 1
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Clean the gas tank
@@ -95,6 +95,8 @@ Source: [S1](../../raw/Articles/poweredoutdoors.com/how-to-clean-your-metal-lawn
 > **⚠ Conflicting advice:** the same Source says never to rinse the tank with water, because water causes problems for the carburetor, spark plug and engine ([S1](../../raw/Articles/poweredoutdoors.com/how-to-clean-your-metal-lawn-mower-gas-tank-in-9-easy-steps.md), expert-blog), but in its pebble method says kerosene or diesel works as the solvent and "even water works" ([S1](../../raw/Articles/poweredoutdoors.com/how-to-clean-your-metal-lawn-mower-gas-tank-in-9-easy-steps.md), expert-blog).
 
 Source: [S1](../../raw/Articles/poweredoutdoors.com/how-to-clean-your-metal-lawn-mower-gas-tank-in-9-easy-steps.md)
+
+- For general owner know-how, see the Guide: [Fuel storage and stabilizers](../guides/fuel-storage-and-stabilizers.md).
 
 ## Verify the fix
 

@@ -112,6 +112,7 @@ Sources: [S3](../../raw/Articles/poweredoutdoors.com/pick-up-leaves-with-a-mower
 - Seal any area of the bagger where air can escape.
 - For bagging, use a high-lift blade (a taller sail).
 - Leaves may need more than one pass.
+- For general owner know-how, see the Guide: [Cleaning the mower](../guides/cleaning-the-mower.md).
 
 Sources: [S2](../../raw/Articles/poweredoutdoors.com/mower-is-not-bagging-grass-solved.md), [S1](../../raw/Articles/poweredoutdoors.com/15-reasons-why-your-lawn-mower-is-not-picking-up-grass.md), [S3](../../raw/Articles/poweredoutdoors.com/pick-up-leaves-with-a-mower.md)
 

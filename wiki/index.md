@@ -166,6 +166,7 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Replace the starter motor](procedures/replace-the-starter-motor.md) — remove the blower housing and swap the starter on a riding mower (moderate, 30 minutes or less).
 - [Replace the ignition switch](procedures/replace-the-ignition-switch.md) — unplug the harness, release the tabs and swap the key switch (easy, 15 minutes or less).
 - [Reset the ignition code](procedures/reset-the-ignition-code.md) — change or reset the code on a keyless Smart Switch ignition (easy, time not stated).
+- [Replace the seat](procedures/replace-the-seat.md) — swap a cracked or worn riding-mower seat that no longer presses the seat switch (easy, 15 minutes or less).
 - [Replace the seat switch](procedures/replace-the-seat-switch.md) — test the seat switch with a multimeter and swap it under the seat (easy, 15 minutes or less).
 - [Test and replace a fuse](procedures/test-and-replace-a-fuse.md) — check a fuse by eye and with a meter, replace it with the same amperage, trace the short if it blows again (easy, time not stated).
 - [Read a wiring schematic](procedures/read-a-wiring-schematic.md) — find and follow your model's wiring diagram to trace the starting circuit (moderate, time not stated).
@@ -190,4 +191,19 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 
 ## Guides
 
+- [Battery care and charging](guides/battery-care-and-charging.md) — keeping a 12 V mower battery charged, testing it, cleaning terminals, and the cold-weather freeze risk.
+- [Belt types](guides/belt-types.md) — deck vs drive belts, belt sizes and naming, and why only the right belt fits.
+- [Choosing the right gas](guides/choosing-the-right-gas.md) — octane, ethanol limits (10% maximum), ethanol-free fuel, and 2-cycle fuel mixing ratios.
+- [Cleaning the mower](guides/cleaning-the-mower.md) — cleaning under the deck, the engine and cooling fins, and what not to hose down.
 - [Customer intake](guides/customer-intake.md) — the basic questions to ask every customer first, why each matters, and where to find the model, serial and engine numbers.
+- [Electric mower care and safety](guides/electric-mower-care-and-safety.md) — battery and corded mower care, keeping water out, extension cords, and electrical dangers.
+- [Engine cooling times](guides/engine-cooling-times.md) — how an engine cools after mowing, how to help it cool, and how long to wait before storing or working on it.
+- [Engine oil guide](guides/engine-oil-guide.md) — which oil and viscosity to use (including cold weather), how often to change it, break-in, and overfilling.
+- [Fuel storage and stabilizers](guides/fuel-storage-and-stabilizers.md) — how long gas keeps, cans, stabilizer and fuel additive dosing, and draining vs stabilizing for storage.
+- [How clutches work](guides/how-clutches-work.md) — how the electric PTO (blade) clutch and its switch work, and how they are tested.
+- [Mower got wet](guides/mower-got-wet.md) — what to do after rain or a flood: drying, oil and fuel checks, and electrical risks.
+- [Mower parts that wear out](guides/mower-parts-that-wear-out.md) — blades, belts, filters, plugs, batteries and tires: how often they wear, blade types and spares to stock.
+- [Reading wiring schematics](guides/reading-wiring-schematics.md) — the generic method for reading symbols, wire colours and tracing a circuit with a multimeter.
+- [Routine service and maintenance](guides/routine-service-and-maintenance.md) — pre-mow checks and service intervals for oil, filters, plugs, blades and hydraulics.
+- [Winterizing and storage](guides/winterizing-and-storage.md) — preparing a mower for winter or long storage: fuel, oil, battery, blades, cover and where to store it.
+- [Zero-turn safety](guides/zero-turn-safety.md) — slopes, water and drop-offs, ROPS and seat belt, interlocks and safe operation of zero-turn mowers.

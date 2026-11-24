@@ -18,6 +18,7 @@ part_types:
   - mower seat
 procedures:
   - ../procedures/replace-the-seat-switch.md
+  - ../procedures/replace-the-seat.md
 source_count: 149
 updated: 2026-11-24
 ---
@@ -84,6 +85,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/a-walker-mower-wont-turn-ov
 Replace the switch that tests bad. If the seat switch harness was unplugged, plug it back in. If a worn or cracked seat keeps the seat switch from being pressed, replace the seat. If the brake arm has side-to-side play, tighten it. On battery mowers, make sure the handle is unfolded and secured and the side rails are fully extended with the clamps locked.
 
 - [Replace the seat switch](../procedures/replace-the-seat-switch.md)
+- [Replace the seat](../procedures/replace-the-seat.md)
 
 > **Note:** several brand "common problems" tables say "Replace a bad battery" in the safety-switch row. That's a typo in those Sources: the fix is the switch.
 
@@ -116,6 +118,7 @@ Sources: [S120](../../raw/Articles/searspartsdirect.com/how-to-replace-the-seat-
 
 - If the mower dies every time you hit a bump, you may be bouncing off the seat switch rather than facing a bad part.
 - An unplugged seat switch harness doesn't bypass the switch: the engine always shuts off when you release the brake. Check the plug before buying a switch.
+- For general owner know-how, see the Guide: [Zero-turn safety](../guides/zero-turn-safety.md).
 
 Sources: [S56](../../raw/Articles/poweredoutdoors.com/john-deere-mower-blades-wont-engage-or-turn-on.md), [S63](../../raw/Articles/poweredoutdoors.com/lawn-mower-keeps-stalling.md), [S123](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-dies-when-you-release-the-brake-video.md), [S127](../../raw/Articles/searspartsdirect.com/won-t-move.ltr1818.md)
 

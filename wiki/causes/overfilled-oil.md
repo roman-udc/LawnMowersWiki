@@ -111,6 +111,8 @@ Sources: [S24](../../raw/Articles/poweredoutdoors.com/ferris-mower-is-smoking.md
 - Stop running the mower once you notice engine problems. Running on with too much oil can cause seal damage, hydrolock and "a bent piston rod" (the Sources' wording). Sources: [S4](../../raw/Articles/poweredoutdoors.com/bad-boy-loses-power.md), [S17](../../raw/Articles/poweredoutdoors.com/craftsman-mower-loses-power.md), [S20](../../raw/Articles/poweredoutdoors.com/cub-cadet-loses-power-bogs-down.md), [S30](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-loses-power.md), [S35](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-loses-power.md), [S45](../../raw/Articles/poweredoutdoors.com/kubota-mower-loses-power.md), [S53](../../raw/Articles/poweredoutdoors.com/push-mower-loses-power.md), [S63](../../raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-loses-power.md), [S71](../../raw/Articles/poweredoutdoors.com/this-is-why-your-riding-lawn-mower-loses-power.md), [S72](../../raw/Articles/poweredoutdoors.com/too-much-oil-bad-boy.md), [S79](../../raw/Articles/poweredoutdoors.com/toro-mower-loses-power.md), [S91](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-loses-power.md)
 - After correcting the level, wipe spilled oil off the mower so it doesn't smoke. Source: [S70](../../raw/Articles/poweredoutdoors.com/this-is-what-happens-if-you-put-too-much-oil-in-a-lawn-mower.md)
 
+- For general owner know-how, see the Guide: [Engine oil guide](../guides/engine-oil-guide.md).
+
 ## Sources
 
 - [S1](../../raw/Articles/poweredoutdoors.com/5-reasons-your-lawn-mower-may-be-smoking.md) — Why Your Lawn Mower is Smoking (Black, Blue or White Smoke) (expert-blog)

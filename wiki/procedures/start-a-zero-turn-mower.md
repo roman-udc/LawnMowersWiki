@@ -11,7 +11,7 @@ tools:
   - ignition key
   - operator's manual
 source_count: 10
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Start a zero-turn mower
@@ -79,6 +79,8 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-wont-st
 - Let the engine warm up for a few minutes before mowing. Source: [S1](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-wont-start.md)
 - To stop: bring the mower to a stop, move the steering levers to neutral, set the parking brake, set the throttle halfway, let the engine run at least 30 seconds, then turn the key off. Source: [S9](../../raw/Articles/poweredoutdoors.com/start-zero-turn-mower.md)
 - If it still won't start with every step done, suspect fuel, electrical or air intake: old fuel, a weak battery, a bad starter solenoid, loose wiring or a dirty carburetor. Source: [S9](../../raw/Articles/poweredoutdoors.com/start-zero-turn-mower.md)
+
+- For general owner know-how, see the Guide: [Zero-turn safety](../guides/zero-turn-safety.md).
 
 ## Verify the fix
 

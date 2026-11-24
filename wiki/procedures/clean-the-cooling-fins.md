@@ -12,7 +12,7 @@ tools:
   - soft brush or small bristle brush
   - mild soap (optional)
 source_count: 13
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Clean the cooling fins
@@ -68,6 +68,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-l
 - Do it every year. If you don't, have a repair shop clean the fins as part of regular maintenance.
 
 > **⚠ Conflicting advice:** use a soft brush or compressed air ([S13](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md), manufacturer) vs don't use compressed air or long brushes ([S10](../../raw/Articles/poweredoutdoors.com/lawn-mower-engine-cooling-times-explained.md), expert-blog).
+- For general owner know-how, see the Guide: [Engine cooling times](../guides/engine-cooling-times.md).
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-lawn-mower-to-overheat.md), [S4](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-engine-overheats.md), [S10](../../raw/Articles/poweredoutdoors.com/lawn-mower-engine-cooling-times-explained.md), [S13](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md)
 

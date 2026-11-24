@@ -85,6 +85,8 @@ The step-by-step charging method above is repeated almost word for word in brand
 - A battery that charges fine but keeps going dead points to the charging system, not the battery. Source: [S3](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-wont-start-just-clicks-solved.md)
 - A charger is the usual fix for a dead battery; jump-starting is the stopgap (see [Jump-start the battery](jump-start-the-battery.md)). Sources: [S72](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-wont-turn-over-or-click-video.md), [S63](../../raw/Articles/poweredoutdoors.com/winter-lawn-mower-battery-care.md)
 
+- For general owner know-how, see the Guide: [Battery care and charging](../guides/battery-care-and-charging.md).
+
 ## Verify the fix
 
 After charging, a 12 V battery should read about 12.6–12.7 V or more with the engine off (see [Test the battery](test-the-battery.md)), and the mower should crank. Check the reading again after mowing.

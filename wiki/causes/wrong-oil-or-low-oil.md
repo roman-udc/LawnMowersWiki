@@ -116,6 +116,8 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-l
 - If you're always adding oil, the engine is leaking, burning or using it. Source: [S16](../../raw/Articles/poweredoutdoors.com/what-if-you-dont-change-oil-in-your-mower.md)
 - Shop labor for testing a damaged engine runs between $45 and $100 per hour depending on area; on an older mower, replacing the mower is often the better buy. Sources: [S10](../../raw/Articles/poweredoutdoors.com/push-mower-quits-when-hot.md), [S39](../../raw/Articles/poweredoutdoors.com/why-your-push-mower-dies-while-mowing-solved.md)
 
+- For general owner know-how, see the Guide: [Engine oil guide](../guides/engine-oil-guide.md).
+
 ## Sources
 
 - [S1](../../raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-lawn-mower-to-overheat.md) — 8 Things That Can Cause a Lawn Mower to Overheat (expert-blog)

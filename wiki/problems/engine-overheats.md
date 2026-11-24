@@ -114,6 +114,7 @@ Sources: [S2](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-p
 - Don't spray water into the engine when you wash the mower: it pushes dirt and water into the engine area and makes fin clogging worse.
 - Debris around the engine blocks airflow; keep the mower clean.
 - Prevent overheating: clean around the engine and cooling fins regularly, replace the oil and air filter on schedule, use the oil and fuel grade recommended for the engine, do seasonal maintenance, and in extreme heat mow in the cooler parts of the day.
+- For general owner know-how, see the Guide: [Engine cooling times](../guides/engine-cooling-times.md).
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-lawn-mower-to-overheat.md), [S14](../../raw/Articles/poweredoutdoors.com/how-to-service-a-push-lawn-mower.md), [S26](../../raw/Articles/poweredoutdoors.com/lawn-mower-replacement.md), [S37](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md)
 

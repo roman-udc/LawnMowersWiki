@@ -77,6 +77,8 @@ Sources: [S5](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-after
 - Water gets into electric mowers through the motor vents and the gap around a hinged battery compartment. Keep those dry. Source: [S1](../../raw/Articles/poweredoutdoors.com/can-you-use-your-electric-lawn-mower-in-the-rain.md)
 - Clean debris off before storage, and use a rodent deterrent (packets around the mower and a spray for the wiring) the next time you store it. Source: [S5](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-after-winter.md)
 
+- For general owner know-how, see the Guides: [Electric mower care and safety](../guides/electric-mower-care-and-safety.md), [Mower got wet](../guides/mower-got-wet.md).
+
 ## Sources
 
 - [S1](../../raw/Articles/poweredoutdoors.com/can-you-use-your-electric-lawn-mower-in-the-rain.md) — Can You Use Your Electric Lawn Mower in The Rain? (expert-blog)

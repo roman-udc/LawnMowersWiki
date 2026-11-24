@@ -59,6 +59,7 @@ Sources: [S6](../../raw/Articles/poweredoutdoors.com/troy-bilt-battery-keeps-dyi
 ## Tips & life hacks
 
 - Always disconnect the negative (black) cable from the battery before making any repairs to the electrical system.
+- For general owner know-how, see the Guide: [Battery care and charging](../guides/battery-care-and-charging.md).
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/5-things-that-are-draining-the-life-of-your-lawn-mower-battery.md), [S3](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-battery-keeps-dying.md)
 

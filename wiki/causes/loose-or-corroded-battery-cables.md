@@ -92,6 +92,7 @@ Sources: [S18](../../raw/Articles/poweredoutdoors.com/craftsman-clicks-wont-star
 - Make sure the mower is dry and store it in a dry place to reduce corrosion.
 - In winter storage, check the terminals: a toothbrush handles dirt and minor corrosion, a wire brush handles rust and severe corrosion. Scrub the base and top of each terminal, wipe with a damp then a dry cloth, and tighten the screws and clamps.
 - A wire brush speeds up the baking soda cleaning.
+- For general owner know-how, see the Guide: [Battery care and charging](../guides/battery-care-and-charging.md).
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/5-things-that-are-draining-the-life-of-your-lawn-mower-battery.md), [S39](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-clicks-wont-start.md), [S43](../../raw/Articles/poweredoutdoors.com/hustler-mower-clicks-but-wont-start.md), [S51](../../raw/Articles/poweredoutdoors.com/kubota-mower-clicks-wont-turn-over.md), [S79](../../raw/Articles/poweredoutdoors.com/winter-lawn-mower-battery-care.md)
 

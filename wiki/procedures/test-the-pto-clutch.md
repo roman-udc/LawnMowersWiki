@@ -56,6 +56,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/a-look-into-how-lawn-mower-
 
 - Keeping the clutch tight at the right torque helps it last longer.
 - Don't replace the clutch before the power check: a clutch that gets no power is not the problem.
+- For general owner know-how, see the Guide: [How clutches work](../guides/how-clutches-work.md).
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/a-look-into-how-lawn-mower-clutches-work.md)
 

@@ -13,7 +13,7 @@ tools:
   - drain pan
   - rag or clean cloth
 source_count: 35
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Drain excess oil
@@ -75,6 +75,8 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-starts-t
 - Several authors prefer a turkey baster or oil evacuator through the fill area: it's the easiest and cleanest method. A turkey baster suits small amounts. Sources: [S9](../../raw/Articles/poweredoutdoors.com/gravely-is-blowing-blue-black-or-white-smoke.md), [S10](../../raw/Articles/poweredoutdoors.com/guide-to-draining-oil-from-your-lawn-mower.md), [S21](../../raw/Articles/poweredoutdoors.com/push-mower-is-smoking.md)
 - Open the drain plug only briefly, or too much oil drains out. Sources: [S3](../../raw/Articles/poweredoutdoors.com/craftsman-mower-loses-power.md), [S20](../../raw/Articles/poweredoutdoors.com/mower-stopped-running.md), [S27](../../raw/Articles/poweredoutdoors.com/this-is-why-your-riding-lawn-mower-loses-power.md)
 - To avoid overfilling next time, look up the crankcase capacity, add 1/2 quart at a time, then small amounts near full, checking the dipstick. Source: [S29](../../raw/Articles/poweredoutdoors.com/too-much-oil-craftsman-mower.md)
+
+- For general owner know-how, see the Guide: [Engine oil guide](../guides/engine-oil-guide.md).
 
 ## Verify the fix
 

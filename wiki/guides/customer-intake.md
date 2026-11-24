@@ -4,8 +4,8 @@ title: Customer intake
 related:
   - ../problems/engine-cranks-but-wont-start.md
   - ../causes/old-fuel.md
-source_count: 5
-updated: 2026-11-23
+source_count: 6
+updated: 2026-11-24
 ---
 
 # Customer intake
@@ -24,7 +24,7 @@ Ask these questions. Each one changes what you look up or recommend.
 |---|---|
 | What brand is the mower? | Narrows which Brand notes apply and which parts catalog to search. |
 | What is the mower's model number? | The model number is the easiest way to find the right replacement part. Parts such as cutter housings and spindles vary between a brand's different mower decks. |
-| What is the serial number? | Together with the model number, the serial number pins down part fitment: dealers ask for both to get the correct part the first time. It also encodes the build date. |
+| What is the serial number? | Together with the model number, the serial number pins down part fitment: dealers ask for both to get the correct part the first time. It also encodes the build date, and a dealer can look up warranty coverage and recall notices by serial number. |
 | What engine is it (engine make, and the engine model and type/spec number)? | Engine parts are often listed separately from the frame and deck parts and are looked up by the engine model number. Don't confuse the engine's numbers with the mower's model and serial numbers. |
 | What kind of mower is it: push, self-propelled, riding or zero-turn? And is it gas, battery or diesel? | Mower type and Power source decide which Problems, Causes and procedures apply. Riding mowers, for example, have parts (fuel solenoid, starter solenoid, seat switch) that push mowers don't. |
 | How old is the mower? | Age helps decide what is worth fixing. Larger machines see more wear over time, and age plays a role in expected reliability. If the customer doesn't know, it can often be decoded from the serial number. |
@@ -36,7 +36,7 @@ Where to find the numbers:
 - **Riding mowers and lawn tractors:** on a tag under the seat, on the frame beneath the seat platform, near the rear wheels or rear frame, on the deck, or near the engine or battery tray. Model and serial number usually appear together on the same tag.
 - **Engine:** the engine has its own model and type/spec numbers, stamped or labeled on the engine itself. Some riding mowers list part numbers for engine maintenance parts under the hood.
 
-Sources: [S1](../../raw/Articles/searspartsdirect.com/how-to-find-the-age-of-your-craftsman-riding-lawn-mower-or-lawn-tractor.md), [S2](../../raw/Articles/searspartsdirect.com/how-to-measure-a-mower-blade.md), [S3](../../raw/Articles/searspartsdirect.com/what-are-the-riding-mower-parts-that-require-replacement-most-often.md), [S4](../../raw/Articles/poweredoutdoors.com/push-mower-is-leaking-gas.md), [S5](../../raw/Articles/poweredoutdoors.com/replace-exmark-mower-deck-parts.md)
+Sources: [S1](../../raw/Articles/searspartsdirect.com/how-to-find-the-age-of-your-craftsman-riding-lawn-mower-or-lawn-tractor.md), [S2](../../raw/Articles/searspartsdirect.com/how-to-measure-a-mower-blade.md), [S3](../../raw/Articles/searspartsdirect.com/what-are-the-riding-mower-parts-that-require-replacement-most-often.md), [S4](../../raw/Articles/poweredoutdoors.com/push-mower-is-leaking-gas.md), [S5](../../raw/Articles/poweredoutdoors.com/replace-exmark-mower-deck-parts.md), [S6](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md)
 
 ## Recommendations
 
@@ -76,3 +76,4 @@ Sources: [S3](../../raw/Articles/searspartsdirect.com/what-are-the-riding-mower-
 - [S3](../../raw/Articles/searspartsdirect.com/what-are-the-riding-mower-parts-that-require-replacement-most-often.md) — What are the riding mower parts that require replacement most often? (manufacturer)
 - [S4](../../raw/Articles/poweredoutdoors.com/push-mower-is-leaking-gas.md) — Your Push Mower is Leaking Gas (Solved!) (expert-blog)
 - [S5](../../raw/Articles/poweredoutdoors.com/replace-exmark-mower-deck-parts.md) — How to Replace Exmark Mower Deck Parts (expert-blog)
+- [S6](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md) — 13 Bad Boy Mower Problems (Troubleshooting Tables) (expert-blog)

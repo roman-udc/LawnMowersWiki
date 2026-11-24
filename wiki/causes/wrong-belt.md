@@ -65,6 +65,7 @@ Sources: [S6](../../raw/Articles/poweredoutdoors.com/how-to-change-a-belt-on-an-
 ## Tips & life hacks
 
 - Cheaper belts are tempting, but the authors report that OEM belts last longer and handle the mower's stress better.
+- For general owner know-how, see the Guide: [Belt types](../guides/belt-types.md).
 
 Sources: [S2](../../raw/Articles/poweredoutdoors.com/why-your-craftsman-belt-keeps-coming-off-or-breaking.md), [S1](../../raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-kubota-lawn-mower.md)
 

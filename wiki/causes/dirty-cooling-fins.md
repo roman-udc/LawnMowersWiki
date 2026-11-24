@@ -87,6 +87,7 @@ Sources: [S3](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-starts-t
 - Clean the fins once a year, for example every fall, and look at them between services. A small-engine mechanic checks them during annual maintenance, but owners should look too.
 - Don't wash the engine or spray water into it: that pushes dirt and water into the engine area. Clean around the engine with a small bristle brush and no high-pressure water.
 - Be gentle: bent fins don't cool well.
+- For general owner know-how, see the Guide: [Routine service and maintenance](../guides/routine-service-and-maintenance.md).
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-lawn-mower-to-overheat.md), [S15](../../raw/Articles/poweredoutdoors.com/craftsman-mower-overheating.md), [S30](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-quits-when-hot.md), [S39](../../raw/Articles/poweredoutdoors.com/lawn-mower-sputtering-solved.md), [S65](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md)
 

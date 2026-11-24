@@ -110,6 +110,7 @@ Sources: [S4](../../raw/Articles/poweredoutdoors.com/how-to-change-a-belt-on-an-
 - Check the blade while it's off; sharpen or replace it.
 - A deck belt should be sturdier than a drive belt; one author suggests kevlar cords rather than polyester for a deck belt.
 - A homeowner's deck belt can last up to four years with proper maintenance; a damaged deck, debris and heavy use shorten it. Replace the blade belt at the end of the cutting season or when it is worn.
+- For general owner know-how, see the Guide: [Belt types](../guides/belt-types.md).
 
 Sources: [S5](../../raw/Articles/poweredoutdoors.com/how-to-replace-a-cub-cadet-mower-deck-belt.md), [S3](../../raw/Articles/poweredoutdoors.com/your-belt-keeps-falling-off-your-riding-mower-fixed.md), [S6](../../raw/Articles/poweredoutdoors.com/how-to-change-a-craftsman-mower-deck-belt.md), [S12](../../raw/Articles/poweredoutdoors.com/v-belts-what-are-they-weve-got-the-answer.md), [S13](../../raw/Articles/searspartsdirect.com/what-are-the-riding-mower-parts-that-require-replacement-most-often.md)
 

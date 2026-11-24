@@ -2083,3 +2083,238 @@ Note: Cluster 34 (ticket 34), single writer and finalizer. Thin Problem kept, no
 ## 2026-11-24 | lint-fix | stale plain-text notes after fill passes 25-34
 
 Note: Removed "These other Problems have no page yet." lines left on causes bad-fuel-pump, bad-ignition-coil, clogged-air-filter, clogged-fuel-filter and dirty-carburetor (every Problem bullet there is now linked), and linked Engine dies when hot from the Related text on problems/mower-is-smoking. No Sources added; no content changed.
+
+## 2026-11-24 | ingest | fill pass: guides
+
+- raw/Articles/poweredoutdoors.com/10-reasons-your-lawn-mower-could-be-leaking-gasoline.md → ingested → guides/choosing-the-right-gas.md
+- raw/Articles/poweredoutdoors.com/5-reasons-your-lawn-mower-may-be-smoking.md → ingested → guides/engine-oil-guide.md
+- raw/Articles/poweredoutdoors.com/5-things-that-are-draining-the-life-of-your-lawn-mower-battery.md → ingested → guides/battery-care-and-charging.md
+- raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-lawn-mower-to-overheat.md → ingested → guides/engine-cooling-times.md, guides/engine-oil-guide.md
+- raw/Articles/poweredoutdoors.com/a-guide-to-choosing-a-cordless-lawn-mower.md → ingested → guides/electric-mower-care-and-safety.md
+- raw/Articles/poweredoutdoors.com/a-guide-to-the-craftsman-riding-lawn-mower.md → ingested → guides/engine-oil-guide.md, guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/a-look-into-how-lawn-mower-clutches-work.md → ingested → guides/how-clutches-work.md
+- raw/Articles/poweredoutdoors.com/bad-ariens-mower-solenoid.md → ingested → guides/reading-wiring-schematics.md
+- raw/Articles/poweredoutdoors.com/bad-boy-battery-keeps-dying.md → ingested → guides/battery-care-and-charging.md
+- raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-is-vibrating.md → ingested → guides/cleaning-the-mower.md
+- raw/Articles/poweredoutdoors.com/bad-boy-loses-power.md → ingested → guides/choosing-the-right-gas.md
+- raw/Articles/poweredoutdoors.com/bad-boy-mower-blades-wont-engage.md → ingested → guides/how-clutches-work.md
+- raw/Articles/poweredoutdoors.com/bad-boy-mower-isnt-getting-fuel.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/bad-boy-starter-solenoid-bad.md → ingested → guides/mower-got-wet.md, guides/reading-wiring-schematics.md
+- raw/Articles/poweredoutdoors.com/bad-husqvarna-starter-solenoid.md → ingested → guides/battery-care-and-charging.md, guides/mower-got-wet.md
+- raw/Articles/poweredoutdoors.com/battery-lawn-mower-wont-start.md → ingested → guides/electric-mower-care-and-safety.md
+- raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-scag-lawn-mower.md → ingested → guides/belt-types.md, guides/cleaning-the-mower.md
+- raw/Articles/poweredoutdoors.com/best-zero-turn-mower-tires-for-hills.md → ingested → guides/zero-turn-safety.md
+- raw/Articles/poweredoutdoors.com/big-dog-mowers-uses-this-gas.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/big-dog-zero-turn-wont-start.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/bobcat-zero-turn-starts-then-dies.md → ingested → guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/bobcat-zero-turn-uneven-cut.md → ingested → guides/mower-parts-that-wear-out.md
+- raw/Articles/poweredoutdoors.com/bobcat-zero-turn-wont-start.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/can-a-lawn-mower-be-jumpstarted-by-a-car-battery.md → ingested → guides/battery-care-and-charging.md
+- raw/Articles/poweredoutdoors.com/can-you-use-redex-in-a-lawn-mower.md → ingested → guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/can-you-use-your-electric-lawn-mower-in-the-rain.md → ingested → guides/electric-mower-care-and-safety.md, guides/mower-got-wet.md
+- raw/Articles/poweredoutdoors.com/caring-for-your-electric-lawn-mower.md → ingested → guides/battery-care-and-charging.md, guides/cleaning-the-mower.md, guides/electric-mower-care-and-safety.md, guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/change-and-sharpen-your-husqvarna-lawn-mower-blades.md → ingested → guides/mower-parts-that-wear-out.md
+- raw/Articles/poweredoutdoors.com/change-and-sharpen-your-kubota-lawn-mower-blades.md → ingested → guides/mower-parts-that-wear-out.md
+- raw/Articles/poweredoutdoors.com/change-sharpen-your-bad-boy-lawn-mower-blades.md → ingested → guides/mower-parts-that-wear-out.md
+- raw/Articles/poweredoutdoors.com/change-sharpen-your-cub-cadet-mower-blades.md → ingested → guides/mower-parts-that-wear-out.md
+- raw/Articles/poweredoutdoors.com/change-sharpen-your-honda-lawn-mower-blades.md → ingested → guides/mower-parts-that-wear-out.md
+- raw/Articles/poweredoutdoors.com/change-sharpen-your-push-mower-blades.md → ingested → guides/mower-parts-that-wear-out.md
+- raw/Articles/poweredoutdoors.com/change-sharpen-your-zero-turn-mower-blades.md → ingested → guides/mower-parts-that-wear-out.md, guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/choosing-between-a-residential-commercial-zero-turn-mower.md → ingested → guides/zero-turn-safety.md
+- raw/Articles/poweredoutdoors.com/clean-a-craftsman-lawn-mower-carburetor.md → ingested → guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/clean-a-husqvarna-mower-carburetor.md → ingested → guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/clean-a-toro-lawn-mower-carburetor.md → ingested → guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/clean-a-zero-turn-mower-carburetor.md → ingested → guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/clean-kawasaki-carburetor.md → ingested → guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/common-ariens-lawn-mower-problems-solutions.md → ingested → guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md → ingested → guides/customer-intake.md, guides/engine-oil-guide.md, guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/common-craftsman-lawn-mower-problems.md → ingested → guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/common-gravely-lawn-mower-problems-solutions.md → ingested → guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md → ingested → guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/common-zero-turn-problems-how-to-fix-them.md → ingested → guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/country-clipper-zero-turn-mower-wont-start.md → ingested → guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/craftsman-clicks-wont-start.md → ingested → guides/battery-care-and-charging.md
+- raw/Articles/poweredoutdoors.com/craftsman-lawn-mower-is-smoking.md → ingested → guides/engine-oil-guide.md
+- raw/Articles/poweredoutdoors.com/craftsman-mower-overheating.md → ingested → guides/engine-cooling-times.md, guides/engine-oil-guide.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-dies-while-mowing.md → ingested → guides/choosing-the-right-gas.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-is-leaking-gas.md → ingested → guides/choosing-the-right-gas.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-is-smoking.md → ingested → guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-battery-keeps-dying.md → ingested → guides/battery-care-and-charging.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-mower-engine-overheats.md → ingested → guides/engine-cooling-times.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md → ingested → guides/choosing-the-right-gas.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md → ingested → guides/zero-turn-safety.md
+- raw/Articles/poweredoutdoors.com/dangers-of-zero-turn-mowers-how-to-operate-safely.md → ingested → guides/zero-turn-safety.md
+- raw/Articles/poweredoutdoors.com/dixon-lawn-mower-wont-start.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/dont-skip-winterizing-your-husqvarna-zero-turn.md → ingested → guides/battery-care-and-charging.md, guides/fuel-storage-and-stabilizers.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/ego-electric-lawn-mower-is-cutting-uneven.md → ingested → guides/electric-mower-care-and-safety.md
+- raw/Articles/poweredoutdoors.com/ego-mower-starts-then-stops.md → ingested → guides/electric-mower-care-and-safety.md
+- raw/Articles/poweredoutdoors.com/electric-lawn-mower-wont-start.md → ingested → guides/battery-care-and-charging.md, guides/electric-mower-care-and-safety.md
+- raw/Articles/poweredoutdoors.com/electric-lawn-mowers-and-water-what-you-need-to-know.md → ingested → guides/cleaning-the-mower.md, guides/electric-mower-care-and-safety.md, guides/mower-got-wet.md
+- raw/Articles/poweredoutdoors.com/electric-lawn-mowers-dangers-and-safety-guide.md → ingested → guides/electric-mower-care-and-safety.md
+- raw/Articles/poweredoutdoors.com/exmark-belt-keeps-coming-off-or-breaking.md → ingested → guides/mower-parts-that-wear-out.md
+- raw/Articles/poweredoutdoors.com/exmark-lawn-mower-is-vibrating-solved.md → ingested → guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/exmark-lawn-mower-isnt-getting-fuel.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/exmark-mower-blades-wont-engage.md → ingested → guides/how-clutches-work.md
+- raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md → ingested → guides/engine-oil-guide.md, guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/ferris-zero-turn-belt-keeps-coming-off.md → ingested → guides/belt-types.md
+- raw/Articles/poweredoutdoors.com/fix-your-exmark-mower-deck-problem.md → ingested → guides/cleaning-the-mower.md, guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/gas-for-your-bad-boy-lawn-mower.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/gas-for-your-craftsman-lawn-mower.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/gas-honda-lawn-mowers-use.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/gas-kubota-lawn-mower-use.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/gas-lawn-tractors-use.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/gas-scag-lawn-mowers-use.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/gas-simplicity-lawn-mowers.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/gas-to-use-in-a-push-mower.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/gas-to-use-in-your-gravely-lawn-mower.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/gas-to-use-in-your-john-deere-lawn-mower.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/gas-to-use-in-your-lawn-boy-mower.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/gas-to-use-in-your-snapper-lawn-mower.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/gas-you-need-for-a-riding-lawn-mower.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/guide-to-lawn-mower-air-filters-differences-how-to-clean-them.md → ingested → guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/honda-lawn-mower-is-leaking-gas.md → ingested → guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/honda-lawn-mower-isnt-getting-gas.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/how-to-change-exmark-zero-turn-hydraulic-oil-filter.md → ingested → guides/routine-service-and-maintenance.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/how-to-change-oil-in-a-push-mower-in-8-easy-steps.md → ingested → guides/engine-oil-guide.md, guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/how-to-change-sharpen-ariens-mower-blades.md → ingested → guides/mower-parts-that-wear-out.md
+- raw/Articles/poweredoutdoors.com/how-to-change-sharpen-your-craftsman-mower-blades.md → ingested → guides/mower-parts-that-wear-out.md
+- raw/Articles/poweredoutdoors.com/how-to-change-sharpen-your-john-deere-mower-blades.md → ingested → guides/mower-parts-that-wear-out.md
+- raw/Articles/poweredoutdoors.com/how-to-change-sharpen-your-lawn-tractor-blades.md → ingested → guides/mower-parts-that-wear-out.md, guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/how-to-clean-your-lawn-mower-for-best-performance.md → ingested → guides/cleaning-the-mower.md, guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/how-to-clean-your-metal-lawn-mower-gas-tank-in-9-easy-steps.md → ingested → guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md → ingested → guides/belt-types.md, guides/cleaning-the-mower.md, guides/mower-parts-that-wear-out.md, guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/how-to-service-a-craftsman-riding-lawn-mower.md → ingested → guides/cleaning-the-mower.md, guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/how-to-service-a-cub-cadet-riding-lawn-mower.md → ingested → guides/cleaning-the-mower.md, guides/mower-parts-that-wear-out.md, guides/routine-service-and-maintenance.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/how-to-service-a-gravely-zero-turn-mower.md → ingested → guides/battery-care-and-charging.md, guides/cleaning-the-mower.md, guides/routine-service-and-maintenance.md, guides/winterizing-and-storage.md, guides/zero-turn-safety.md
+- raw/Articles/poweredoutdoors.com/how-to-service-a-husqvarna-riding-mower.md → ingested → guides/battery-care-and-charging.md, guides/cleaning-the-mower.md, guides/routine-service-and-maintenance.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/how-to-service-a-push-lawn-mower.md → ingested → guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/how-to-service-a-push-mower-step-by-step.md → ingested → guides/fuel-storage-and-stabilizers.md, guides/routine-service-and-maintenance.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/how-to-service-a-riding-lawn-mower.md → ingested → guides/cleaning-the-mower.md, guides/engine-oil-guide.md, guides/mower-parts-that-wear-out.md, guides/routine-service-and-maintenance.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/how-to-service-a-simplicity-riding-lawn-mower.md → ingested → guides/cleaning-the-mower.md, guides/engine-oil-guide.md, guides/routine-service-and-maintenance.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/how-to-service-a-zero-turn-lawn-mower.md → ingested → guides/routine-service-and-maintenance.md, guides/winterizing-and-storage.md, guides/zero-turn-safety.md
+- raw/Articles/poweredoutdoors.com/how-to-tell-your-lawn-mower-solenoid-is-bad.md → ingested → guides/mower-got-wet.md, guides/reading-wiring-schematics.md
+- raw/Articles/poweredoutdoors.com/how-to-winterize-your-exmark-lawn-mower.md → ingested → guides/battery-care-and-charging.md, guides/fuel-storage-and-stabilizers.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/husqvarna-battery-keeps-dying.md → ingested → guides/battery-care-and-charging.md
+- raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-isnt-getting-fuel.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/husqvarna-mower-engine-overheats.md → ingested → guides/engine-cooling-times.md
+- raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md → ingested → guides/zero-turn-safety.md
+- raw/Articles/poweredoutdoors.com/hustler-mower-overheating.md → ingested → guides/engine-cooling-times.md
+- raw/Articles/poweredoutdoors.com/hustler-mower-problems.md → ingested → guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/hustler-mowers-use-this-gas.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/inspecting-your-lawn-mower-blades-saves-you-time-money.md → ingested → guides/mower-parts-that-wear-out.md
+- raw/Articles/poweredoutdoors.com/john-deere-mower-battery-keeps-dying.md → ingested → guides/battery-care-and-charging.md
+- raw/Articles/poweredoutdoors.com/john-deere-mower-engine-overheats.md → ingested → guides/engine-cooling-times.md, guides/engine-oil-guide.md
+- raw/Articles/poweredoutdoors.com/john-deere-mower-starts-then-dies.md → ingested → guides/cleaning-the-mower.md
+- raw/Articles/poweredoutdoors.com/john-deere-starter-solenoid-bad.md → ingested → guides/mower-got-wet.md
+- raw/Articles/poweredoutdoors.com/john-deere-zero-turn-mower-wont-start.md → ingested → guides/zero-turn-safety.md
+- raw/Articles/poweredoutdoors.com/kobalt-electric-mower-wont-start.md → ingested → guides/electric-mower-care-and-safety.md
+- raw/Articles/poweredoutdoors.com/kubota-lawn-mower-will-not-start.md → ingested → guides/choosing-the-right-gas.md
+- raw/Articles/poweredoutdoors.com/kubota-mower-engine-overheats.md → ingested → guides/engine-cooling-times.md
+- raw/Articles/poweredoutdoors.com/kubota-zero-turn-dies.md → ingested → guides/cleaning-the-mower.md
+- raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md → ingested → guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/lawn-boy-mower-wont-start.md → ingested → guides/electric-mower-care-and-safety.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-battery-charging-times-explained.md → ingested → guides/battery-care-and-charging.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-checklist-for-a-successful-cut.md → ingested → guides/cleaning-the-mower.md, guides/engine-oil-guide.md, guides/routine-service-and-maintenance.md, guides/zero-turn-safety.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-engine-cooling-times-explained.md → ingested → guides/engine-cooling-times.md, guides/engine-oil-guide.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-isnt-getting-gas.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-replacement.md → ingested → guides/engine-oil-guide.md, guides/mower-parts-that-wear-out.md, guides/routine-service-and-maintenance.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-sputtering-solved.md → ingested → guides/fuel-storage-and-stabilizers.md, guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-starts-smoking-after-an-oil-change.md → ingested → guides/engine-oil-guide.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-after-winter.md → ingested → guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-when-cold.md → ingested → guides/battery-care-and-charging.md, guides/engine-oil-guide.md
+- raw/Articles/poweredoutdoors.com/push-mower-engine-overheats.md → ingested → guides/engine-cooling-times.md, guides/engine-oil-guide.md
+- raw/Articles/poweredoutdoors.com/push-mower-runs-rough-sputters.md → ingested → guides/choosing-the-right-gas.md
+- raw/Articles/poweredoutdoors.com/reasons-why-your-ego-electric-lawn-mower-wont-start.md → ingested → guides/electric-mower-care-and-safety.md
+- raw/Articles/poweredoutdoors.com/replace-exmark-mower-deck-parts.md → ingested → guides/cleaning-the-mower.md
+- raw/Articles/poweredoutdoors.com/riding-lawn-mower-starts-then-dies.md → ingested → guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/riding-lawn-mower-wont-stay-running.md → ingested → guides/choosing-the-right-gas.md
+- raw/Articles/poweredoutdoors.com/riding-mower-isnt-getting-fuel.md → ingested → guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/riding-mower-storage.md → ingested → guides/battery-care-and-charging.md, guides/fuel-storage-and-stabilizers.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/riding-mower-wont-start-after-winter.md → ingested → guides/battery-care-and-charging.md, guides/fuel-storage-and-stabilizers.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/right-gas-for-your-husqvarna-lawn-mower.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/ryobi-electric-mower-bad-uneven-cut.md → ingested → guides/electric-mower-care-and-safety.md
+- raw/Articles/poweredoutdoors.com/scag-bad-solenoid.md → ingested → guides/mower-got-wet.md
+- raw/Articles/poweredoutdoors.com/scag-mower-blades-wont-engage.md → ingested → guides/how-clutches-work.md
+- raw/Articles/poweredoutdoors.com/sea-foam-fuel-additive-in-a-lawn-mower.md → ingested → guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/service-a-cub-cadet-zero-turn-lawn-mower.md → ingested → guides/routine-service-and-maintenance.md, guides/zero-turn-safety.md
+- raw/Articles/poweredoutdoors.com/service-a-husqvarna-zero-turn-lawn-mower.md → ingested → guides/mower-parts-that-wear-out.md, guides/routine-service-and-maintenance.md, guides/winterizing-and-storage.md, guides/zero-turn-safety.md
+- raw/Articles/poweredoutdoors.com/service-a-lawn-tractor.md → ingested → guides/cleaning-the-mower.md, guides/routine-service-and-maintenance.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/simplicity-lawn-mower-isnt-getting-gas.md → ingested → guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/simplicity-mower-is-vibrating.md → ingested → guides/cleaning-the-mower.md
+- raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md → ingested → guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/skil-electric-mower-wont-start-12-starting-problems.md → ingested → guides/electric-mower-care-and-safety.md
+- raw/Articles/poweredoutdoors.com/snapper-blades-wont-engage.md → ingested → guides/battery-care-and-charging.md
+- raw/Articles/poweredoutdoors.com/spartan-lawn-mower-problems-solutions.md → ingested → guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old-gas.md → ingested → guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/start-zero-turn-mower.md → ingested → guides/zero-turn-safety.md
+- raw/Articles/poweredoutdoors.com/sun-joe-electric-mower-bad-cut.md → ingested → guides/electric-mower-care-and-safety.md
+- raw/Articles/poweredoutdoors.com/sun-joe-electric-mower-wont-start.md → ingested → guides/electric-mower-care-and-safety.md
+- raw/Articles/poweredoutdoors.com/this-is-how-long-a-mower-drive-belt-should-last.md → ingested → guides/belt-types.md, guides/mower-parts-that-wear-out.md
+- raw/Articles/poweredoutdoors.com/this-is-the-gas-to-use-in-your-exmark-mower.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/this-is-the-type-of-gas-lawn-mowers-use.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/this-is-the-way-the-blade-goes-on-a-lawn-mower.md → ingested → guides/mower-parts-that-wear-out.md
+- raw/Articles/poweredoutdoors.com/this-is-what-happens-if-you-put-too-much-oil-in-a-lawn-mower.md → ingested → guides/engine-oil-guide.md
+- raw/Articles/poweredoutdoors.com/this-is-why-your-belt-keeps-falling-off-your-lawn-mower.md → ingested → guides/belt-types.md
+- raw/Articles/poweredoutdoors.com/too-much-oil-craftsman-mower.md → ingested → guides/engine-oil-guide.md
+- raw/Articles/poweredoutdoors.com/too-much-oil-cub-cadet-lawn-mower.md → ingested → guides/engine-oil-guide.md
+- raw/Articles/poweredoutdoors.com/too-much-oil-husqvarna-mower.md → ingested → guides/engine-oil-guide.md
+- raw/Articles/poweredoutdoors.com/too-much-oil-john-deere.md → ingested → guides/engine-oil-guide.md
+- raw/Articles/poweredoutdoors.com/too-much-oil-kubota-mower.md → ingested → guides/engine-oil-guide.md
+- raw/Articles/poweredoutdoors.com/too-much-oil-toro-mower.md → ingested → guides/engine-oil-guide.md
+- raw/Articles/poweredoutdoors.com/toro-electric-mower-wont-start.md → ingested → guides/electric-mower-care-and-safety.md, guides/mower-got-wet.md
+- raw/Articles/poweredoutdoors.com/toro-lawn-mower-is-vibrating-solved.md → ingested → guides/cleaning-the-mower.md
+- raw/Articles/poweredoutdoors.com/toro-mower-belt-keeps-breaking.md → ingested → guides/belt-types.md
+- raw/Articles/poweredoutdoors.com/toro-mower-gas.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/toro-zero-turn-wont-start.md → ingested → guides/choosing-the-right-gas.md
+- raw/Articles/poweredoutdoors.com/troubleshoot-cub-cadet-mower-deck-problems.md → ingested → guides/mower-parts-that-wear-out.md
+- raw/Articles/poweredoutdoors.com/troy-bilt-battery-keeps-dying.md → ingested → guides/battery-care-and-charging.md
+- raw/Articles/poweredoutdoors.com/troy-bilt-lawn-mower-isnt-getting-gas.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/type-of-gas-cub-cadet-lawn-mowers-use.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/type-of-gas-push-mowers-use.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/type-of-gas-troy-bilt-mowers-use.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/v-belts-what-are-they-weve-got-the-answer.md → ingested → guides/belt-types.md
+- raw/Articles/poweredoutdoors.com/weed-eater-lawn-mower-wont-start.md → ingested → guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/what-if-you-dont-change-oil-in-your-mower.md → ingested → guides/engine-oil-guide.md, guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/when-your-riding-mower-gets-wet.md → ingested → guides/mower-got-wet.md
+- raw/Articles/poweredoutdoors.com/why-your-craftsman-lawn-mower-dies-how-to-fix.md → ingested → guides/choosing-the-right-gas.md
+- raw/Articles/poweredoutdoors.com/why-your-mower-wont-start-after-leaving-in-the-rain.md → ingested → guides/mower-got-wet.md
+- raw/Articles/poweredoutdoors.com/winter-lawn-mower-battery-care.md → ingested → guides/battery-care-and-charging.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/winterize-a-zero-turn-lawn-mower.md → ingested → guides/battery-care-and-charging.md, guides/fuel-storage-and-stabilizers.md, guides/winterizing-and-storage.md, guides/zero-turn-safety.md
+- raw/Articles/poweredoutdoors.com/winterize-your-cub-cadet-lawn-mower.md → ingested → guides/battery-care-and-charging.md, guides/cleaning-the-mower.md, guides/fuel-storage-and-stabilizers.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/winterize-your-lawn-mower-top-storage-for-your-mower.md → ingested → guides/cleaning-the-mower.md, guides/fuel-storage-and-stabilizers.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/winterize-your-riding-lawn-mower.md → ingested → guides/battery-care-and-charging.md, guides/fuel-storage-and-stabilizers.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/winterize-your-toro-zero-turn-lawn-mower.md → ingested → guides/battery-care-and-charging.md, guides/fuel-storage-and-stabilizers.md, guides/routine-service-and-maintenance.md, guides/winterizing-and-storage.md
+- raw/Articles/poweredoutdoors.com/worx-electric-mower-wont-start.md → ingested → guides/electric-mower-care-and-safety.md
+- raw/Articles/poweredoutdoors.com/your-belt-keeps-falling-off-your-riding-mower-fixed.md → ingested → guides/belt-types.md, guides/mower-parts-that-wear-out.md, guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/zero-turn-begins-smoking-after-an-oil-change.md → ingested → guides/engine-oil-guide.md
+- raw/Articles/poweredoutdoors.com/zero-turn-hydrostatic-transmission-problems.md → ingested → guides/routine-service-and-maintenance.md
+- raw/Articles/poweredoutdoors.com/zero-turn-lawn-mower-isnt-getting-fuel.md → ingested → guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/zero-turn-lawn-mowers-are-they-good-on-hills.md → ingested → guides/zero-turn-safety.md
+- raw/Articles/poweredoutdoors.com/zero-turn-lawn-mowers-use-this-type-of-gas.md → ingested → guides/choosing-the-right-gas.md, guides/fuel-storage-and-stabilizers.md
+- raw/Articles/poweredoutdoors.com/zero-turn-mower-blades-wont-engage-or-turn-on.md → ingested → guides/how-clutches-work.md
+- raw/Articles/poweredoutdoors.com/zero-turn-mower-deck-problems.md → ingested → guides/cleaning-the-mower.md
+- raw/Articles/poweredoutdoors.com/zero-turn-mower-only-runs-choke-on.md → ingested → guides/choosing-the-right-gas.md
+- raw/Articles/searspartsdirect.com/charging-a-battery-in-a-riding-lawn-mower-video.md → ingested → guides/battery-care-and-charging.md
+- raw/Articles/searspartsdirect.com/dead-battery.ltrtr141.md → ingested → guides/battery-care-and-charging.md
+- raw/Articles/searspartsdirect.com/easy-diy-riding-lawn-mower-repairs.md → ingested → guides/mower-parts-that-wear-out.md, procedures/replace-the-seat.md
+- raw/Articles/searspartsdirect.com/how-to-change-the-oil-in-a-riding-lawn-mower-video.md → ingested → guides/engine-oil-guide.md, guides/routine-service-and-maintenance.md
+- raw/Articles/searspartsdirect.com/how-to-keep-grass-clippings-from-sticking-to-a-mower-deck.md → ingested → guides/cleaning-the-mower.md
+- raw/Articles/searspartsdirect.com/how-to-keep-lawn-mower-gas-from-going-bad.md → ingested → guides/fuel-storage-and-stabilizers.md, guides/winterizing-and-storage.md
+- raw/Articles/searspartsdirect.com/how-to-measure-a-mower-blade.md → ingested → guides/mower-parts-that-wear-out.md
+- raw/Articles/searspartsdirect.com/how-to-read-a-wiring-schematic-video.md → ingested → guides/reading-wiring-schematics.md
+- raw/Articles/searspartsdirect.com/how-to-replace-the-seat-on-a-riding-lawn-mower.md → ingested → procedures/replace-the-seat.md
+- raw/Articles/searspartsdirect.com/jump-starting-a-riding-lawn-mower-battery-video.md → ingested → guides/battery-care-and-charging.md
+- raw/Articles/searspartsdirect.com/riding-lawn-mower-blades-video.md → ingested → guides/mower-parts-that-wear-out.md
+- raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-wont-turn-over-or-click-video.md → ingested → guides/reading-wiring-schematics.md
+- raw/Articles/searspartsdirect.com/riding-lawn-mower-maintenance-checklist-by-season.md → ingested → guides/routine-service-and-maintenance.md, guides/winterizing-and-storage.md
+- raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md → ingested → guides/choosing-the-right-gas.md
+- raw/Articles/searspartsdirect.com/riding-mower-parts-and-supplies-to-stock-up-on-video.md → ingested → guides/cleaning-the-mower.md, guides/fuel-storage-and-stabilizers.md, guides/mower-parts-that-wear-out.md, guides/routine-service-and-maintenance.md
+- raw/Articles/searspartsdirect.com/should-i-get-an-electric-riding-mower.md → ingested → guides/electric-mower-care-and-safety.md
+- raw/Articles/searspartsdirect.com/storing-your-lawn-tractor-for-winter.md → ingested → guides/battery-care-and-charging.md, guides/cleaning-the-mower.md, guides/fuel-storage-and-stabilizers.md, guides/winterizing-and-storage.md
+- raw/Articles/searspartsdirect.com/using-a-wiring-schematic-to-trace-a-current-video.md → ingested → guides/reading-wiring-schematics.md
+- raw/Articles/searspartsdirect.com/what-are-the-riding-mower-parts-that-require-replacement-most-often.md → ingested → guides/mower-parts-that-wear-out.md
+- raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-smells-like-gas-and-how-to-fix-it.md → ingested → guides/fuel-storage-and-stabilizers.md
+- raw/Articles/searspartsdirect.com/wiring-schematic-symbols-explained-video.md → ingested → guides/reading-wiring-schematics.md
+- raw/Articles/searspartsdirect.com/won-t-move.ltr1818.md → ingested → procedures/replace-the-seat.md
+
+Note: Cluster 35 (ticket 35), split across four page writers plus finalizer. Created guides battery-care-and-charging (29), belt-types (8), choosing-the-right-gas (44), cleaning-the-mower (26), electric-mower-care-and-safety (19), engine-cooling-times (9), engine-oil-guide (27), fuel-storage-and-stabilizers (61), how-clutches-work (5), mower-got-wet (10), mower-parts-that-wear-out (28), reading-wiring-schematics (7), routine-service-and-maintenance (48), winterizing-and-storage (28), zero-turn-safety (14); procedures/replace-the-seat (3), linked to causes/bad-safety-switch (its Fix already says to replace a worn seat that no longer presses the switch; back-link added). Updated guides/customer-intake (Bad Boy warranty/recall lookup by serial number) and added Guide links to the Tips sections of 44 Problem, Cause and Procedure pages; index. Folded: 2-cycle mixing and ethanol content into choosing-the-right-gas; fuel additive dosing (Sea Foam, Redex) into fuel-storage-and-stabilizers; cold-weather oil viscosity into engine-oil-guide; battery freeze risk into battery-care-and-charging (zero-charge freeze-table row not cited; lawn-mower-wont-start-when-cold cited only for its under-20 °F sentence, since its 40% and 20% rows also disagree with the other two tables); blade types and spares to stock into mower-parts-that-wear-out; winterize-a-zero-turn and clogged-mower-deck candidates into winterizing-and-storage and cleaning-the-mower. Wiring-schematic videos: appliance examples dropped, only the generic method kept. Smoke colour stays on mower-is-smoking. Un-skipped at the skip review: a-guide-to-choosing-a-cordless-lawn-mower and should-i-get-an-electric-riding-mower (battery run time, battery life, charging habits, cleaning) on electric-mower-care-and-safety; best-zero-turn-mower-tires-for-hills and choosing-between-a-residential-commercial-zero-turn-mower (15-degree slope limit, 5 feet from water and drop-offs, wet-grass hills) on zero-turn-safety. Source errors handled: octane 87 vs 89 (Lawn-Boy and push-mower 2-cycle steps, Simplicity tips) as a callout, 87 advised; E30 vs E35 in the push-mower article as a callout; Scag REC-90 "up to 0%" not cited as written (REC-90 is ethanol-free); "minimum 10% ethanol" typo not cited (maximum cited); Exmark garbled ethanol sentence not cited; battery "ohmmeter" typo not used (multimeter on DC); belt-types fractional-horsepower "3.75 inches" typo not cited. Conflicts flagged: stabilizer into the tank vs only into the can (Sears vs expert blogs); full-charge voltage 12.7 vs 12.6 V and charge time; outdoor cover waterproof vs breathable; battery left in vs removed for winter; storing in a basement; foam filter oiling; break-in oil change 5 vs 5-10 vs 7-10 hours; drive belt life yearly vs 3-4 years. Part numbers: Exmark hydraulic filter numbers from shop links not cited. No page dropped. Spot-check of 15 random citations (5 each on fuel-storage-and-stabilizers, routine-service-and-maintenance, choosing-the-right-gas): 0 errors.

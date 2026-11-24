@@ -75,6 +75,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/ariens-zero-turn-mower-wont
 ## Tips & life hacks
 
 - Never tow a hydrostatic mower or pull it with other equipment: it can damage the transmission and lead to a large repair bill. Open the bypass and push it by hand instead.
+- For general owner know-how, see the Guide: [Zero-turn safety](../guides/zero-turn-safety.md).
 
 Sources: [S15](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-wont-move-or-go-forward.md), [S14](../../raw/Articles/poweredoutdoors.com/john-deere-riding-mower-wont-move.md), [S11](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-mower-wont-move-or-go-forward.md), [S16](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-wont-move-forward-or-reverse.md)
 

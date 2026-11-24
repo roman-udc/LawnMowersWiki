@@ -15,7 +15,7 @@ tools:
   - flat, stable surface
   - a new blade of the same model (to compare against)
 source_count: 23
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Measure a mower blade
@@ -90,6 +90,7 @@ Sources: [S10](../../raw/Articles/poweredoutdoors.com/how-to-change-sharpen-arie
 - Look at the rest of the blade while you have it: a sail thinner than the blade's center, or rounded tips, means replace; small chips sharpen out, large nicks and gouges mean replace; a cracked blade must be replaced at once.
 - Check balance: hang the blade by its center hole on a blade balancer, or on a nail sticking 3/4" to 1" out of the wall. Take metal off the end that hangs lower until it sits level. Uneven wear from sand, or taking more off one end when sharpening, puts a blade out of balance.
 - Check the rest of the mower too, including the deck and drive system.
+- For general owner know-how, see the Guide: [Mower parts that wear out](../guides/mower-parts-that-wear-out.md).
 
 Sources: [S1](../../raw/Articles/searspartsdirect.com/how-to-measure-a-mower-blade.md), [S4](../../raw/Articles/poweredoutdoors.com/change-and-sharpen-your-kubota-lawn-mower-blades.md), [S5](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-bad-boy-lawn-mower-blades.md), [S10](../../raw/Articles/poweredoutdoors.com/how-to-change-sharpen-ariens-mower-blades.md), [S3](../../raw/Articles/poweredoutdoors.com/how-to-change-sharpen-your-lawn-tractor-blades.md), [S2](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-zero-turn-mower-blades.md), [S7](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-honda-lawn-mower-blades.md), [S9](../../raw/Articles/poweredoutdoors.com/how-to-change-and-sharpen-your-exmark-mower-blades.md), [S14](../../raw/Articles/poweredoutdoors.com/greenworks-lawn-mower-is-cutting-uneven.md), [S11](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-cuts-uneven.md)
 

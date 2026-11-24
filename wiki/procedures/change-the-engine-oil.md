@@ -20,7 +20,7 @@ tools:
   - drain hose, tube or sleeve (engines with a drain valve or port)
   - oil extractor or evacuator pump (optional)
 source_count: 35
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Change the engine oil
@@ -102,6 +102,8 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/how-to-change-the-oil-in-a
 - A drain plug can look like a large bolt head hidden under dirt and grass. A drain hose is cleaner than a plug, and one can be added to many engines: ask the engine dealer. Sources: [S21](../../raw/Articles/poweredoutdoors.com/guide-to-draining-oil-from-your-lawn-mower.md), [S22](../../raw/Articles/poweredoutdoors.com/service-a-lawn-tractor.md)
 - While a push mower is on its side, scrape the deck and inspect the blades. Good annual-service companions: a fuel filter and an air filter check. Source: [S2](../../raw/Articles/poweredoutdoors.com/how-to-change-oil-in-a-push-mower-in-8-easy-steps.md)
 - Oil filters: use the OEM filter from the owner's manual, or an aftermarket one through a cross-reference website. Source: [S25](../../raw/Articles/poweredoutdoors.com/what-if-you-dont-change-oil-in-your-mower.md)
+
+- For general owner know-how, see the Guide: [Engine oil guide](../guides/engine-oil-guide.md).
 
 ## Verify the fix
 

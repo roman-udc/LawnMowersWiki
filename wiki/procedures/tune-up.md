@@ -24,7 +24,7 @@ tools:
   - work gloves
   - safety glasses
 source_count: 19
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Tune up the engine
@@ -101,6 +101,8 @@ Sources: [S13](../../raw/Articles/searspartsdirect.com/how-to-tune-up-a-riding-l
 - A full annual service also covers the safety interlock check, tire pressures and lug nuts, deck cleaning and scraping, belts, pulleys and spindles, blades, greasing and washing. Set tire pressure to the owner's manual, which can differ from the maximum on the sidewall. Sources: [S7](../../raw/Articles/poweredoutdoors.com/how-to-service-a-simplicity-riding-lawn-mower.md), [S3](../../raw/Articles/poweredoutdoors.com/how-to-service-a-gravely-zero-turn-mower.md), [S4](../../raw/Articles/poweredoutdoors.com/how-to-service-a-push-lawn-mower.md)
 - Before storing for the off-season, remove the fuel or add a stabilizer and run the engine a couple of minutes, and fully charge the battery or remove it. Sources: [S5](../../raw/Articles/poweredoutdoors.com/how-to-service-a-push-mower-step-by-step.md), [S11](../../raw/Articles/poweredoutdoors.com/service-a-lawn-tractor.md)
 - If you can't find a problem or aren't comfortable doing the work, take the mower to a dealer or an experienced small engine mechanic. Source: [S8](../../raw/Articles/poweredoutdoors.com/how-to-service-a-zero-turn-lawn-mower.md)
+
+- For general owner know-how, see the Guide: [Routine service and maintenance](../guides/routine-service-and-maintenance.md).
 
 ## Verify the fix
 

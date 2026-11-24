@@ -125,6 +125,7 @@ Sources: [S6](../../raw/Articles/poweredoutdoors.com/electric-lawn-mower-wont-st
 
 - Charge the battery an hour or two before use so it is fully charged, and track its age; a fully charged battery left sitting loses some charge over time.
 - Empty the bag and clear the deck after every use.
+- For general owner know-how, see the Guide: [Electric mower care and safety](../guides/electric-mower-care-and-safety.md).
 
 Sources: [S6](../../raw/Articles/poweredoutdoors.com/electric-lawn-mower-wont-start.md), [S5](../../raw/Articles/poweredoutdoors.com/battery-lawn-mower-wont-start.md)
 

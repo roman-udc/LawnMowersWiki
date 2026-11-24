@@ -58,6 +58,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/battery-lawn-mower-wont-sta
 ## Tips & life hacks
 
 - Clogged vents are why most mowers won't turn on with a hot battery; see [Overheated battery](overheated-battery.md).
+- For general owner know-how, see the Guide: [Electric mower care and safety](../guides/electric-mower-care-and-safety.md).
 
 Sources: [S2](../../raw/Articles/poweredoutdoors.com/electric-lawn-mower-wont-start.md)
 

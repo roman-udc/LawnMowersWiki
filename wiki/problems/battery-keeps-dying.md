@@ -92,6 +92,7 @@ Sources: [S11](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-starts-
 - Don't let the battery freeze: keep it fully charged in cold weather, since a battery that isn't fully charged can freeze and be damaged.
 - Charge the battery fully before winter storage; it can lose charge in the off-season and may need charging again before the first spring start.
 - How long a charge lasts: one Source claims a fully charged lawn mower battery typically lasts about one hour, and that a full (especially trickle) charge reduces how often it needs charging. That is this Source's claim; no other Source gives a run time.
+- For general owner know-how, see the Guide: [Battery care and charging](../guides/battery-care-and-charging.md).
 
 Sources: [S16](../../raw/Articles/poweredoutdoors.com/lawn-mower-battery-charging-times-explained.md), [S4](../../raw/Articles/poweredoutdoors.com/bad-boy-battery-keeps-dying.md), [S2](../../raw/Articles/poweredoutdoors.com/john-deere-mower-battery-keeps-dying.md), [S5](../../raw/Articles/searspartsdirect.com/dead-battery.ltrtr141.md)
 

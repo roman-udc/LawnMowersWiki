@@ -12,7 +12,7 @@ tools:
   - wiring diagram (schematic) for your model
   - multimeter
 source_count: 6
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Read a wiring schematic
@@ -63,6 +63,8 @@ Sources: [S2](../../raw/Articles/searspartsdirect.com/how-to-read-a-wiring-schem
 
 - Accurate diagnosis helps you buy the right part. More complicated circuits are traced with the same basic method. Source: [S1](../../raw/Articles/searspartsdirect.com/using-a-wiring-schematic-to-trace-a-current-video.md)
 - Use your own mower's wiring diagram if the wiring differs from an example. Source: [S4](../../raw/Articles/searspartsdirect.com/troubleshooting-a-riding-lawn-mower-blown-fuse-video.md)
+
+- For general owner know-how, see the Guide: [Reading wiring schematics](../guides/reading-wiring-schematics.md).
 
 ## Verify the fix
 

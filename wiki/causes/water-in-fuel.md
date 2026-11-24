@@ -83,6 +83,7 @@ Sources: [S9](../../raw/Articles/poweredoutdoors.com/when-your-riding-mower-gets
 - Add a fuel stabilizer to the gas; one author adds Sea Foam to every tank.
 - Store the mower inside or covered, and keep all fuel in a dry place.
 - Keep the fuel cap on securely, with its seal in good condition.
+- For general owner know-how, see the Guides: [Choosing the right gas](../guides/choosing-the-right-gas.md), [Mower got wet](../guides/mower-got-wet.md).
 
 Sources: [S6](../../raw/Articles/poweredoutdoors.com/lawn-mower-sputtering-solved.md), [S11](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-is-sputtering.md)
 

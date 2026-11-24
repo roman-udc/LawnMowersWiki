@@ -127,6 +127,7 @@ Sources: [S7](../../raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-
 - Check belts regularly; also check tension springs (they can break) and clean dirt, mud and debris from the pulleys.
 - Turn the mower off and inspect the belt as soon as you hear squealing at start-up.
 - Debris packed in the deck stresses the belt and can make it snap.
+- For general owner know-how, see the Guide: [Mower parts that wear out](../guides/mower-parts-that-wear-out.md).
 
 Sources: [S73](../../raw/Articles/poweredoutdoors.com/this-is-why-your-belt-keeps-falling-off-your-lawn-mower.md), [S74](../../raw/Articles/poweredoutdoors.com/toro-mower-belt-keeps-breaking.md), [S72](../../raw/Articles/poweredoutdoors.com/this-is-how-long-a-mower-drive-belt-should-last.md), [S20](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-belt-is-bad.md), [S98](../../raw/Articles/searspartsdirect.com/won-t-cut-grass.ridtr01.md)
 
