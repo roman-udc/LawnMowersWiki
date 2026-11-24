@@ -9,6 +9,7 @@ problems:
   - ../problems/engine-loses-power.md
   - ../problems/engine-runs-rough.md
   - ../problems/engine-dies-when-hot.md
+  - ../problems/engine-only-runs-with-choke-on.md
 part_types:
   - carburetor
   - carburetor rebuild kit
@@ -70,6 +71,10 @@ Sources for Engine runs rough: [S32](../../raw/Articles/poweredoutdoors.com/clea
 
 Sources for Engine dies when hot: [S76](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-quits-when-hot.md), [S88](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-quits-when-hot.md), [S109](../../raw/Articles/poweredoutdoors.com/lawn-mower-quits-when-hot.md), [S123](../../raw/Articles/poweredoutdoors.com/push-mower-quits-when-hot.md), [S130](../../raw/Articles/poweredoutdoors.com/riding-lawn-mower-quits-when-hot.md), [S149](../../raw/Articles/poweredoutdoors.com/solved-toro-lawn-mower-quits-when-hot.md), [S178](../../raw/Articles/poweredoutdoors.com/your-cub-cadet-quits-when-it-gets-hot-solved.md), [S193](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-quits-when-hot.md), [S204](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S207](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S218](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md)
 
+- [Engine only runs with the choke on](../problems/engine-only-runs-with-choke-on.md): clogged passages restrict fuel, so the choke is needed to correct the mixture.
+
+Sources for Engine only runs with the choke on: [S10](../../raw/Articles/poweredoutdoors.com/riding-mower-only-runs-choke-on.md), [S15](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md), [S91](../../raw/Articles/poweredoutdoors.com/john-deere-mower-runs-choke-on.md), [S101](../../raw/Articles/poweredoutdoors.com/kubota-mower-runs-choke-on.md), [S159](../../raw/Articles/poweredoutdoors.com/toro-only-runs-choke-on.md), [S192](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-only-runs-choke-on.md)
+
 ## How to confirm
 
 1. Confirm good fuel flow to the carburetor. Check the fuel line running to it, and any fuel filter or fuel pump, for a restriction.
@@ -129,7 +134,7 @@ Sources: [S8](../../raw/Articles/poweredoutdoors.com/clean-a-push-mower-carburet
 ## Tips & life hacks
 
 - Don't tear down the carburetor until fuel flow to it is confirmed and the intake spray test points at it. Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S2](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but-wont-start.md)
-- If a riding mower only runs with the choke on, suspect a dirty carburetor or another fuel restriction. Sources: [S10](../../raw/Articles/poweredoutdoors.com/riding-mower-only-runs-choke-on.md), [S15](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md)
+- If a riding mower [only runs with the choke on](../problems/engine-only-runs-with-choke-on.md), suspect a dirty carburetor or another fuel restriction. Sources: [S10](../../raw/Articles/poweredoutdoors.com/riding-mower-only-runs-choke-on.md), [S15](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md)
 - It is almost impossible to remove all of the white crusty material. Get off as much as you can. Sources: [S8](../../raw/Articles/poweredoutdoors.com/clean-a-push-mower-carburetor.md), [S14](../../raw/Articles/poweredoutdoors.com/clean-a-zero-turn-mower-carburetor.md)
 - If cleaning doesn't fix it and you aren't sure the carburetor is the fault, have a repair shop diagnose it rather than throwing parts at the mower. Source: [S14](../../raw/Articles/poweredoutdoors.com/clean-a-zero-turn-mower-carburetor.md)
 - To keep it from happening again, use fresh gas with a stabilizer, and never gas with more than 10% ethanol. Sources: [S8](../../raw/Articles/poweredoutdoors.com/clean-a-push-mower-carburetor.md), [S10](../../raw/Articles/poweredoutdoors.com/riding-mower-only-runs-choke-on.md)

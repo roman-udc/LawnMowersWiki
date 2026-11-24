@@ -3,6 +3,7 @@ type: cause
 title: Bad carburetor gasket or needle and seat
 problems:
   - ../problems/mower-is-leaking-gas.md
+  - ../problems/engine-only-runs-with-choke-on.md
 part_types:
   - carburetor bowl gasket
   - carburetor intake gasket
@@ -44,9 +45,11 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/10-reasons-your-lawn-mower-
 ## Symptoms it produces
 
 - [Mower is leaking gas](../problems/mower-is-leaking-gas.md): fuel drips or seeps around the bottom of the carburetor bowl (gasket), or wets the area by the air intake port (stuck float or needle). You may see a small puddle under the mower or a wet carburetor body, with the gas smell strongest right after running.
-- Engine only runs with the choke on: a worn gasket behind the carburetor (between it and the engine) lets extra air in, so the engine runs lean and the choke compensates. This Problem has no page yet.
+- [Engine only runs with the choke on](../problems/engine-only-runs-with-choke-on.md): a worn gasket behind the carburetor (between it and the engine) lets extra air in, so the engine runs lean and the choke compensates. This Problem has no page yet.
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/10-reasons-your-lawn-mower-could-be-leaking-gasoline.md), [S25](../../raw/Articles/poweredoutdoors.com/toro-lawn-mower-is-leaking-gas-fixed.md), [S36](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-smells-like-gas-and-how-to-fix-it.md), [S28](../../raw/Articles/poweredoutdoors.com/why-your-lawn-mower-smells-like-gas.md), [S8](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md), [S15](../../raw/Articles/poweredoutdoors.com/john-deere-mower-runs-choke-on.md), [S17](../../raw/Articles/poweredoutdoors.com/kubota-mower-runs-choke-on.md), [S20](../../raw/Articles/poweredoutdoors.com/riding-mower-only-runs-choke-on.md), [S26](../../raw/Articles/poweredoutdoors.com/toro-only-runs-choke-on.md), [S34](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-only-runs-choke-on.md)
+
+Sources for Engine only runs with the choke on: [S8](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md), [S15](../../raw/Articles/poweredoutdoors.com/john-deere-mower-runs-choke-on.md), [S17](../../raw/Articles/poweredoutdoors.com/kubota-mower-runs-choke-on.md), [S20](../../raw/Articles/poweredoutdoors.com/riding-mower-only-runs-choke-on.md), [S26](../../raw/Articles/poweredoutdoors.com/toro-only-runs-choke-on.md), [S34](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-only-runs-choke-on.md)
 
 ## How to confirm
 

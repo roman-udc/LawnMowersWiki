@@ -7,6 +7,7 @@ problems:
   - ../problems/mower-is-leaking-gas.md
   - ../problems/engine-loses-power.md
   - ../problems/engine-runs-rough.md
+  - ../problems/engine-only-runs-with-choke-on.md
 part_types:
   - fuel pump
 procedures: []
@@ -58,6 +59,10 @@ Sources for Engine loses power: [S11](../../raw/Articles/poweredoutdoors.com/bri
 - [Engine runs rough](../problems/engine-runs-rough.md): the engine sputters as if it's running out of gas.
 
 Sources for Engine runs rough: [S75](../../raw/Articles/poweredoutdoors.com/lawn-mower-acts-like-its-running-out-of-gas.md)
+
+- [Engine only runs with the choke on](../problems/engine-only-runs-with-choke-on.md): not enough fuel reaches the carburetor, so it only runs with the choke on.
+
+Sources for Engine only runs with the choke on: [S13](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md), [S66](../../raw/Articles/poweredoutdoors.com/john-deere-mower-runs-choke-on.md), [S72](../../raw/Articles/poweredoutdoors.com/kubota-mower-runs-choke-on.md), [S88](../../raw/Articles/poweredoutdoors.com/riding-mower-only-runs-choke-on.md), [S105](../../raw/Articles/poweredoutdoors.com/toro-only-runs-choke-on.md), [S134](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-only-runs-choke-on.md)
 
 ## How to confirm
 

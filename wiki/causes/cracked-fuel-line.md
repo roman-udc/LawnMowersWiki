@@ -3,6 +3,7 @@ type: cause
 title: Cracked fuel line
 problems:
   - ../problems/mower-is-leaking-gas.md
+  - ../problems/engine-only-runs-with-choke-on.md
 part_types:
   - fuel line
   - fuel line clamp
@@ -40,9 +41,11 @@ Sources: [S37](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mowe
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/10-reasons-your-lawn-mower-could-be-leaking-gasoline.md), [S4](../../raw/Articles/poweredoutdoors.com/common-exmark-mower-problems-and-solutions.md), [S5](../../raw/Articles/poweredoutdoors.com/common-lawn-mower-problems-fixed.md), [S6](../../raw/Articles/poweredoutdoors.com/common-push-mower-problems-solutions.md), [S7](../../raw/Articles/poweredoutdoors.com/common-toro-lawn-mower-problems-solutions.md), [S8](../../raw/Articles/poweredoutdoors.com/common-troy-bilt-lawn-mower-problems.md), [S9](../../raw/Articles/poweredoutdoors.com/common-zero-turn-problems-how-to-fix-them.md), [S10](../../raw/Articles/poweredoutdoors.com/cub-cadet-is-leaking-gas.md), [S13](../../raw/Articles/poweredoutdoors.com/gravely-lawn-mower-is-leaking-gas.md), [S16](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-is-leaking-gas.md), [S17](../../raw/Articles/poweredoutdoors.com/hustler-mower-leaking-gas.md), [S21](../../raw/Articles/poweredoutdoors.com/push-mower-is-leaking-gas.md), [S22](../../raw/Articles/poweredoutdoors.com/riding-mower-is-leaking-gas.md), [S26](../../raw/Articles/poweredoutdoors.com/snapper-mower-is-leaking-gas.md), [S27](../../raw/Articles/poweredoutdoors.com/spartan-lawn-mower-is-leaking-gas.md), [S33](../../raw/Articles/poweredoutdoors.com/your-exmark-lawn-mower-is-leaking-gas-fixed.md), [S34](../../raw/Articles/poweredoutdoors.com/your-john-deere-lawn-mower-is-leaking-gas.md), [S35](../../raw/Articles/poweredoutdoors.com/your-lawn-tractor-is-leaking-gas.md), [S36](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-is-leaking-fuel.md), [S31](../../raw/Articles/poweredoutdoors.com/why-your-lawn-mower-smells-like-gas.md), [S37](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-smells-like-gas-and-how-to-fix-it.md)
 
-- Engine only runs with the choke on: a puncture or crack lets air be sucked into the line, so the engine gets too much air and the choke makes up for it.
+- [Engine only runs with the choke on](../problems/engine-only-runs-with-choke-on.md): a puncture or crack lets air be sucked into the line, so the engine gets too much air and the choke makes up for it.
 
 Sources: [S11](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md), [S18](../../raw/Articles/poweredoutdoors.com/john-deere-mower-runs-choke-on.md), [S20](../../raw/Articles/poweredoutdoors.com/kubota-mower-runs-choke-on.md), [S23](../../raw/Articles/poweredoutdoors.com/riding-mower-only-runs-choke-on.md), [S29](../../raw/Articles/poweredoutdoors.com/toro-only-runs-choke-on.md)
+
+Sources for Engine only runs with the choke on: [S11](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md), [S18](../../raw/Articles/poweredoutdoors.com/john-deere-mower-runs-choke-on.md), [S20](../../raw/Articles/poweredoutdoors.com/kubota-mower-runs-choke-on.md), [S23](../../raw/Articles/poweredoutdoors.com/riding-mower-only-runs-choke-on.md), [S29](../../raw/Articles/poweredoutdoors.com/toro-only-runs-choke-on.md)
 
 ## How to confirm
 

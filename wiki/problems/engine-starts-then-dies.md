@@ -211,7 +211,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/8-reasons-your-lawn-mower-w
 - **The engine doesn't spin at all, or only clicks:** see [Engine won't crank or turn over](engine-wont-crank.md).
 - **It dies only once it is hot:** see [Engine dies when hot](engine-dies-when-hot.md).
 - **It runs hot, smokes or loses power without stalling:** see [Engine loses power](engine-loses-power.md) and [Engine overheats](engine-overheats.md).
-- **It only keeps running with the choke on:** see the Engine only runs with the choke on Problem (page not written yet).
+- **It only keeps running with the choke on:** see [Engine only runs with the choke on](engine-only-runs-with-choke-on.md).
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/8-reasons-your-lawn-mower-wont-stay-running.md), [S32](../../raw/Articles/poweredoutdoors.com/fix-lawn-mower-starts-then-dies.md), [S52](../../raw/Articles/poweredoutdoors.com/lawn-mower-keeps-stalling.md)
 

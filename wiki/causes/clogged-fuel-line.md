@@ -6,6 +6,7 @@ problems:
   - ../problems/engine-starts-then-dies.md
   - ../problems/engine-loses-power.md
   - ../problems/engine-runs-rough.md
+  - ../problems/engine-only-runs-with-choke-on.md
 part_types:
   - fuel line
 procedures:
@@ -55,6 +56,10 @@ Sources for Engine loses power: [S11](../../raw/Articles/poweredoutdoors.com/bri
 - [Engine runs rough](../problems/engine-runs-rough.md): the restricted line starves the engine and it sputters.
 
 Sources for Engine runs rough: [S42](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-running-rough-sputtering.md), [S55](../../raw/Articles/poweredoutdoors.com/ferris-runs-rough.md), [S72](../../raw/Articles/poweredoutdoors.com/hustler-mower-runs-rough.md), [S75](../../raw/Articles/poweredoutdoors.com/john-deere-mower-running-rough.md), [S84](../../raw/Articles/poweredoutdoors.com/kubota-mower-rough-sputtering.md), [S89](../../raw/Articles/poweredoutdoors.com/lawn-mower-acts-like-its-running-out-of-gas.md), [S90](../../raw/Articles/poweredoutdoors.com/lawn-mower-is-running-rough.md), [S92](../../raw/Articles/poweredoutdoors.com/lawn-mower-sputtering-solved.md), [S105](../../raw/Articles/poweredoutdoors.com/push-mower-runs-rough-sputters.md), [S165](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S166](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S169](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S171](../../raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md), [S173](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md), [S174](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md), [S176](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md), [S177](../../raw/Articles/poweredoutdoors.com/hustler-mower-problems.md), [S178](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md), [S179](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md), [S181](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md)
+
+- [Engine only runs with the choke on](../problems/engine-only-runs-with-choke-on.md): restricted fuel flow, so the engine only runs with the choke on.
+
+Sources for Engine only runs with the choke on: [S13](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md), [S76](../../raw/Articles/poweredoutdoors.com/john-deere-mower-runs-choke-on.md), [S85](../../raw/Articles/poweredoutdoors.com/kubota-mower-runs-choke-on.md), [S113](../../raw/Articles/poweredoutdoors.com/riding-mower-only-runs-choke-on.md), [S134](../../raw/Articles/poweredoutdoors.com/toro-only-runs-choke-on.md), [S161](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-only-runs-choke-on.md)
 
 ## How to confirm
 
