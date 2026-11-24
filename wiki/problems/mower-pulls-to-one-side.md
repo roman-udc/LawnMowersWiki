@@ -142,7 +142,8 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/why-your-lawn-mower-pulls-
 
 - Mower barely moves or won't move at all? See [Mower won't move](mower-wont-move.md); the same hydraulic and belt causes, on both sides.
 - Cut is uneven or scalped on one side? See [Uneven cut](uneven-cut.md).
-- Steering feels loose, or the mower creeps in neutral? Loose steering and Mower creeps in neutral have no page yet; see [Adjust the neutral control](../procedures/adjust-the-neutral-control.md) for creeping.
+- Steering feels loose? Loose steering has no page yet.
+- The mower creeps in neutral? See [Mower creeps in neutral](mower-creeps-in-neutral.md) and [Adjust the neutral control](../procedures/adjust-the-neutral-control.md).
 
 Sources: [S5](../../raw/Articles/poweredoutdoors.com/zero-turn-hydrostatic-transmission-problems.md), [S1](../../raw/Articles/searspartsdirect.com/why-your-lawn-mower-pulls-to-one-side-while-cutting.md), [S18](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md)
 

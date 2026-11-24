@@ -4,6 +4,7 @@ title: Bad drive control linkage or damper
 problems:
   - ../problems/mower-pulls-to-one-side.md
   - ../problems/mower-is-vibrating.md
+  - ../problems/mower-creeps-in-neutral.md
 part_types:
   - steering damper
   - drive control linkage
@@ -37,9 +38,11 @@ Sources: [S3](../../raw/Articles/poweredoutdoors.com/common-zero-turn-problems-h
 
 - [Mower pulls to one side](../problems/mower-pulls-to-one-side.md): a zero-turn jerks to one side when moving forward (bad damper) or steadily pulls because one wheel turns faster than the other (tracking out of adjustment); the side with the bad damper feels weak or unresponsive when you push that lever forward. A self-propelled mower veers when a stretched drive cable sends more power to one wheel.
 - [Mower is vibrating](../problems/mower-is-vibrating.md): on a push mower, linkages and bushings wear and loosen, causing vibration.
-- Mower creeps in neutral (no page yet): the neutral position of the control is mis-adjusted.
+- [Mower creeps in neutral](../problems/mower-creeps-in-neutral.md): the neutral position of the control is mis-adjusted.
 
 Sources for Mower pulls to one side: [S8](../../raw/Articles/poweredoutdoors.com/common-ariens-lawn-mower-problems-solutions.md), [S9](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S10](../../raw/Articles/poweredoutdoors.com/common-craftsman-lawn-mower-problems.md), [S11](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S12](../../raw/Articles/poweredoutdoors.com/common-exmark-mower-problems-and-solutions.md), [S13](../../raw/Articles/poweredoutdoors.com/common-gravely-lawn-mower-problems-solutions.md), [S14](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S15](../../raw/Articles/poweredoutdoors.com/common-john-deere-lawn-mower-problems.md), [S16](../../raw/Articles/poweredoutdoors.com/common-kubota-problems-and-solutions.md), [S17](../../raw/Articles/poweredoutdoors.com/common-lawn-mower-problems-fixed.md), [S18](../../raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md), [S19](../../raw/Articles/poweredoutdoors.com/common-snapper-lawn-mower-problems-solutions.md), [S20](../../raw/Articles/poweredoutdoors.com/common-toro-lawn-mower-problems-solutions.md), [S21](../../raw/Articles/poweredoutdoors.com/common-troy-bilt-lawn-mower-problems.md), [S3](../../raw/Articles/poweredoutdoors.com/common-zero-turn-problems-how-to-fix-them.md), [S6](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md), [S22](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md), [S7](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md), [S23](../../raw/Articles/poweredoutdoors.com/hustler-mower-problems.md), [S24](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md), [S25](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md), [S26](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md), [S27](../../raw/Articles/poweredoutdoors.com/spartan-lawn-mower-problems-solutions.md), [S2](../../raw/Articles/poweredoutdoors.com/zero-turn-is-weak-on-one-side.md), [S1](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-wont-drive-straight.md), [S4](../../raw/Articles/searspartsdirect.com/why-your-lawn-mower-pulls-to-one-side-while-cutting.md). For Mower is vibrating: [S28](../../raw/Articles/poweredoutdoors.com/common-push-mower-problems-solutions.md). For creeping: [S5](../../raw/Articles/searspartsdirect.com/creeps-in-neutral.ltr44448.md)
+
+Sources for Mower creeps in neutral: [S5](../../raw/Articles/searspartsdirect.com/creeps-in-neutral.ltr44448.md)
 
 ## How to confirm
 
