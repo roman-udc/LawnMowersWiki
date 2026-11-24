@@ -3,12 +3,13 @@ type: cause
 title: Sheared flywheel key
 problems:
   - ../problems/engine-cranks-but-wont-start.md
+  - ../problems/mower-is-vibrating.md
 part_types:
   - flywheel key
 procedures:
   - ../procedures/replace-the-flywheel-key.md
 source_count: 9
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Sheared flywheel key
@@ -31,7 +32,7 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-s
 
 - [Engine cranks but won't start](../problems/engine-cranks-but-wont-start.md): the engine stopped suddenly after a blade strike. Now it spins but won't fire, even though the spark tester sparks. The spark is there, but at the wrong time. A badly broken key stops the engine and it won't start.
 - Engine runs rough or misfires: a slightly sheared key upsets the timing enough to make the engine run rough or misfire.
-- Mower vibrates: the vibration articles list the flywheel key among the parts to inspect.
+- [Mower vibrates](../problems/mower-is-vibrating.md): the vibration articles list the flywheel key among the parts to inspect.
 
 Sources: [S1](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S3](../../raw/Articles/searspartsdirect.com/runs-rough-or-misfires.ridtr03.md), [S4](../../raw/Articles/poweredoutdoors.com/bolens-mower-wont-start.md), [S5](../../raw/Articles/poweredoutdoors.com/honda-mower-is-vibrating.md), [S6](../../raw/Articles/poweredoutdoors.com/push-mower-is-vibrating.md), [S7](../../raw/Articles/poweredoutdoors.com/toro-push-mower-wont-start.md)
 

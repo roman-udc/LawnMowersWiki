@@ -8,6 +8,7 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Engine won't crank or turn over](problems/engine-wont-crank.md) — turn the key and the engine doesn't spin: nothing happens, or only a click or hum; usually the starter isn't getting power (battery, cables, ground, fuse, switches, solenoid), then the starter motor. Aliases: "won't turn over", "won't crank", "nothing happens when I turn the key", "no click when I turn the key", "mower seems completely dead", "battery is good but nothing happens when I turn the key", "clicks but won't start", "clicks but won't start or turn over", "just clicks or hums when I turn the key", "click, click, click when I turn the key", "humming sound when starting", "starter clicks but no crank", "can't get the engine to turn over", "won't crank after sitting", "intermittent no-start", "lawn tractor doesn't start sometimes", "riding mower won't turn over or crank", "zero turn won't turn over or crank"
 - [Engine starts then dies](problems/engine-starts-then-dies.md) — starts, then stalls after seconds or minutes or partway through mowing; usually a fuel or air restriction (old gas, carburetor, filters, lines, gas cap vent, choke), a weak spark, or overheating and overload (cooling fins, oil level, plugged deck). Aliases: "won't stay running", "keeps stalling", "keeps shutting off", "dies while mowing", "quits in the middle of the lawn", "only runs a few seconds then dies", "loses power and dies", "acts like it's not getting gas", "riding mower dies when I release the brake", "electric mower starts then stops"
 - [Mower cuts uneven](problems/uneven-cut.md) — strips of uncut grass, stair-step ridges, scalped spots or brown, ragged tips: the deck isn't level (tires, deck, shell), the blades or deck parts are worn or damaged, or the mower is run too fast or below full throttle. Aliases: "bad cut", "bad or uneven cut", "lawn mower cuts uneven", "cut looks terrible", "mower leaves strips of uncut grass", "leaves a row of grass", "uncut strip between passes", "streaking", "stringers or patches of uncut grass", "stair-step cut", "step cut or ridges in the lawn", "deck is lower on one side", "grass tips turn brown a couple of days after mowing", "grass looks shredded", "leaves piles of grass", "scalping", "riding mower not cutting evenly", "lawn tractor cuts unevenly", "zero turn cutting uneven", "push mower uneven or bad cut", "electric mower leaves uneven cuts"
+- [Mower is vibrating](problems/mower-is-vibrating.md) — mower or deck shakes far more than normal: unbalanced or bent blades, debris, spindle or pulley bearings, string on the blade shaft, loose engine bolts, worn belt, failing blade clutch; bent crankshaft on push mowers. Aliases: "lawn mower is vibrating", "mower is shaking", "mower deck vibrates", "deck vibrates when blades engaged", "mower vibrates when I engage the blades", "feels like riding a jackhammer", "push mower shakes my arms", "shake out of my seat", "lawn tractor is vibrating", "zero turn shaking and vibrating", "electric mower shaking or vibrating", "vibrating so badly it seems it will fall apart"
 
 ## Causes
 
@@ -59,6 +60,13 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Wrong cutting height](causes/wrong-cutting-height.md) — wheels or deck set to different or too-low heights; set every height adjuster the same (easy).
 - [Bad tire or wheel](causes/bad-tire.md) — damaged, loose, flat or mismatched wheel stops the deck sitting level; repair or replace it (easy to moderate).
 - [Bad blade adapter or loose blade](causes/bad-blade-adapter-or-loose-blade.md) — loose blade, worn adapter, or wrong-size or aftermarket blade; tighten or replace with the correct blade (moderate).
+- [Bad PTO clutch](causes/bad-pto-clutch.md) — failing electric blade clutch (bearing) or worn manual clutch bushings and linkage; vibration, blades won't engage; replace the clutch.
+- [Bent crankshaft](causes/bent-crankshaft.md) — push mower blade strike bends the crankshaft; vibration and bad cut; engine teardown or new mower (pro).
+- [Bent spindle or bad spindle bearing](causes/bent-spindle-or-bad-spindle-bearing.md) — blade rocks or knocks; vibration and step cut; replace the bearing or spindle housing (moderate).
+- [Debris wrapped around blade spindle](causes/debris-wrapped-around-blade-spindle.md) — string, wire or weeds wound on the blade shaft shake the deck; remove it and check the spindle (easy).
+- [Engine mount loose](causes/engine-mount-loose.md) — loose, worn or missing engine mounting bolts and other hardware; strong vibration; tighten or replace (easy).
+- [Worn or stretched belt](causes/worn-or-stretched-belt.md) — cracked, glazed, stretched or loose deck belt; vibration, slipping blades, bad cut; replace the belt.
+- [Worn pulley or idler bearing](causes/worn-pulley-or-idler-bearing.md) — deck or idler pulley restricted, noisy or wobbling; vibration, bad cut, belt trouble; replace the pulley.
 
 ## Procedures
 
@@ -95,6 +103,9 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Repair a flat tire](procedures/repair-a-flat-tire.md) — find a tread leak, inject tire sealant through the valve stem and reinflate; sidewall damage means replace the tire (easy).
 - [Replace a tire](procedures/replace-a-tire.md) — raise the mower, remove the wheel, break the bead and fit a new tire on the rim, then reinstall (moderate).
 - [Sharpen and replace the blades](procedures/sharpen-and-replace-the-blades.md) — remove the blades safely, sharpen and balance or replace them, reinstall sails up and torque the bolt (moderate).
+- [Replace the idler pulley](procedures/replace-the-idler-pulley.md) — release belt tension, unbolt the worn idler or deck pulley, fit the new one and check tension.
+- [Replace the spindle assembly](procedures/replace-the-spindle-assembly.md) — remove the deck belt, blade and spindle housing, fit the new assembly and torque it (moderate).
+- [Test the PTO clutch](procedures/test-the-pto-clutch.md) — check an electric blade clutch with a multimeter.
 
 ## Guides
 

@@ -41,6 +41,10 @@ causes:
   - ../causes/wrong-cutting-height.md
   - ../causes/bad-tire.md
   - ../causes/bad-blade-adapter-or-loose-blade.md
+  - ../causes/bent-crankshaft.md
+  - ../causes/worn-pulley-or-idler-bearing.md
+  - ../causes/worn-or-stretched-belt.md
+  - ../causes/bent-spindle-or-bad-spindle-bearing.md
 part_types:
   - mower blade
   - deck belt
@@ -50,7 +54,7 @@ part_types:
   - tire or wheel
   - deck shell
 source_count: 78
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Mower cuts uneven
@@ -67,7 +71,7 @@ Collect the basics first with the [customer intake Guide](../guides/customer-int
 
 | Question | Answer A → Causes | Answer B → Causes |
 |---|---|---|
-| What does the cut look like? | Slanted stair-step pattern or ridges → [Wrong tire pressure](../causes/wrong-tire-pressure.md), [Unlevel deck](../causes/unlevel-deck.md), [Dull or bent blade](../causes/dull-or-bent-blade.md) (bent), [Blade installed upside down](../causes/blade-installed-upside-down.md), Bent spindle or bad spindle bearing | Strips or patches of uncut grass → [Dull or bent blade](../causes/dull-or-bent-blade.md), Worn blade sail, [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md), [Incorrect path overlap](../causes/incorrect-path-overlap.md), [Mowing too fast](../causes/mowing-too-fast.md), [Wrong engine speed](../causes/wrong-engine-speed.md) |
+| What does the cut look like? | Slanted stair-step pattern or ridges → [Wrong tire pressure](../causes/wrong-tire-pressure.md), [Unlevel deck](../causes/unlevel-deck.md), [Dull or bent blade](../causes/dull-or-bent-blade.md) (bent), [Blade installed upside down](../causes/blade-installed-upside-down.md), [Bent spindle or bad spindle bearing](../causes/bent-spindle-or-bad-spindle-bearing.md) | Strips or patches of uncut grass → [Dull or bent blade](../causes/dull-or-bent-blade.md), Worn blade sail, [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md), [Incorrect path overlap](../causes/incorrect-path-overlap.md), [Mowing too fast](../causes/mowing-too-fast.md), [Wrong engine speed](../causes/wrong-engine-speed.md) |
 | Are there alternating stripes of taller and shorter grass? | Yes → [Mowing too fast](../causes/mowing-too-fast.md); if slowing down doesn't help, [Dull or bent blade](../causes/dull-or-bent-blade.md) | No → keep checking |
 | Do the grass tips look ragged, shredded or brown a day or two after mowing? | Yes → [Dull or bent blade](../causes/dull-or-bent-blade.md) (also Worn blade sail) | No → keep checking |
 | Are some areas cut too close (scalped)? | Yes → [Wrong tire pressure](../causes/wrong-tire-pressure.md), [Unlevel deck](../causes/unlevel-deck.md), [Wrong cutting height](../causes/wrong-cutting-height.md) (deck set too low) | No → keep checking |
@@ -101,10 +105,10 @@ Ranked by how many of the 78 Sources name the Cause for this Problem. Tie-break:
 | [Wrong engine speed](../causes/wrong-engine-speed.md) | 59 of 78 | Throttle not at full while mowing; strips or patches of uncut grass | easy |
 | [Unlevel deck](../causes/unlevel-deck.md) | 54 of 78 | Stair-step cut or ridges; the four deck corners measure differently | moderate |
 | [Blade installed upside down](../causes/blade-installed-upside-down.md) | 54 of 78 | Blade sails point down instead of up toward the deck; step cut | moderate |
-| Bent spindle or bad spindle bearing | 53 of 78 | Blade rocks or knocks when you move it up and down; step cut, vibration | not yet rated |
-| Worn or stretched belt | 50 of 78 | Belt stretched, cracked or glazed; blades slip in heavy grass | not yet rated |
+| [Bent spindle or bad spindle bearing](../causes/bent-spindle-or-bad-spindle-bearing.md) | 53 of 78 | Blade rocks or knocks when you move it up and down; step cut, vibration | moderate |
+| [Worn or stretched belt](../causes/worn-or-stretched-belt.md) | 50 of 78 | Belt stretched, cracked or glazed; blades slip in heavy grass | moderate |
 | [Bent deck or deck shell](../causes/bent-deck-or-deck-shell.md) | 50 of 78 | Damaged deck shell; row of grass left behind | pro |
-| Worn pulley or idler bearing | 46 of 78 | Pulley doesn't spin freely, is noisy or wobbles | not yet rated |
+| [Worn pulley or idler bearing](../causes/worn-pulley-or-idler-bearing.md) | 46 of 78 | Pulley doesn't spin freely, is noisy or wobbles | moderate |
 | Clogged deck chute | 39 of 78 | Deck packed with grass; streaking and stringers | not yet rated |
 | Worn blade sail | 36 of 78 | Sails thinner than the blade center, ends worn and rounded | not yet rated |
 | [Incorrect path overlap](../causes/incorrect-path-overlap.md) | 33 of 78 | Strips of uncut grass between passes | easy |
@@ -112,7 +116,7 @@ Ranked by how many of the 78 Sources name the Cause for this Problem. Tie-break:
 | [Wrong cutting height](../causes/wrong-cutting-height.md) | 12 of 78 | Push mower wheels set to different heights; deck set too low scalps | easy |
 | [Bad tire](../causes/bad-tire.md) | 11 of 78 | Push mower wheel damaged, loose or a different size | easy to moderate |
 | [Bad blade adapter or loose blade](../causes/bad-blade-adapter-or-loose-blade.md) | 9 of 78 | Push or battery mower; blade not tight | moderate |
-| Bent crankshaft | 4 of 78 | Push mower; blade and deck parts checked and still a bad cut | not yet rated |
+| [Bent crankshaft](../causes/bent-crankshaft.md) | 4 of 78 | Push mower; blade and deck parts checked and still a bad cut | pro |
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-cuts-uneven.md), [S3](../../raw/Articles/poweredoutdoors.com/bobcat-zero-turn-uneven-cut.md), [S63](../../raw/Articles/poweredoutdoors.com/troubleshoot-cub-cadet-mower-deck-problems.md), [S73](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-deck-problems.md), [S75](../../raw/Articles/searspartsdirect.com/not-cutting-evenly.ridtr02.md), [S77](../../raw/Articles/searspartsdirect.com/why-does-my-lawn-tractor-cut-unevenly.md), [S76](../../raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md), [S74](../../raw/Articles/searspartsdirect.com/how-to-level-a-riding-lawn-mower-deck-for-an-even-cut-video.md), [S78](../../raw/Articles/searspartsdirect.com/won-t-cut-grass.ridtr01.md), [S19](../../raw/Articles/poweredoutdoors.com/common-push-mower-problems-solutions.md), [S49](../../raw/Articles/poweredoutdoors.com/lawn-mowers-bad-cut-solved.md), [S60](../../raw/Articles/poweredoutdoors.com/sun-joe-electric-mower-bad-cut.md), [S67](../../raw/Articles/poweredoutdoors.com/worx-mower-has-bad-uneven-cut.md), [S44](../../raw/Articles/poweredoutdoors.com/kobalt-electric-mower-bad-cut.md), [S17](../../raw/Articles/poweredoutdoors.com/common-kubota-problems-and-solutions.md)
 
@@ -160,7 +164,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-cuts-une
 
 ## Related problems
 
-Not this problem? If the mower stalls when the blades are engaged in thick or wet grass, see [Engine starts then dies](engine-starts-then-dies.md). Mower is vibrating, Belt keeps coming off and Mower pulls to one side have no page yet.
+Not this problem? If the mower stalls when the blades are engaged in thick or wet grass, see [Engine starts then dies](engine-starts-then-dies.md). If the mower or deck shakes, see [Mower is vibrating](mower-is-vibrating.md). Belt keeps coming off and Mower pulls to one side have no page yet.
 
 Sources: [S75](../../raw/Articles/searspartsdirect.com/not-cutting-evenly.ridtr02.md), [S41](../../raw/Articles/poweredoutdoors.com/john-deere-mower-belt-keeps-coming-off.md)
 

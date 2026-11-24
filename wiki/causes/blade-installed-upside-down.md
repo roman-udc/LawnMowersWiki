@@ -3,13 +3,14 @@ type: cause
 title: Blade installed upside down
 problems:
   - ../problems/uneven-cut.md
+  - ../problems/mower-is-vibrating.md
 part_types:
   - mower blade
   - blade hardware (washers, bushings)
 procedures:
   - ../procedures/sharpen-and-replace-the-blades.md
 source_count: 34
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Blade installed upside down
@@ -30,7 +31,7 @@ Sources: [S12](../../raw/Articles/poweredoutdoors.com/john-deere-mower-cuts-unev
 ## Symptoms it produces
 
 - [Uneven cut](../problems/uneven-cut.md): the grass looks beaten up, roughed up, almost dirty; a very poor, torn cut, sometimes a stair-step cut. Sources: [S24](../../raw/Articles/poweredoutdoors.com/this-is-the-way-the-blade-goes-on-a-lawn-mower.md), [S3](../../raw/Articles/poweredoutdoors.com/bobcat-zero-turn-uneven-cut.md), [S12](../../raw/Articles/poweredoutdoors.com/john-deere-mower-cuts-uneven.md), [S19](../../raw/Articles/poweredoutdoors.com/reasons-lawn-tractor-cuts-uneven.md), [S20](../../raw/Articles/poweredoutdoors.com/reasons-your-riding-mower-is-cutting-uneven.md), [S10](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-cuts-uneven.md), [S4](../../raw/Articles/poweredoutdoors.com/craftsman-mower-cut-is-uneven.md), [S11](../../raw/Articles/poweredoutdoors.com/hustler-mower-bad-uneven-cut.md), [S14](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-cuts-uneven.md), [S26](../../raw/Articles/poweredoutdoors.com/toro-lawn-mower-is-cutting-uneven.md), [S29](../../raw/Articles/poweredoutdoors.com/why-your-troy-bilt-lawn-mower-is-cutting-uneven-fixed.md), [S31](../../raw/Articles/poweredoutdoors.com/your-bad-or-uneven-exmark-mower-cut.md), [S2](../../raw/Articles/poweredoutdoors.com/big-dog-bad-or-uneven-cut.md), [S7](../../raw/Articles/poweredoutdoors.com/gravely-lawn-mower-cuts-uneven.md), [S28](../../raw/Articles/poweredoutdoors.com/why-your-cub-cadet-lawn-mower-cuts-uneven.md), [S22](../../raw/Articles/poweredoutdoors.com/spartan-mower-bad-or-uneven-cut.md), [S32](../../raw/Articles/poweredoutdoors.com/your-ferris-lawn-mower-cuts-uneven.md), [S15](../../raw/Articles/poweredoutdoors.com/lawn-mowers-bad-cut-solved.md), [S6](../../raw/Articles/poweredoutdoors.com/ego-electric-lawn-mower-is-cutting-uneven.md), [S8](../../raw/Articles/poweredoutdoors.com/greenworks-lawn-mower-is-cutting-uneven.md), [S13](../../raw/Articles/poweredoutdoors.com/kobalt-electric-mower-bad-cut.md), [S21](../../raw/Articles/poweredoutdoors.com/ryobi-electric-mower-bad-uneven-cut.md), [S23](../../raw/Articles/poweredoutdoors.com/sun-joe-electric-mower-bad-cut.md), [S25](../../raw/Articles/poweredoutdoors.com/toro-electric-mower-bad-cut.md), [S30](../../raw/Articles/poweredoutdoors.com/worx-mower-has-bad-uneven-cut.md)
-- Mower is vibrating, or the deck vibrates: an upside-down blade beats the grass and the sails hit the ground. Sources: [S24](../../raw/Articles/poweredoutdoors.com/this-is-the-way-the-blade-goes-on-a-lawn-mower.md), [S16](../../raw/Articles/poweredoutdoors.com/mower-deck-is-vibrating.md)
+- [Mower is vibrating](../problems/mower-is-vibrating.md), or the deck vibrates: an upside-down blade beats the grass and the sails hit the ground. Sources: [S24](../../raw/Articles/poweredoutdoors.com/this-is-the-way-the-blade-goes-on-a-lawn-mower.md), [S16](../../raw/Articles/poweredoutdoors.com/mower-deck-is-vibrating.md)
 - Mower is not bagging or picking up grass: with the sails pointing down, no vacuum forms under the deck to lift the clippings. Sources: [S1](../../raw/Articles/poweredoutdoors.com/15-reasons-why-your-lawn-mower-is-not-picking-up-grass.md), [S17](../../raw/Articles/poweredoutdoors.com/mower-is-not-bagging-grass-solved.md), [S18](../../raw/Articles/poweredoutdoors.com/pick-up-leaves-with-a-mower.md)
 
 ## How to confirm
@@ -47,7 +48,7 @@ Sources: [S24](../../raw/Articles/poweredoutdoors.com/this-is-the-way-the-blade-
 
 Remove the blade and reinstall it with the sail pointing up toward the deck ("Sail up!"), using the correct hardware in the correct order, and tighten the nuts or bolt to the operator's manual spec. Balance a resharpened blade before installing it (new blades are already balanced). The steps are in [Sharpen and replace the blades](../procedures/sharpen-and-replace-the-blades.md).
 
-If the mower ran with the blades upside down and hit the ground, check the spindles and spindle housings for damage (the spindle page is still to be written: bent spindle or bad spindle bearing).
+If the mower ran with the blades upside down and hit the ground, check the spindles and spindle housings for damage (see [Bent spindle or bad spindle bearing](bent-spindle-or-bad-spindle-bearing.md)).
 
 Sources: [S4](../../raw/Articles/poweredoutdoors.com/craftsman-mower-cut-is-uneven.md), [S10](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-cuts-uneven.md), [S11](../../raw/Articles/poweredoutdoors.com/hustler-mower-bad-uneven-cut.md), [S14](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-cuts-uneven.md), [S9](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md), [S27](../../raw/Articles/poweredoutdoors.com/troubleshoot-cub-cadet-mower-deck-problems.md), [S33](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-deck-problems.md), [S5](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md), [S12](../../raw/Articles/poweredoutdoors.com/john-deere-mower-cuts-uneven.md), [S6](../../raw/Articles/poweredoutdoors.com/ego-electric-lawn-mower-is-cutting-uneven.md), [S2](../../raw/Articles/poweredoutdoors.com/big-dog-bad-or-uneven-cut.md)
 
