@@ -29,6 +29,7 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Mower creeps in neutral](problems/mower-creeps-in-neutral.md) — riding mower or zero-turn moves forward or backward with the controls in neutral: neutral position mis-adjusted; adjust the neutral control. Aliases: "riding mower creeps in neutral", "zero-turn creeps forward or backward with levers in neutral"
 - [Mower is leaking oil](problems/mower-is-leaking-oil.md) — oil leaks from the engine, often dripping onto the hot muffler and smoking: a bad engine gasket (head or sump gasket), or overfilled oil blowing seals and gaskets. Aliases: "riding mower leaking oil", "oil leaking from the engine", "oil dripping onto the muffler"
 - [Loose steering](problems/loose-steering.md) — riding mower steering wheel has too much play, slips, won't steer one way, or the front wheels point outward or wobble: worn tie rods, steering shaft, sector gear, bushings, washers or gears, or a worn front axle or bent wheel spindle. Aliases: "steering wheel has too much play", "front wheels point outward", "front wheels wobble or don't align", "steering is loose on my riding mower", "mower won't steer one way or the other"
+- [Engine backfires](problems/engine-backfires.md) — engine pops or bangs: while running, a dirty carburetor running lean; at shutdown, a hot engine igniting leftover fuel (idle 1 minute at low throttle before shutting off). Aliases: "mower backfires", "backfires from running lean", "backfires when it shuts off"
 
 ## Causes
 

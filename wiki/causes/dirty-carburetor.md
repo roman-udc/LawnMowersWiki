@@ -11,6 +11,7 @@ problems:
   - ../problems/engine-dies-when-hot.md
   - ../problems/engine-only-runs-with-choke-on.md
   - ../problems/engine-hard-to-start-when-cold.md
+  - ../problems/engine-backfires.md
 part_types:
   - carburetor
   - carburetor rebuild kit
@@ -53,7 +54,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-w
 
 - [Engine starts then dies](../problems/engine-starts-then-dies.md), or runs strong on a spray of cleaner then turns sluggish and quits: a gummed jet can't supply enough fuel.
 - [Engine runs rough](../problems/engine-runs-rough.md), sputters or surges, and bogs when the blades load it.
-- Engine backfires from running lean.
+- [Engine backfires](../problems/engine-backfires.md) from running lean.
 - [Engine loses power](../problems/engine-loses-power.md), and the mower uses too much fuel.
 - [Mower is leaking gas](../problems/mower-is-leaking-gas.md): a stuck part or failed gasket lets fuel out.
 
@@ -79,6 +80,8 @@ Sources for Engine only runs with the choke on: [S10](../../raw/Articles/powered
 - [Engine hard to start when cold](../problems/engine-hard-to-start-when-cold.md): gummy deposits clog the small parts.
 
 Sources for Engine hard to start when cold: [S112](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-when-cold.md)
+
+Sources for Engine backfires: [S32](../../raw/Articles/poweredoutdoors.com/clean-a-craftsman-lawn-mower-carburetor.md), [S33](../../raw/Articles/poweredoutdoors.com/clean-a-husqvarna-mower-carburetor.md), [S35](../../raw/Articles/poweredoutdoors.com/clean-kawasaki-carburetor.md), [S36](../../raw/Articles/poweredoutdoors.com/clean-your-cub-cadet-carburetor.md), [S74](../../raw/Articles/poweredoutdoors.com/how-to-clean-your-riding-mower-carburetor.md)
 
 ## How to confirm
 
