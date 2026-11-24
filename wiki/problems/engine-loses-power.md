@@ -175,7 +175,7 @@ Sources: [S19](../../raw/Articles/poweredoutdoors.com/push-mower-loses-power.md)
 
 - Engine stalls instead of just bogging? See [Engine starts then dies](engine-starts-then-dies.md): when fuel doesn't reach it, the engine runs sluggish and may die and not restart.
 - Mower drives weakly or slowly while the engine sounds normal? See [Mower won't move](mower-wont-move.md) (weak hydrostatic transmission).
-- Working the engine harder can also overheat it (Engine overheats has no page yet). An oil-fouled plug also makes the engine run rough (Engine runs rough has no page yet).
+- Working the engine harder can also overheat it (Engine overheats has no page yet). An oil-fouled plug also makes the engine run rough: see [Engine runs rough](engine-runs-rough.md).
 - An underperforming mower also cuts badly: see [Mower cuts uneven](uneven-cut.md).
 
 Sources: [S28](../../raw/Articles/poweredoutdoors.com/zero-turn-lawn-mower-isnt-getting-fuel.md), [S18](../../raw/Articles/poweredoutdoors.com/mower-loses-power.md), [S25](../../raw/Articles/poweredoutdoors.com/too-much-oil-craftsman-mower.md), [S19](../../raw/Articles/poweredoutdoors.com/push-mower-loses-power.md)

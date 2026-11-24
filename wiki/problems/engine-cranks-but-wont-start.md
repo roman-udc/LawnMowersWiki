@@ -53,6 +53,7 @@ causes:
   - ../causes/overfilled-oil.md
   - ../causes/dirty-fuel-tank.md
   - ../causes/bad-gas-cap-seal.md
+  - ../causes/water-in-fuel.md
 part_types:
   - air filter
   - foam pre-filter
@@ -150,7 +151,7 @@ Ranked by how many of the 121 Sources name the Cause for this Problem. Most of t
 | [Sheared flywheel key](../causes/sheared-flywheel-key.md) | 4 of 121 | Engine stopped suddenly after the blade hit something, spark is present but mistimed | moderate |
 | [Overfilled oil](../causes/overfilled-oil.md) | 3 of 121 | Oil above the max mark, oil on the plug or in the air filter | easy |
 | [Bad gas cap seal](../causes/bad-gas-cap-seal.md) | 2 of 121 | Worn or damaged seal on the gas cap | not yet rated |
-| Water in fuel | 2 of 121 | Mower stored over winter, water in the tank | not yet rated |
+| [Water in fuel](../causes/water-in-fuel.md) | 2 of 121 | Mower stored over winter, water in the tank | easy |
 | [Wet electrical components](../causes/wet-electrical-components.md) | 2 of 121 | Mower left in the rain or stored damp, corroded or chewed wiring | easy |
 | [Disconnected fuel solenoid](../causes/disconnected-fuel-solenoid.md) | 1 of 121 | Riding mower, wire harness off the carburetor's fuel solenoid valve | easy |
 | [Air in the fuel system](../causes/air-in-fuel-system.md) | 1 of 121 | Diesel mower | easy |

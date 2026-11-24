@@ -1606,3 +1606,49 @@ Note: Cluster 17 (ticket 17), single writer and finalizer. Created problems/blad
 - raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md → ingested → causes/cutting-wet-or-tall-grass.md
 
 Note: Cluster 18 (ticket 18), single writer and finalizer. Created problems/engine-loses-power (25 Sources: 1 manufacturer, 24 expert-blog; push, self-propelled, riding, zero-turn; gas); causes/bad-governor (1, Sears only, no repair steps or difficulty in the Source) and cutting-wet-or-tall-grass (31). Updated causes dirty-carburetor, old-fuel, clogged-fuel-line, clogged-fuel-filter, clogged-air-filter, dull-or-bent-blade, mowing-too-fast, dirty-cooling-fins, overfilled-oil, wrong-oil-or-low-oil, fouled-spark-plug, debris-on-deck-or-pulleys, bad-fuel-pump, plugged-fuel-cap-vent, wrong-engine-speed, bad-ignition-coil, bent-spindle-or-bad-spindle-bearing, low-compression, worn-or-stretched-belt, bad-gas-cap-seal (Problem added with "Sources for Engine loses power"; plain mentions linked); problems/engine-starts-then-dies (Cutting wet or tall grass row linked, 1 of 82, order unchanged; Related line links Engine loses power); index. Not counted for this Problem: the weak hydrostatic transmission notes (Ariens, common-lawn-mower-problems-fixed, Snapper, Husqvarna zero-turn) belong to mower-wont-move; the Simplicity "Loses Power and Dies" section is starts-then-dies. The Sears blades-engaged "drive belt" is the blade drive belt and counts as worn-or-stretched-belt. The John Deere uneven-cut note for cutting-wet-or-tall-grass has no content of its own and is not cited. Conflicts flagged: none. Plain text for later clusters: Clogged deck chute, Bad cooling shroud, Clogged blower tubes or inlet (rows); Problems Engine overheats, Engine runs rough, Mower doesn't bag grass.
+
+## 2026-11-24 | ingest | fill pass: engine-runs-rough
+
+- raw/Articles/poweredoutdoors.com/clean-a-craftsman-lawn-mower-carburetor.md → ingested → problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/clean-a-husqvarna-mower-carburetor.md → ingested → problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/clean-a-toro-lawn-mower-carburetor.md → ingested → problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/clean-kawasaki-carburetor.md → ingested → problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/clean-your-cub-cadet-carburetor.md → ingested → problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md → ingested → causes/water-in-fuel.md, problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/common-craftsman-lawn-mower-problems.md → ingested → causes/water-in-fuel.md
+- raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md → ingested → causes/clogged-fuel-filter.md, causes/plugged-fuel-cap-vent.md, causes/wrong-choke-setting.md, problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md → ingested → causes/mowing-too-fast.md, causes/wrong-choke-setting.md, causes/wrong-engine-speed.md, problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md → ingested → causes/mowing-too-fast.md, problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-running-rough-sputtering.md → ingested → problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md → ingested → causes/mowing-too-fast.md, causes/wrong-engine-speed.md, problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/diesel-lawn-mower-wont-start.md → ingested → causes/water-in-fuel.md
+- raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md → ingested → causes/mowing-too-fast.md, causes/wrong-engine-speed.md, problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/ferris-runs-rough.md → ingested → problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/how-to-clean-your-riding-mower-carburetor.md → ingested → problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-wont-stay-running.md → ingested → causes/water-in-fuel.md
+- raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md → ingested → causes/clogged-fuel-filter.md, causes/mowing-too-fast.md, causes/wrong-engine-speed.md, problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/hustler-mower-problems.md → ingested → causes/mowing-too-fast.md, causes/wrong-engine-speed.md, problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/hustler-mower-runs-rough.md → ingested → problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/john-deere-mower-running-rough.md → ingested → problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md → ingested → causes/clogged-fuel-filter.md, causes/mowing-too-fast.md, causes/wrong-engine-speed.md, problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/kubota-mower-rough-sputtering.md → ingested → problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md → ingested → causes/mowing-too-fast.md, causes/wrong-engine-speed.md, problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-acts-like-its-running-out-of-gas.md → ingested → causes/water-in-fuel.md, problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-is-running-rough.md → ingested → causes/water-in-fuel.md, problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-isnt-getting-gas.md → ingested → problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-sputtering-solved.md → ingested → causes/water-in-fuel.md, problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-after-winter.md → ingested → causes/water-in-fuel.md
+- raw/Articles/poweredoutdoors.com/push-mower-runs-rough-sputters.md → ingested → problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/scag-lawn-mower-isnt-getting-gas.md → ingested → problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/sea-foam-fuel-additive-in-a-lawn-mower.md → ingested → causes/water-in-fuel.md
+- raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md → ingested → causes/mowing-too-fast.md, causes/wrong-engine-speed.md, problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/this-is-what-happens-if-you-put-too-much-oil-in-a-lawn-mower.md → ingested → problems/engine-runs-rough.md
+- raw/Articles/poweredoutdoors.com/when-your-riding-mower-gets-wet.md → ingested → causes/water-in-fuel.md, procedures/replace-the-fuel-filter.md
+- raw/Articles/poweredoutdoors.com/why-your-mower-wont-start-after-leaving-in-the-rain.md → ingested → causes/water-in-fuel.md, procedures/replace-the-fuel-filter.md
+- raw/Articles/poweredoutdoors.com/zero-turn-mower-is-sputtering.md → ingested → causes/water-in-fuel.md, problems/engine-runs-rough.md
+- raw/Articles/searspartsdirect.com/how-to-replace-a-riding-lawn-mower-spark-plug.md → ingested → problems/engine-runs-rough.md
+- raw/Articles/searspartsdirect.com/how-to-replace-the-air-filter-on-a-riding-lawn-mower.md → ingested → problems/engine-runs-rough.md
+- raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md → ingested → causes/clogged-air-filter.md, causes/fouled-spark-plug.md, causes/old-fuel.md, problems/engine-runs-rough.md
+- raw/Articles/searspartsdirect.com/runs-rough-or-misfires.ridtr03.md → ingested → problems/engine-runs-rough.md
+
+Note: Cluster 19 (ticket 19), single writer and finalizer. Created problems/engine-runs-rough (34 Sources: 4 manufacturer, 30 expert-blog; push, self-propelled, riding, zero-turn; gas); causes/water-in-fuel (12, incl. the Bad Boy smoking article behind its mower-is-smoking row). Updated causes dirty-carburetor, fouled-spark-plug, old-fuel, clogged-fuel-filter, clogged-fuel-line, mowing-too-fast, plugged-fuel-cap-vent, wrong-engine-speed, dull-or-bent-blade, clogged-air-filter, debris-on-deck-or-pulleys, wrong-choke-setting, low-compression, sheared-flywheel-key, bad-fuel-pump, bad-gas-cap-seal, bad-safety-switch, dirty-cooling-fins, overfilled-oil (Problem added with "Sources for Engine runs rough"; plain mentions linked); procedures/replace-the-fuel-filter (fixes Water in fuel, two Sources added); problems engine-cranks-but-wont-start (2 of 121), engine-starts-then-dies (1 of 82), mower-is-smoking (2 of 64) (Water in fuel rows linked, order unchanged); engine-loses-power (Related line linked); index. Overfilled oil is ranked 1 of 34 from the too-much-oil article, whose note says an overfilled engine fouls the plug and runs rough but has no causes-named line. No Procedure for water-in-fuel beyond Replace the fuel filter (draining steps stay on the Cause page). The diesel water-in-tank advice is on water-in-fuel only. Conflicts flagged: none. Plain text for later clusters: Clogged deck chute (row); Engine overheats.

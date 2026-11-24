@@ -5,6 +5,7 @@ causes:
   - ../causes/cracked-fuel-filter.md
   - ../causes/clogged-fuel-filter.md
   - ../causes/old-fuel.md
+  - ../causes/water-in-fuel.md
 part_types:
   - inline fuel filter
   - fuel line clamp
@@ -15,13 +16,13 @@ tools:
   - pliers or needle-nose pliers
   - shop rag
   - work gloves
-source_count: 50
-updated: 2026-11-23
+source_count: 52
+updated: 2026-11-24
 ---
 
 # Replace the fuel filter
 
-Fixes: [Clogged fuel filter](../causes/clogged-fuel-filter.md), and the damage from [old fuel](../causes/old-fuel.md), and a leaking [cracked fuel filter](../causes/cracked-fuel-filter.md).
+Fixes: [Clogged fuel filter](../causes/clogged-fuel-filter.md), and the damage from [old fuel](../causes/old-fuel.md), and a leaking [cracked fuel filter](../causes/cracked-fuel-filter.md). Also replace it after draining [water in fuel](../causes/water-in-fuel.md) ([S51](../../raw/Articles/poweredoutdoors.com/when-your-riding-mower-gets-wet.md), [S52](../../raw/Articles/poweredoutdoors.com/why-your-mower-wont-start-after-leaving-in-the-rain.md)).
 
 The fuel filter keeps dirt out of the carburetor. Old gas leaves gummy buildup that plugs it; a clogged filter lets too little fuel through, so the engine runs rough or stops. A cracked or leaking filter must be replaced too. Most Sources replace it once a year, at the yearly tune-up or service, or when it's plugged.
 
@@ -138,3 +139,5 @@ Sources: [S45](../../raw/Articles/searspartsdirect.com/how-to-replace-a-riding-l
 - [S48](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md) — Riding lawn mower engine spins but won't start video (manufacturer)
 - [S49](../../raw/Articles/searspartsdirect.com/runs-rough-or-misfires.ridtr03.md) — Why does my riding mower run rough or misfire? (manufacturer)
 - [S50](../../raw/Articles/searspartsdirect.com/won-t-move.ltr1818.md) — Why won't my riding mower move? (manufacturer)
+- [S51](../../raw/Articles/poweredoutdoors.com/when-your-riding-mower-gets-wet.md) — What to Do When Your Riding Mower Gets Wet (expert-blog)
+- [S52](../../raw/Articles/poweredoutdoors.com/why-your-mower-wont-start-after-leaving-in-the-rain.md) — Mower Won't Start After Leaving In the Rain (Do This) (expert-blog)

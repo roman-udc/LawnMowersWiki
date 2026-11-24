@@ -6,6 +6,7 @@ problems:
   - ../problems/engine-starts-then-dies.md
   - ../problems/mower-is-leaking-gas.md
   - ../problems/engine-loses-power.md
+  - ../problems/engine-runs-rough.md
 part_types:
   - fuel pump
 procedures: []
@@ -53,6 +54,10 @@ Sources for Engine starts then dies: [S9](../../raw/Articles/poweredoutdoors.com
 - [Engine loses power](../problems/engine-loses-power.md): the engine isn't getting enough fuel and runs sluggish.
 
 Sources for Engine loses power: [S11](../../raw/Articles/poweredoutdoors.com/briggs-and-stratton-engine-isnt-getting-gas.md), [S17](../../raw/Articles/poweredoutdoors.com/bad-boy-mower-isnt-getting-fuel.md), [S48](../../raw/Articles/poweredoutdoors.com/ferris-mower-isnt-getting-gas.md), [S87](../../raw/Articles/poweredoutdoors.com/riding-mower-isnt-getting-fuel.md), [S132](../../raw/Articles/poweredoutdoors.com/zero-turn-lawn-mower-isnt-getting-fuel.md), [S138](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md)
+
+- [Engine runs rough](../problems/engine-runs-rough.md): the engine sputters as if it's running out of gas.
+
+Sources for Engine runs rough: [S75](../../raw/Articles/poweredoutdoors.com/lawn-mower-acts-like-its-running-out-of-gas.md)
 
 ## How to confirm
 

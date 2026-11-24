@@ -6,6 +6,7 @@ problems:
   - ../problems/engine-cranks-but-wont-start.md
   - ../problems/engine-starts-then-dies.md
   - ../problems/engine-loses-power.md
+  - ../problems/engine-runs-rough.md
 part_types:
   - fuel cap
   - fuel cap gasket
@@ -53,6 +54,10 @@ Sources: [S37](../../raw/Articles/poweredoutdoors.com/common-ariens-lawn-mower-p
 - [Engine loses power](../problems/engine-loses-power.md): a bad gas cap is listed among the fuel causes of power loss.
 
 Sources for Engine loses power: [S38](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md)
+
+- [Engine runs rough](../problems/engine-runs-rough.md): a bad gas cap upsets the air and fuel mix and the engine sputters.
+
+Sources for Engine runs rough: [S21](../../raw/Articles/poweredoutdoors.com/lawn-mower-sputtering-solved.md)
 
 ## How to confirm
 

@@ -6,6 +6,7 @@ problems:
   - ../problems/engine-cranks-but-wont-start.md
   - ../problems/engine-starts-then-dies.md
   - ../problems/engine-loses-power.md
+  - ../problems/engine-runs-rough.md
 part_types:
   - air filter
   - foam pre-filter
@@ -13,7 +14,7 @@ part_types:
 procedures:
   - ../procedures/clean-or-replace-the-air-filter.md
   - ../procedures/tune-up.md
-source_count: 199
+source_count: 200
 updated: 2026-11-24
 ---
 
@@ -44,7 +45,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-w
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S2](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but-wont-start.md), [S3](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-turns-over-but-wont-start.md), [S4](../../raw/Articles/poweredoutdoors.com/john-deere-mower-turns-over-but-wont-start.md), [S5](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-cranks-but-wont-start.md), [S6](../../raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S10](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-when-cold.md)
 
 - [Engine starts then dies](../problems/engine-starts-then-dies.md), or dies after mowing a while: the engine is starved of air, runs sluggishly and quits.
-- Engine runs rough, sputters or stalls under load, and loses power.
+- [Engine runs rough](../problems/engine-runs-rough.md), sputters or stalls under load, and loses power.
 - [Mower is smoking](../problems/mower-is-smoking.md): black smoke from running rich, or smoke when the engine pulls air and oil out of the crankcase and burns the oil.
 - Engine overheats: it works harder to breathe. Running like this for long can cause serious engine damage.
 
@@ -60,6 +61,8 @@ Sources for Mower is smoking: [S8](../../raw/Articles/poweredoutdoors.com/guide-
 - [Engine loses power](../problems/engine-loses-power.md): the engine is starved of air, especially under load.
 
 Sources for Engine loses power: [S16](../../raw/Articles/poweredoutdoors.com/bad-boy-loses-power.md), [S24](../../raw/Articles/poweredoutdoors.com/common-craftsman-lawn-mower-problems.md), [S36](../../raw/Articles/poweredoutdoors.com/craftsman-mower-loses-power.md), [S42](../../raw/Articles/poweredoutdoors.com/cub-cadet-loses-power-bogs-down.md), [S62](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-loses-power.md), [S70](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-loses-power.md), [S92](../../raw/Articles/poweredoutdoors.com/kubota-mower-loses-power.md), [S103](../../raw/Articles/poweredoutdoors.com/mower-loses-power.md), [S112](../../raw/Articles/poweredoutdoors.com/push-mower-loses-power.md), [S128](../../raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-loses-power.md), [S141](../../raw/Articles/poweredoutdoors.com/this-is-why-your-riding-lawn-mower-loses-power.md), [S142](../../raw/Articles/poweredoutdoors.com/toro-mower-loses-power.md), [S168](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-loses-power.md), [S176](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md), [S180](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S199](../../raw/Articles/poweredoutdoors.com/lawn-mower-replacement.md)
+
+Sources for Engine runs rough: [S40](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-running-rough-sputtering.md), [S54](../../raw/Articles/poweredoutdoors.com/ferris-runs-rough.md), [S77](../../raw/Articles/poweredoutdoors.com/hustler-mower-runs-rough.md), [S83](../../raw/Articles/poweredoutdoors.com/john-deere-mower-running-rough.md), [S93](../../raw/Articles/poweredoutdoors.com/kubota-mower-rough-sputtering.md), [S97](../../raw/Articles/poweredoutdoors.com/lawn-mower-is-running-rough.md), [S100](../../raw/Articles/poweredoutdoors.com/lawn-mower-sputtering-solved.md), [S114](../../raw/Articles/poweredoutdoors.com/push-mower-runs-rough-sputters.md), [S167](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-is-sputtering.md), [S173](../../raw/Articles/searspartsdirect.com/how-to-replace-the-air-filter-on-a-riding-lawn-mower.md), [S180](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S183](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S194](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md), [S200](../../raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md)
 
 ## How to confirm
 
@@ -332,3 +335,4 @@ Sources: [S12](../../raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-
 - [S197](../../raw/Articles/poweredoutdoors.com/too-much-oil-cub-cadet-lawn-mower.md) — Too Much Oil in a Cub Cadet Lawn Mower? (This Can Happen) (expert-blog)
 - [S198](../../raw/Articles/poweredoutdoors.com/too-much-oil-kubota-mower.md) — Too Much Oil in a Kubota Lawn Mower (This Happens) (expert-blog)
 - [S199](../../raw/Articles/poweredoutdoors.com/lawn-mower-replacement.md) — Ultimate Guide to Lawn Mower Replacement (expert-blog)
+- [S200](../../raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md) — Riding mower and tractor common questions (manufacturer)

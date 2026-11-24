@@ -4,6 +4,7 @@ title: Low compression
 problems:
   - ../problems/engine-cranks-but-wont-start.md
   - ../problems/engine-loses-power.md
+  - ../problems/engine-runs-rough.md
 part_types:
   - piston rings
   - head gasket
@@ -32,14 +33,16 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-s
 
 ## Symptoms it produces
 
-- [Engine cranks but won't start](../problems/engine-cranks-but-wont-start.md): the engine doesn't fire even with starter fluid. The spark plug and ignition check out, and a compression gauge reads under about 40 psi. - Engine runs rough or misfires: low cylinder compression makes the engine run rough, and it may not start at all.
-- Mower loses power when the blades are engaged: once the basics check out, low compression or valve trouble is the more serious engine problem to suspect.
+- [Engine cranks but won't start](../problems/engine-cranks-but-wont-start.md): the engine doesn't fire even with starter fluid. The spark plug and ignition check out, and a compression gauge reads under about 40 psi.
+- [Engine runs rough](../problems/engine-runs-rough.md) or misfires: low cylinder compression makes the engine run rough, and it may not start at all.
 
 Sources: [S1](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S3](../../raw/Articles/searspartsdirect.com/runs-rough-or-misfires.ridtr03.md), [S5](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-wont-start.md), [S8](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md)
 
 - [Engine loses power](../problems/engine-loses-power.md): still bogs or stalls with the blades engaged after fuel, air, belts and blades check out.
 
 Sources for Engine loses power: [S8](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md)
+
+Sources for Engine runs rough: [S3](../../raw/Articles/searspartsdirect.com/runs-rough-or-misfires.ridtr03.md)
 
 ## How to confirm
 
