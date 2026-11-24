@@ -1,6 +1,7 @@
 {
   "userIgnoreFilters": [
     "raw/",
+    "reports/",
     "templates/",
     "docs/",
     ".scratch/",
@@ -8,6 +9,7 @@
     "tests/",
     "CLAUDE.md",
     "GLOSSARY.md",
-    "llm-wiki.md"
+    "llm-wiki.md",
+    "requirements.txt"
   ]
 }
