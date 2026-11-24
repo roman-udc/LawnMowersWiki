@@ -3,12 +3,13 @@ type: cause
 title: Low or old hydraulic oil
 problems:
   - ../problems/mower-wont-move.md
+  - ../problems/mower-pulls-to-one-side.md
 part_types:
   - hydraulic oil
   - hydraulic oil filter
 procedures:
   - ../procedures/change-the-hydraulic-oil.md
-source_count: 28
+source_count: 31
 updated: 2026-11-24
 ---
 
@@ -33,6 +34,10 @@ Sources: [S6](../../raw/Articles/poweredoutdoors.com/common-lawn-mower-problems-
 - [Mower won't move](../problems/mower-wont-move.md): the mower won't move, moves slowly, or seems very weak while running; on a zero-turn one side can be weak.
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/ariens-zero-turn-mower-wont-move-forward-or-reverse-fix-it.md), [S2](../../raw/Articles/poweredoutdoors.com/bad-boy-zero-turn-wont-move-forward-or-reverse.md), [S14](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-mower-wont-move-or-go-forward.md), [S17](../../raw/Articles/poweredoutdoors.com/hustler-zero-turn-wont-move-forward.md), [S18](../../raw/Articles/poweredoutdoors.com/john-deere-riding-mower-wont-move.md), [S22](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-wont-move-forward-or-reverse.md), [S25](../../raw/Articles/poweredoutdoors.com/spartan-zero-turn-wont-move-or-go-forward.md), [S26](../../raw/Articles/poweredoutdoors.com/walker-mower-wont-move-forward-or-reverse.md), [S27](../../raw/Articles/poweredoutdoors.com/zero-turn-hydrostatic-transmission-problems.md), [S28](../../raw/Articles/poweredoutdoors.com/zero-turn-is-weak-on-one-side.md)
+
+- [Mower pulls to one side](../problems/mower-pulls-to-one-side.md): low, old or leaking hydraulic oil makes the hydrostatic transmission weak; when it is weak on one side, the mower pulls to that side.
+
+Sources for Mower pulls to one side: [S27](../../raw/Articles/poweredoutdoors.com/zero-turn-hydrostatic-transmission-problems.md), [S28](../../raw/Articles/poweredoutdoors.com/zero-turn-is-weak-on-one-side.md), [S30](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S31](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md), [S32](../../raw/Articles/poweredoutdoors.com/your-common-lawn-tractor-problems-solutions.md)
 
 ## How to confirm
 
@@ -119,3 +124,6 @@ Sources: [S12](../../raw/Articles/poweredoutdoors.com/common-zero-turn-problems-
 - [S27](../../raw/Articles/poweredoutdoors.com/zero-turn-hydrostatic-transmission-problems.md) — Zero Turn Hydrostatic Transmission Problems (expert-blog)
 - [S28](../../raw/Articles/poweredoutdoors.com/zero-turn-is-weak-on-one-side.md) — Your Zero Turn is Weak on One Side (8 Reasons) (expert-blog)
 - [S29](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-wont-move-or-go-forward.md) — 8 Reasons a Zero Turn Mower Won’t Move Forward or Reverse (expert-blog)
+- [S30](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md) — 13 Bad Boy Mower Problems (Troubleshooting Tables) (expert-blog)
+- [S31](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md) — 13 Common Ferris Zero Turn Problems (Troubleshooting) (expert-blog)
+- [S32](../../raw/Articles/poweredoutdoors.com/your-common-lawn-tractor-problems-solutions.md) — 9 Common Lawn Tractor Problems & Solutions (Troubleshoot) (expert-blog)

@@ -164,7 +164,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-cuts-une
 
 ## Related problems
 
-Not this problem? If the mower stalls when the blades are engaged in thick or wet grass, see [Engine starts then dies](engine-starts-then-dies.md). If the mower or deck shakes, see [Mower is vibrating](mower-is-vibrating.md). Belt keeps coming off and Mower pulls to one side have no page yet.
+Not this problem? If the mower stalls when the blades are engaged in thick or wet grass, see [Engine starts then dies](engine-starts-then-dies.md). If the mower or deck shakes, see [Mower is vibrating](mower-is-vibrating.md). If the mower drifts off line, see [Mower pulls to one side](mower-pulls-to-one-side.md). Belt keeps coming off has no page yet.
 
 Sources: [S75](../../raw/Articles/searspartsdirect.com/not-cutting-evenly.ridtr02.md), [S41](../../raw/Articles/poweredoutdoors.com/john-deere-mower-belt-keeps-coming-off.md)
 

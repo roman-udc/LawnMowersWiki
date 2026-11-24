@@ -3,11 +3,12 @@ type: cause
 title: Air in the hydraulic system
 problems:
   - ../problems/mower-wont-move.md
+  - ../problems/mower-pulls-to-one-side.md
 part_types:
   - hydraulic oil
 procedures:
   - ../procedures/purge-the-hydraulic-system.md
-source_count: 25
+source_count: 26
 updated: 2026-11-24
 ---
 
@@ -32,6 +33,10 @@ Sources: [S14](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-wont-move-
 - [Mower won't move](../problems/mower-wont-move.md): the mower moves slowly or not at all, especially right after a fluid change; the transmission is noisy (cavitation) when the wheels turn; the oil gets hot and expands more than normal. On a zero-turn, air on one side can make one wheel weak or dead, so the mower pulls or won't drive straight.
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/ariens-zero-turn-mower-wont-move-forward-or-reverse-fix-it.md), [S2](../../raw/Articles/poweredoutdoors.com/bad-boy-zero-turn-wont-move-forward-or-reverse.md), [S13](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-mower-wont-move-or-go-forward.md), [S15](../../raw/Articles/poweredoutdoors.com/hustler-zero-turn-wont-move-forward.md), [S16](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-wont-move-or-go-forward.md), [S17](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-wont-move-forward-or-reverse.md), [S20](../../raw/Articles/poweredoutdoors.com/spartan-zero-turn-wont-move-or-go-forward.md), [S21](../../raw/Articles/poweredoutdoors.com/walker-mower-wont-move-forward-or-reverse.md), [S22](../../raw/Articles/poweredoutdoors.com/zero-turn-hydrostatic-transmission-problems.md), [S11](../../raw/Articles/poweredoutdoors.com/common-zero-turn-problems-how-to-fix-them.md), [S23](../../raw/Articles/poweredoutdoors.com/zero-turn-is-weak-on-one-side.md), [S24](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-wont-drive-straight.md)
+
+- [Mower pulls to one side](../problems/mower-pulls-to-one-side.md): on a zero-turn, air trapped in one of the two independent transmissions makes that wheel move slowly, so the mower pulls or is weak on one side.
+
+Sources for Mower pulls to one side: [S11](../../raw/Articles/poweredoutdoors.com/common-zero-turn-problems-how-to-fix-them.md), [S22](../../raw/Articles/poweredoutdoors.com/zero-turn-hydrostatic-transmission-problems.md), [S23](../../raw/Articles/poweredoutdoors.com/zero-turn-is-weak-on-one-side.md), [S24](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-wont-drive-straight.md), [S27](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md)
 
 ## How to confirm
 
@@ -98,3 +103,4 @@ Sources: [S2](../../raw/Articles/poweredoutdoors.com/bad-boy-zero-turn-wont-move
 - [S24](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-wont-drive-straight.md) — 7 Reasons a Zero Turn Mower Won’t Drive Straight (SOLVED) (expert-blog)
 - [S25](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-wont-move-or-go-forward.md) — 8 Reasons a Zero Turn Mower Won’t Move Forward or Reverse (expert-blog)
 - [S26](../../raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md) — Riding mower and tractor common questions (manufacturer)
+- [S27](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md) — 13 Husqvarna Zero Turn Problems (Troubleshoot & Fix) (expert-blog)

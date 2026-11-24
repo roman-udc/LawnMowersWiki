@@ -37,6 +37,7 @@ causes:
   - ../causes/sheared-flywheel-key.md
   - ../causes/missing-idler-arm-spring.md
   - ../causes/bad-clutch-cable-or-linkage.md
+  - ../causes/bad-drive-control-linkage-or-damper.md
 part_types:
   - mower blade
   - engine mounting bolts
@@ -107,7 +108,7 @@ Ranked by how many of the 64 Sources name the Cause for this Problem. Tie-break:
 | [Blade installed upside down](../causes/blade-installed-upside-down.md) | 3 of 64 | Blade sails not pointing up toward the deck | moderate |
 | [Missing idler arm spring](../causes/missing-idler-arm-spring.md) | 2 of 64 | Worn idler bracket or spring | easy |
 | [Sheared flywheel key](../causes/sheared-flywheel-key.md) | 2 of 64 | Push mower after a blade strike | moderate |
-| Bad drive control linkage or damper | 1 of 64 | Push mower, worn engagement linkages | not yet rated |
+| [Bad drive control linkage or damper](../causes/bad-drive-control-linkage-or-damper.md) | 1 of 64 | Push mower, worn engagement linkages | easy |
 | Bad motor | 1 of 64 | Battery mower after the blade hit an object; motor shaft damaged | not yet rated |
 | Loose steering linkage | 1 of 64 | Loose linkages and worn bushings | not yet rated |
 | Worn blade sail | 1 of 64 | Push mower, worn blade | not yet rated |

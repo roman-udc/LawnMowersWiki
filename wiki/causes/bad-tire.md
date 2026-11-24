@@ -3,6 +3,7 @@ type: cause
 title: Bad tire or wheel
 problems:
   - ../problems/uneven-cut.md
+  - ../problems/mower-pulls-to-one-side.md
 part_types:
   - wheel
   - tire
@@ -12,7 +13,7 @@ procedures:
   - ../procedures/repair-a-flat-tire.md
   - ../procedures/replace-a-tire.md
 source_count: 12
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Bad tire or wheel
@@ -34,10 +35,12 @@ Sources: [S4](../../raw/Articles/poweredoutdoors.com/push-mower-is-cutting-uneve
 ## Symptoms it produces
 
 - [Uneven cut](../problems/uneven-cut.md): the mower sits unlevel with the deck closer to the ground on one side, giving an uneven or step cut; a loose wheel makes the mower wobble.
-- Mower pulls to one side: a damaged wheel (wobble, cracks, bent rim) can make the mower pull.
+- [Mower pulls to one side](../problems/mower-pulls-to-one-side.md): a damaged wheel (wobble, cracks, bent rim) can make the mower pull.
 - Vibration: flat spots from long storage on underinflated tires cause vibration.
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/kobalt-electric-mower-bad-cut.md), [S2](../../raw/Articles/poweredoutdoors.com/lawn-mower-is-cutting-uneven.md), [S3](../../raw/Articles/poweredoutdoors.com/lawn-mowers-bad-cut-solved.md), [S4](../../raw/Articles/poweredoutdoors.com/push-mower-is-cutting-uneven.md), [S5](../../raw/Articles/poweredoutdoors.com/riding-mower-storage.md), [S6](../../raw/Articles/poweredoutdoors.com/sun-joe-electric-mower-bad-cut.md), [S7](../../raw/Articles/poweredoutdoors.com/toro-electric-mower-bad-cut.md), [S8](../../raw/Articles/poweredoutdoors.com/worx-mower-has-bad-uneven-cut.md), [S12](../../raw/Articles/searspartsdirect.com/why-your-lawn-mower-pulls-to-one-side-while-cutting.md)
+
+Sources for Mower pulls to one side: [S12](../../raw/Articles/searspartsdirect.com/why-your-lawn-mower-pulls-to-one-side-while-cutting.md)
 
 ## How to confirm
 

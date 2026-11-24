@@ -25,6 +25,7 @@ causes:
   - ../causes/air-in-hydraulic-system.md
   - ../causes/missing-axle-key.md
   - ../causes/bad-hydrostatic-transmission.md
+  - ../causes/brake-hung-up.md
   - ../causes/bad-safety-switch.md
   - ../causes/dirty-carburetor.md
 part_types:
@@ -92,7 +93,7 @@ Ranked by the number of Sources (of 43) that name the Cause for this Problem. Ti
 | [Missing axle key](../causes/missing-axle-key.md) | 12 of 43 | Lawn tractor, right after a rear tire change; wheel doesn't turn with the axle | easy |
 | Bad belt tensioner spring | 8 of 43 | Tensioner spring worn or broken | not yet rated |
 | [Bad hydrostatic transmission](../causes/bad-hydrostatic-transmission.md) | 4 of 43 | Pump leaks; weak when hot; one side slower | pro |
-| Brake hung up | 2 of 43 | Parking brake left on | not yet rated |
+| [Brake hung up](../causes/brake-hung-up.md) | 2 of 43 | Parking brake left on | easy if left on; moderate to repair |
 | [Bad safety switch](../causes/bad-safety-switch.md) | 1 of 43 | Engine dies when you release the brake (seat switch unplugged or broken) | easy to moderate |
 | [Dirty carburetor](../causes/dirty-carburetor.md) | 1 of 43 | Engine sputters, then stalls when you engage the drive | moderate |
 
@@ -148,6 +149,7 @@ Sources: [S23](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-mower-won
 ## Related problems
 
 - Not moving because the engine sputters or dies? See [Engine starts then dies](engine-starts-then-dies.md).
+- Moves, but pulls or is weak on one side? See [Mower pulls to one side](mower-pulls-to-one-side.md); pulling to one side is one of the hydrostatic symptoms ([S40](../../raw/Articles/poweredoutdoors.com/zero-turn-hydrostatic-transmission-problems.md)).
 - Engine quits when hot (no page yet): linked from the zero-turn won't-move article for mowers that stop when hot.
 
 Sources: [S41](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-wont-move-or-go-forward.md), [S43](../../raw/Articles/searspartsdirect.com/won-t-move.ltr1818.md)

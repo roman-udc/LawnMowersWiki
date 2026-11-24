@@ -3,10 +3,11 @@ type: cause
 title: Worn drive belt
 problems:
   - ../problems/mower-wont-move.md
+  - ../problems/mower-pulls-to-one-side.md
 part_types:
   - drive belt
 procedures: []
-source_count: 26
+source_count: 29
 updated: 2026-11-24
 ---
 
@@ -33,9 +34,11 @@ Sources: [S18](../../raw/Articles/poweredoutdoors.com/spartan-zero-turn-wont-mov
 ## Symptoms it produces
 
 - [Mower won't move](../problems/mower-wont-move.md): a belt that has broken or fallen off gives no movement at all. A worn belt slips, so the mower moves slowly or sluggishly, the hydrostatic drive feels weak (the pump works inefficiently), it slows down or won't drive going uphill, or it won't move until the belt warms up. A self-propelled mower suddenly needs more force to push and is much slower than normal.
-- A slipping, loose or misaligned drive belt gives uneven power, so a self-propelled mower can veer to one side (Mower pulls to one side; no page yet).
+- [Mower pulls to one side](../problems/mower-pulls-to-one-side.md): a slipping, loose or misaligned drive belt gives uneven power, so a self-propelled mower can veer to one side; on a zero-turn a bad drive belt makes the transmission weak on one side.
 
 Sources: [S4](../../raw/Articles/poweredoutdoors.com/common-lawn-mower-problems-fixed.md), [S5](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md), [S8](../../raw/Articles/poweredoutdoors.com/common-zero-turn-problems-how-to-fix-them.md), [S7](../../raw/Articles/poweredoutdoors.com/common-troy-bilt-lawn-mower-problems.md), [S3](../../raw/Articles/poweredoutdoors.com/common-exmark-mower-problems-and-solutions.md), [S2](../../raw/Articles/poweredoutdoors.com/common-craftsman-lawn-mower-problems.md), [S6](../../raw/Articles/poweredoutdoors.com/common-toro-lawn-mower-problems-solutions.md), [S9](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-wont-move-or-go-forward.md), [S11](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-wont-move-or-go-forward.md), [S26](../../raw/Articles/searspartsdirect.com/won-t-move.ltr1818.md), [S23](../../raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md), [S19](../../raw/Articles/poweredoutdoors.com/this-is-how-long-a-mower-drive-belt-should-last.md), [S25](../../raw/Articles/searspartsdirect.com/why-your-lawn-mower-pulls-to-one-side-while-cutting.md)
+
+Sources for Mower pulls to one side: [S21](../../raw/Articles/poweredoutdoors.com/zero-turn-hydrostatic-transmission-problems.md), [S25](../../raw/Articles/searspartsdirect.com/why-your-lawn-mower-pulls-to-one-side-while-cutting.md), [S27](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S28](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md), [S29](../../raw/Articles/poweredoutdoors.com/your-common-lawn-tractor-problems-solutions.md)
 
 ## How to confirm
 
@@ -108,3 +111,6 @@ Sources: [S24](../../raw/Articles/searspartsdirect.com/what-are-the-riding-mower
 - [S24](../../raw/Articles/searspartsdirect.com/what-are-the-riding-mower-parts-that-require-replacement-most-often.md) — What are the riding mower parts that require replacement most often? (manufacturer)
 - [S25](../../raw/Articles/searspartsdirect.com/why-your-lawn-mower-pulls-to-one-side-while-cutting.md) — Why your lawn mower pulls to one side while cutting (manufacturer)
 - [S26](../../raw/Articles/searspartsdirect.com/won-t-move.ltr1818.md) — Why won't my riding mower move? (manufacturer)
+- [S27](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md) — 13 Bad Boy Mower Problems (Troubleshooting Tables) (expert-blog)
+- [S28](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md) — 13 Common Ferris Zero Turn Problems (Troubleshooting) (expert-blog)
+- [S29](../../raw/Articles/poweredoutdoors.com/your-common-lawn-tractor-problems-solutions.md) — 9 Common Lawn Tractor Problems & Solutions (Troubleshoot) (expert-blog)

@@ -3,12 +3,13 @@ type: cause
 title: Unlevel deck
 problems:
   - ../problems/uneven-cut.md
+  - ../problems/mower-pulls-to-one-side.md
 part_types:
   - deck leveling hardware
 procedures:
   - ../procedures/level-the-deck.md
 source_count: 32
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Unlevel deck
@@ -30,7 +31,9 @@ Sources: [S2](../../raw/Articles/poweredoutdoors.com/big-dog-bad-or-uneven-cut.m
 ## Symptoms it produces
 
 - [Uneven cut](../problems/uneven-cut.md): a stair-step cut that looks like slanted steps; one side is cut short and the other is left taller. Sources: [S1](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-cuts-uneven.md), [S18](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-has-a-bad-or-uneven-cut.md), [S19](../../raw/Articles/poweredoutdoors.com/simplicity-lawn-mower-bad-uneven-cut.md), [S20](../../raw/Articles/poweredoutdoors.com/snapper-lawn-mower-cuts-uneven.md), [S25](../../raw/Articles/poweredoutdoors.com/your-ariens-lawn-mower-is-cutting-uneven.md), [S8](../../raw/Articles/poweredoutdoors.com/greenworks-lawn-mower-is-cutting-uneven.md), [S29](../../raw/Articles/searspartsdirect.com/how-to-level-a-riding-lawn-mower-deck-for-an-even-cut-video.md), [S30](../../raw/Articles/searspartsdirect.com/not-cutting-evenly.ridtr02.md)
-- Mower pulls to one side: a deck lower on one side leans the mower and pulls it off course, sometimes with one side scalped. Source: [S32](../../raw/Articles/searspartsdirect.com/why-your-lawn-mower-pulls-to-one-side-while-cutting.md)
+- [Mower pulls to one side](../problems/mower-pulls-to-one-side.md): a deck lower on one side leans the mower and pulls it off course, sometimes with one side scalped. Source: [S32](../../raw/Articles/searspartsdirect.com/why-your-lawn-mower-pulls-to-one-side-while-cutting.md)
+
+Sources for Mower pulls to one side: [S32](../../raw/Articles/searspartsdirect.com/why-your-lawn-mower-pulls-to-one-side-while-cutting.md)
 
 ## How to confirm
 
