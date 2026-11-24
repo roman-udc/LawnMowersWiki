@@ -4,10 +4,14 @@
 
 **Blocked by:** 05, 07
 
-**Status:** ready-for-agent
+**Status:** resolved
 
-- [ ] `/wiki-lint` has been run on the full wiki.
-- [ ] Every structural violation is fixed, and the validator passes clean.
-- [ ] Each content suspicion is either fixed or recorded as a new ticket in the issue tracker, with `needs-triage`.
-- [ ] The index is checked for size and split per page type if it has passed a few hundred lines.
-- [ ] The lint run and fixes are recorded in the log and committed.
+- [x] `/wiki-lint` has been run on the full wiki.
+- [x] Every structural violation is fixed, and the validator passes clean.
+- [x] Each content suspicion is either fixed or recorded as a new ticket in the issue tracker, with `needs-triage`.
+- [x] The index is checked for size and split per page type if it has passed a few hundred lines.
+- [x] The lint run and fixes are recorded in the log and committed.
+
+## Comments
+
+2026-11-24: Lint run, report at `reports/lint/2026-11-24.md`. Validator clean, no orphans, index 209 lines (no split). Content suspicions filed as needs-triage tickets 36–40.
