@@ -5,6 +5,7 @@ problems:
   - ../problems/mower-is-leaking-gas.md
   - ../problems/engine-cranks-but-wont-start.md
   - ../problems/engine-starts-then-dies.md
+  - ../problems/engine-loses-power.md
 part_types:
   - fuel cap
   - fuel cap gasket
@@ -48,6 +49,10 @@ Sources: [S4](../../raw/Articles/poweredoutdoors.com/bobcat-zero-turn-wont-start
 - [Engine starts then dies](../problems/engine-starts-then-dies.md): these Sources list a bad gas cap among the reasons a mower dies after starting. Where they explain it, the cause is a cap that no longer vents, so the tank forms a vacuum and fuel flow is restricted: see [Plugged fuel cap vent](plugged-fuel-cap-vent.md). The same tables list the seal separately, as a leak.
 
 Sources: [S37](../../raw/Articles/poweredoutdoors.com/common-ariens-lawn-mower-problems-solutions.md), [S38](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S6](../../raw/Articles/poweredoutdoors.com/common-gravely-lawn-mower-problems-solutions.md), [S9](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md), [S21](../../raw/Articles/poweredoutdoors.com/lawn-mower-sputtering-solved.md)
+
+- [Engine loses power](../problems/engine-loses-power.md): a bad gas cap is listed among the fuel causes of power loss.
+
+Sources for Engine loses power: [S38](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md)
 
 ## How to confirm
 

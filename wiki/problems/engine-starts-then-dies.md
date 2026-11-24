@@ -58,6 +58,7 @@ causes:
   - ../causes/mowing-too-fast.md
   - ../causes/wrong-engine-speed.md
   - ../causes/bad-gas-cap-seal.md
+  - ../causes/cutting-wet-or-tall-grass.md
 part_types:
   - fuel filter
   - fuel line
@@ -148,7 +149,7 @@ Ranked by how many of the 82 Sources name the Cause for this Problem. Tie-break:
 | Bad cooling shroud | 1 of 82 | Dirty engine shroud or heat shield not in place | not yet rated |
 | Bad motor | 1 of 82 | Battery mower; motor failed | not yet rated |
 | Battery not seated | 1 of 82 | Battery mower; battery loose in its slot | not yet rated |
-| Cutting wet or tall grass | 1 of 82 | Battery mower stops in wet, tall or thick grass | not yet rated |
+| [Cutting wet or tall grass](../causes/cutting-wet-or-tall-grass.md) | 1 of 82 | Battery mower stops in wet, tall or thick grass | easy |
 | [Fuel valve off](../causes/fuel-valve-off.md) | 1 of 82 | Fuel shut-off valve closed | easy |
 | Overheated battery | 1 of 82 | Battery mower; battery or circuits hot | not yet rated |
 | Water in fuel | 1 of 82 | Water in the gas | not yet rated |
@@ -204,7 +205,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/8-reasons-your-lawn-mower-w
 - **Not this problem? The engine spins but never fires:** see [Engine cranks but won't start](engine-cranks-but-wont-start.md).
 - **The engine doesn't spin at all, or only clicks:** see [Engine won't crank or turn over](engine-wont-crank.md).
 - **It dies only once it is hot:** see the Engine dies when hot Problem (page not written yet).
-- **It runs hot, smokes or loses power without stalling:** see the Engine overheats and Engine loses power Problems (pages not written yet).
+- **It runs hot, smokes or loses power without stalling:** see [Engine loses power](engine-loses-power.md); Engine overheats has no page yet.
 - **It only keeps running with the choke on:** see the Engine only runs with the choke on Problem (page not written yet).
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/8-reasons-your-lawn-mower-wont-stay-running.md), [S32](../../raw/Articles/poweredoutdoors.com/fix-lawn-mower-starts-then-dies.md), [S52](../../raw/Articles/poweredoutdoors.com/lawn-mower-keeps-stalling.md)

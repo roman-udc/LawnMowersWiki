@@ -5,13 +5,14 @@ problems:
   - ../problems/engine-cranks-but-wont-start.md
   - ../problems/engine-wont-crank.md
   - ../problems/engine-starts-then-dies.md
+  - ../problems/engine-loses-power.md
 part_types:
   - ignition coil
 procedures:
   - ../procedures/test-the-ignition-coil.md
   - ../procedures/replace-the-ignition-coil.md
 source_count: 113
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Bad ignition coil
@@ -41,7 +42,7 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-s
 Sources: [S1](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S3](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but-wont-start.md); engine won't crank [S6](../../raw/Articles/poweredoutdoors.com/bad-boy-mower-wont-start.md), [S31](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-wont-start.md)
 
 - [Engine starts then dies](../problems/engine-starts-then-dies.md), or quits when hot: runs fine cold, sputters or stalls after mowing a while, and is hard to restart ([S97](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md)).
-- Engine loses power under load from a weak or inconsistent spark.
+- [Engine loses power](../problems/engine-loses-power.md) under load from a weak or inconsistent spark.
 
 These other Problems have no page yet.
 
@@ -49,6 +50,8 @@ Sources: [S4](../../raw/Articles/poweredoutdoors.com/8-reasons-your-lawn-mower-w
 
 
 Sources for Engine starts then dies: [S4](../../raw/Articles/poweredoutdoors.com/8-reasons-your-lawn-mower-wont-stay-running.md), [S5](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-starts-then-dies.md), [S9](../../raw/Articles/poweredoutdoors.com/bobcat-zero-turn-starts-then-dies.md), [S14](../../raw/Articles/poweredoutdoors.com/common-gravely-lawn-mower-problems-solutions.md), [S15](../../raw/Articles/poweredoutdoors.com/common-kubota-problems-and-solutions.md), [S17](../../raw/Articles/poweredoutdoors.com/common-push-mower-problems-solutions.md), [S18](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md), [S19](../../raw/Articles/poweredoutdoors.com/common-toro-lawn-mower-problems-solutions.md), [S24](../../raw/Articles/poweredoutdoors.com/craftsman-lawn-mower-wont-stay-running.md), [S25](../../raw/Articles/poweredoutdoors.com/cub-cadet-dies-while-mowing.md), [S26](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-wont-stay-running.md), [S28](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-starts-then-dies.md), [S30](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-starts-then-dies.md), [S32](../../raw/Articles/poweredoutdoors.com/fix-lawn-mower-starts-then-dies.md), [S34](../../raw/Articles/poweredoutdoors.com/gravely-mower-starts-then-dies.md), [S36](../../raw/Articles/poweredoutdoors.com/honda-mower-starts-then-dies.md), [S39](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-wont-stay-running.md), [S40](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-dies-while-mowing.md), [S41](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-wont-stay-running.md), [S42](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-starts-then-dies.md), [S43](../../raw/Articles/poweredoutdoors.com/hustler-mower-starts-then-dies.md), [S46](../../raw/Articles/poweredoutdoors.com/john-deere-mower-starts-then-dies.md), [S47](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-starts-dies.md), [S48](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-starts-then-dies.md), [S50](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-dies.md), [S57](../../raw/Articles/poweredoutdoors.com/poulan-pro-starts-then-dies.md), [S61](../../raw/Articles/poweredoutdoors.com/push-mower-wont-stay-running.md), [S62](../../raw/Articles/poweredoutdoors.com/reasons-lawn-tractor-starts-then-dies.md), [S64](../../raw/Articles/poweredoutdoors.com/riding-lawn-mower-starts-then-dies.md), [S65](../../raw/Articles/poweredoutdoors.com/riding-lawn-mower-wont-stay-running.md), [S66](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-starts-then-dies.md), [S71](../../raw/Articles/poweredoutdoors.com/simplicity-mower-or-zero-turn-starts-then-dies.md), [S72](../../raw/Articles/poweredoutdoors.com/snapper-lawn-mower-starts-then-dies.md), [S76](../../raw/Articles/poweredoutdoors.com/spartan-starts-then-dies.md), [S80](../../raw/Articles/poweredoutdoors.com/walker-mower-starts-then-dies.md), [S83](../../raw/Articles/poweredoutdoors.com/why-your-craftsman-lawn-mower-dies-how-to-fix.md), [S84](../../raw/Articles/poweredoutdoors.com/why-your-push-mower-dies-while-mowing-solved.md), [S87](../../raw/Articles/poweredoutdoors.com/your-ariens-lawn-mower-starts-then-dies.md), [S90](../../raw/Articles/poweredoutdoors.com/your-exmark-lawn-mower-dies-while-running-solved.md), [S94](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-starts-then-dies.md), [S98](../../raw/Articles/poweredoutdoors.com/common-ariens-lawn-mower-problems-solutions.md), [S99](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S100](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S101](../../raw/Articles/poweredoutdoors.com/common-honda-lawn-mower-problems-solutions.md), [S102](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S103](../../raw/Articles/poweredoutdoors.com/common-john-deere-lawn-mower-problems.md), [S104](../../raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md), [S105](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md), [S106](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md), [S107](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md), [S108](../../raw/Articles/poweredoutdoors.com/hustler-mower-problems.md), [S109](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md), [S110](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md), [S111](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md), [S112](../../raw/Articles/poweredoutdoors.com/spartan-lawn-mower-problems-solutions.md), [S113](../../raw/Articles/poweredoutdoors.com/your-common-lawn-tractor-problems-solutions.md)
+
+Sources for Engine loses power: [S97](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md)
 
 ## How to confirm
 

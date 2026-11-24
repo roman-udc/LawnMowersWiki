@@ -4,11 +4,12 @@ title: Wrong engine speed
 problems:
   - ../problems/uneven-cut.md
   - ../problems/engine-starts-then-dies.md
+  - ../problems/engine-loses-power.md
 part_types:
   - throttle lever
 procedures: []
 source_count: 46
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Wrong engine speed
@@ -36,6 +37,10 @@ Sources: [S11](../../raw/Articles/poweredoutdoors.com/ego-electric-lawn-mower-is
 - Bagger doesn't pick up grass: the bagger needs the engine at maximum horsepower.
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/15-reasons-why-your-lawn-mower-is-not-picking-up-grass.md), [S2](../../raw/Articles/poweredoutdoors.com/8-reasons-your-lawn-mower-wont-stay-running.md), [S3](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-cuts-uneven.md), [S4](../../raw/Articles/poweredoutdoors.com/big-dog-bad-or-uneven-cut.md), [S5](../../raw/Articles/poweredoutdoors.com/bobcat-zero-turn-uneven-cut.md), [S6](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S7](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S8](../../raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md), [S9](../../raw/Articles/poweredoutdoors.com/craftsman-mower-cut-is-uneven.md), [S10](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-running-rough-sputtering.md), [S11](../../raw/Articles/poweredoutdoors.com/ego-electric-lawn-mower-is-cutting-uneven.md), [S12](../../raw/Articles/poweredoutdoors.com/ferris-runs-rough.md), [S13](../../raw/Articles/poweredoutdoors.com/gravely-lawn-mower-cuts-uneven.md), [S14](../../raw/Articles/poweredoutdoors.com/greenworks-lawn-mower-is-cutting-uneven.md), [S15](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-cuts-uneven.md), [S16](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-loses-power.md), [S17](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-cuts-uneven.md), [S18](../../raw/Articles/poweredoutdoors.com/hustler-mower-bad-uneven-cut.md), [S19](../../raw/Articles/poweredoutdoors.com/hustler-mower-runs-rough.md), [S20](../../raw/Articles/poweredoutdoors.com/john-deere-mower-cuts-uneven.md), [S21](../../raw/Articles/poweredoutdoors.com/john-deere-mower-running-rough.md), [S22](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-cuts-uneven.md), [S23](../../raw/Articles/poweredoutdoors.com/kubota-mower-rough-sputtering.md), [S24](../../raw/Articles/poweredoutdoors.com/lawn-mower-is-cutting-uneven.md), [S25](../../raw/Articles/poweredoutdoors.com/lawn-mower-sputtering-solved.md), [S26](../../raw/Articles/poweredoutdoors.com/lawn-mowers-bad-cut-solved.md), [S27](../../raw/Articles/poweredoutdoors.com/mower-is-not-bagging-grass-solved.md), [S28](../../raw/Articles/poweredoutdoors.com/pick-up-leaves-with-a-mower.md), [S29](../../raw/Articles/poweredoutdoors.com/push-mower-is-cutting-uneven.md), [S30](../../raw/Articles/poweredoutdoors.com/push-mower-loses-power.md), [S31](../../raw/Articles/poweredoutdoors.com/push-mower-runs-rough-sputters.md), [S32](../../raw/Articles/poweredoutdoors.com/reasons-lawn-tractor-cuts-uneven.md), [S33](../../raw/Articles/poweredoutdoors.com/reasons-your-riding-mower-is-cutting-uneven.md), [S34](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-has-a-bad-or-uneven-cut.md), [S35](../../raw/Articles/poweredoutdoors.com/simplicity-lawn-mower-bad-uneven-cut.md), [S36](../../raw/Articles/poweredoutdoors.com/snapper-lawn-mower-cuts-uneven.md), [S37](../../raw/Articles/poweredoutdoors.com/spartan-mower-bad-or-uneven-cut.md), [S38](../../raw/Articles/poweredoutdoors.com/toro-lawn-mower-is-cutting-uneven.md), [S39](../../raw/Articles/poweredoutdoors.com/why-your-cub-cadet-lawn-mower-cuts-uneven.md), [S40](../../raw/Articles/poweredoutdoors.com/why-your-troy-bilt-lawn-mower-is-cutting-uneven-fixed.md), [S41](../../raw/Articles/poweredoutdoors.com/your-ariens-lawn-mower-is-cutting-uneven.md), [S42](../../raw/Articles/poweredoutdoors.com/your-bad-or-uneven-exmark-mower-cut.md), [S43](../../raw/Articles/poweredoutdoors.com/your-ferris-lawn-mower-cuts-uneven.md), [S44](../../raw/Articles/poweredoutdoors.com/zero-turn-lawn-mower-is-cutting-uneven.md), [S45](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-is-sputtering.md), [S46](../../raw/Articles/searspartsdirect.com/why-does-my-lawn-tractor-cut-unevenly.md)
+
+- [Engine loses power](../problems/engine-loses-power.md): the engine isn't run at full throttle while mowing.
+
+Sources for Engine loses power: [S16](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-loses-power.md), [S30](../../raw/Articles/poweredoutdoors.com/push-mower-loses-power.md)
 
 ## How to confirm
 

@@ -1558,3 +1558,51 @@ Note: Cluster 16 (ticket 16), finalizer plus one parallel page writer. Created p
 - raw/Articles/searspartsdirect.com/won-t-cut-grass.ridtr01.md → ingested → causes/bad-clutch-cable-or-linkage.md, causes/bad-pto-switch.md, problems/blades-wont-engage.md
 
 Note: Cluster 17 (ticket 17), single writer and finalizer. Created problems/blades-wont-engage (41 Sources: 2 manufacturer, 39 expert-blog; riding, zero-turn; gas); causes/bad-pto-switch (24), bad-clutch-cable-or-linkage (19, incl. the five vibration Sources behind its mower-is-vibrating row). Updated causes/bad-pto-clutch, bad-safety-switch, blown-fuse, weak-or-dead-battery, worn-or-stretched-belt, worn-pulley-or-idler-bearing (Problem linked, blades Sources added) and bent-spindle-or-bad-spindle-bearing (one Sears mandrel Source); problems/engine-wont-crank (Bad PTO switch row linked, 1 of 102, order unchanged) and mower-is-vibrating (Bad clutch cable or linkage row and question linked, 5 of 64, order unchanged). No Procedure fixes either new Cause (no Source gives steps); the Problem links test-the-pto-clutch, charge-the-battery, test-and-replace-a-fuse and replace-the-seat-switch from Quick triage. Label mapping for the ranking: worn-drive-belt in blades notes means the deck belt (counted as worn-or-stretched-belt), belt-keeper-missing as belt-guard-or-keeper-missing, Husqvarna "worn idler arm and spring" (missing-idler-arm-spring) as bad-belt-tensioner-spring. Not cited as written: the brand tables that say "Replace a bad battery" in the safety-switch row (fix is the switch), and Simplicity "choke cable" (means the clutch cable). The SCAG blades detail article is "Coming Soon" and supplies nothing beyond its intro. Conflicts flagged: none. Plain text for later clusters: Bad belt tensioner spring and Belt guard or keeper missing (rows on blades-wont-engage), Belt keeps coming off (Related problems).
+
+## 2026-11-24 | ingest | fill pass: engine-loses-power
+
+- raw/Articles/poweredoutdoors.com/15-reasons-why-your-lawn-mower-is-not-picking-up-grass.md → ingested → causes/cutting-wet-or-tall-grass.md
+- raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-lawn-mower-to-overheat.md → ingested → causes/cutting-wet-or-tall-grass.md
+- raw/Articles/poweredoutdoors.com/bad-boy-loses-power.md → ingested → causes/cutting-wet-or-tall-grass.md, problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/bad-boy-mower-isnt-getting-fuel.md → ingested → problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/bobcat-zero-turn-uneven-cut.md → ingested → causes/cutting-wet-or-tall-grass.md
+- raw/Articles/poweredoutdoors.com/briggs-and-stratton-engine-isnt-getting-gas.md → ingested → problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/can-you-use-your-electric-lawn-mower-in-the-rain.md → ingested → causes/cutting-wet-or-tall-grass.md
+- raw/Articles/poweredoutdoors.com/common-craftsman-lawn-mower-problems.md → ingested → problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md → ingested → problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/common-john-deere-lawn-mower-problems.md → ingested → problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/craftsman-mower-loses-power.md → ingested → causes/cutting-wet-or-tall-grass.md, problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/craftsman-mower-overheating.md → ingested → causes/cutting-wet-or-tall-grass.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-loses-power-bogs-down.md → ingested → causes/cutting-wet-or-tall-grass.md, problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-mower-engine-overheats.md → ingested → causes/cutting-wet-or-tall-grass.md
+- raw/Articles/poweredoutdoors.com/dewalt-electric-mower-wont-start.md → ingested → causes/cutting-wet-or-tall-grass.md
+- raw/Articles/poweredoutdoors.com/ego-mower-starts-then-stops.md → ingested → causes/cutting-wet-or-tall-grass.md
+- raw/Articles/poweredoutdoors.com/ferris-mower-isnt-getting-gas.md → ingested → problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/greenworks-lawn-mower-is-cutting-uneven.md → ingested → causes/cutting-wet-or-tall-grass.md
+- raw/Articles/poweredoutdoors.com/honda-lawn-mower-loses-power.md → ingested → causes/cutting-wet-or-tall-grass.md, problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/husqvarna-mower-engine-overheats.md → ingested → causes/cutting-wet-or-tall-grass.md
+- raw/Articles/poweredoutdoors.com/husqvarna-mower-loses-power.md → ingested → causes/cutting-wet-or-tall-grass.md, problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/hustler-mower-overheating.md → ingested → causes/cutting-wet-or-tall-grass.md
+- raw/Articles/poweredoutdoors.com/john-deere-mower-engine-overheats.md → ingested → causes/cutting-wet-or-tall-grass.md
+- raw/Articles/poweredoutdoors.com/kubota-mower-engine-overheats.md → ingested → causes/cutting-wet-or-tall-grass.md
+- raw/Articles/poweredoutdoors.com/kubota-mower-loses-power.md → ingested → causes/cutting-wet-or-tall-grass.md, problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-replacement.md → ingested → causes/clogged-air-filter.md, causes/dirty-carburetor.md, causes/dirty-cooling-fins.md, causes/old-fuel.md, problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/mower-is-not-bagging-grass-solved.md → ingested → causes/cutting-wet-or-tall-grass.md
+- raw/Articles/poweredoutdoors.com/mower-loses-power.md → ingested → causes/cutting-wet-or-tall-grass.md, problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/pick-up-leaves-with-a-mower.md → ingested → causes/cutting-wet-or-tall-grass.md
+- raw/Articles/poweredoutdoors.com/push-mower-engine-overheats.md → ingested → causes/cutting-wet-or-tall-grass.md
+- raw/Articles/poweredoutdoors.com/push-mower-loses-power.md → ingested → causes/cutting-wet-or-tall-grass.md, problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/riding-mower-isnt-getting-fuel.md → ingested → problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-loses-power.md → ingested → causes/cutting-wet-or-tall-grass.md, problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/skil-electric-mower-wont-start-12-starting-problems.md → ingested → causes/cutting-wet-or-tall-grass.md
+- raw/Articles/poweredoutdoors.com/spartan-lawn-mower-isnt-getting-gas.md → ingested → problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/this-is-why-your-riding-lawn-mower-loses-power.md → ingested → causes/cutting-wet-or-tall-grass.md, problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/too-much-oil-craftsman-mower.md → ingested → problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/toro-mower-loses-power.md → ingested → causes/cutting-wet-or-tall-grass.md, problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/troy-bilt-lawn-mower-isnt-getting-gas.md → ingested → problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/zero-turn-lawn-mower-isnt-getting-fuel.md → ingested → problems/engine-loses-power.md
+- raw/Articles/poweredoutdoors.com/zero-turn-mower-loses-power.md → ingested → causes/cutting-wet-or-tall-grass.md, problems/engine-loses-power.md
+- raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md → ingested → causes/bad-governor.md, causes/cutting-wet-or-tall-grass.md, causes/worn-or-stretched-belt.md, problems/engine-loses-power.md
+- raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md → ingested → causes/cutting-wet-or-tall-grass.md
+
+Note: Cluster 18 (ticket 18), single writer and finalizer. Created problems/engine-loses-power (25 Sources: 1 manufacturer, 24 expert-blog; push, self-propelled, riding, zero-turn; gas); causes/bad-governor (1, Sears only, no repair steps or difficulty in the Source) and cutting-wet-or-tall-grass (31). Updated causes dirty-carburetor, old-fuel, clogged-fuel-line, clogged-fuel-filter, clogged-air-filter, dull-or-bent-blade, mowing-too-fast, dirty-cooling-fins, overfilled-oil, wrong-oil-or-low-oil, fouled-spark-plug, debris-on-deck-or-pulleys, bad-fuel-pump, plugged-fuel-cap-vent, wrong-engine-speed, bad-ignition-coil, bent-spindle-or-bad-spindle-bearing, low-compression, worn-or-stretched-belt, bad-gas-cap-seal (Problem added with "Sources for Engine loses power"; plain mentions linked); problems/engine-starts-then-dies (Cutting wet or tall grass row linked, 1 of 82, order unchanged; Related line links Engine loses power); index. Not counted for this Problem: the weak hydrostatic transmission notes (Ariens, common-lawn-mower-problems-fixed, Snapper, Husqvarna zero-turn) belong to mower-wont-move; the Simplicity "Loses Power and Dies" section is starts-then-dies. The Sears blades-engaged "drive belt" is the blade drive belt and counts as worn-or-stretched-belt. The John Deere uneven-cut note for cutting-wet-or-tall-grass has no content of its own and is not cited. Conflicts flagged: none. Plain text for later clusters: Clogged deck chute, Bad cooling shroud, Clogged blower tubes or inlet (rows); Problems Engine overheats, Engine runs rough, Mower doesn't bag grass.
