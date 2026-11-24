@@ -5,6 +5,7 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 ## Problems
 
 - [Engine cranks but won't start](problems/engine-cranks-but-wont-start.md) — engine spins on the starter or recoil but never fires: air, fuel, spark or compression is missing. Aliases: "turns over but won't start", "engine spins but won't start", "cranks but won't fire", "starter works but the engine won't catch", "acts like it wants to start but doesn't", "engine spins but won't start when I turn the key", "you can hear the engine wanting to start but it just won't", "lawn mower won't start", "push mower won't start", "self-propelled mower won't start", "riding mower won't start", "lawn tractor won't start", "zero turn won't start", "diesel lawn mower won't start", "won't start after winter", "mower isn't getting gas", "carburetor isn't getting fuel"
+- [Engine won't crank or turn over](problems/engine-wont-crank.md) — turn the key and the engine doesn't spin: nothing happens, or only a click or hum; usually the starter isn't getting power (battery, cables, ground, fuse, switches, solenoid), then the starter motor. Aliases: "won't turn over", "won't crank", "nothing happens when I turn the key", "no click when I turn the key", "mower seems completely dead", "battery is good but nothing happens when I turn the key", "clicks but won't start", "clicks but won't start or turn over", "just clicks or hums when I turn the key", "click, click, click when I turn the key", "humming sound when starting", "starter clicks but no crank", "can't get the engine to turn over", "won't crank after sitting", "intermittent no-start", "lawn tractor doesn't start sometimes", "riding mower won't turn over or crank", "zero turn won't turn over or crank"
 
 ## Causes
 
@@ -28,6 +29,17 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Wet electrical components](causes/wet-electrical-components.md) — rain or damp storage wets or corrodes switches, plug wires and wiring; dry them, replace corroded or chewed wiring (easy).
 - [Air in the fuel system](causes/air-in-fuel-system.md) — diesel mowers: trapped air in the fuel system hurts starting and running; bleed it out (easy).
 - [Bad glow plugs](causes/bad-glow-plugs.md) — diesel mowers: a glow plug that no longer heats leaves a cold engine unable to start; test and replace (moderate).
+- [Weak or dead battery](causes/weak-or-dead-battery.md) — 12-volt battery too weak to power the solenoid and starter: nothing happens or just a click; test for 12.7 V, charge, jump or replace (easy).
+- [Loose or corroded battery cables](causes/loose-or-corroded-battery-cables.md) — vibration loosens cables and moisture corrodes terminals, so the starter gets no power; tighten, clean or replace (easy).
+- [Bad starter solenoid](causes/bad-starter-solenoid.md) — the switch that feeds the starter fails: click or hum and no cranking, or a hot, smoking wire; check feed and ground, bypass-test, replace (easy to moderate).
+- [Bad safety switch](causes/bad-safety-switch.md) — a failed seat, brake, PTO or bail-lever switch won't sense the condition, so the mower won't crank or shuts off; multimeter-test and replace, never bypass (easy to moderate).
+- [Bad starter motor](causes/bad-starter-motor.md) — solenoid clicks but the starter doesn't run, or it spins without turning the engine; suspect it last, then replace or rebuild (moderate).
+- [Bad ignition switch](causes/bad-ignition-switch.md) — key turned and nothing happens, or the engine won't stop; multimeter-test the terminals and replace (easy).
+- [Bad wiring or ground](causes/bad-wiring-or-ground.md) — loose, corroded, chewed or shorted wires and bad grounds cut power to the solenoid and starter or blow fuses; clean, repair or replace (easy to moderate).
+- [Blown fuse](causes/blown-fuse.md) — a short or overload blows the fuse and cuts power to the ignition circuit, blade clutch or charging; replace it and find the short if it blows again (easy).
+- [Faulty charging system](causes/faulty-charging-system.md) — stator, alternator or regulator stops recharging the battery, so it keeps going flat; test output, then have a mechanic find the fault (pro).
+- [Hydrolocked engine](causes/hydrolocked-engine.md) — too much oil fills the cylinder so the engine won't turn with the rope or starter; stop cranking, drain to the full mark (moderate).
+- [Seized engine](causes/seized-engine.md) — a locked-up engine can't be turned by the starter; the key gives only a click; send to a technician (pro).
 
 ## Procedures
 
@@ -44,6 +56,17 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Start a zero-turn mower](procedures/start-a-zero-turn-mower.md) — the starting steps: seat, brake, PTO off, levers out, choke, key (easy, a few minutes).
 - [Test the ignition coil](procedures/test-the-ignition-coil.md) — spark-test with a tester, then check the coil (easy, time not stated).
 - [Tune up the engine](procedures/tune-up.md) — yearly service: oil and oil filter, air filter, spark plug, fuel filter (easy, about 2 hours dealer labor).
+- [Test the battery](procedures/test-the-battery.md) — read the battery with a multimeter: 12.7 V is full, under that charge it (easy, time not stated).
+- [Charge the battery](procedures/charge-the-battery.md) — slow-charge a mower battery at low amps, or trickle-charge it (easy, 30 minutes to 2 hours, up to 24 hours on a trickle charger).
+- [Jump-start the battery](procedures/jump-start-the-battery.md) — jump a 12-volt mower battery from a car battery with the car engine off, then recharge (easy, time not stated).
+- [Test the starter solenoid](procedures/test-the-starter-solenoid.md) — with a charged battery, bypass-test and voltage-test the solenoid (moderate, time not stated).
+- [Replace the starter solenoid](procedures/replace-the-starter-solenoid.md) — disconnect the battery, move the wires to a new solenoid, remount (moderate, 30 minutes or less).
+- [Replace the starter motor](procedures/replace-the-starter-motor.md) — remove the blower housing and swap the starter on a riding mower (moderate, 30 minutes or less).
+- [Replace the ignition switch](procedures/replace-the-ignition-switch.md) — unplug the harness, release the tabs and swap the key switch (easy, 15 minutes or less).
+- [Reset the ignition code](procedures/reset-the-ignition-code.md) — change or reset the code on a keyless Smart Switch ignition (easy, time not stated).
+- [Replace the seat switch](procedures/replace-the-seat-switch.md) — test the seat switch with a multimeter and swap it under the seat (easy, 15 minutes or less).
+- [Test and replace a fuse](procedures/test-and-replace-a-fuse.md) — check a fuse by eye and with a meter, replace it with the same amperage, trace the short if it blows again (easy, time not stated).
+- [Read a wiring schematic](procedures/read-a-wiring-schematic.md) — find and follow your model's wiring diagram to trace the starting circuit (moderate, time not stated).
 
 ## Guides
 

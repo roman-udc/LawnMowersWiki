@@ -3,13 +3,14 @@ type: cause
 title: Wet electrical components
 problems:
   - ../problems/engine-cranks-but-wont-start.md
+  - ../problems/engine-wont-crank.md
 part_types:
   - ignition switch
   - safety switch
   - spark plug wire
   - wiring
 procedures: []
-source_count: 9
+source_count: 11
 updated: 2026-11-23
 ---
 
@@ -34,8 +35,9 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/can-you-use-your-electric-l
 - [Engine cranks but won't start](../problems/engine-cranks-but-wont-start.md): after rain or storage, water in the ignition switch, safety switches or spark plug boot gives bad connections, so the mower won't start.
 - Battery mower won't start: after rain exposure an electric mower won't turn on, or runs with less power. It may smoke if water has shorted it.
 - Mower won't start after winter: moisture during storage corrodes switches and wiring, and rodents may have chewed the wires.
+- [Engine won't crank](../problems/engine-wont-crank.md): after the mower sat in the rain, water in the electrical system can keep it from cranking; check this when the starter solenoid tests good.
 
-Sources: [S1](../../raw/Articles/poweredoutdoors.com/can-you-use-your-electric-lawn-mower-in-the-rain.md), [S5](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-after-winter.md), [S6](../../raw/Articles/poweredoutdoors.com/reasons-why-your-ego-electric-lawn-mower-wont-start.md), [S7](../../raw/Articles/poweredoutdoors.com/riding-mower-wont-start-after-winter.md), [S9](../../raw/Articles/poweredoutdoors.com/why-your-mower-wont-start-after-leaving-in-the-rain.md)
+Sources: [S1](../../raw/Articles/poweredoutdoors.com/can-you-use-your-electric-lawn-mower-in-the-rain.md), [S5](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-after-winter.md), [S6](../../raw/Articles/poweredoutdoors.com/reasons-why-your-ego-electric-lawn-mower-wont-start.md), [S7](../../raw/Articles/poweredoutdoors.com/riding-mower-wont-start-after-winter.md), [S9](../../raw/Articles/poweredoutdoors.com/why-your-mower-wont-start-after-leaving-in-the-rain.md); engine won't crank [S10](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-starter-solenoid-bad.md), [S11](../../raw/Articles/poweredoutdoors.com/scag-bad-solenoid.md)
 
 ## How to confirm
 
@@ -83,3 +85,5 @@ Sources: [S5](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-after
 - [S7](../../raw/Articles/poweredoutdoors.com/riding-mower-wont-start-after-winter.md) — FIXED! Riding Mower Won't Start After Winter (expert-blog)
 - [S8](../../raw/Articles/poweredoutdoors.com/when-your-riding-mower-gets-wet.md) — What to Do When Your Riding Mower Gets Wet (expert-blog)
 - [S9](../../raw/Articles/poweredoutdoors.com/why-your-mower-wont-start-after-leaving-in-the-rain.md) — Mower Won't Start After Leaving In the Rain (Do This) (expert-blog)
+- [S10](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-starter-solenoid-bad.md) — How to Tell a Cub Cadet Mower Starter Solenoid is Bad (expert-blog)
+- [S11](../../raw/Articles/poweredoutdoors.com/scag-bad-solenoid.md) — Is Your SCAG Mower Starter Solenoid Bad? (Troubleshoot & Fix) (expert-blog)

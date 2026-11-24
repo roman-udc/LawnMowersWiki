@@ -3,6 +3,7 @@ type: cause
 title: Bad ignition coil
 problems:
   - ../problems/engine-cranks-but-wont-start.md
+  - ../problems/engine-wont-crank.md
 part_types:
   - ignition coil
 procedures:
@@ -34,8 +35,9 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-s
 ## Symptoms it produces
 
 - [Engine cranks but won't start](../problems/engine-cranks-but-wont-start.md): the engine doesn't fire even with starter fluid. A spark tester shows no spark with a good plug, or the spark plug wire is damaged, cracked or dried out.
+- [Engine won't crank](../problems/engine-wont-crank.md): two brand articles say that if the key is turned and the mower doesn't start or even turn over, the ignition switch or the ignition coil could be the problem.
 
-Sources: [S1](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S3](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but-wont-start.md)
+Sources: [S1](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S3](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but-wont-start.md); engine won't crank [S6](../../raw/Articles/poweredoutdoors.com/bad-boy-mower-wont-start.md), [S31](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-wont-start.md)
 
 - Engine starts then dies, or quits when hot: runs fine cold, sputters or stalls after mowing a while, and is hard to restart ([S97](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md)).
 - Engine loses power under load from a weak or inconsistent spark.

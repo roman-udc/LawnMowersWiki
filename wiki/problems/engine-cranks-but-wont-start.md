@@ -42,6 +42,13 @@ causes:
   - ../causes/disconnected-fuel-solenoid.md
   - ../causes/air-in-fuel-system.md
   - ../causes/bad-glow-plugs.md
+  - ../causes/blown-fuse.md
+  - ../causes/faulty-charging-system.md
+  - ../causes/bad-starter-solenoid.md
+  - ../causes/loose-or-corroded-battery-cables.md
+  - ../causes/bad-ignition-switch.md
+  - ../causes/weak-or-dead-battery.md
+  - ../causes/bad-safety-switch.md
 part_types:
   - air filter
   - foam pre-filter
@@ -76,7 +83,7 @@ Collect the basics first with the [customer intake Guide](../guides/customer-int
 | Question | Answer A → Causes | Answer B → Causes |
 |---|---|---|
 | Is there gas in the tank, and is the fuel shut-off valve (if fitted) open? | Tank empty, or valve closed (often closed for storage or transport) → [Empty fuel tank](../causes/empty-fuel-tank.md), [Fuel valve off](../causes/fuel-valve-off.md) | Fuel present and valve open → keep checking |
-| Were the starting steps followed: bail lever held or parking brake set, blade (PTO) switch off, choke on for a cold engine? | No → [Incorrect starting procedure](../causes/incorrect-starting-procedure.md) | Yes, and it still won't fire → keep checking; a bad safety switch is possible (see the table) |
+| Were the starting steps followed: bail lever held or parking brake set, blade (PTO) switch off, choke on for a cold engine? | No → [Incorrect starting procedure](../causes/incorrect-starting-procedure.md) | Yes, and it still won't fire → keep checking; a [bad safety switch](../causes/bad-safety-switch.md) is possible |
 | Is the engine cold or warm, and where is the choke set? | Cold engine with the choke off/open → [Wrong choke setting](../causes/wrong-choke-setting.md) | Warm engine with the choke on/closed → [Wrong choke setting](../causes/wrong-choke-setting.md) |
 | Has the mower sat for a month or more (for example over winter) with gas in the tank? | Yes → [Old fuel](../causes/old-fuel.md), [Dirty carburetor](../causes/dirty-carburetor.md); after damp storage also [Wet electrical components](../causes/wet-electrical-components.md) | No → keep checking air, spark and the fuel supply |
 | After a short burst of starter fluid or carburetor cleaner into the air intake, does the engine fire briefly? | Fires, then dies → fuel supply: [Clogged fuel filter](../causes/clogged-fuel-filter.md), [Clogged fuel line](../causes/clogged-fuel-line.md), [Bad fuel pump](../causes/bad-fuel-pump.md), [Disconnected fuel solenoid](../causes/disconnected-fuel-solenoid.md), [Dirty carburetor](../causes/dirty-carburetor.md) | Doesn't fire at all → spark or compression: [Fouled spark plug](../causes/fouled-spark-plug.md), [Bad ignition coil](../causes/bad-ignition-coil.md), [Sheared flywheel key](../causes/sheared-flywheel-key.md), [Low compression](../causes/low-compression.md) |
@@ -109,7 +116,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-w
 
 ## Possible causes
 
-Ranked by how many of the 120 Sources name the Cause for this Problem. Most of them are general "won't start" articles, so causes that stop the engine cranking at all (battery, switches, starter) are counted here too: if the engine doesn't spin, check the Engine won't crank or turn over Problem instead. Tie-break: on equal counts, the Cause named by more manufacturer Sources ranks higher, then alphabetical order. Causes without a link have no page yet.
+Ranked by how many of the 120 Sources name the Cause for this Problem. Most of them are general "won't start" articles, so causes that stop the engine cranking at all (battery, switches, starter) are counted here too: if the engine doesn't spin, check [Engine won't crank or turn over](engine-wont-crank.md) instead. Tie-break: on equal counts, the Cause named by more manufacturer Sources ranks higher, then alphabetical order. Causes without a link have no page yet.
 
 | Cause | How common | Telltale signs | Fix difficulty |
 |---|---|---|---|
@@ -122,18 +129,18 @@ Ranked by how many of the 120 Sources name the Cause for this Problem. Most of t
 | [Bad fuel pump](../causes/bad-fuel-pump.md) | 93 of 120 | Fuel reaches the pump, but no steady or pulsing flow comes out | moderate |
 | [Clogged air filter](../causes/clogged-air-filter.md) | 91 of 120 | Filter is dark, no light shows through, torn or brittle | easy |
 | [Empty fuel tank](../causes/empty-fuel-tank.md) | 82 of 120 | No or very little gas in the tank, broken fuel gauge, fuel leak | easy |
-| Bad safety switch | 71 of 120 | Starting steps followed correctly but the mower still won't start | not yet rated |
-| Weak or dead battery | 68 of 120 | Electric-start mower; no spark-tester glow can also point to the battery and wiring | not yet rated |
+| [Bad safety switch](../causes/bad-safety-switch.md) | 71 of 120 | Starting steps followed correctly but the mower still won't start | easy to moderate |
+| [Weak or dead battery](../causes/weak-or-dead-battery.md) | 68 of 120 | Electric-start mower; no spark-tester glow can also point to the battery and wiring | easy |
 | [Bad ignition coil](../causes/bad-ignition-coil.md) | 67 of 120 | No spark on a tester with a good plug, damaged spark plug wire | moderate |
-| Bad ignition switch | 65 of 120 | Electric-start mower; key turned but the engine still won't start | not yet rated |
+| [Bad ignition switch](../causes/bad-ignition-switch.md) | 65 of 120 | Electric-start mower; key turned but the engine still won't start | easy |
 | [Incorrect starting procedure](../causes/incorrect-starting-procedure.md) | 48 of 120 | Bail lever or parking brake not engaged, blade switch on, choke off on a cold engine | easy |
-| Loose or corroded battery cables | 42 of 120 | Electric-start mower; loose cable ends or corrosion on the terminals | not yet rated |
+| [Loose or corroded battery cables](../causes/loose-or-corroded-battery-cables.md) | 42 of 120 | Electric-start mower; loose cable ends or corrosion on the terminals | easy |
 | [Bad recoil starter](../causes/bad-recoil-starter.md) | 36 of 120 | Pull-start mower; rope off the pulley, won't retract, broken pulley or spring | moderate |
-| Bad starter solenoid | 31 of 120 | Electric-start mower; no spark-tester glow can also point to the solenoid | not yet rated |
+| [Bad starter solenoid](../causes/bad-starter-solenoid.md) | 31 of 120 | Electric-start mower; no spark-tester glow can also point to the solenoid | easy to moderate |
 | [Wrong choke setting](../causes/wrong-choke-setting.md) | 31 of 120 | Choke closed on a warm engine or open on a cold one, sticky choke cable | easy |
-| Faulty charging system | 30 of 120 | Electric-start mower; battery keeps going flat | not yet rated |
+| [Faulty charging system](../causes/faulty-charging-system.md) | 30 of 120 | Electric-start mower; battery keeps going flat | pro |
 | Wrong fuel | 20 of 120 | Wrong type of fuel in the tank | not yet rated |
-| Blown fuse | 12 of 120 | Electric-start mower; blown fuse in the electrical system | not yet rated |
+| [Blown fuse](../causes/blown-fuse.md) | 12 of 120 | Electric-start mower; blown fuse in the electrical system | easy |
 | [Fuel valve off](../causes/fuel-valve-off.md) | 10 of 120 | Shut-off valve under the tank closed, often after storage or transport | easy |
 | [Low compression](../causes/low-compression.md) | 6 of 120 | Fuel and spark are fine, compression gauge reads under about 40 psi | pro |
 | [Sheared flywheel key](../causes/sheared-flywheel-key.md) | 4 of 120 | Engine stopped suddenly after the blade hit something, spark is present but mistimed | moderate |
@@ -205,7 +212,7 @@ Sources: [S2](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but
 
 ## Related problems
 
-- **Not this problem? The engine doesn't spin at all, or only clicks:** see the Engine won't crank or turn over Problem (page not written yet).
+- **Not this problem? The engine doesn't spin at all, or only clicks:** see [Engine won't crank or turn over](engine-wont-crank.md).
 - **Not this problem? It starts, then dies after a few seconds:** see the Engine starts then dies Problem (page not written yet).
 
 ## Sources

@@ -3,6 +3,7 @@ type: cause
 title: Bad recoil starter
 problems:
   - ../problems/engine-cranks-but-wont-start.md
+  - ../problems/engine-wont-crank.md
 part_types:
   - recoil starter assembly
   - starter rope
@@ -29,8 +30,9 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/black-max-mower-wont-start.
 
 - [Engine cranks but won't start](../problems/engine-cranks-but-wont-start.md): pulling the rope doesn't start the engine. The rope has come unwound or won't retract, or the starter is broken inside.
 - A starter rope that is hard to pull or stuck (blade bound by debris, or a bound recoil spring).
+- [Engine won't crank](../problems/engine-wont-crank.md): on a pull-start mower, a broken recoil starter means the engine can't be turned over by the rope.
 
-Sources: [S1](../../raw/Articles/poweredoutdoors.com/black-max-mower-wont-start.md), [S3](../../raw/Articles/poweredoutdoors.com/common-craftsman-lawn-mower-problems.md), [S4](../../raw/Articles/poweredoutdoors.com/common-honda-lawn-mower-problems-solutions.md), [S5](../../raw/Articles/poweredoutdoors.com/common-lawn-mower-problems-fixed.md), [S6](../../raw/Articles/poweredoutdoors.com/common-push-mower-problems-solutions.md), [S7](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md), [S11](../../raw/Articles/poweredoutdoors.com/gravely-mower-wont-start.md), [S12](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-wont-start.md), [S13](../../raw/Articles/poweredoutdoors.com/lawn-boy-mower-wont-start.md), [S14](../../raw/Articles/poweredoutdoors.com/lawn-mower-replacement.md), [S21](../../raw/Articles/poweredoutdoors.com/self-propelled-lawn-mower-wont-start.md), [S28](../../raw/Articles/poweredoutdoors.com/walk-behind-mower-wont-start.md), [S29](../../raw/Articles/poweredoutdoors.com/weed-eater-lawn-mower-wont-start.md), [S33](../../raw/Articles/poweredoutdoors.com/your-toro-lawn-mower-wont-start.md)
+Sources: [S1](../../raw/Articles/poweredoutdoors.com/black-max-mower-wont-start.md), [S3](../../raw/Articles/poweredoutdoors.com/common-craftsman-lawn-mower-problems.md), [S4](../../raw/Articles/poweredoutdoors.com/common-honda-lawn-mower-problems-solutions.md), [S5](../../raw/Articles/poweredoutdoors.com/common-lawn-mower-problems-fixed.md), [S6](../../raw/Articles/poweredoutdoors.com/common-push-mower-problems-solutions.md), [S7](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md), [S11](../../raw/Articles/poweredoutdoors.com/gravely-mower-wont-start.md), [S12](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-wont-start.md), [S13](../../raw/Articles/poweredoutdoors.com/lawn-boy-mower-wont-start.md), [S14](../../raw/Articles/poweredoutdoors.com/lawn-mower-replacement.md), [S21](../../raw/Articles/poweredoutdoors.com/self-propelled-lawn-mower-wont-start.md), [S28](../../raw/Articles/poweredoutdoors.com/walk-behind-mower-wont-start.md), [S29](../../raw/Articles/poweredoutdoors.com/weed-eater-lawn-mower-wont-start.md), [S33](../../raw/Articles/poweredoutdoors.com/your-toro-lawn-mower-wont-start.md); engine won't crank [S8](../../raw/Articles/poweredoutdoors.com/common-toro-lawn-mower-problems-solutions.md), [S17](../../raw/Articles/poweredoutdoors.com/murray-lawn-mower-wont-start.md), [S29](../../raw/Articles/poweredoutdoors.com/weed-eater-lawn-mower-wont-start.md)
 
 ## How to confirm
 
