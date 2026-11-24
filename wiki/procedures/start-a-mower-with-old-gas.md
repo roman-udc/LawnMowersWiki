@@ -71,6 +71,9 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/ariens-lawn-mower-isnt-gett
 ## Tips & common mistakes
 
 - Use carburetor cleaner, not starter fluid. Starter fluid is very dry with no lubrication value, and too much or too often can damage the cylinder. If you must use starter fluid, spray it on a rag and hold the rag to the intake. Source: [S7](../../raw/Articles/poweredoutdoors.com/why-not-to-use-starter-fluid-on-a-lawn-mower.md)
+
+> **⚠ Conflicting advice (starter fluid vs carburetor cleaner):** use carburetor cleaner, not starter fluid sprayed into the intake ([S7](../../raw/Articles/poweredoutdoors.com/why-not-to-use-starter-fluid-on-a-lawn-mower.md), expert-blog) vs a short burst of starter fluid in a well-ventilated area (a manufacturer Source; see the callout on the Dirty carburetor Cause page).
+
 - Too much carburetor cleaner can damage the engine: 2 to 3 seconds is enough. Source: [S7](../../raw/Articles/poweredoutdoors.com/why-not-to-use-starter-fluid-on-a-lawn-mower.md)
 - If the mower needs carburetor cleaner to start every time, take it to a professional; it's an emergency measure, not a fix. Source: [S7](../../raw/Articles/poweredoutdoors.com/why-not-to-use-starter-fluid-on-a-lawn-mower.md)
 - If the carburetor sits higher than the tank, the mower has a fuel pump: check for steady or pulsating flow out of the carburetor line, and replace the pump if there's none. Source: [S6](../../raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old-gas.md)

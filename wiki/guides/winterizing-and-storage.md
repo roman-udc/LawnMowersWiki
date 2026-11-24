@@ -86,6 +86,9 @@ Sources: [S22](../../raw/Articles/poweredoutdoors.com/winterize-your-cub-cadet-l
 - If time is short, the oil change and spark plug replacement can wait until spring.
 - Many owners don't drain the tank. They fill it, add stabilizer as the bottle directs and run the engine a few minutes. Either method works if done properly.
 
+> **⚠ Conflicting advice (where to add stabilizer):** add stabilizer to the fuel in the tank (most expert-blog Sources) vs mix it into fresh gas in a gas can and never pour it straight into the mower's tank ([S26](../../raw/Articles/searspartsdirect.com/how-to-keep-lawn-mower-gas-from-going-bad.md), manufacturer). The full Source list is in [Fuel storage and stabilizers](fuel-storage-and-stabilizers.md).
+
+
 Sources: [S10](../../raw/Articles/poweredoutdoors.com/how-to-winterize-your-exmark-lawn-mower.md), [S25](../../raw/Articles/poweredoutdoors.com/winterize-your-toro-zero-turn-lawn-mower.md), [S28](../../raw/Articles/searspartsdirect.com/storing-your-lawn-tractor-for-winter.md), [S12](../../raw/Articles/poweredoutdoors.com/lawn-mower-replacement.md), [S20](../../raw/Articles/poweredoutdoors.com/winter-lawn-mower-battery-care.md), [S23](../../raw/Articles/poweredoutdoors.com/winterize-your-lawn-mower-top-storage-for-your-mower.md), [S11](../../raw/Articles/poweredoutdoors.com/lawn-mower-engine-cooling-times-explained.md)
 
 ## Common mistakes

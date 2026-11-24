@@ -33,7 +33,10 @@ Sources: [S7](../../raw/Articles/poweredoutdoors.com/v-belts-what-are-they-weve-
 
 - **Riding mowers usually have two belts:** a drive belt (engine power to the wheels, forward and reverse; typically polyester cords) and a deck belt (turns the blades). They do different jobs, so buy them as two different belts even if both are classic or narrow.
 - **The deck belt should be sturdier than the drive belt:** when blades slow in thick or tall grass the belt keeps pulling, creating high friction. The author of one Source suggests Kevlar cords rather than polyester for a deck belt (single expert-blog view).
-- **Cost:** mower belts cost about $20 to $200; a good OEM deck belt about $80 to $250.
+- **Cost:** belt prices vary by Source.
+
+> **⚠ Conflicting advice (belt prices):** $20 to $200 for mower belts ([S5](../../raw/Articles/poweredoutdoors.com/this-is-why-your-belt-keeps-falling-off-your-lawn-mower.md), expert-blog) vs $80 to $250 for a good OEM deck belt ([S8](../../raw/Articles/poweredoutdoors.com/your-belt-keeps-falling-off-your-riding-mower-fixed.md), expert-blog).
+
 
 Sources: [S7](../../raw/Articles/poweredoutdoors.com/v-belts-what-are-they-weve-got-the-answer.md), [S5](../../raw/Articles/poweredoutdoors.com/this-is-why-your-belt-keeps-falling-off-your-lawn-mower.md), [S6](../../raw/Articles/poweredoutdoors.com/toro-mower-belt-keeps-breaking.md), [S8](../../raw/Articles/poweredoutdoors.com/your-belt-keeps-falling-off-your-riding-mower-fixed.md)
 

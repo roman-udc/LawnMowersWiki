@@ -58,7 +58,7 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/how-to-replace-a-riding-la
 2. Lift the hood if there is one, and pull the spark plug wire (boot) off the plug. Disconnect both wires on a two-cylinder engine.
 3. Wipe around the plug to remove loose dirt so it can't fall into the cylinder.
 4. Remove the old plug with the spark plug wrench, or with a 3/4" or 5/8" deep socket and ratchet.
-5. Inspect it: a dark carbon-coated tip, a burnt or broken electrode, cracked porcelain, corrosion or heavy buildup mean replace it. A lightly dirty plug can be cleaned with a wire brush and reused.
+5. Inspect it: a dark carbon-coated tip, a burnt or broken electrode, cracked porcelain, corrosion or heavy buildup mean replace it. A lightly dirty plug can be cleaned with a wire brush and reused (Sources disagree on this; see the clean-or-replace callout on [Fouled spark plug](../causes/fouled-spark-plug.md)).
 6. Use the gap tool or feeler gauge to set the gap on the new (or cleaned) plug to the engine manufacturer's spec. On the engine in the manufacturer guide it is 0.03".
 7. Thread the plug in by hand, then tighten it firmly with the wrench. Don't overtighten it, so it comes out easily next time.
 8. Reconnect the spark plug wire or wires firmly (last, if you're doing a full service), and lower the hood.

@@ -61,6 +61,8 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/a-guide-to-the-craftsman-ri
 
 **How often to do a full service:** Sources give different intervals by mower and brand.
 
+> **⚠ Conflicting advice (service and oil intervals):** full service every 100 hours or once a year for riding mowers and zero-turns ([S26](../../raw/Articles/poweredoutdoors.com/how-to-service-a-riding-lawn-mower.md), [S28](../../raw/Articles/poweredoutdoors.com/how-to-service-a-zero-turn-lawn-mower.md), expert-blog) vs every 50 hours or once a year ([S20](../../raw/Articles/poweredoutdoors.com/how-to-service-a-craftsman-riding-lawn-mower.md), [S35](../../raw/Articles/poweredoutdoors.com/service-a-cub-cadet-zero-turn-lawn-mower.md), [S36](../../raw/Articles/poweredoutdoors.com/service-a-husqvarna-zero-turn-lawn-mower.md), expert-blog). Oil every 25 to 50 hours ([S16](../../raw/Articles/poweredoutdoors.com/how-to-change-oil-in-a-push-mower-in-8-easy-steps.md), expert-blog) vs at least once a year ([S45](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-maintenance-checklist-by-season.md), manufacturer). Follow the owner's manual.
+
 - Push mowers: every 50 hours or once a year. Push mowers have no oil filter.
 - Riding mowers and zero-turns: every 100 hours or once a year, whichever comes first, in the general service guides. Several brand guides use 50 hours or once a year instead, with oil every 50 hours and before storage.
 - Most small-engine makers call for an oil change every 25 to 50 hours, depending on the engine and how hard it is worked. A seasonal checklist and a parts-maker guide say to change oil at least once a year.

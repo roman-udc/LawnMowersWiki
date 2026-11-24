@@ -116,7 +116,10 @@ Sources: [S6](../../raw/Articles/poweredoutdoors.com/bad-boy-zero-turn-wont-move
 ## Parts & fitment
 
 - **Match the belt to the mower.** Several Source authors prefer an OEM belt from the mower's dealer: a lookalike belt matched at a hardware or auto parts store may not be the right type, size or quality, and in their experience wears out sooner (expert-blog opinion).
-- **Cost:** OEM deck belts run about $80 to $250 in one Source; another gives $20 to $200 for mower belts, and a third says a deck belt can cost up to $200.
+- **Cost:** belt prices vary by Source.
+
+> **⚠ Conflicting advice (belt prices):** $60 to $250 ([S22](../../raw/Articles/poweredoutdoors.com/exmark-belt-keeps-coming-off-or-breaking.md), expert-blog) vs $20 to $200 for mower belts ([S73](../../raw/Articles/poweredoutdoors.com/this-is-why-your-belt-keeps-falling-off-your-lawn-mower.md), expert-blog) vs $80 to $250 for OEM riding-mower deck belts ([S86](../../raw/Articles/poweredoutdoors.com/your-belt-keeps-falling-off-your-riding-mower-fixed.md), expert-blog).
+
 - **Bracket parts:** a bracket bushing, or the whole bracket assembly where the bushing isn't sold separately.
 
 Sources: [S7](../../raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-bad-boy-lawn-mower.md), [S9](../../raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-kubota-lawn-mower.md), [S10](../../raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-scag-lawn-mower.md), [S24](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-belt-keeps-coming-off.md), [S67](../../raw/Articles/poweredoutdoors.com/spartan-belt-keeps-coming-off.md), [S83](../../raw/Articles/poweredoutdoors.com/your-ariens-mower-belt-keeps-coming-off.md), [S74](../../raw/Articles/poweredoutdoors.com/toro-mower-belt-keeps-breaking.md), [S80](../../raw/Articles/poweredoutdoors.com/why-your-troy-bilt-lawn-mower-is-cutting-uneven-fixed.md), [S71](../../raw/Articles/poweredoutdoors.com/the-belt-keeps-coming-off-your-lawn-tractor.md), [S22](../../raw/Articles/poweredoutdoors.com/exmark-belt-keeps-coming-off-or-breaking.md)

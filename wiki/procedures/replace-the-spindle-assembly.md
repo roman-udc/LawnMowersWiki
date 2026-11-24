@@ -88,7 +88,8 @@ Sources: [S10](../../raw/Articles/searspartsdirect.com/how-to-replace-a-mandrel-
 - Use new mounting bolts.
 - Shaft threads can be damaged on disassembly; take the old one apart before ordering so you know what you need.
 - While the belt is off, spin each pulley slowly by hand: resistance or noise means replace that pulley.
-- > **⚠ Conflicting advice:** Sears says simply "tighten firmly" and lists a torque wrench as optional; the Exmark guide says torque the housing bolts and pulley nut to factory spec from the owner's manual. When in doubt, use the manual's torque values.
+
+> **⚠ Conflicting advice (torque):** "tighten firmly", with a torque wrench optional ([S10](../../raw/Articles/searspartsdirect.com/how-to-replace-a-mandrel-assembly-on-a-riding-lawn-mower.md), manufacturer) vs torque the housing bolts and pulley nut to the factory spec in the owner's manual ([S8](../../raw/Articles/poweredoutdoors.com/replace-exmark-mower-deck-parts.md), expert-blog). When in doubt, use the manual's torque values.
 
 Sources: [S10](../../raw/Articles/searspartsdirect.com/how-to-replace-a-mandrel-assembly-on-a-riding-lawn-mower.md), [S8](../../raw/Articles/poweredoutdoors.com/replace-exmark-mower-deck-parts.md), [S3](../../raw/Articles/poweredoutdoors.com/how-to-service-a-riding-lawn-mower.md)
 

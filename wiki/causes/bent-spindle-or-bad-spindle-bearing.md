@@ -77,7 +77,9 @@ Sources: [S16](../../raw/Articles/poweredoutdoors.com/common-lawn-mower-problems
 ## Brand notes
 
 - **Exmark:** the cutter housing uses a sealed bearing and is sold only as a complete assembly; Exmark doesn't offer the bearing alone, and dealers typically carry only the complete cutter housing and don't recommend rebuilding.
-  > **⚠ Conflicting advice:** some Exmark owners find a matching bearing and rebuild the housing; the author of the Exmark articles says that, in his experience, a rebuild doesn't last as long as a new assembly (expert-blog, the author's own experience). Sources: [S23](../../raw/Articles/poweredoutdoors.com/exmark-lawn-mower-is-vibrating-solved.md), [S26](../../raw/Articles/poweredoutdoors.com/fix-your-exmark-mower-deck-problem.md)
+
+> **⚠ Conflicting advice (Exmark spindle rebuild):** some owners find a matching bearing and rebuild the housing ([S23](../../raw/Articles/poweredoutdoors.com/exmark-lawn-mower-is-vibrating-solved.md), [S26](../../raw/Articles/poweredoutdoors.com/fix-your-exmark-mower-deck-problem.md), expert-blog) vs a rebuild doesn't last as long as a new assembly, in the author's own experience ([S23](../../raw/Articles/poweredoutdoors.com/exmark-lawn-mower-is-vibrating-solved.md), [S26](../../raw/Articles/poweredoutdoors.com/fix-your-exmark-mower-deck-problem.md), expert-blog).
+
 - **Scag, Kubota, Ariens:** on most decks the bearing alone can be replaced in the housing (cheaper); some models need the whole assembly. Kubota: use the deck's model and serial number, not the mower's, with Kubota's online parts diagram or a dealer.
 - **Cub Cadet:** some spindle housings are sealed (replace the whole assembly), others can be rebuilt.
 - **Gravely, Troy-Bilt:** usually either the spindle bearing or the whole spindle assembly can be replaced.
