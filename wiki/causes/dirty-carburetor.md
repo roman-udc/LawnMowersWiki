@@ -4,6 +4,7 @@ title: Dirty carburetor
 problems:
   - ../problems/engine-cranks-but-wont-start.md
   - ../problems/engine-starts-then-dies.md
+  - ../problems/mower-is-leaking-gas.md
 part_types:
   - carburetor
   - carburetor rebuild kit
@@ -12,8 +13,8 @@ procedures:
   - ../procedures/clean-the-carburetor.md
   - ../procedures/rebuild-the-carburetor.md
   - ../procedures/replace-the-carburetor.md
-source_count: 221
-updated: 2026-11-23
+source_count: 228
+updated: 2026-11-24
 ---
 
 # Dirty carburetor
@@ -41,13 +42,13 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-w
 - [Engine cranks but won't start](../problems/engine-cranks-but-wont-start.md): good fuel flow reaches the carburetor, but the engine only fires when carburetor cleaner or starter fluid is sprayed into the intake. It then runs sluggishly and dies once the spray is burned.
 - Other signs of a bad carburetor on a running mower: backfiring from running lean, sputtering and rough running, surging, using too much fuel, or only running with the choke on.
 
-Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S2](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but-wont-start.md), [S3](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-turns-over-but-wont-start.md), [S4](../../raw/Articles/poweredoutdoors.com/john-deere-mower-turns-over-but-wont-start.md), [S5](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-cranks-but-wont-start.md), [S6](../../raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S14](../../raw/Articles/poweredoutdoors.com/clean-a-zero-turn-mower-carburetor.md), [S15](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md)
+Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S2](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but-wont-start.md), [S3](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-turns-over-but-wont-start.md), [S4](../../raw/Articles/poweredoutdoors.com/john-deere-mower-turns-over-but-wont-start.md), [S5](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-cranks-but-wont-start.md), [S6](../../raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S14](../../raw/Articles/poweredoutdoors.com/clean-a-zero-turn-mower-carburetor.md), [S15](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md); Mower is leaking gas: [S17](../../raw/Articles/poweredoutdoors.com/10-reasons-your-lawn-mower-could-be-leaking-gasoline.md), [S19](../../raw/Articles/poweredoutdoors.com/ariens-lawn-mower-is-leaking-gas-fixed.md), [S24](../../raw/Articles/poweredoutdoors.com/bad-boy-mower-leaking-gas.md), [S38](../../raw/Articles/poweredoutdoors.com/common-exmark-mower-problems-and-solutions.md), [S39](../../raw/Articles/poweredoutdoors.com/common-lawn-mower-problems-fixed.md), [S40](../../raw/Articles/poweredoutdoors.com/common-push-mower-problems-solutions.md), [S41](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md), [S42](../../raw/Articles/poweredoutdoors.com/common-toro-lawn-mower-problems-solutions.md), [S43](../../raw/Articles/poweredoutdoors.com/common-troy-bilt-lawn-mower-problems.md), [S44](../../raw/Articles/poweredoutdoors.com/common-zero-turn-problems-how-to-fix-them.md), [S60](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-leaking-gas.md), [S70](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-is-leaking-gas.md), [S96](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-is-leaking-fuel.md), [S133](../../raw/Articles/poweredoutdoors.com/riding-mower-is-leaking-gas.md), [S148](../../raw/Articles/poweredoutdoors.com/snapper-mower-is-leaking-gas.md), [S156](../../raw/Articles/poweredoutdoors.com/toro-lawn-mower-is-leaking-gas-fixed.md), [S162](../../raw/Articles/poweredoutdoors.com/troy-bilt-lawn-mower-is-leaking-gas.md), [S172](../../raw/Articles/poweredoutdoors.com/why-your-lawn-mower-smells-like-gas.md), [S180](../../raw/Articles/poweredoutdoors.com/your-exmark-lawn-mower-is-leaking-gas-fixed.md), [S182](../../raw/Articles/poweredoutdoors.com/your-john-deere-lawn-mower-is-leaking-gas.md), [S198](../../raw/Articles/searspartsdirect.com/leaking-oil-or-gas.ridtr05.md), [S202](../../raw/Articles/poweredoutdoors.com/common-ariens-lawn-mower-problems-solutions.md), [S203](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S205](../../raw/Articles/poweredoutdoors.com/common-gravely-lawn-mower-problems-solutions.md), [S206](../../raw/Articles/poweredoutdoors.com/common-honda-lawn-mower-problems-solutions.md), [S207](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S208](../../raw/Articles/poweredoutdoors.com/common-john-deere-lawn-mower-problems.md), [S209](../../raw/Articles/poweredoutdoors.com/common-kubota-problems-and-solutions.md), [S210](../../raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md), [S211](../../raw/Articles/poweredoutdoors.com/common-snapper-lawn-mower-problems-solutions.md), [S212](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md), [S213](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md), [S215](../../raw/Articles/poweredoutdoors.com/hustler-mower-problems.md), [S216](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md), [S218](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md), [S219](../../raw/Articles/poweredoutdoors.com/spartan-lawn-mower-problems-solutions.md), [S220](../../raw/Articles/poweredoutdoors.com/your-common-lawn-tractor-problems-solutions.md), [S222](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-is-leaking-gas.md), [S223](../../raw/Articles/poweredoutdoors.com/push-mower-is-leaking-gas.md), [S224](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-is-leaking-gas.md), [S225](../../raw/Articles/poweredoutdoors.com/simplicity-lawn-mower-leaking-gas.md), [S226](../../raw/Articles/poweredoutdoors.com/spartan-lawn-mower-is-leaking-gas.md), [S227](../../raw/Articles/poweredoutdoors.com/your-lawn-tractor-is-leaking-gas.md), [S228](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-is-leaking-fuel.md)
 
 - [Engine starts then dies](../problems/engine-starts-then-dies.md), or runs strong on a spray of cleaner then turns sluggish and quits: a gummed jet can't supply enough fuel.
 - Engine runs rough, sputters or surges, and bogs when the blades load it.
 - Engine backfires from running lean.
 - Engine loses power, and the mower uses too much fuel.
-- Mower is leaking gas: a stuck part or failed gasket lets fuel out.
+- [Mower is leaking gas](../problems/mower-is-leaking-gas.md): a stuck part or failed gasket lets fuel out.
 
 These other Problems have no page yet.
 
@@ -348,3 +349,10 @@ Sources: [S32](../../raw/Articles/poweredoutdoors.com/clean-a-craftsman-lawn-mow
 - [S219](../../raw/Articles/poweredoutdoors.com/spartan-lawn-mower-problems-solutions.md) — 9 Common Spartan Lawn Mower Problems (Zero Turn Fix) (expert-blog)
 - [S220](../../raw/Articles/poweredoutdoors.com/your-common-lawn-tractor-problems-solutions.md) — 9 Common Lawn Tractor Problems & Solutions (Troubleshoot) (expert-blog)
 - [S221](../../raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md) — Riding mower and tractor common questions (manufacturer)
+- [S222](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-is-leaking-gas.md) — This is Where Your Husqvarna Lawn Mower is Leaking Gas (expert-blog)
+- [S223](../../raw/Articles/poweredoutdoors.com/push-mower-is-leaking-gas.md) — Your Push Mower is Leaking Gas (Solved!) (expert-blog)
+- [S224](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-is-leaking-gas.md) — Find Out Where Your SCAG Lawn Mower is Leaking Gas (expert-blog)
+- [S225](../../raw/Articles/poweredoutdoors.com/simplicity-lawn-mower-leaking-gas.md) — 7 Places Your Simplicity Lawn Mower is Leaking Gas (expert-blog)
+- [S226](../../raw/Articles/poweredoutdoors.com/spartan-lawn-mower-is-leaking-gas.md) — 7 Places Your Spartan Lawn Mower is Leaking Gas (expert-blog)
+- [S227](../../raw/Articles/poweredoutdoors.com/your-lawn-tractor-is-leaking-gas.md) — Your Lawn Tractor Is Leaking Gas (Solved!) (expert-blog)
+- [S228](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-is-leaking-fuel.md) — This is Why Your Zero Turn Mower is Leaking Fuel (expert-blog)

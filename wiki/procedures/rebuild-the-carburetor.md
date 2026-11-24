@@ -2,6 +2,7 @@
 type: procedure
 title: Rebuild the carburetor
 causes:
+  - ../causes/bad-carburetor-gasket-or-needle-and-seat.md
   - ../causes/dirty-carburetor.md
 part_types:
   - carburetor rebuild kit
@@ -31,7 +32,7 @@ updated: 2026-11-23
 
 # Rebuild the carburetor
 
-Fixes: [Dirty carburetor](../causes/dirty-carburetor.md).
+Fixes: [Dirty carburetor](../causes/dirty-carburetor.md), and a leaking [Bad carburetor gasket or needle and seat](../causes/bad-carburetor-gasket-or-needle-and-seat.md) (bowl gasket, float, float needle).
 
 The carburetor blends air and fuel. When it's clogged, dirty or leaking and cleaning alone hasn't fixed it, rebuild it with a manufacturer-approved rebuild kit: gaskets, seals, a hinge pin, a needle valve and other small parts (you probably won't use every part in the kit). A stuck float or float needle is also fixed by a rebuild. If the carburetor is too corroded, dirty or damaged to rebuild, replace it instead: see [Replace the carburetor](replace-the-carburetor.md).
 

@@ -4,6 +4,7 @@ title: Old fuel
 problems:
   - ../problems/engine-cranks-but-wont-start.md
   - ../problems/engine-starts-then-dies.md
+  - ../problems/mower-is-leaking-gas.md
 part_types:
   - fuel stabilizer
   - fuel filter
@@ -14,7 +15,7 @@ procedures:
   - ../procedures/replace-the-fuel-line.md
   - ../procedures/clean-the-carburetor.md
 source_count: 212
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Old fuel
@@ -47,7 +48,7 @@ Sources: [S3](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-turns-over-
 - Engine only runs with the choke on. Sources: [S15](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md), [S93](../../raw/Articles/poweredoutdoors.com/john-deere-mower-runs-choke-on.md), [S102](../../raw/Articles/poweredoutdoors.com/kubota-mower-runs-choke-on.md), [S134](../../raw/Articles/poweredoutdoors.com/riding-mower-only-runs-choke-on.md), [S158](../../raw/Articles/poweredoutdoors.com/toro-only-runs-choke-on.md), [S190](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-only-runs-choke-on.md)
 - Engine dies when hot: the separated water and ethanol make the engine run hot and quit after it has been running a while. Sources: [S77](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-quits-when-hot.md), [S90](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-quits-when-hot.md), [S191](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-quits-when-hot.md)
 - Engine overheats: stale fuel burns less cleanly and can make the engine run lean and hotter. Source: [S196](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md)
-- Mower is leaking gas: old fuel degrades the plastic of the fuel filter and fuel pump until they leak. Sources: [S22](../../raw/Articles/poweredoutdoors.com/bad-boy-mower-leaking-gas.md), [S70](../../raw/Articles/poweredoutdoors.com/gravely-lawn-mower-is-leaking-gas.md)
+- [Mower is leaking gas](../problems/mower-is-leaking-gas.md): old fuel degrades the plastic of the fuel filter and fuel pump until they leak. Sources: [S22](../../raw/Articles/poweredoutdoors.com/bad-boy-mower-leaking-gas.md), [S70](../../raw/Articles/poweredoutdoors.com/gravely-lawn-mower-is-leaking-gas.md)
 - Mower smells strongly of gas: bad gas smells stronger than fresh gas. Source: [S171](../../raw/Articles/poweredoutdoors.com/why-your-lawn-mower-smells-like-gas.md)
 
 
@@ -61,7 +62,7 @@ Sources for Engine starts then dies: [S9](../../raw/Articles/poweredoutdoors.com
 - Diesel: old diesel looks dark, it leaves more sediment, and the fuel filter clogs more often than normal and turns dark or black.
 - If you suspect old gas, treat it as the cause: drain the tank and refill with fresh gas before chasing other parts.
 
-Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S8](../../raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old-gas.md), [S9](../../raw/Articles/poweredoutdoors.com/lawn-mower-isnt-getting-gas.md), [S21](../../raw/Articles/poweredoutdoors.com/bad-boy-mower-isnt-getting-fuel.md), [S28](../../raw/Articles/poweredoutdoors.com/bolens-mower-wont-start.md), [S43](../../raw/Articles/poweredoutdoors.com/craftsman-lawn-mower-isnt-getting-fuel.md), [S52](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-wont-start.md), [S55](../../raw/Articles/poweredoutdoors.com/diesel-lawn-mower-wont-start.md), [S159](../../raw/Articles/poweredoutdoors.com/toro-push-mower-wont-start.md), [S163](../../raw/Articles/poweredoutdoors.com/troy-bilt-push-mower-wont-start.md), [S170](../../raw/Articles/poweredoutdoors.com/why-your-craftsman-lawn-mower-dies-how-to-fix.md), [S171](../../raw/Articles/poweredoutdoors.com/why-your-lawn-mower-smells-like-gas.md), [S182](../../raw/Articles/poweredoutdoors.com/your-lawn-tractor-isnt-getting-fuel.md), [S186](../../raw/Articles/poweredoutdoors.com/zero-turn-lawn-mower-isnt-getting-fuel.md)
+Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S8](../../raw/Articles/poweredoutdoors.com/start-a-lawn-mower-with-old-gas.md), [S9](../../raw/Articles/poweredoutdoors.com/lawn-mower-isnt-getting-gas.md), [S21](../../raw/Articles/poweredoutdoors.com/bad-boy-mower-isnt-getting-fuel.md), [S28](../../raw/Articles/poweredoutdoors.com/bolens-mower-wont-start.md), [S43](../../raw/Articles/poweredoutdoors.com/craftsman-lawn-mower-isnt-getting-fuel.md), [S52](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-wont-start.md), [S55](../../raw/Articles/poweredoutdoors.com/diesel-lawn-mower-wont-start.md), [S159](../../raw/Articles/poweredoutdoors.com/toro-push-mower-wont-start.md), [S163](../../raw/Articles/poweredoutdoors.com/troy-bilt-push-mower-wont-start.md), [S170](../../raw/Articles/poweredoutdoors.com/why-your-craftsman-lawn-mower-dies-how-to-fix.md), [S171](../../raw/Articles/poweredoutdoors.com/why-your-lawn-mower-smells-like-gas.md), [S182](../../raw/Articles/poweredoutdoors.com/your-lawn-tractor-isnt-getting-fuel.md), [S186](../../raw/Articles/poweredoutdoors.com/zero-turn-lawn-mower-isnt-getting-fuel.md); Mower is leaking gas: [S171](../../raw/Articles/poweredoutdoors.com/why-your-lawn-mower-smells-like-gas.md), [S197](../../raw/Articles/poweredoutdoors.com/common-ariens-lawn-mower-problems-solutions.md)
 
 ## Fix
 

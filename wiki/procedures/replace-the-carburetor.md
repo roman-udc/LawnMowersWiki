@@ -2,6 +2,7 @@
 type: procedure
 title: Replace the carburetor
 causes:
+  - ../causes/bad-carburetor-gasket-or-needle-and-seat.md
   - ../causes/dirty-carburetor.md
 part_types:
   - carburetor
@@ -21,7 +22,7 @@ updated: 2026-11-23
 
 # Replace the carburetor
 
-Fixes: [Dirty carburetor](../causes/dirty-carburetor.md).
+Fixes: [Dirty carburetor](../causes/dirty-carburetor.md), and a leaking [Bad carburetor gasket or needle and seat](../causes/bad-carburetor-gasket-or-needle-and-seat.md) (bowl gasket, float, float needle).
 
 The carburetor mixes gas with air before it goes into the cylinder. Water damage, dirt, debris or gummed-up gasoline can unbalance the mix, so the engine won't start, surges, or runs rough and stalls; a damaged carburetor can also leak gas. Replace it when cleaning and rebuilding don't fix it: when it's corroded, has damaged parts, or old fuel has done too much damage. If it isn't beyond repair, rebuild it instead: see [Rebuild the carburetor](rebuild-the-carburetor.md).
 

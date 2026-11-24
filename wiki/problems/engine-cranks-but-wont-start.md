@@ -52,6 +52,7 @@ causes:
   - ../causes/wrong-fuel.md
   - ../causes/overfilled-oil.md
   - ../causes/dirty-fuel-tank.md
+  - ../causes/bad-gas-cap-seal.md
 part_types:
   - air filter
   - foam pre-filter
@@ -66,7 +67,7 @@ part_types:
   - recoil starter
   - glow plug
 source_count: 121
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Engine cranks but won't start
@@ -148,7 +149,7 @@ Ranked by how many of the 121 Sources name the Cause for this Problem. Most of t
 | [Low compression](../causes/low-compression.md) | 6 of 121 | Fuel and spark are fine, compression gauge reads under about 40 psi | pro |
 | [Sheared flywheel key](../causes/sheared-flywheel-key.md) | 4 of 121 | Engine stopped suddenly after the blade hit something, spark is present but mistimed | moderate |
 | [Overfilled oil](../causes/overfilled-oil.md) | 3 of 121 | Oil above the max mark, oil on the plug or in the air filter | easy |
-| Bad gas cap seal | 2 of 121 | Worn or damaged seal on the gas cap | not yet rated |
+| [Bad gas cap seal](../causes/bad-gas-cap-seal.md) | 2 of 121 | Worn or damaged seal on the gas cap | not yet rated |
 | Water in fuel | 2 of 121 | Mower stored over winter, water in the tank | not yet rated |
 | [Wet electrical components](../causes/wet-electrical-components.md) | 2 of 121 | Mower left in the rain or stored damp, corroded or chewed wiring | easy |
 | [Disconnected fuel solenoid](../causes/disconnected-fuel-solenoid.md) | 1 of 121 | Riding mower, wire harness off the carburetor's fuel solenoid valve | easy |

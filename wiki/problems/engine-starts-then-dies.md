@@ -57,6 +57,7 @@ causes:
   - ../causes/dull-or-bent-blade.md
   - ../causes/mowing-too-fast.md
   - ../causes/wrong-engine-speed.md
+  - ../causes/bad-gas-cap-seal.md
 part_types:
   - fuel filter
   - fuel line
@@ -70,7 +71,7 @@ part_types:
   - seat switch
   - 12-volt lawn and garden battery
 source_count: 82
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Engine starts then dies
@@ -140,7 +141,7 @@ Ranked by how many of the 82 Sources name the Cause for this Problem. Tie-break:
 | [Wrong fuel](../causes/wrong-fuel.md) | 9 of 82 | Wrong type of fuel in the tank (too much ethanol, diesel) | easy |
 | [Dull or bent blade](../causes/dull-or-bent-blade.md) | 8 of 82 | Dull blade adds load, makes a plugged deck worse | not yet rated |
 | [Bad safety switch](../causes/bad-safety-switch.md) | 6 of 82 | Riding mower dies when the brake is released, even when seated | easy to moderate |
-| Bad gas cap seal | 4 of 82 | Bad gas cap | not yet rated |
+| [Bad gas cap seal](../causes/bad-gas-cap-seal.md) | 4 of 82 | Bad gas cap | not yet rated |
 | [Weak or dead battery](../causes/weak-or-dead-battery.md) | 4 of 82 | Battery mower shuts off; riding mower battery won't hold a charge | easy |
 | [Bad wiring or ground](../causes/bad-wiring-or-ground.md) | 2 of 82 | Loose, pinched or unplugged wires (seat switch, battery mower) | easy to moderate |
 | [Mowing too fast](../causes/mowing-too-fast.md) | 2 of 82 | Engine or motor overloaded by fast ground speed | not yet rated |

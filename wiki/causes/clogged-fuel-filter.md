@@ -4,13 +4,14 @@ title: Clogged fuel filter
 problems:
   - ../problems/engine-cranks-but-wont-start.md
   - ../problems/engine-starts-then-dies.md
+  - ../problems/mower-is-leaking-gas.md
 part_types:
   - fuel filter
 procedures:
   - ../procedures/replace-the-fuel-filter.md
   - ../procedures/tune-up.md
-source_count: 179
-updated: 2026-11-23
+source_count: 188
+updated: 2026-11-24
 ---
 
 # Clogged fuel filter
@@ -38,11 +39,11 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-w
 - [Engine cranks but won't start](../problems/engine-cranks-but-wont-start.md): the filter hasn't been changed in over a year, and little or no fuel flows past it to the carburetor.
 - A running engine that is short of fuel: it runs sluggishly, or needs the choke on to stay running.
 
-Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S13](../../raw/Articles/poweredoutdoors.com/briggs-and-stratton-engine-isnt-getting-gas.md), [S15](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md)
+Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S13](../../raw/Articles/poweredoutdoors.com/briggs-and-stratton-engine-isnt-getting-gas.md), [S15](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md); Mower is leaking gas: [S30](../../raw/Articles/poweredoutdoors.com/common-exmark-mower-problems-and-solutions.md), [S31](../../raw/Articles/poweredoutdoors.com/common-lawn-mower-problems-fixed.md), [S32](../../raw/Articles/poweredoutdoors.com/common-push-mower-problems-solutions.md), [S33](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md), [S34](../../raw/Articles/poweredoutdoors.com/common-toro-lawn-mower-problems-solutions.md), [S35](../../raw/Articles/poweredoutdoors.com/common-troy-bilt-lawn-mower-problems.md), [S36](../../raw/Articles/poweredoutdoors.com/common-zero-turn-problems-how-to-fix-them.md), [S58](../../raw/Articles/poweredoutdoors.com/gravely-lawn-mower-is-leaking-gas.md), [S72](../../raw/Articles/poweredoutdoors.com/hustler-mower-leaking-gas.md), [S166](../../raw/Articles/poweredoutdoors.com/common-ariens-lawn-mower-problems-solutions.md), [S168](../../raw/Articles/poweredoutdoors.com/common-gravely-lawn-mower-problems-solutions.md), [S169](../../raw/Articles/poweredoutdoors.com/common-john-deere-lawn-mower-problems.md), [S170](../../raw/Articles/poweredoutdoors.com/common-kubota-problems-and-solutions.md), [S171](../../raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md), [S176](../../raw/Articles/poweredoutdoors.com/hustler-mower-problems.md), [S181](../../raw/Articles/poweredoutdoors.com/common-honda-lawn-mower-problems-solutions.md), [S182](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S183](../../raw/Articles/poweredoutdoors.com/common-snapper-lawn-mower-problems-solutions.md), [S184](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md), [S185](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-is-leaking-fuel.md), [S186](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md), [S187](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md), [S188](../../raw/Articles/poweredoutdoors.com/spartan-lawn-mower-problems-solutions.md), [S189](../../raw/Articles/poweredoutdoors.com/your-john-deere-lawn-mower-is-leaking-gas.md)
 
 - [Engine starts then dies](../problems/engine-starts-then-dies.md), or runs sluggishly and dies while mowing: not enough fuel passes the filter when the engine needs it.
 - Engine runs rough, bogs or loses power.
-- Mower is leaking gas: a soft or cracked filter housing leaks at its seams.
+- [Mower is leaking gas](../problems/mower-is-leaking-gas.md): a soft or cracked filter housing leaks at its seams.
 
 These other Problems have no page yet.
 
@@ -294,3 +295,12 @@ Sources: [S20](../../raw/Articles/poweredoutdoors.com/bad-boy-loses-power.md), [
 - [S178](../../raw/Articles/poweredoutdoors.com/reasons-your-mower-stopped-while-mowing.md) — Reasons Your Mower Stopped While Mowing (expert-blog)
 - [S179](../../raw/Articles/poweredoutdoors.com/your-common-lawn-tractor-problems-solutions.md) — 9 Common Lawn Tractor Problems & Solutions (Troubleshoot) (expert-blog)
 - [S180](../../raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md) — Riding mower and tractor common questions (manufacturer)
+- [S181](../../raw/Articles/poweredoutdoors.com/common-honda-lawn-mower-problems-solutions.md) — 6 Common Honda Lawn Mower Problems & Solutions (expert-blog)
+- [S182](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md) — Fix 14 Husqvarna Lawn Mower Problems (Troubleshooting Tables) (expert-blog)
+- [S183](../../raw/Articles/poweredoutdoors.com/common-snapper-lawn-mower-problems-solutions.md) — 10 Common Snapper Lawn Mower Problems & Solutions (expert-blog)
+- [S184](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md) — (Troubleshoot) 13 Cub Cadet Zero Turn Mower Problems (expert-blog)
+- [S185](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-is-leaking-fuel.md) — Your Kubota Lawn Mower is Leaking Fuel (Solved!) (expert-blog)
+- [S186](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md) — 13 Kubota Zero Turn Problems (Troubleshoot) (expert-blog)
+- [S187](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md) — Troubleshoot 14 Simplicity Mower Problems: SOLVED (expert-blog)
+- [S188](../../raw/Articles/poweredoutdoors.com/spartan-lawn-mower-problems-solutions.md) — 9 Common Spartan Lawn Mower Problems (Zero Turn Fix) (expert-blog)
+- [S189](../../raw/Articles/poweredoutdoors.com/your-john-deere-lawn-mower-is-leaking-gas.md) — Your John Deere Lawn Mower Is Leaking Gas (Solved!) (expert-blog)

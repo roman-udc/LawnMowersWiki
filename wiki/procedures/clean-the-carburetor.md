@@ -2,6 +2,7 @@
 type: procedure
 title: Clean the carburetor
 causes:
+  - ../causes/bad-carburetor-gasket-or-needle-and-seat.md
   - ../causes/dirty-carburetor.md
   - ../causes/old-fuel.md
   - ../causes/oil-in-air-filter-or-tipped-mower.md
@@ -28,7 +29,7 @@ updated: 2026-11-24
 
 # Clean the carburetor
 
-Fixes: [Dirty carburetor](../causes/dirty-carburetor.md), and the damage from [old fuel](../causes/old-fuel.md). Also used after [Oil in air filter or tipped mower](../causes/oil-in-air-filter-or-tipped-mower.md) (oil run into the carburetor) and for a carburetor running too rich ([Rich fuel mixture](../causes/rich-fuel-mixture.md)).
+Fixes: [Dirty carburetor](../causes/dirty-carburetor.md), and the damage from [old fuel](../causes/old-fuel.md). Also used after [Oil in air filter or tipped mower](../causes/oil-in-air-filter-or-tipped-mower.md) (oil run into the carburetor) and for a carburetor running too rich ([Rich fuel mixture](../causes/rich-fuel-mixture.md)). Also frees a float or needle stuck by deposits ([Bad carburetor gasket or needle and seat](../causes/bad-carburetor-gasket-or-needle-and-seat.md)).
 
 The carburetor regulates the fuel-to-air mixture. Old fuel, ethanol and fuel additives leave gummy and white crusty buildup that clogs the fuel jet and sticks small parts. A dirty carburetor makes the engine hard to start or start then die, backfire (running lean), sputter and run rough, surge, use too much fuel, or blow black smoke (running rich).
 

@@ -4,6 +4,7 @@ title: Replace the fuel line
 causes:
   - ../causes/clogged-fuel-line.md
   - ../causes/old-fuel.md
+  - ../causes/cracked-fuel-line.md
 part_types:
   - fuel line
   - fuel line clamp
@@ -20,7 +21,7 @@ updated: 2026-11-23
 
 # Replace the fuel line
 
-Fixes: [Clogged fuel line](../causes/clogged-fuel-line.md), and the damage from [old fuel](../causes/old-fuel.md).
+Fixes: [Clogged fuel line](../causes/clogged-fuel-line.md), [Cracked fuel line](../causes/cracked-fuel-line.md), and the damage from [old fuel](../causes/old-fuel.md).
 
 A fuel line that is clogged can often be cleared. Replace it when it can't be cleared, or when it is dry, cracked or leaking.
 

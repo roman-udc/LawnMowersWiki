@@ -2,6 +2,7 @@
 type: procedure
 title: Replace the fuel filter
 causes:
+  - ../causes/cracked-fuel-filter.md
   - ../causes/clogged-fuel-filter.md
   - ../causes/old-fuel.md
 part_types:
@@ -20,7 +21,7 @@ updated: 2026-11-23
 
 # Replace the fuel filter
 
-Fixes: [Clogged fuel filter](../causes/clogged-fuel-filter.md), and the damage from [old fuel](../causes/old-fuel.md).
+Fixes: [Clogged fuel filter](../causes/clogged-fuel-filter.md), and the damage from [old fuel](../causes/old-fuel.md), and a leaking [cracked fuel filter](../causes/cracked-fuel-filter.md).
 
 The fuel filter keeps dirt out of the carburetor. Old gas leaves gummy buildup that plugs it; a clogged filter lets too little fuel through, so the engine runs rough or stops. A cracked or leaking filter must be replaced too. Most Sources replace it once a year, at the yearly tune-up or service, or when it's plugged.
 
