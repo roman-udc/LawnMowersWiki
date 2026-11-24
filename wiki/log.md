@@ -2037,3 +2037,15 @@ Note: Cluster 30 (ticket 30), single writer and finalizer. Thin Problem kept, no
 - raw/Articles/searspartsdirect.com/creeps-in-neutral.ltr44448.md → ingested → problems/mower-creeps-in-neutral.md
 
 Note: Cluster 31 (ticket 31), single writer and finalizer. Thin Problem kept, not folded: its one Source names Bad drive control linkage or damper (page exists), fixed by the existing Adjust the neutral control. Created problems/mower-creeps-in-neutral (1 Source, manufacturer; riding, zero-turn; gas). Updated causes/bad-drive-control-linkage-or-damper (plain "(no page yet)" bullet linked, with "Sources for Mower creeps in neutral"); problems/mower-pulls-to-one-side (Related line split: creeping now linked, Loose steering still plain for cluster 33); index. No page dropped. Inferred values: Fix difficulty moderate follows the Procedure's rating. Conflicts flagged: none. Spot-check of 5 random citations on mower-creeps-in-neutral: 0 errors.
+
+## 2026-11-24 | ingest | fill pass: mower-is-leaking-oil
+
+- raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-is-smoking.md → ingested → problems/mower-is-leaking-oil.md
+- raw/Articles/poweredoutdoors.com/exmark-mower-is-smoking.md → ingested → causes/bad-head-gasket.md, problems/mower-is-leaking-oil.md
+- raw/Articles/poweredoutdoors.com/honda-lawn-mower-is-smoking.md → ingested → problems/mower-is-leaking-oil.md
+- raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-is-smoking.md → ingested → problems/mower-is-leaking-oil.md
+- raw/Articles/poweredoutdoors.com/this-is-what-happens-if-you-put-too-much-oil-in-a-lawn-mower.md → ingested → problems/mower-is-leaking-oil.md
+- raw/Articles/poweredoutdoors.com/too-much-oil-husqvarna-mower.md → ingested → problems/mower-is-leaking-oil.md
+- raw/Articles/searspartsdirect.com/leaking-oil-or-gas.ridtr05.md → ingested → problems/mower-is-leaking-oil.md
+
+Note: Cluster 32 (ticket 32), single writer and finalizer. Thin Problem kept, not folded: its notes name Overfilled oil and Bad head gasket (pages exist). Created problems/mower-is-leaking-oil (7 Sources: 1 manufacturer, 6 expert-blog; push, riding, zero-turn; gas). The gasket oil leak onto the muffler from the smoking articles is on this Problem, linked to bad-head-gasket in the Sources' "engine gasket" wording: exmark-mower-is-smoking (mapped here) plus bad-boy-lawn-mower-is-smoking, honda-lawn-mower-is-smoking and john-deere-lawn-mower-is-smoking, whose bad-head-gasket notes describe the same leak and are cited and counted here (Bad head gasket 5 of 7). The two too-much-oil articles (facts only, no causes-named line) are counted on Overfilled oil (3 of 7, with Sears). Updated causes bad-head-gasket, overfilled-oil (Problem added, with "Sources for Mower is leaking oil"; the overfilled-oil "not yet Problem pages" bullet no longer lists the oil leak); index. No page dropped. Inferred values: Fix difficulty on the table is finalizer judgement (moderate to pro matches the index line for Bad head gasket). Conflicts flagged: none. Spot-check of 5 random citations on mower-is-leaking-oil: 0 errors.

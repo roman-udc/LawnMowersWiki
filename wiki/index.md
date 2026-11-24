@@ -27,6 +27,7 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Flat tire](problems/flat-tire.md) — riding mower tire is flat: find the leak with soapy water, seal a tread puncture (up to 1/4 inch) with sealant, fit an inner tube, or replace a tire with sidewall damage. Aliases: "flat tire on my riding mower", "mower tire keeps going flat"
 - [Engine hard to start when cold](problems/engine-hard-to-start-when-cold.md) — hard to start or won't start on cold mornings: choke not closing, oil too thick for the temperature, weak or frozen battery, diesel glow plugs, plus general no-start causes (old fuel, plug, filters, fuel pump, carburetor, solenoid, safety switch, charging system). Aliases: "lawn mower won't start when cold", "hard to start on cold mornings", "hard to start in the snow"
 - [Mower creeps in neutral](problems/mower-creeps-in-neutral.md) — riding mower or zero-turn moves forward or backward with the controls in neutral: neutral position mis-adjusted; adjust the neutral control. Aliases: "riding mower creeps in neutral", "zero-turn creeps forward or backward with levers in neutral"
+- [Mower is leaking oil](problems/mower-is-leaking-oil.md) — oil leaks from the engine, often dripping onto the hot muffler and smoking: a bad engine gasket (head or sump gasket), or overfilled oil blowing seals and gaskets. Aliases: "riding mower leaking oil", "oil leaking from the engine", "oil dripping onto the muffler"
 
 ## Causes
 

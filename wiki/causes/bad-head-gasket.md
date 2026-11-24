@@ -4,12 +4,13 @@ title: Bad head gasket
 problems:
   - ../problems/mower-is-smoking.md
   - ../problems/engine-overheats.md
+  - ../problems/mower-is-leaking-oil.md
 part_types:
   - head gasket
   - engine gasket
 procedures:
   - ../procedures/check-compression.md
-source_count: 43
+source_count: 44
 updated: 2026-11-24
 ---
 
@@ -36,6 +37,10 @@ Sources: [S9](../../raw/Articles/poweredoutdoors.com/5-reasons-your-lawn-mower-m
 - [Engine overheats](../problems/engine-overheats.md): a cracked seal or gasket leaks oil slowly, so the oil keeps running low even after topping off; signs are oil spots under the mower, a burning smell and smoke near the engine. Source: [S11](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md)
 
 Sources for Engine overheats: [S11](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md)
+
+- [Mower is leaking oil](../problems/mower-is-leaking-oil.md): a bad engine gasket (head or sump gasket) leaks oil, often onto the hot muffler.
+
+Sources for Mower is leaking oil: [S1](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-is-smoking.md), [S3](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-is-smoking.md), [S4](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-is-smoking.md), [S8](../../raw/Articles/searspartsdirect.com/leaking-oil-or-gas.ridtr05.md), [S44](../../raw/Articles/poweredoutdoors.com/exmark-mower-is-smoking.md)
 
 ## How to confirm
 
@@ -110,3 +115,4 @@ Sources: [S10](../../raw/Articles/poweredoutdoors.com/cub-cadet-is-smoking.md), 
 - [S41](../../raw/Articles/poweredoutdoors.com/your-ariens-lawn-mower-is-smoking.md) — This is Why Your Ariens Lawn Mower is Smoking (expert-blog)
 - [S42](../../raw/Articles/poweredoutdoors.com/your-common-lawn-tractor-problems-solutions.md) — 9 Common Lawn Tractor Problems & Solutions (Troubleshoot) (expert-blog)
 - [S43](../../raw/Articles/poweredoutdoors.com/your-toro-lawn-mower-is-smoking.md) — Why Your Toro Lawn Mower is Smoking: White, Blue or Black Smoke (expert-blog)
+- [S44](../../raw/Articles/poweredoutdoors.com/exmark-mower-is-smoking.md) — This is Why Your Exmark Mower is Smoking (expert-blog)
