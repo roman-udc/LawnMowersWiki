@@ -36,7 +36,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/diesel-lawn-mower-wont-star
 
 ## Fix
 
-Start the mower and let it run for a minute to remove the air from the fuel system. There is no Procedure page for this yet.
+Start the mower and let it run for a minute to remove the air from the fuel system. No Procedure page covers this yet.
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/diesel-lawn-mower-wont-start.md)
 

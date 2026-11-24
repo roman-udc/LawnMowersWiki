@@ -93,7 +93,7 @@ Ranked by how many of the 37 Sources name the Cause for this Problem. Tie-break:
 | [Bad head gasket](../causes/bad-head-gasket.md) | 1 of 37 | Oil keeps running low after topping off; oil spots, burning smell, smoke | not rated by Sources |
 | [Old fuel](../causes/old-fuel.md) | 1 of 37 | Stale gas burns lean and hotter | easy |
 | [Worn or stretched belt](../causes/worn-or-stretched-belt.md) | 1 of 37 | Slipping or misaligned belt adds friction or blocks airflow; cracked, frayed or glazed | moderate |
-| Clogged blower tubes or inlet (not linked: the Source means blocked air passageways around the engine, not the bagger; see Dirty cooling fins) | 1 of 37 | Clippings and dirt around the engine and under the shroud | easy |
+| [Bad cooling shroud](../causes/bad-cooling-shroud.md) (blocked air passageways around the engine; counted separately) | 1 of 37 | Clippings and dirt around the engine and under the shroud | easy |
 | [Clogged motor vents](../causes/clogged-motor-vents.md) | 1 of 37 | Electric mower: grass and debris in the motor's air vents | easy |
 
 > Six brand troubleshooting tables (Ferris, Cub Cadet zero-turn, Hustler, John Deere zero-turn, Kubota zero-turn, Husqvarna zero-turn) have scrambled "low engine oil" and "plugged cooling fins" rows. Those Sources are counted for naming the Causes, but their row text is not cited.

@@ -11,6 +11,7 @@ part_types:
   - battery terminal
   - dielectric grease
 procedures:
+  - ../procedures/clean-the-battery-terminals.md
   - ../procedures/test-the-battery.md
   - ../procedures/test-the-starter-solenoid.md
 source_count: 105
@@ -61,11 +62,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/5-things-that-are-draining-
 
 ## Fix
 
-1. **Disconnect the battery safely.** Wear safety glasses and gloves. Remove the negative cable first to break the circuit, then the positive (red). The positive cable is the last one off and the first one on.
-2. **Clean the corrosion** off the terminals, cable ends and connections with a wire brush and a baking soda and water mix. It foams as it works; rinse it off with water (messy, so do it outdoors). Cola soda also removes corrosion.
-3. **Tighten and secure** all cables, terminals and wiring.
-4. **Replace** cables or wiring that keep coming loose or are broken, and terminals or components too corroded or damaged to clean.
-5. **Protect** the terminals and wiring with dielectric grease, or a thin coat of petroleum jelly.
+Disconnect the battery (negative first), scrub the corrosion off the terminals and cable ends with a wire brush and baking soda, tighten everything, replace cables or terminals that are broken, keep coming loose or are too corroded to clean, and protect the terminals with dielectric grease or petroleum jelly. Full steps: [Clean the battery terminals](../procedures/clean-the-battery-terminals.md).
 
 > **⚠ Conflicting advice (cleaning mix):** 2 cups water to 3 heaping (or rounded) tablespoons baking soda (most Sources, for example [S3](../../raw/Articles/poweredoutdoors.com/ariens-lawn-mower-wont-turn-over.md), expert-blog) vs a paste of 4 cups water with about six rounded tablespoons ([S1](../../raw/Articles/poweredoutdoors.com/5-things-that-are-draining-the-life-of-your-lawn-mower-battery.md), expert-blog) vs one part baking soda to one part water ([S79](../../raw/Articles/poweredoutdoors.com/winter-lawn-mower-battery-care.md), expert-blog) vs sprinkle dry baking soda on the terminals and moisten it, then toothbrush off the rest when it stops bubbling ([S86](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-clicks-but-doesnt-turn-over-video.md), manufacturer).
 

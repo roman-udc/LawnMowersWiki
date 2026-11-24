@@ -53,7 +53,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/10-reasons-your-lawn-mower-
 
 > **⚠ Conflicting advice:** some Sources offer epoxy patching of a metal tank as an equal option to replacing it ([S25](../../raw/Articles/poweredoutdoors.com/toro-lawn-mower-is-leaking-gas-fixed.md), [S26](../../raw/Articles/poweredoutdoors.com/troy-bilt-lawn-mower-is-leaking-gas.md), [S15](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-is-leaking-gas.md), expert-blog), while another prefers replacing because of the rust and fuel-system contamination, and patches only when the tank is discontinued ([S19](../../raw/Articles/poweredoutdoors.com/push-mower-is-leaking-gas.md), expert-blog).
 
-There is no procedure page for replacing a tank.
+No Procedure page covers replacing the tank yet.
 
 Sources: [S2](../../raw/Articles/poweredoutdoors.com/ariens-lawn-mower-is-leaking-gas-fixed.md), [S4](../../raw/Articles/poweredoutdoors.com/common-exmark-mower-problems-and-solutions.md), [S13](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-is-leaking-gas.md), [S15](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-is-leaking-gas.md), [S25](../../raw/Articles/poweredoutdoors.com/toro-lawn-mower-is-leaking-gas-fixed.md), [S26](../../raw/Articles/poweredoutdoors.com/troy-bilt-lawn-mower-is-leaking-gas.md), [S19](../../raw/Articles/poweredoutdoors.com/push-mower-is-leaking-gas.md), [S31](../../raw/Articles/poweredoutdoors.com/your-lawn-tractor-is-leaking-gas.md)
 

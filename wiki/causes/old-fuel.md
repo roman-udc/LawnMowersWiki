@@ -16,6 +16,7 @@ part_types:
   - fuel filter
   - fuel line
 procedures:
+  - ../procedures/drain-and-refill-the-fuel-tank.md
   - ../procedures/start-a-mower-with-old-gas.md
   - ../procedures/replace-the-fuel-filter.md
   - ../procedures/replace-the-fuel-line.md
@@ -86,13 +87,9 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-w
 
 ## Fix
 
-1. Wipe around the fuel cap and remove it.
-2. Drain the tank into an approved fuel container. A fuel siphon pump is the easiest way, especially on riding and zero-turn mowers. On a push mower you can also tip the mower to drain it, or remove the fuel line from the carburetor and drain into a container. Some Sources also flush the tank.
-3. Refill with fresh gas: unleaded, at least 87 octane, no more than 10% ethanol. Less ethanol, or ethanol-free gas, is best. 2-cycle engines need the correct gas and oil mix instead.
-4. Add a fuel stabilizer (Sources name Sea Foam Motor Treatment and STA-BIL) to help clean the fuel system, reduce moisture and keep the gas stable. See the conflicting advice below on where to mix it.
-5. If the engine starts, let it run so the treated fuel works through the system. Sources give "a few minutes", "a while", 10–15 minutes and about 15 minutes. It may then run without the choke.
-6. If it still won't start, check the parts old gas tends to clog: the fuel filter, the fuel lines, then the carburetor. See [Start a mower with old gas](../procedures/start-a-mower-with-old-gas.md), [Replace the fuel filter](../procedures/replace-the-fuel-filter.md), [Replace the fuel line](../procedures/replace-the-fuel-line.md) and [Clean the carburetor](../procedures/clean-the-carburetor.md).
-7. Take the old gas to a recycling facility. Don't dump it on the ground.
+1. Drain the tank and refill with fresh gas treated with a fuel stabilizer (Sources name Sea Foam Motor Treatment and STA-BIL), then let the engine run so the treated fuel works through the system: [Drain and refill the fuel tank](../procedures/drain-and-refill-the-fuel-tank.md). Wipe around the fuel cap before removing it. Refill with unleaded gas, at least 87 octane, no more than 10% ethanol (less ethanol, or ethanol-free, is best); 2-cycle engines need the correct gas and oil mix instead. Sources give "a few minutes", "a while", 10–15 minutes and about 15 minutes of run time; the engine may then run without the choke. See the conflicting advice below on where to mix the stabilizer.
+2. If it still won't start, check the parts old gas tends to clog: the fuel filter, the fuel lines, then the carburetor. See [Start a mower with old gas](../procedures/start-a-mower-with-old-gas.md), [Replace the fuel filter](../procedures/replace-the-fuel-filter.md), [Replace the fuel line](../procedures/replace-the-fuel-line.md) and [Clean the carburetor](../procedures/clean-the-carburetor.md).
+3. Take the old gas to a recycling facility. Don't dump it on the ground.
 
 Diesel mowers: remove the old diesel and refill with fresh; if it still won't start, check the fuel filter and other fuel parts for restrictions left by the dirty fuel.
 

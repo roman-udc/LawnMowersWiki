@@ -43,7 +43,7 @@ Sources: [S10](../../raw/Articles/poweredoutdoors.com/why-your-lawn-mower-smells
 
 ## Fix
 
-Replace the primer bulb. The Sources call it relatively easy. No procedure page covers it yet.
+Replace the primer bulb. The Sources call it relatively easy. No Procedure page covers it yet.
 
 Sources: [S2](../../raw/Articles/poweredoutdoors.com/common-lawn-mower-problems-fixed.md), [S3](../../raw/Articles/poweredoutdoors.com/common-push-mower-problems-solutions.md), [S5](../../raw/Articles/poweredoutdoors.com/cub-cadet-is-leaking-gas.md), [S6](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-is-leaking-gas.md), [S7](../../raw/Articles/poweredoutdoors.com/snapper-mower-is-leaking-gas.md), [S8](../../raw/Articles/poweredoutdoors.com/toro-lawn-mower-is-leaking-gas-fixed.md)
 

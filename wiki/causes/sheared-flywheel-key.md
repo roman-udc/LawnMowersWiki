@@ -50,14 +50,7 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-s
 
 ## Fix
 
-Replace the key: [Replace the flywheel key](../procedures/replace-the-flywheel-key.md). The Sears PartsDirect guide rates it difficulty 4 and about 60 minutes.
-
-1. Disconnect the battery and remove the blower housing.
-2. Feed nylon rope into the cylinder through the spark plug hole to jam the piston.
-3. Remove the flywheel bolt and fan, then break the flywheel loose with a puller.
-4. Remove what's left of the old key.
-5. Line up the notch in the flywheel with the slot in the crankshaft, and push the new key in flush.
-6. Reassemble and torque the flywheel bolt.
+Replace the key: [Replace the flywheel key](../procedures/replace-the-flywheel-key.md). The Sears PartsDirect guide rates it difficulty 4 and about 60 minutes. You remove the blower housing and flywheel with a puller, fit the new key, and torque the flywheel bolt.
 
 If the blade was loose, tighten it so the new key doesn't shear again.
 

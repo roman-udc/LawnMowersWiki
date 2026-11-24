@@ -122,7 +122,7 @@ Ranked by how many of the 25 Sources name the Cause for this Problem. Tie-break:
 | [Low compression](../causes/low-compression.md) | 1 of 25 | Still bogs with the blades engaged after fuel, air, belts and blades check out | pro |
 | [Worn or stretched belt](../causes/worn-or-stretched-belt.md) | 1 of 25 | Blade drive belt slips under load; squealing or burning-rubber smell | moderate |
 | [Bad gas cap seal](../causes/bad-gas-cap-seal.md) | 1 of 25 | Bad gas cap | easy |
-| Clogged blower tubes or inlet (not linked: the Source means blocked air passageways around the engine, not the bagger; see Dirty cooling fins) | 1 of 25 | Clippings and dirt around the engine and under the shroud | easy |
+| [Bad cooling shroud](../causes/bad-cooling-shroud.md) (blocked air passageways around the engine; counted separately) | 1 of 25 | Clippings and dirt around the engine and under the shroud | easy |
 
 Weak hydrostatic transmission (the mower drives weakly while the engine is fine) is not engine power loss: see [Mower won't move](mower-wont-move.md).
 

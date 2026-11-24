@@ -41,7 +41,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/ariens-blades-wont-engage.m
 
 ## Fix
 
-Replace a switch that has a break in continuity. No Source gives step-by-step replacement instructions, so there is no Procedure page for it yet.
+Replace a switch that has a break in continuity. No Source gives step-by-step replacement instructions, so no Procedure page covers it yet.
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/ariens-blades-wont-engage.md), [S2](../../raw/Articles/poweredoutdoors.com/bad-boy-mower-blades-wont-engage.md), [S3](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md), [S4](../../raw/Articles/poweredoutdoors.com/common-zero-turn-problems-how-to-fix-them.md), [S5](../../raw/Articles/poweredoutdoors.com/craftsman-blades-wont-engage.md), [S7](../../raw/Articles/poweredoutdoors.com/exmark-mower-blades-wont-engage.md), [S8](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-mower-blades-wont-engage.md), [S9](../../raw/Articles/poweredoutdoors.com/gravely-blades-wont-engage.md), [S23](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-blades-wont-engage-or-turn-on.md)
 

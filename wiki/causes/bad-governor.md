@@ -41,7 +41,7 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power
 
 The Source says only that a misadjusted or faulty governor is a cause; it gives no adjustment or replacement steps. If the basics check out and the engine still bogs or stalls when the blades engage, the Source recommends calling a professional for a proper diagnosis.
 
-There is no Procedure for this Cause yet.
+No Procedure page covers this yet.
 
 Sources: [S1](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md)
 

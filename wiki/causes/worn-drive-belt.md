@@ -6,7 +6,8 @@ problems:
   - ../problems/mower-pulls-to-one-side.md
 part_types:
   - drive belt
-procedures: []
+procedures:
+  - ../procedures/replace-the-drive-belt.md
 source_count: 29
 updated: 2026-11-24
 ---
@@ -51,10 +52,10 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/ariens-zero-turn-mower-wont
 ## Fix
 
 - A belt that slipped out of place but is in good shape: reinstall it securely around the pulleys.
-- A belt that is worn, frayed, cracked, glazed, stretched or broken: replace it. Several Sources say to replace it at any sign of wear.
+- A belt that is worn, frayed, cracked, glazed, stretched or broken: replace it. Several Sources say to replace it at any sign of wear; see [Replace the drive belt](../procedures/replace-the-drive-belt.md).
 - If the belt fell off, check the tensioner pulley ([Worn pulley or idler bearing](worn-pulley-or-idler-bearing.md)) and the spring ([Missing idler arm spring](missing-idler-arm-spring.md)), and on a lawn tractor make sure the belt guards aren't bent or out of place.
 
-No Source gives belt replacement steps for the drive belt; one Source recommends a repair shop for a transmission drive belt.
+Step-by-step instructions exist only for the self-propelled push mower and the riding mower ground drive belt (one MTD-family Source); no Source gives steps for a zero-turn pump drive belt, and one Source recommends a repair shop for a transmission drive belt.
 
 Sources: [S26](../../raw/Articles/searspartsdirect.com/won-t-move.ltr1818.md), [S4](../../raw/Articles/poweredoutdoors.com/common-lawn-mower-problems-fixed.md), [S7](../../raw/Articles/poweredoutdoors.com/common-troy-bilt-lawn-mower-problems.md), [S12](../../raw/Articles/poweredoutdoors.com/hustler-zero-turn-wont-move-forward.md), [S15](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-wont-move-forward-or-reverse.md), [S18](../../raw/Articles/poweredoutdoors.com/spartan-zero-turn-wont-move-or-go-forward.md), [S22](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-wont-move-or-go-forward.md), [S1](../../raw/Articles/poweredoutdoors.com/ariens-zero-turn-mower-wont-move-forward-or-reverse-fix-it.md), [S11](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-wont-move-or-go-forward.md), [S17](../../raw/Articles/poweredoutdoors.com/simplicity-zero-turn-wont-move-forward-reverse.md), [S19](../../raw/Articles/poweredoutdoors.com/this-is-how-long-a-mower-drive-belt-should-last.md)
 

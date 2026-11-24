@@ -8,6 +8,7 @@ part_types:
   - pulley
 procedures:
   - ../procedures/replace-the-deck-belt.md
+  - ../procedures/clean-under-the-deck.md
 source_count: 22
 updated: 2026-11-24
 ---
@@ -43,9 +44,7 @@ Sources: [S6](../../raw/Articles/poweredoutdoors.com/exmark-belt-keeps-coming-of
 
 ## Fix
 
-1. Find and repair the oil leak, and clean the oil off the deck, pulleys and other components.
-2. Clean the rust off the deck, pulleys and brackets. Replace any pulley or component so rusty that the rust can't all be removed.
-3. Once the deck is clean of oil and rust, install a new belt: [Replace the deck belt](../procedures/replace-the-deck-belt.md).
+Find and repair the oil leak, clean the oil and rust off the deck, pulleys and brackets (replacing any part too rusty to clean), then install a new belt: [Clean under the deck](../procedures/clean-under-the-deck.md), then [Replace the deck belt](../procedures/replace-the-deck-belt.md).
 
 Don't replace the belt without fixing the cause: belts are expensive, and the new one will fail the same way.
 

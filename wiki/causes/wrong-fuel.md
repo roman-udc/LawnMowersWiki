@@ -6,7 +6,8 @@ problems:
   - ../problems/engine-starts-then-dies.md
 part_types:
   - gasoline
-procedures: []
+procedures:
+  - ../procedures/drain-and-refill-the-fuel-tank.md
 source_count: 51
 updated: 2026-11-24
 ---
@@ -50,12 +51,10 @@ Sources: [S4](../../raw/Articles/poweredoutdoors.com/cub-cadet-dies-while-mowing
 
 ## Fix
 
-1. Drain the tank. A cheap manual siphon pump works well.
-2. Flush the tank.
-3. Refill with fresh unleaded gas (87 octane or higher, 10% ethanol or less) treated with a fuel additive that cleans the fuel system, reduces moisture and stabilizes the gas (Sources name Sea Foam).
-4. If the problems continue, take the mower to a small engine mechanic.
+1. Drain and flush the tank, and refill with fresh unleaded gas (87 octane or higher, 10% ethanol or less) treated with a fuel additive that cleans the fuel system, reduces moisture and stabilizes the gas (Sources name Sea Foam): [Drain and refill the fuel tank](../procedures/drain-and-refill-the-fuel-tank.md). A cheap manual siphon pump works well.
+2. If the problems continue, take the mower to a small engine mechanic.
 
-For a 2-cycle engine, mix the gas with 2-cycle engine oil at the manufacturer's ratio (see the Choosing the right gas guide).
+For a 2-cycle engine, mix the gas with 2-cycle engine oil at the manufacturer's ratio (see [Choosing the right gas](../guides/choosing-the-right-gas.md)).
 
 Sources: [S4](../../raw/Articles/poweredoutdoors.com/cub-cadet-dies-while-mowing.md), [S25](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-wont-start.md), [S29](../../raw/Articles/poweredoutdoors.com/push-mower-wont-start.md), [S30](../../raw/Articles/poweredoutdoors.com/reasons-your-toro-lawn-mower-dies-solved.md), [S38](../../raw/Articles/poweredoutdoors.com/toro-zero-turn-wont-start.md), [S43](../../raw/Articles/poweredoutdoors.com/why-your-craftsman-lawn-mower-dies-how-to-fix.md), [S44](../../raw/Articles/poweredoutdoors.com/why-your-push-mower-dies-while-mowing-solved.md), [S46](../../raw/Articles/poweredoutdoors.com/your-exmark-lawn-mower-dies-while-running-solved.md), [S49](../../raw/Articles/poweredoutdoors.com/your-troy-bilt-lawn-mower-dies.md), [S51](../../raw/Articles/poweredoutdoors.com/zero-turn-wont-start.md)
 

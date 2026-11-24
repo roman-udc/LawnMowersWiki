@@ -188,6 +188,10 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Adjust the tracking](procedures/adjust-the-tracking.md) — zero-turn or stand-on: adjust the speed adjustment bolt so both drive tires turn at the same speed (moderate, time not stated).
 - [Adjust the neutral control](procedures/adjust-the-neutral-control.md) — stop a zero-turn or automatic lawn tractor creeping in neutral by adjusting the neutral control or motion control lever (moderate, time not stated).
 - [Replace the deck belt](procedures/replace-the-deck-belt.md) — push mower drive belt from under the deck; riding mower deck removal, routing and refit; zero-turn belt covers and self-tensioning spring (moderate, about 30-45 minutes push, about an hour riding).
+- [Replace the drive belt](procedures/replace-the-drive-belt.md) — swap the belt that drives the wheels on a self-propelled push mower or a riding mower's ground drive (moderate, about 30-45 minutes push, about an hour riding).
+- [Clean under the deck](procedures/clean-under-the-deck.md) — scrape packed grass and debris from under the deck, and clear debris, oil and rust around the belt, pulleys and tensioner (easy, time not stated).
+- [Clean the battery terminals](procedures/clean-the-battery-terminals.md) — disconnect the battery, scrub corrosion off the terminals and cable ends with a wire brush and baking soda, reconnect and grease (easy, time not stated).
+- [Drain and refill the fuel tank](procedures/drain-and-refill-the-fuel-tank.md) — siphon, tip or drain old, wet or wrong fuel, refill with fresh gas plus additive, run it through (easy, time not stated).
 
 ## Guides
 

@@ -43,7 +43,7 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower
 - Clear any obstructions from the fan and the fan shroud.
 - Replace the fan if it's cracked or doesn't spin freely.
 
-There is no Procedure for this Cause yet.
+No Procedure page covers this yet.
 
 Sources: [S1](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md)
 

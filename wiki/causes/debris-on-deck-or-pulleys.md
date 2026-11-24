@@ -16,7 +16,8 @@ problems:
 part_types:
   - deck scraper
   - mower deck spray
-procedures: []
+procedures:
+  - ../procedures/clean-under-the-deck.md
 source_count: 162
 updated: 2026-11-24
 ---
@@ -87,13 +88,7 @@ Sources: [S32](../../raw/Articles/poweredoutdoors.com/ego-mower-starts-then-stop
 
 ## Fix
 
-There is no separate Procedure page; the steps are short:
-
-1. Shut the mower off, remove the key and disconnect the spark plug wire (on a battery mower, remove the battery and safety key).
-2. Raise the deck safely (jack stands or a lift) or work from the side the manual allows.
-3. Scrape the underside of the deck with a deck scraper; a stiff wire brush or metal putty knife also works.
-4. Remove the belt covers and spindle covers and clear dirt, stones, grass, wood chips and mud from the top of the deck, under the pulleys and tensioner, and out of the pulley grooves. On some riding mowers it helps to lower the deck to its lowest position first; if there is no access, remove the deck per the owner's manual. A leaf blower works for loose dirt, leaves and clippings.
-5. While the deck is clean, inspect it for damage and check the belt and pulleys for wear. If the blades are dull, sharpen them too: dull blades add to the load.
+With the spark plug wire off (or the battery and safety key out), scrape the underside of the deck, clear debris from the top of the deck, under the pulleys and tensioner and out of the pulley grooves, then check the belt, pulleys and blades: [Clean under the deck](../procedures/clean-under-the-deck.md). Remove the spindle covers as well as the belt covers, and a leaf blower clears loose dirt, leaves and clippings. If the blades are dull, sharpen them too: dull blades add to the load.
 
 > **⚠ Safety:**
 > - Blades are sharp: protect your hands and disconnect the spark plug wire (or remove the battery) before working under the deck.

@@ -42,7 +42,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/diesel-lawn-mower-wont-star
 
 ## Fix
 
-Replace any glow plug that isn't working. There is no Procedure page for glow plugs yet.
+Replace any glow plug that isn't working. No Procedure page covers glow plugs yet.
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/diesel-lawn-mower-wont-start.md)
 

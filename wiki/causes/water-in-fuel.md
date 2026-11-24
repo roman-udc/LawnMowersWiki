@@ -10,6 +10,7 @@ part_types:
   - fuel stabilizer
   - fuel filter
 procedures:
+  - ../procedures/drain-and-refill-the-fuel-tank.md
   - ../procedures/replace-the-fuel-filter.md
 source_count: 12
 updated: 2026-11-24
@@ -55,10 +56,7 @@ Sources: [S6](../../raw/Articles/poweredoutdoors.com/lawn-mower-sputtering-solve
 
 ## Fix
 
-1. Drain the tank into an approved container, using a fuel siphon. Also drain the fuel lines and the carburetor bowl, and use air to dry any water that remains.
-2. Replace the fuel filter ([Replace the fuel filter](../procedures/replace-the-fuel-filter.md)).
-3. Refill with fresh gasoline mixed with a fuel additive (such as Sea Foam or STA-BIL) that absorbs or reduces the moisture left in the fuel system.
-4. Run the mower to circulate the fresh fuel, until it no longer sputters or smokes from the water.
+Drain the contaminated fuel, also drain the fuel lines and carburetor bowl, replace the fuel filter, and refill with fresh gas mixed with a moisture-reducing additive (such as Sea Foam or STA-BIL), then run the mower until it no longer sputters or smokes from the water: [Drain and refill the fuel tank](../procedures/drain-and-refill-the-fuel-tank.md). See also [Replace the fuel filter](../procedures/replace-the-fuel-filter.md).
 
 On a diesel mower: drain the tank and refill with fresh diesel. Running the mower about a minute removes air and water from the system; Sea Foam can help clean the fuel system and reduce moisture.
 
