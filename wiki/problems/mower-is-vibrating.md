@@ -36,6 +36,7 @@ causes:
   - ../causes/blade-installed-upside-down.md
   - ../causes/sheared-flywheel-key.md
   - ../causes/missing-idler-arm-spring.md
+  - ../causes/bad-clutch-cable-or-linkage.md
 part_types:
   - mower blade
   - engine mounting bolts
@@ -64,7 +65,7 @@ Collect the basics first with the [customer intake Guide](../guides/customer-int
 | Question | Answer A → Causes | Answer B → Causes |
 |---|---|---|
 | Does it vibrate only when the blades are engaged? | Yes → the blade drive: [Dull or bent blade](../causes/dull-or-bent-blade.md) (unbalanced), [Worn pulley or idler bearing](../causes/worn-pulley-or-idler-bearing.md), [Bent spindle or bad spindle bearing](../causes/bent-spindle-or-bad-spindle-bearing.md), [Worn or stretched belt](../causes/worn-or-stretched-belt.md), [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md), [Bad PTO clutch](../causes/bad-pto-clutch.md) | No, also with the blades off → [Engine mount loose](../causes/engine-mount-loose.md) (bolts and other hardware) |
-| Is it a push mower? | Yes → [Engine mount loose](../causes/engine-mount-loose.md), Bad clutch cable or linkage (blade engagement lever), [Bad blade adapter or loose blade](../causes/bad-blade-adapter-or-loose-blade.md), [Dull or bent blade](../causes/dull-or-bent-blade.md), [Bent crankshaft](../causes/bent-crankshaft.md), [Sheared flywheel key](../causes/sheared-flywheel-key.md) | No (riding or zero-turn) → check the deck: blades, spindles, belt, pulleys, idler bracket and spring, clutch |
+| Is it a push mower? | Yes → [Engine mount loose](../causes/engine-mount-loose.md), [Bad clutch cable or linkage](../causes/bad-clutch-cable-or-linkage.md) (blade engagement lever), [Bad blade adapter or loose blade](../causes/bad-blade-adapter-or-loose-blade.md), [Dull or bent blade](../causes/dull-or-bent-blade.md), [Bent crankshaft](../causes/bent-crankshaft.md), [Sheared flywheel key](../causes/sheared-flywheel-key.md) | No (riding or zero-turn) → check the deck: blades, spindles, belt, pulleys, idler bracket and spring, clutch |
 | Did the blade hit a rock, root or other solid object before it started? | Yes → [Dull or bent blade](../causes/dull-or-bent-blade.md), [Bent spindle or bad spindle bearing](../causes/bent-spindle-or-bad-spindle-bearing.md); push mower → [Bent crankshaft](../causes/bent-crankshaft.md), [Sheared flywheel key](../causes/sheared-flywheel-key.md); battery mower → damaged motor shaft | No → keep checking |
 | Were the blades just sharpened or replaced? | Yes → unbalanced blade ([Dull or bent blade](../causes/dull-or-bent-blade.md)), wrong-size or wrongly installed blade ([Bad blade adapter or loose blade](../causes/bad-blade-adapter-or-loose-blade.md), [Blade installed upside down](../causes/blade-installed-upside-down.md)) | No → keep checking |
 | With the engine off, is there string, wire or long weeds wrapped around the top of a blade? | Yes → [Debris wrapped around blade spindle](../causes/debris-wrapped-around-blade-spindle.md) | No → keep checking |
@@ -101,7 +102,7 @@ Ranked by how many of the 64 Sources name the Cause for this Problem. Tie-break:
 | [Bad PTO clutch](../causes/bad-pto-clutch.md) | 45 of 64 | Vibration from a failing clutch ball bearing; worn bushings or linkage on a manual clutch | moderate |
 | Bad belt tensioner spring | 16 of 64 | Worn idler bracket or spring | not yet rated |
 | [Bad blade adapter or loose blade](../causes/bad-blade-adapter-or-loose-blade.md) | 11 of 64 | Wrong-size or wrongly installed blade; broken blade adapter on a push mower | moderate |
-| Bad clutch cable or linkage | 5 of 64 | Push mower blade engagement lever loose or worn; worn clutch cable or lever | not yet rated |
+| [Bad clutch cable or linkage](../causes/bad-clutch-cable-or-linkage.md) | 5 of 64 | Push mower blade engagement lever loose or worn; worn clutch cable or lever | not rated by Sources |
 | [Bent crankshaft](../causes/bent-crankshaft.md) | 5 of 64 | Push mower after a blade strike; blade and deck parts check out | pro |
 | [Blade installed upside down](../causes/blade-installed-upside-down.md) | 3 of 64 | Blade sails not pointing up toward the deck | moderate |
 | [Missing idler arm spring](../causes/missing-idler-arm-spring.md) | 2 of 64 | Worn idler bracket or spring | easy |

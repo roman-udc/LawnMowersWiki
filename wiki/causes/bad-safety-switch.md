@@ -2,6 +2,7 @@
 type: cause
 title: Bad safety switch
 problems:
+  - ../problems/blades-wont-engage.md
   - ../problems/engine-wont-crank.md
   - ../problems/engine-cranks-but-wont-start.md
   - ../problems/engine-starts-then-dies.md
@@ -14,8 +15,8 @@ part_types:
   - mower seat
 procedures:
   - ../procedures/replace-the-seat-switch.md
-source_count: 146
-updated: 2026-11-23
+source_count: 149
+updated: 2026-11-24
 ---
 
 # Bad safety switch
@@ -41,7 +42,7 @@ Sources: [S9](../../raw/Articles/poweredoutdoors.com/bobcat-zero-turn-wont-start
 
 - [Engine won't crank](../problems/engine-wont-crank.md): you turn the key and the engine doesn't turn over, even with the parking brake set. Most brand "won't start" and "won't turn over" articles list it. On battery push mowers, the mower won't start because the handle isn't unfolded and locked, the side rails aren't fully extended, or the safety bar isn't pulled to the handle.
 - [Engine starts then dies](../problems/engine-starts-then-dies.md): a riding mower that shuts off as soon as you release the brake usually has a broken or unplugged seat switch, or a worn seat that doesn't press the switch. A bad connection, or bouncing off the seat on rough ground, can make the mower keep stalling.
-- Blades won't engage: a seat switch that doesn't sense the operator stops the blades from turning on, and lifting off the seat with the deck on shuts the deck off.
+- [Blades won't engage](../problems/blades-wont-engage.md): a seat switch that doesn't sense the operator stops the blades from turning on, and lifting off the seat with the deck on shuts the deck off.
 - Engine runs rough: a failing operator presence switch can feel like sputtering.
 - [Engine cranks but won't start](../problems/engine-cranks-but-wont-start.md): general "won't start" articles list it: the starting steps are followed correctly (brake set, blades off, operator in the seat) but the mower still won't start. A switch that blocks starting usually stops the engine cranking at all, so check [Engine won't crank](../problems/engine-wont-crank.md) first.
 - [Mower won't move](../problems/mower-wont-move.md): the engine dies when you release the brake to drive off; the seat switch may be unplugged or broken.
@@ -50,6 +51,8 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/a-walker-mower-wont-turn-ov
 
 
 Sources for Engine starts then dies: [S33](../../raw/Articles/poweredoutdoors.com/ego-mower-starts-then-stops.md), [S52](../../raw/Articles/poweredoutdoors.com/hustler-mower-starts-then-dies.md), [S63](../../raw/Articles/poweredoutdoors.com/lawn-mower-keeps-stalling.md), [S105](../../raw/Articles/poweredoutdoors.com/walker-mower-starts-then-dies.md), [S123](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-dies-when-you-release-the-brake-video.md), [S125](../../raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md)
+
+Sources for Blades won't engage: [S2](../../raw/Articles/poweredoutdoors.com/ariens-blades-wont-engage.md), [S4](../../raw/Articles/poweredoutdoors.com/bad-boy-mower-blades-wont-engage.md), [S16](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md), [S17](../../raw/Articles/poweredoutdoors.com/common-toro-lawn-mower-problems-solutions.md), [S19](../../raw/Articles/poweredoutdoors.com/common-zero-turn-problems-how-to-fix-them.md), [S21](../../raw/Articles/poweredoutdoors.com/craftsman-blades-wont-engage.md), [S25](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-blades-wont-engage-turn-on.md), [S35](../../raw/Articles/poweredoutdoors.com/exmark-mower-blades-wont-engage.md), [S38](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-mower-blades-wont-engage.md), [S41](../../raw/Articles/poweredoutdoors.com/gravely-blades-wont-engage.md), [S47](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-blades-wont-engage.md), [S51](../../raw/Articles/poweredoutdoors.com/hustler-mower-blades-wont-engage.md), [S56](../../raw/Articles/poweredoutdoors.com/john-deere-mower-blades-wont-engage-or-turn-on.md), [S61](../../raw/Articles/poweredoutdoors.com/kubota-mower-blades-wont-engage.md), [S73](../../raw/Articles/poweredoutdoors.com/poulan-pro-mower-blades-wont-engage.md), [S76](../../raw/Articles/poweredoutdoors.com/riding-mower-blades-wont-engage-or-turn-on.md), [S81](../../raw/Articles/poweredoutdoors.com/scag-mower-blades-wont-engage.md), [S84](../../raw/Articles/poweredoutdoors.com/simplicity-mower-blades-wont-engage.md), [S87](../../raw/Articles/poweredoutdoors.com/snapper-blades-wont-engage.md), [S91](../../raw/Articles/poweredoutdoors.com/spartan-mower-blades-wont-engage.md), [S96](../../raw/Articles/poweredoutdoors.com/toro-mower-blades-wont-engage.md), [S102](../../raw/Articles/poweredoutdoors.com/troy-bilt-riding-mower-blades-wont-engage.md), [S115](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-blades-wont-engage-or-turn-on.md), [S129](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S130](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S133](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S134](../../raw/Articles/poweredoutdoors.com/common-john-deere-lawn-mower-problems.md), [S136](../../raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md), [S137](../../raw/Articles/poweredoutdoors.com/common-snapper-lawn-mower-problems-solutions.md), [S138](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md), [S139](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md), [S140](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md), [S141](../../raw/Articles/poweredoutdoors.com/hustler-mower-problems.md), [S142](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md), [S143](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md), [S144](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md), [S147](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md), [S148](../../raw/Articles/poweredoutdoors.com/troubleshoot-cub-cadet-mower-deck-problems.md), [S149](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-deck-problems.md)
 
 ## How to confirm
 
@@ -251,3 +254,6 @@ Sources: [S56](../../raw/Articles/poweredoutdoors.com/john-deere-mower-blades-wo
 - [S144](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md) — Troubleshoot 14 Simplicity Mower Problems: SOLVED (expert-blog)
 - [S145](../../raw/Articles/poweredoutdoors.com/spartan-lawn-mower-problems-solutions.md) — 9 Common Spartan Lawn Mower Problems (Zero Turn Fix) (expert-blog)
 - [S146](../../raw/Articles/poweredoutdoors.com/your-common-lawn-tractor-problems-solutions.md) — 9 Common Lawn Tractor Problems & Solutions (Troubleshoot) (expert-blog)
+- [S147](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md) — 6 Lawn Mower Deck Problems (With Troubleshooting Tables) (expert-blog)
+- [S148](../../raw/Articles/poweredoutdoors.com/troubleshoot-cub-cadet-mower-deck-problems.md) — Troubleshoot Cub Cadet Mower Deck Problems (expert-blog)
+- [S149](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-deck-problems.md) — Troubleshoot 6 Common Zero Turn Mower Deck Problems (expert-blog)

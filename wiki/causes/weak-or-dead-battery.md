@@ -2,6 +2,7 @@
 type: cause
 title: Weak or dead battery
 problems:
+  - ../problems/blades-wont-engage.md
   - ../problems/engine-wont-crank.md
   - ../problems/engine-cranks-but-wont-start.md
   - ../problems/engine-starts-then-dies.md
@@ -13,8 +14,8 @@ procedures:
   - ../procedures/test-the-battery.md
   - ../procedures/charge-the-battery.md
   - ../procedures/jump-start-the-battery.md
-source_count: 157
-updated: 2026-11-23
+source_count: 160
+updated: 2026-11-24
 ---
 
 # Weak or dead battery
@@ -38,7 +39,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/5-things-that-are-draining-
 ## Symptoms it produces
 
 - [Engine won't crank](../problems/engine-wont-crank.md): nothing happens, or the mower just clicks and won't turn over when you turn the key. The engine may make no noise at all.
-- Blades won't engage (electric clutch mowers): a weak battery can't power the clutch solenoid.
+- [Blades won't engage](../problems/blades-wont-engage.md) (electric clutch mowers): a weak battery can't power the clutch solenoid.
 - Battery keeps dying: a battery that loses its charge quickly after charging needs replacing; one that recharges fine but keeps going flat points to the charging system.
 - Battery mower won't start, or runs for less time than before: a failing pack no longer holds its charge as long, charges very slowly, or gets very hot.
 - [Engine cranks but won't start](../problems/engine-cranks-but-wont-start.md): general "won't start" articles list it for electric-start mowers. A weak battery usually means the engine cranks slowly or not at all (see [Engine won't crank](../problems/engine-wont-crank.md)).
@@ -48,6 +49,8 @@ Sources: engine won't crank [S2](../../raw/Articles/poweredoutdoors.com/a-walker
 - [Engine starts then dies](../problems/engine-starts-then-dies.md): a battery mower shuts off when the battery is dead, and a riding mower whose battery won't hold a charge can die after running.
 
 Sources for Engine starts then dies: [S36](../../raw/Articles/poweredoutdoors.com/ego-mower-starts-then-stops.md), [S154](../../raw/Articles/poweredoutdoors.com/your-common-lawn-tractor-problems-solutions.md), [S156](../../raw/Articles/poweredoutdoors.com/craftsman-lawn-mower-wont-stay-running.md), [S157](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-starts-then-dies.md)
+
+Sources for Blades won't engage: [S3](../../raw/Articles/poweredoutdoors.com/ariens-blades-wont-engage.md), [S6](../../raw/Articles/poweredoutdoors.com/bad-boy-mower-blades-wont-engage.md), [S19](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md), [S20](../../raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md), [S21](../../raw/Articles/poweredoutdoors.com/common-toro-lawn-mower-problems-solutions.md), [S23](../../raw/Articles/poweredoutdoors.com/common-zero-turn-problems-how-to-fix-them.md), [S25](../../raw/Articles/poweredoutdoors.com/craftsman-blades-wont-engage.md), [S30](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-blades-wont-engage-turn-on.md), [S39](../../raw/Articles/poweredoutdoors.com/exmark-mower-blades-wont-engage.md), [S43](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-mower-blades-wont-engage.md), [S46](../../raw/Articles/poweredoutdoors.com/gravely-blades-wont-engage.md), [S52](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-blades-wont-engage.md), [S55](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md), [S58](../../raw/Articles/poweredoutdoors.com/hustler-mower-blades-wont-engage.md), [S65](../../raw/Articles/poweredoutdoors.com/john-deere-mower-blades-wont-engage-or-turn-on.md), [S70](../../raw/Articles/poweredoutdoors.com/kubota-mower-blades-wont-engage.md), [S83](../../raw/Articles/poweredoutdoors.com/poulan-pro-mower-blades-wont-engage.md), [S85](../../raw/Articles/poweredoutdoors.com/riding-mower-blades-wont-engage-or-turn-on.md), [S90](../../raw/Articles/poweredoutdoors.com/scag-mower-blades-wont-engage.md), [S94](../../raw/Articles/poweredoutdoors.com/simplicity-mower-blades-wont-engage.md), [S97](../../raw/Articles/poweredoutdoors.com/snapper-blades-wont-engage.md), [S102](../../raw/Articles/poweredoutdoors.com/spartan-mower-blades-wont-engage.md), [S106](../../raw/Articles/poweredoutdoors.com/toro-mower-blades-wont-engage.md), [S110](../../raw/Articles/poweredoutdoors.com/troy-bilt-riding-mower-blades-wont-engage.md), [S123](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-blades-wont-engage-or-turn-on.md), [S133](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S134](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S137](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S138](../../raw/Articles/poweredoutdoors.com/common-john-deere-lawn-mower-problems.md), [S140](../../raw/Articles/poweredoutdoors.com/common-snapper-lawn-mower-problems-solutions.md), [S141](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md), [S143](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md), [S145](../../raw/Articles/poweredoutdoors.com/hustler-mower-problems.md), [S146](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md), [S147](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md), [S151](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md), [S158](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md), [S159](../../raw/Articles/poweredoutdoors.com/troubleshoot-cub-cadet-mower-deck-problems.md), [S160](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-deck-problems.md)
 
 ## How to confirm
 
@@ -263,3 +266,6 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/5-things-that-are-draining-
 - [S155](../../raw/Articles/poweredoutdoors.com/your-exmark-mower-wont-start.md) — 15 Reasons an Exmark Zero Turn Mower Won’t Start (Solved!) (expert-blog)
 - [S156](../../raw/Articles/poweredoutdoors.com/craftsman-lawn-mower-wont-stay-running.md) — This is Why Your Craftsman Riding Mower Won't Stay Running (Solved!) (expert-blog)
 - [S157](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-starts-then-dies.md) — 13 Reasons a Ferris Lawn Mower Starts Then Dies (expert-blog)
+- [S158](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md) — 6 Lawn Mower Deck Problems (With Troubleshooting Tables) (expert-blog)
+- [S159](../../raw/Articles/poweredoutdoors.com/troubleshoot-cub-cadet-mower-deck-problems.md) — Troubleshoot Cub Cadet Mower Deck Problems (expert-blog)
+- [S160](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-deck-problems.md) — Troubleshoot 6 Common Zero Turn Mower Deck Problems (expert-blog)

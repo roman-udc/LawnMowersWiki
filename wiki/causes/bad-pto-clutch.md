@@ -2,6 +2,7 @@
 type: cause
 title: Bad PTO clutch
 problems:
+  - ../problems/blades-wont-engage.md
   - ../problems/mower-is-vibrating.md
 part_types:
   - electric PTO clutch
@@ -10,7 +11,7 @@ part_types:
   - clutch springs, bushings and linkages
 procedures:
   - ../procedures/test-the-pto-clutch.md
-source_count: 46
+source_count: 62
 updated: 2026-11-24
 ---
 
@@ -42,9 +43,11 @@ Sources: [S3](../../raw/Articles/poweredoutdoors.com/ariens-mower-is-vibrating.m
 ## Symptoms it produces
 
 - [Mower is vibrating](../problems/mower-is-vibrating.md): the mower or deck shakes when the blades run because the electric clutch's ball bearing is failing, or the bushings and linkages of a manual clutch are worn.
-- Blades won't engage (no page yet): the blades don't turn, the deck runs too slow, or the mower vibrates and slows as the blades start.
+- [Blades won't engage](../problems/blades-wont-engage.md): the blades don't turn, the deck runs too slow, or the mower vibrates and slows as the blades start.
 
 Sources: [S17](../../raw/Articles/poweredoutdoors.com/how-to-stop-your-lawn-mower-from-shaking-vibrating.md), [S27](../../raw/Articles/poweredoutdoors.com/riding-lawn-mower-vibration.md), [S43](../../raw/Articles/poweredoutdoors.com/your-lawn-tractor-is-vibrating.md), [S45](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-is-shaking-vibrating.md), [S22](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-is-vibrating.md), [S24](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-is-vibrating.md), [S15](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-mower-deck-shakes-vibrates.md), [S21](../../raw/Articles/poweredoutdoors.com/hustler-mower-vibrates.md), [S29](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-is-vibrating-and-shaking.md), [S35](../../raw/Articles/poweredoutdoors.com/spartan-lawn-mower-is-vibrating-shaking.md), [S40](../../raw/Articles/poweredoutdoors.com/wright-mower-vibrates-shakes.md), [S34](../../raw/Articles/poweredoutdoors.com/snapper-lawn-mower-is-vibrating.md), [S1](../../raw/Articles/poweredoutdoors.com/a-look-into-how-lawn-mower-clutches-work.md), [S6](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md)
+
+Sources for Blades won't engage: [S2](../../raw/Articles/poweredoutdoors.com/ariens-blades-wont-engage.md), [S4](../../raw/Articles/poweredoutdoors.com/bad-boy-mower-blades-wont-engage.md), [S6](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md), [S7](../../raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md), [S8](../../raw/Articles/poweredoutdoors.com/common-zero-turn-problems-how-to-fix-them.md), [S9](../../raw/Articles/poweredoutdoors.com/craftsman-blades-wont-engage.md), [S10](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-blades-wont-engage-turn-on.md), [S13](../../raw/Articles/poweredoutdoors.com/exmark-mower-blades-wont-engage.md), [S14](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-mower-blades-wont-engage.md), [S16](../../raw/Articles/poweredoutdoors.com/gravely-blades-wont-engage.md), [S18](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-blades-wont-engage.md), [S20](../../raw/Articles/poweredoutdoors.com/hustler-mower-blades-wont-engage.md), [S23](../../raw/Articles/poweredoutdoors.com/john-deere-mower-blades-wont-engage-or-turn-on.md), [S25](../../raw/Articles/poweredoutdoors.com/kubota-mower-blades-wont-engage.md), [S26](../../raw/Articles/poweredoutdoors.com/poulan-pro-mower-blades-wont-engage.md), [S28](../../raw/Articles/poweredoutdoors.com/riding-mower-blades-wont-engage-or-turn-on.md), [S30](../../raw/Articles/poweredoutdoors.com/scag-mower-blades-wont-engage.md), [S31](../../raw/Articles/poweredoutdoors.com/simplicity-mower-blades-wont-engage.md), [S33](../../raw/Articles/poweredoutdoors.com/snapper-blades-wont-engage.md), [S36](../../raw/Articles/poweredoutdoors.com/spartan-mower-blades-wont-engage.md), [S38](../../raw/Articles/poweredoutdoors.com/toro-mower-blades-wont-engage.md), [S39](../../raw/Articles/poweredoutdoors.com/troy-bilt-riding-mower-blades-wont-engage.md), [S44](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-blades-wont-engage-or-turn-on.md), [S46](../../raw/Articles/searspartsdirect.com/won-t-cut-grass.ridtr01.md), [S47](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S48](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S49](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S50](../../raw/Articles/poweredoutdoors.com/common-john-deere-lawn-mower-problems.md), [S51](../../raw/Articles/poweredoutdoors.com/common-snapper-lawn-mower-problems-solutions.md), [S52](../../raw/Articles/poweredoutdoors.com/common-toro-lawn-mower-problems-solutions.md), [S53](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md), [S54](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md), [S55](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md), [S56](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md), [S57](../../raw/Articles/poweredoutdoors.com/hustler-mower-problems.md), [S58](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md), [S59](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md), [S60](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md), [S61](../../raw/Articles/poweredoutdoors.com/troubleshoot-cub-cadet-mower-deck-problems.md), [S62](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-deck-problems.md)
 
 ## How to confirm
 
@@ -131,3 +134,19 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/a-look-into-how-lawn-mower-
 - [S44](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-blades-wont-engage-or-turn-on.md) — Zero Turn Mower Blades Won’t Engage or Turn On (SOLVED!) (expert-blog)
 - [S45](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-is-shaking-vibrating.md) — Solved! Your Zero Turn Mower is Shaking & Vibrating (expert-blog)
 - [S46](../../raw/Articles/searspartsdirect.com/won-t-cut-grass.ridtr01.md) — Why won't my riding mower cut grass? (manufacturer)
+- [S47](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md) — 13 Bad Boy Mower Problems (Troubleshooting Tables) (expert-blog)
+- [S48](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md) — 14 Common Cub Cadet Mower Problems & Solutions (expert-blog)
+- [S49](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md) — Fix 14 Husqvarna Lawn Mower Problems (Troubleshooting Tables) (expert-blog)
+- [S50](../../raw/Articles/poweredoutdoors.com/common-john-deere-lawn-mower-problems.md) — 12 John Deere Mower Problems (John Deere Troubleshooting) (expert-blog)
+- [S51](../../raw/Articles/poweredoutdoors.com/common-snapper-lawn-mower-problems-solutions.md) — 10 Common Snapper Lawn Mower Problems & Solutions (expert-blog)
+- [S52](../../raw/Articles/poweredoutdoors.com/common-toro-lawn-mower-problems-solutions.md) — Fix 10 Common Toro Lawn Mower Problems & Solutions (expert-blog)
+- [S53](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md) — (Troubleshoot) 13 Cub Cadet Zero Turn Mower Problems (expert-blog)
+- [S54](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md) — 13 Common Ferris Zero Turn Problems (Troubleshooting) (expert-blog)
+- [S55](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md) — 6 Lawn Mower Deck Problems (With Troubleshooting Tables) (expert-blog)
+- [S56](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md) — 13 Husqvarna Zero Turn Problems (Troubleshoot & Fix) (expert-blog)
+- [S57](../../raw/Articles/poweredoutdoors.com/hustler-mower-problems.md) — 13 Common Hustler Mower Problems (Troubleshoot) (expert-blog)
+- [S58](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md) — (Troubleshoot) 13 Common John Deere Zero Turn Problems (expert-blog)
+- [S59](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md) — 13 Kubota Zero Turn Problems (Troubleshoot) (expert-blog)
+- [S60](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md) — Troubleshoot 14 Simplicity Mower Problems: SOLVED (expert-blog)
+- [S61](../../raw/Articles/poweredoutdoors.com/troubleshoot-cub-cadet-mower-deck-problems.md) — Troubleshoot Cub Cadet Mower Deck Problems (expert-blog)
+- [S62](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-deck-problems.md) — Troubleshoot 6 Common Zero Turn Mower Deck Problems (expert-blog)
