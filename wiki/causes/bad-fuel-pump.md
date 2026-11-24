@@ -3,10 +3,11 @@ type: cause
 title: Bad fuel pump
 problems:
   - ../problems/engine-cranks-but-wont-start.md
+  - ../problems/engine-starts-then-dies.md
 part_types:
   - fuel pump
 procedures: []
-source_count: 137
+source_count: 147
 updated: 2026-11-23
 ---
 
@@ -37,12 +38,15 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-w
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S13](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md)
 
-- Engine starts then dies, or dies after running a while: the pump can't keep up with the engine's fuel demand.
+- [Engine starts then dies](../problems/engine-starts-then-dies.md), or dies after running a while: the pump can't keep up with the engine's fuel demand.
 - Mower is leaking gas: fuel weeps from the pump's seams or diaphragm, or from a small crack in the housing ([S137](../../raw/Articles/searspartsdirect.com/leaking-oil-or-gas.ridtr05.md)).
 
 These other Problems have no page yet.
 
 Sources: [S14](../../raw/Articles/poweredoutdoors.com/10-reasons-your-lawn-mower-could-be-leaking-gasoline.md), [S15](../../raw/Articles/poweredoutdoors.com/ariens-lawn-mower-is-leaking-gas-fixed.md), [S16](../../raw/Articles/poweredoutdoors.com/ariens-lawn-mower-isnt-getting-fuel.md), [S18](../../raw/Articles/poweredoutdoors.com/bad-boy-mower-leaking-gas.md), [S19](../../raw/Articles/poweredoutdoors.com/bad-boy-mower-wont-start.md), [S11](../../raw/Articles/poweredoutdoors.com/briggs-and-stratton-engine-isnt-getting-gas.md), [S26](../../raw/Articles/poweredoutdoors.com/common-lawn-mower-problems-fixed.md), [S27](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md), [S36](../../raw/Articles/poweredoutdoors.com/cub-cadet-is-leaking-gas.md), [S12](../../raw/Articles/poweredoutdoors.com/cub-cadet-isnt-getting-fuel.md), [S37](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-wont-stay-running.md), [S43](../../raw/Articles/poweredoutdoors.com/dixon-lawn-mower-wont-start.md), [S49](../../raw/Articles/poweredoutdoors.com/fix-lawn-mower-starts-then-dies.md), [S57](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-wont-start.md), [S81](../../raw/Articles/poweredoutdoors.com/poulan-pro-starts-then-dies.md), [S90](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-is-leaking-gas.md), [S6](../../raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-turns-over-but-wont-start.md), [S98](../../raw/Articles/poweredoutdoors.com/snapper-mower-is-leaking-gas.md), [S103](../../raw/Articles/poweredoutdoors.com/toro-lawn-mower-is-leaking-gas-fixed.md), [S110](../../raw/Articles/poweredoutdoors.com/walker-lawn-mower-wont-start.md), [S122](../../raw/Articles/poweredoutdoors.com/your-exmark-lawn-mower-is-leaking-gas-fixed.md)
+
+
+Sources for Engine starts then dies: [S9](../../raw/Articles/poweredoutdoors.com/lawn-mower-isnt-getting-gas.md), [S12](../../raw/Articles/poweredoutdoors.com/cub-cadet-isnt-getting-fuel.md), [S16](../../raw/Articles/poweredoutdoors.com/ariens-lawn-mower-isnt-getting-fuel.md), [S21](../../raw/Articles/poweredoutdoors.com/bobcat-zero-turn-starts-then-dies.md), [S34](../../raw/Articles/poweredoutdoors.com/craftsman-lawn-mower-wont-stay-running.md), [S35](../../raw/Articles/poweredoutdoors.com/cub-cadet-dies-while-mowing.md), [S37](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-wont-stay-running.md), [S40](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-starts-then-dies.md), [S44](../../raw/Articles/poweredoutdoors.com/exmark-lawn-mower-isnt-getting-fuel.md), [S46](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-starts-then-dies.md), [S49](../../raw/Articles/poweredoutdoors.com/fix-lawn-mower-starts-then-dies.md), [S54](../../raw/Articles/poweredoutdoors.com/honda-mower-starts-then-dies.md), [S58](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-dies-while-mowing.md), [S59](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-starts-then-dies.md), [S64](../../raw/Articles/poweredoutdoors.com/hustler-mower-starts-then-dies.md), [S68](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-starts-dies.md), [S73](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-dies.md), [S81](../../raw/Articles/poweredoutdoors.com/poulan-pro-starts-then-dies.md), [S83](../../raw/Articles/poweredoutdoors.com/reasons-lawn-tractor-starts-then-dies.md), [S84](../../raw/Articles/poweredoutdoors.com/reasons-your-toro-lawn-mower-dies-solved.md), [S85](../../raw/Articles/poweredoutdoors.com/riding-lawn-mower-wont-stay-running.md), [S94](../../raw/Articles/poweredoutdoors.com/simplicity-lawn-mower-isnt-getting-gas.md), [S96](../../raw/Articles/poweredoutdoors.com/simplicity-mower-or-zero-turn-starts-then-dies.md), [S102](../../raw/Articles/poweredoutdoors.com/spartan-starts-then-dies.md), [S104](../../raw/Articles/poweredoutdoors.com/toro-lawn-mower-isnt-getting-gas.md), [S111](../../raw/Articles/poweredoutdoors.com/walker-mower-starts-then-dies.md), [S114](../../raw/Articles/poweredoutdoors.com/why-your-craftsman-lawn-mower-dies-how-to-fix.md), [S116](../../raw/Articles/poweredoutdoors.com/why-your-push-mower-dies-while-mowing-solved.md), [S121](../../raw/Articles/poweredoutdoors.com/your-exmark-lawn-mower-dies-while-running-solved.md), [S128](../../raw/Articles/poweredoutdoors.com/your-lawn-tractor-isnt-getting-fuel.md), [S131](../../raw/Articles/poweredoutdoors.com/your-troy-bilt-lawn-mower-dies.md), [S135](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-starts-then-dies.md), [S138](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S139](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S140](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md), [S141](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-wont-stay-running.md), [S142](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-wont-stay-running.md), [S143](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md), [S144](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md), [S145](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md), [S146](../../raw/Articles/poweredoutdoors.com/push-mower-wont-stay-running.md), [S147](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md)
 
 ## How to confirm
 
@@ -230,3 +234,13 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-w
 - [S135](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-starts-then-dies.md) — 14 Reasons Your Zero Turn Mower Starts Then Dies (Solved) (expert-blog)
 - [S136](../../raw/Articles/poweredoutdoors.com/zero-turn-wont-start.md) — 15 Reasons a Zero Turn Won’t Start (Complete List) (expert-blog)
 - [S137](../../raw/Articles/searspartsdirect.com/leaking-oil-or-gas.ridtr05.md) — Why is my riding mower leaking oil or gas? (manufacturer)
+- [S138](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md) — 14 Common Cub Cadet Mower Problems & Solutions (expert-blog)
+- [S139](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md) — Fix 14 Husqvarna Lawn Mower Problems (Troubleshooting Tables) (expert-blog)
+- [S140](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md) — (Troubleshoot) 13 Cub Cadet Zero Turn Mower Problems (expert-blog)
+- [S141](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-wont-stay-running.md) — 8 Reasons a Husqvarna Lawn Mower Won't Stay Running (Solved!) (expert-blog)
+- [S142](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-wont-stay-running.md) — 9 Reasons a Husqvarna Mower Won't Stay Running (expert-blog)
+- [S143](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md) — 13 Husqvarna Zero Turn Problems (Troubleshoot & Fix) (expert-blog)
+- [S144](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md) — (Troubleshoot) 13 Common John Deere Zero Turn Problems (expert-blog)
+- [S145](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md) — 13 Kubota Zero Turn Problems (Troubleshoot) (expert-blog)
+- [S146](../../raw/Articles/poweredoutdoors.com/push-mower-wont-stay-running.md) — 9 Reasons a Push Mower Won't Stay Running (expert-blog)
+- [S147](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md) — Troubleshoot 14 Simplicity Mower Problems: SOLVED (expert-blog)

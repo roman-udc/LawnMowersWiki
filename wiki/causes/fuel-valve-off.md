@@ -3,6 +3,7 @@ type: cause
 title: Fuel valve off
 problems:
   - ../problems/engine-cranks-but-wont-start.md
+  - ../problems/engine-starts-then-dies.md
 part_types:
   - fuel shut-off valve
 procedures: []
@@ -31,6 +32,10 @@ Sources: [S4](../../raw/Articles/poweredoutdoors.com/first-check-lawn-mower-wont
 - Mower isn't getting gas: at the start of the season the engine gets no fuel because the valve was closed for off-season storage.
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/black-max-mower-wont-start.md), [S6](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-after-winter.md), [S10](../../raw/Articles/poweredoutdoors.com/toro-lawn-mower-isnt-getting-gas.md)
+
+- [Engine starts then dies](../problems/engine-starts-then-dies.md): a closed or partly closed fuel shut-off valve starves the engine of fuel.
+
+Sources for Engine starts then dies: [S10](../../raw/Articles/poweredoutdoors.com/toro-lawn-mower-isnt-getting-gas.md)
 
 ## How to confirm
 

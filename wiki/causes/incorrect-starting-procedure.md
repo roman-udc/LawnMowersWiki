@@ -4,6 +4,7 @@ title: Incorrect starting procedure
 problems:
   - ../problems/engine-cranks-but-wont-start.md
   - ../problems/engine-wont-crank.md
+  - ../problems/engine-starts-then-dies.md
 part_types:
   - safety key
 procedures:
@@ -34,9 +35,10 @@ Sources: [S2](../../raw/Articles/poweredoutdoors.com/battery-lawn-mower-wont-sta
 - [Engine cranks but won't start](../problems/engine-cranks-but-wont-start.md): the choke is in the wrong position, or a safety feature is not satisfied while the engine turns over. A blade control lever that isn't held against the handlebar stops the engine.
 - [Engine won't crank](../problems/engine-wont-crank.md) (nothing happens, no click, when you turn the key): on riding mowers and zero-turns the brake isn't set, the PTO is engaged or the operator isn't seated.
 - Battery mower won't start: the safety key or button wasn't used, or the handle isn't unfolded and locked.
-- Engine starts then dies: the choke left on once the engine is warm makes it run sluggish, sputter and die; leaving the seat with the blades engaged, or getting off a zero-turn without setting the parking brake, shuts the mower off.
+- [Engine starts then dies](../problems/engine-starts-then-dies.md): the choke left on once the engine is warm makes it run sluggish, sputter and die; leaving the seat with the blades engaged, or getting off a zero-turn without setting the parking brake, shuts the mower off.
 
 Sources: [S4](../../raw/Articles/poweredoutdoors.com/black-max-mower-wont-start.md), [S10](../../raw/Articles/poweredoutdoors.com/cub-cadet-wont-start-no-click.md), [S22](../../raw/Articles/poweredoutdoors.com/hustler-lawn-mower-wont-start.md), [S23](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-wont-start.md), [S27](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-will-not-start.md), [S28](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-wont-start.md), [S35](../../raw/Articles/poweredoutdoors.com/reasons-why-your-ego-electric-lawn-mower-wont-start.md), [S37](../../raw/Articles/poweredoutdoors.com/ryobi-electric-battery-mower-wont-start.md), [S43](../../raw/Articles/poweredoutdoors.com/spartan-lawn-mower-wont-start.md), [S51](../../raw/Articles/poweredoutdoors.com/walker-lawn-mower-wont-start.md), [S55](../../raw/Articles/poweredoutdoors.com/wright-zero-turn-wont-start.md), [S62](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-wont-turn-over-or-click-video.md); engine won't crank [S3](../../raw/Articles/poweredoutdoors.com/big-dog-zero-turn-wont-start.md), [S7](../../raw/Articles/poweredoutdoors.com/country-clipper-zero-turn-mower-wont-start.md), [S9](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-wont-start.md), [S10](../../raw/Articles/poweredoutdoors.com/cub-cadet-wont-start-no-click.md), [S13](../../raw/Articles/poweredoutdoors.com/diesel-lawn-mower-wont-start.md), [S17](../../raw/Articles/poweredoutdoors.com/grasshopper-lawn-mower-wont-start.md), [S20](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-wont-start.md), [S21](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-wont-start.md), [S28](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-wont-start.md), [S33](../../raw/Articles/poweredoutdoors.com/murray-lawn-mower-wont-start.md), [S41](../../raw/Articles/poweredoutdoors.com/snapper-lawn-mower-wont-start.md), [S61](../../raw/Articles/poweredoutdoors.com/zero-turn-wont-start.md), [S62](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-wont-turn-over-or-click-video.md)
+
 
 ## How to confirm
 

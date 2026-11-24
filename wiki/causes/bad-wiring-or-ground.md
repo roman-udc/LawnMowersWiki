@@ -3,6 +3,7 @@ type: cause
 title: Bad wiring or ground
 problems:
   - ../problems/engine-wont-crank.md
+  - ../problems/engine-starts-then-dies.md
 part_types:
   - ground cable
   - starter cable
@@ -40,6 +41,10 @@ Sources: [S4](../../raw/Articles/poweredoutdoors.com/battery-lawn-mower-wont-sta
 - Engine dies when you release the brake: if the brake switch passes its checks, a short in the wire harness can be shutting the engine off.
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/bad-boy-zero-turn-wont-turn-over-or-crank.md), [S2](../../raw/Articles/poweredoutdoors.com/bad-honda-mower-starter-solenoid.md), [S3](../../raw/Articles/poweredoutdoors.com/bad-troy-bilt-starter-solenoid.md), [S4](../../raw/Articles/poweredoutdoors.com/battery-lawn-mower-wont-start.md), [S11](../../raw/Articles/poweredoutdoors.com/dewalt-electric-mower-wont-start.md), [S12](../../raw/Articles/poweredoutdoors.com/ego-mower-starts-then-stops.md), [S13](../../raw/Articles/poweredoutdoors.com/electric-lawn-mower-wont-start.md), [S25](../../raw/Articles/poweredoutdoors.com/riding-mower-clicks-but-wont-turn-over.md), [S36](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-dies-when-you-release-the-brake-video.md), [S38](../../raw/Articles/searspartsdirect.com/troubleshooting-a-riding-lawn-mower-blown-fuse-video.md)
+
+- [Engine starts then dies](../problems/engine-starts-then-dies.md): loose, pinched or damaged wiring stops a battery mower, and an unplugged seat-switch connector kills a riding mower's engine when the brake is released.
+
+Sources for Engine starts then dies: [S12](../../raw/Articles/poweredoutdoors.com/ego-mower-starts-then-stops.md), [S36](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-dies-when-you-release-the-brake-video.md)
 
 ## How to confirm
 

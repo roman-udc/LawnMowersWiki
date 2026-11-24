@@ -3,10 +3,11 @@ type: cause
 title: Empty fuel tank
 problems:
   - ../problems/engine-cranks-but-wont-start.md
+  - ../problems/engine-starts-then-dies.md
 part_types:
   - gasoline
 procedures: []
-source_count: 71
+source_count: 72
 updated: 2026-11-23
 ---
 
@@ -30,9 +31,12 @@ Sources: [S5](../../raw/Articles/poweredoutdoors.com/bolens-mower-wont-start.md)
 ## Symptoms it produces
 
 - [Engine cranks but won't start](../problems/engine-cranks-but-wont-start.md): the engine turns over but doesn't fire because no fuel reaches it.
-- Engine starts then dies, or the mower stops running or stalls while mowing: it runs out of gas mid-job. A low tank can also cut the fuel supply when mowing on a hillside or uneven ground, even when the tank isn't empty.
+- [Engine starts then dies](../problems/engine-starts-then-dies.md), or the mower stops running or stalls while mowing: it runs out of gas mid-job. A low tank can also cut the fuel supply when mowing on a hillside or uneven ground, even when the tank isn't empty.
 
 Sources: [S3](../../raw/Articles/poweredoutdoors.com/black-max-mower-wont-start.md), [S23](../../raw/Articles/poweredoutdoors.com/fix-lawn-mower-starts-then-dies.md), [S27](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-dies-while-mowing.md), [S35](../../raw/Articles/poweredoutdoors.com/lawn-mower-keeps-stalling.md), [S38](../../raw/Articles/poweredoutdoors.com/mower-stopped-running.md), [S44](../../raw/Articles/poweredoutdoors.com/reasons-lawn-tractor-starts-then-dies.md), [S45](../../raw/Articles/poweredoutdoors.com/reasons-your-toro-lawn-mower-dies-solved.md), [S62](../../raw/Articles/poweredoutdoors.com/why-your-push-mower-dies-while-mowing-solved.md), [S66](../../raw/Articles/poweredoutdoors.com/your-exmark-lawn-mower-dies-while-running-solved.md), [S70](../../raw/Articles/poweredoutdoors.com/your-troy-bilt-lawn-mower-dies.md)
+
+
+Sources for Engine starts then dies: [S23](../../raw/Articles/poweredoutdoors.com/fix-lawn-mower-starts-then-dies.md), [S27](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-dies-while-mowing.md), [S35](../../raw/Articles/poweredoutdoors.com/lawn-mower-keeps-stalling.md), [S38](../../raw/Articles/poweredoutdoors.com/mower-stopped-running.md), [S44](../../raw/Articles/poweredoutdoors.com/reasons-lawn-tractor-starts-then-dies.md), [S45](../../raw/Articles/poweredoutdoors.com/reasons-your-toro-lawn-mower-dies-solved.md), [S62](../../raw/Articles/poweredoutdoors.com/why-your-push-mower-dies-while-mowing-solved.md), [S66](../../raw/Articles/poweredoutdoors.com/your-exmark-lawn-mower-dies-while-running-solved.md), [S70](../../raw/Articles/poweredoutdoors.com/your-troy-bilt-lawn-mower-dies.md), [S72](../../raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md)
 
 ## How to confirm
 
@@ -143,3 +147,4 @@ Sources: [S36](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start.md),
 - [S69](../../raw/Articles/poweredoutdoors.com/your-toro-lawn-mower-wont-start.md) — 17 Reasons Your Toro Lawn Mower Won't Start (Solved!) (expert-blog)
 - [S70](../../raw/Articles/poweredoutdoors.com/your-troy-bilt-lawn-mower-dies.md) — 12 Reasons Your Troy-Bilt Lawn Mower Starts Then Dies: Fixed (expert-blog)
 - [S71](../../raw/Articles/poweredoutdoors.com/zero-turn-wont-start.md) — 15 Reasons a Zero Turn Won't Start (Complete List) (expert-blog)
+- [S72](../../raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md) — Riding mower and tractor common questions (manufacturer)

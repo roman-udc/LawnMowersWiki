@@ -4,6 +4,7 @@ title: Faulty charging system
 problems:
   - ../problems/engine-wont-crank.md
   - ../problems/engine-cranks-but-wont-start.md
+  - ../problems/engine-starts-then-dies.md
 part_types:
   - stator
   - alternator
@@ -11,7 +12,7 @@ part_types:
 procedures:
   - ../procedures/test-the-battery.md
   - ../procedures/charge-the-battery.md
-source_count: 72
+source_count: 77
 updated: 2026-11-23
 ---
 
@@ -34,10 +35,13 @@ Sources: [S2](../../raw/Articles/poweredoutdoors.com/bad-boy-battery-keeps-dying
 
 - [Engine won't crank](../problems/engine-wont-crank.md): the battery was charged, but after mowing it is too weak to crank the engine or the mower just clicks.
 - Battery keeps dying: the battery holds a charge on the charger but keeps going dead on the mower.
-- Engine starts then dies: the battery isn't charging, so the mower dies while mowing.
+- [Engine starts then dies](../problems/engine-starts-then-dies.md): the battery isn't charging, so the mower dies while mowing.
 - [Engine cranks but won't start](../problems/engine-cranks-but-wont-start.md): general "won't start" articles list it: the battery keeps going flat, so the next start fails.
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/5-things-that-are-draining-the-life-of-your-lawn-mower-battery.md), [S2](../../raw/Articles/poweredoutdoors.com/bad-boy-battery-keeps-dying.md), [S3](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-starts-then-dies.md), [S5](../../raw/Articles/poweredoutdoors.com/big-dog-zero-turn-wont-start.md), [S9](../../raw/Articles/poweredoutdoors.com/craftsman-clicks-wont-start.md), [S13](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-wont-start-just-clicks-solved.md), [S16](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-wont-start.md), [S17](../../raw/Articles/poweredoutdoors.com/diesel-lawn-mower-wont-start.md), [S18](../../raw/Articles/poweredoutdoors.com/dixon-lawn-mower-wont-start.md), [S19](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-starts-then-dies.md), [S26](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-clicks-wont-start.md), [S27](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-dies-while-mowing.md), [S30](../../raw/Articles/poweredoutdoors.com/hustler-mower-starts-then-dies.md), [S32](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-wont-start.md), [S35](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-starts-then-dies.md), [S38](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-dies.md), [S46](../../raw/Articles/poweredoutdoors.com/riding-mower-clicks-but-wont-turn-over.md), [S48](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-starts-then-dies.md), [S54](../../raw/Articles/poweredoutdoors.com/spartan-starts-then-dies.md), [S70](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-starts-then-dies.md); engine cranks but won't start [S4](../../raw/Articles/poweredoutdoors.com/bad-boy-mower-wont-start.md), [S5](../../raw/Articles/poweredoutdoors.com/big-dog-zero-turn-wont-start.md), [S6](../../raw/Articles/poweredoutdoors.com/bobcat-zero-turn-wont-start.md), [S7](../../raw/Articles/poweredoutdoors.com/briggs-stratton-mower-wont-start.md), [S10](../../raw/Articles/poweredoutdoors.com/craftsman-lawn-mower-wont-start.md), [S16](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-wont-start.md), [S17](../../raw/Articles/poweredoutdoors.com/diesel-lawn-mower-wont-start.md), [S18](../../raw/Articles/poweredoutdoors.com/dixon-lawn-mower-wont-start.md), [S20](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-wont-start.md), [S22](../../raw/Articles/poweredoutdoors.com/grasshopper-lawn-mower-wont-start.md), [S23](../../raw/Articles/poweredoutdoors.com/gravely-mower-wont-start.md), [S28](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-wont-start.md), [S32](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-wont-start.md), [S34](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-mower-wont-start.md), [S36](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-will-not-start.md), [S42](../../raw/Articles/poweredoutdoors.com/lawn-tractor-wont-start-solved.md), [S43](../../raw/Articles/poweredoutdoors.com/mtd-lawn-mower-wont-start.md), [S45](../../raw/Articles/poweredoutdoors.com/poulan-pro-lawn-mower-wont-start.md), [S47](../../raw/Articles/poweredoutdoors.com/riding-mower-wont-start.md), [S49](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-wont-start.md), [S50](../../raw/Articles/poweredoutdoors.com/scotts-riding-lawn-mower-wont-start.md), [S53](../../raw/Articles/poweredoutdoors.com/spartan-lawn-mower-wont-start.md), [S55](../../raw/Articles/poweredoutdoors.com/toro-zero-turn-wont-start.md), [S59](../../raw/Articles/poweredoutdoors.com/walker-lawn-mower-wont-start.md), [S63](../../raw/Articles/poweredoutdoors.com/yard-machines-lawn-mower-wont-start.md), [S66](../../raw/Articles/poweredoutdoors.com/your-exmark-mower-wont-start.md), [S67](../../raw/Articles/poweredoutdoors.com/your-simplicity-lawn-mower-wont-start.md), [S68](../../raw/Articles/poweredoutdoors.com/your-toro-lawn-mower-wont-start.md), [S71](../../raw/Articles/poweredoutdoors.com/zero-turn-wont-start.md), [S72](../../raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md)
+
+
+Sources for Engine starts then dies: [S11](../../raw/Articles/poweredoutdoors.com/craftsman-lawn-mower-wont-stay-running.md), [S19](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-starts-then-dies.md), [S35](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-starts-then-dies.md), [S51](../../raw/Articles/poweredoutdoors.com/snapper-lawn-mower-starts-then-dies.md), [S64](../../raw/Articles/poweredoutdoors.com/your-ariens-lawn-mower-starts-then-dies.md), [S73](../../raw/Articles/poweredoutdoors.com/common-gravely-lawn-mower-problems-solutions.md), [S74](../../raw/Articles/poweredoutdoors.com/common-kubota-problems-and-solutions.md), [S75](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md), [S76](../../raw/Articles/poweredoutdoors.com/common-toro-lawn-mower-problems-solutions.md), [S77](../../raw/Articles/poweredoutdoors.com/your-common-lawn-tractor-problems-solutions.md)
 
 ## How to confirm
 
@@ -156,3 +160,8 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/5-things-that-are-draining-
 - [S70](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-starts-then-dies.md) — 14 Reasons Your Zero Turn Mower Starts Then Dies (Solved) (expert-blog)
 - [S71](../../raw/Articles/poweredoutdoors.com/zero-turn-wont-start.md) — 15 Reasons a Zero Turn Won’t Start (Complete List) (expert-blog)
 - [S72](../../raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md) — 11 Common SCAG Zero Turn Mower Problems & Solutions (expert-blog)
+- [S73](../../raw/Articles/poweredoutdoors.com/common-gravely-lawn-mower-problems-solutions.md) — 9 Common Gravely Zero Turn Lawn Mower Problems & Solutions (expert-blog)
+- [S74](../../raw/Articles/poweredoutdoors.com/common-kubota-problems-and-solutions.md) — 10 Common Kubota Lawn Mower Problems (Troubleshoot) (expert-blog)
+- [S75](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md) — 10 Common Riding Lawn Mower Problems & Solutions (expert-blog)
+- [S76](../../raw/Articles/poweredoutdoors.com/common-toro-lawn-mower-problems-solutions.md) — Fix 10 Common Toro Lawn Mower Problems & Solutions (expert-blog)
+- [S77](../../raw/Articles/poweredoutdoors.com/your-common-lawn-tractor-problems-solutions.md) — 9 Common Lawn Tractor Problems & Solutions (Troubleshoot) (expert-blog)

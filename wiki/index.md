@@ -6,6 +6,7 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 
 - [Engine cranks but won't start](problems/engine-cranks-but-wont-start.md) — engine spins on the starter or recoil but never fires: air, fuel, spark or compression is missing. Aliases: "turns over but won't start", "engine spins but won't start", "cranks but won't fire", "starter works but the engine won't catch", "acts like it wants to start but doesn't", "engine spins but won't start when I turn the key", "you can hear the engine wanting to start but it just won't", "lawn mower won't start", "push mower won't start", "self-propelled mower won't start", "riding mower won't start", "lawn tractor won't start", "zero turn won't start", "diesel lawn mower won't start", "won't start after winter", "mower isn't getting gas", "carburetor isn't getting fuel"
 - [Engine won't crank or turn over](problems/engine-wont-crank.md) — turn the key and the engine doesn't spin: nothing happens, or only a click or hum; usually the starter isn't getting power (battery, cables, ground, fuse, switches, solenoid), then the starter motor. Aliases: "won't turn over", "won't crank", "nothing happens when I turn the key", "no click when I turn the key", "mower seems completely dead", "battery is good but nothing happens when I turn the key", "clicks but won't start", "clicks but won't start or turn over", "just clicks or hums when I turn the key", "click, click, click when I turn the key", "humming sound when starting", "starter clicks but no crank", "can't get the engine to turn over", "won't crank after sitting", "intermittent no-start", "lawn tractor doesn't start sometimes", "riding mower won't turn over or crank", "zero turn won't turn over or crank"
+- [Engine starts then dies](problems/engine-starts-then-dies.md) — starts, then stalls after seconds or minutes or partway through mowing; usually a fuel or air restriction (old gas, carburetor, filters, lines, gas cap vent, choke), a weak spark, or overheating and overload (cooling fins, oil level, plugged deck). Aliases: "won't stay running", "keeps stalling", "keeps shutting off", "dies while mowing", "quits in the middle of the lawn", "only runs a few seconds then dies", "loses power and dies", "acts like it's not getting gas", "riding mower dies when I release the brake", "electric mower starts then stops"
 
 ## Causes
 
@@ -40,6 +41,11 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Faulty charging system](causes/faulty-charging-system.md) — stator, alternator or regulator stops recharging the battery, so it keeps going flat; test output, then have a mechanic find the fault (pro).
 - [Hydrolocked engine](causes/hydrolocked-engine.md) — too much oil fills the cylinder so the engine won't turn with the rope or starter; stop cranking, drain to the full mark (moderate).
 - [Seized engine](causes/seized-engine.md) — a locked-up engine can't be turned by the starter; the key gives only a click; send to a technician (pro).
+- [Dirty cooling fins](causes/dirty-cooling-fins.md) — fins packed with dirt, oil or grass, or broken, so the engine overheats and shuts down; clean them (easy).
+- [Dirty fuel tank](causes/dirty-fuel-tank.md) — debris, rust or old gas inside a metal tank after long storage; drain and clean the tank (easy).
+- [Overfilled oil](causes/overfilled-oil.md) — oil above the full mark raises crankcase pressure, smokes, fouls the plug or hydrolocks the engine; drain the excess (easy).
+- [Wrong fuel](causes/wrong-fuel.md) — gas with too much ethanol, low octane, diesel, or straight gas in a 2-cycle engine; drain and refill with the right fuel (easy).
+- [Wrong oil or low oil](causes/wrong-oil-or-low-oil.md) — too little oil or the wrong grade causes friction and heat until the engine shuts down; correct the oil (easy if caught early).
 
 ## Procedures
 
@@ -67,6 +73,10 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Replace the seat switch](procedures/replace-the-seat-switch.md) — test the seat switch with a multimeter and swap it under the seat (easy, 15 minutes or less).
 - [Test and replace a fuse](procedures/test-and-replace-a-fuse.md) — check a fuse by eye and with a meter, replace it with the same amperage, trace the short if it blows again (easy, time not stated).
 - [Read a wiring schematic](procedures/read-a-wiring-schematic.md) — find and follow your model's wiring diagram to trace the starting circuit (moderate, time not stated).
+- [Change the engine oil](procedures/change-the-engine-oil.md) — drain the old oil, replace the filter if fitted, refill to the full mark with the right grade (easy).
+- [Clean the cooling fins](procedures/clean-the-cooling-fins.md) — remove the engine shroud and clear dirt and grass from the fins (easy).
+- [Clean the gas tank](procedures/clean-the-gas-tank.md) — drain, remove and clean a dirty or rusty metal gas tank (easy).
+- [Drain excess oil](procedures/drain-excess-oil.md) — remove oil down to the full mark with an evacuator, baster or the drain plug (easy).
 
 ## Guides
 
