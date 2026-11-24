@@ -151,7 +151,7 @@ Sources: [S23](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-mower-won
 
 - Not moving because the engine sputters or dies? See [Engine starts then dies](engine-starts-then-dies.md).
 - Moves, but pulls or is weak on one side? See [Mower pulls to one side](mower-pulls-to-one-side.md); pulling to one side is one of the hydrostatic symptoms ([S40](../../raw/Articles/poweredoutdoors.com/zero-turn-hydrostatic-transmission-problems.md)).
-- Engine quits when hot (no page yet): linked from the zero-turn won't-move article for mowers that stop when hot.
+- Engine quits when hot? See [Engine dies when hot](engine-dies-when-hot.md); linked from the zero-turn won't-move article for mowers that stop when hot.
 
 Sources: [S41](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-wont-move-or-go-forward.md), [S43](../../raw/Articles/searspartsdirect.com/won-t-move.ltr1818.md)
 

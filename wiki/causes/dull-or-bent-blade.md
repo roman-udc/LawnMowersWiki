@@ -8,13 +8,14 @@ problems:
   - ../problems/engine-loses-power.md
   - ../problems/engine-runs-rough.md
   - ../problems/engine-overheats.md
+  - ../problems/engine-dies-when-hot.md
 part_types:
   - mower blade
   - blade balancer
 procedures:
   - ../procedures/sharpen-and-replace-the-blades.md
   - ../procedures/measure-a-mower-blade.md
-source_count: 147
+source_count: 149
 updated: 2026-11-24
 ---
 
@@ -58,6 +59,10 @@ Sources for Engine loses power: [S6](../../raw/Articles/poweredoutdoors.com/bad-
 Sources for Engine runs rough: [S17](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S18](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S26](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-running-rough-sputtering.md), [S34](../../raw/Articles/poweredoutdoors.com/ferris-runs-rough.md), [S56](../../raw/Articles/poweredoutdoors.com/hustler-mower-runs-rough.md), [S63](../../raw/Articles/poweredoutdoors.com/john-deere-mower-running-rough.md), [S68](../../raw/Articles/poweredoutdoors.com/kubota-mower-rough-sputtering.md), [S79](../../raw/Articles/poweredoutdoors.com/push-mower-runs-rough-sputters.md), [S126](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S132](../../raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md), [S136](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md), [S137](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md), [S138](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md), [S139](../../raw/Articles/poweredoutdoors.com/hustler-mower-problems.md), [S140](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md), [S141](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md), [S142](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md)
 
 Sources for Engine overheats: [S2](../../raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-lawn-mower-to-overheat.md), [S17](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S18](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S25](../../raw/Articles/poweredoutdoors.com/craftsman-mower-overheating.md), [S28](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-engine-overheats.md), [S51](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-engine-overheats.md), [S55](../../raw/Articles/poweredoutdoors.com/hustler-mower-overheating.md), [S62](../../raw/Articles/poweredoutdoors.com/john-deere-mower-engine-overheats.md), [S66](../../raw/Articles/poweredoutdoors.com/kubota-mower-engine-overheats.md), [S74](../../raw/Articles/poweredoutdoors.com/push-mower-engine-overheats.md), [S92](../../raw/Articles/poweredoutdoors.com/solved-toro-lawn-mower-quits-when-hot.md), [S126](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S130](../../raw/Articles/poweredoutdoors.com/common-john-deere-lawn-mower-problems.md), [S136](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md), [S137](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md), [S138](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md), [S139](../../raw/Articles/poweredoutdoors.com/hustler-mower-problems.md), [S140](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md), [S141](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md), [S142](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md)
+
+- [Engine dies when hot](../problems/engine-dies-when-hot.md): dull blades load the engine until it quits hot.
+
+Sources for Engine dies when hot: [S60](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-quits-when-hot.md), [S78](../../raw/Articles/poweredoutdoors.com/push-mower-quits-when-hot.md), [S92](../../raw/Articles/poweredoutdoors.com/solved-toro-lawn-mower-quits-when-hot.md), [S110](../../raw/Articles/poweredoutdoors.com/your-cub-cadet-quits-when-it-gets-hot-solved.md), [S117](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-quits-when-hot.md), [S148](../../raw/Articles/poweredoutdoors.com/lawn-mower-quits-when-hot.md), [S149](../../raw/Articles/poweredoutdoors.com/riding-lawn-mower-quits-when-hot.md)
 
 ## How to confirm
 
@@ -264,3 +269,5 @@ Sources: [S9](../../raw/Articles/poweredoutdoors.com/change-and-sharpen-your-hus
 - [S145](../../raw/Articles/poweredoutdoors.com/your-common-lawn-tractor-problems-solutions.md) — 9 Common Lawn Tractor Problems & Solutions (Troubleshoot) (expert-blog)
 - [S146](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-deck-problems.md) — Troubleshoot 6 Common Zero Turn Mower Deck Problems (expert-blog)
 - [S147](../../raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md) — Riding mower and tractor common questions (manufacturer)
+- [S148](../../raw/Articles/poweredoutdoors.com/lawn-mower-quits-when-hot.md) — 11 Reasons a Lawn Mower Quits When Hot (expert-blog)
+- [S149](../../raw/Articles/poweredoutdoors.com/riding-lawn-mower-quits-when-hot.md) — 11 Reasons a Riding Lawn Mower Quits When Hot (Solved!) (expert-blog)

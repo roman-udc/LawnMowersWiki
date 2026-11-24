@@ -5,12 +5,13 @@ problems:
   - ../problems/engine-cranks-but-wont-start.md
   - ../problems/engine-loses-power.md
   - ../problems/engine-runs-rough.md
+  - ../problems/engine-dies-when-hot.md
 part_types:
   - piston rings
   - head gasket
 procedures:
   - ../procedures/check-compression.md
-source_count: 8
+source_count: 9
 updated: 2026-11-24
 ---
 
@@ -43,6 +44,10 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-s
 Sources for Engine loses power: [S8](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md)
 
 Sources for Engine runs rough: [S3](../../raw/Articles/searspartsdirect.com/runs-rough-or-misfires.ridtr03.md)
+
+- [Engine dies when hot](../problems/engine-dies-when-hot.md): an internal engine problem can make it quit hot; small engine shop.
+
+Sources for Engine dies when hot: [S9](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md)
 
 ## How to confirm
 
@@ -94,3 +99,4 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-s
 - [S6](../../raw/Articles/poweredoutdoors.com/toro-push-mower-wont-start.md) — Toro Push Mower Won't Start (Recycler 22, Guaranteed to Start) (expert-blog)
 - [S7](../../raw/Articles/poweredoutdoors.com/your-toro-lawn-mower-wont-start.md) — 17 Reasons Your Toro Lawn Mower Won't Start (Solved!) (expert-blog)
 - [S8](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md) — Why your mower loses power when the blades are engaged (manufacturer)
+- [S9](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md) — Fix 14 Husqvarna Lawn Mower Problems (Troubleshooting Tables) (expert-blog)
