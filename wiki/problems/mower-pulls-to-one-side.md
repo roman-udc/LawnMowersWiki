@@ -28,6 +28,7 @@ causes:
   - ../causes/loose-or-seized-wheel-bearing.md
   - ../causes/unlevel-deck.md
   - ../causes/bad-belt-tensioner-spring.md
+  - ../causes/loose-steering-linkage.md
 part_types:
   - tire
   - wheel
@@ -81,7 +82,7 @@ Ranked by how many of the 29 Sources name the Cause for this Problem. Tie-break:
 |---|---|---|---|
 | [Wrong tire pressure](../causes/wrong-tire-pressure.md) | 28 of 29 | Pressure unequal side to side; pulls toward the low tire | easy |
 | [Bad drive control linkage or damper](../causes/bad-drive-control-linkage-or-damper.md) | 26 of 29 | Zero-turn jerks to one side moving forward (damper), or one tire turns faster (tracking); self-propelled drive cable stretched | easy to moderate |
-| Loose steering linkage | 12 of 29 | Riding mower won't steer one way; worn bushings, washers or gears | not yet rated |
+| [Loose steering linkage](../causes/loose-steering-linkage.md) | 12 of 29 | Riding mower won't steer one way; worn bushings, washers or gears | moderate |
 | [Worn drive belt](../causes/worn-drive-belt.md) | 5 of 29 | Belt frayed, cracked, slipping or misaligned; uneven power | moderate |
 | [Air in hydraulic system](../causes/air-in-hydraulic-system.md) | 5 of 29 | Zero-turn: one wheel slow, often after an oil change | easy |
 | [Bad hydrostatic transmission](../causes/bad-hydrostatic-transmission.md) | 5 of 29 | Zero-turn still weak on one side after the simple checks | pro |
@@ -142,7 +143,7 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/why-your-lawn-mower-pulls-
 
 - Mower barely moves or won't move at all? See [Mower won't move](mower-wont-move.md); the same hydraulic and belt causes, on both sides.
 - Cut is uneven or scalped on one side? See [Uneven cut](uneven-cut.md).
-- Steering feels loose? Loose steering has no page yet.
+- Steering feels loose? See [Loose steering](loose-steering.md).
 - The mower creeps in neutral? See [Mower creeps in neutral](mower-creeps-in-neutral.md) and [Adjust the neutral control](../procedures/adjust-the-neutral-control.md).
 
 Sources: [S5](../../raw/Articles/poweredoutdoors.com/zero-turn-hydrostatic-transmission-problems.md), [S1](../../raw/Articles/searspartsdirect.com/why-your-lawn-mower-pulls-to-one-side-while-cutting.md), [S18](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md)

@@ -28,6 +28,7 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Engine hard to start when cold](problems/engine-hard-to-start-when-cold.md) — hard to start or won't start on cold mornings: choke not closing, oil too thick for the temperature, weak or frozen battery, diesel glow plugs, plus general no-start causes (old fuel, plug, filters, fuel pump, carburetor, solenoid, safety switch, charging system). Aliases: "lawn mower won't start when cold", "hard to start on cold mornings", "hard to start in the snow"
 - [Mower creeps in neutral](problems/mower-creeps-in-neutral.md) — riding mower or zero-turn moves forward or backward with the controls in neutral: neutral position mis-adjusted; adjust the neutral control. Aliases: "riding mower creeps in neutral", "zero-turn creeps forward or backward with levers in neutral"
 - [Mower is leaking oil](problems/mower-is-leaking-oil.md) — oil leaks from the engine, often dripping onto the hot muffler and smoking: a bad engine gasket (head or sump gasket), or overfilled oil blowing seals and gaskets. Aliases: "riding mower leaking oil", "oil leaking from the engine", "oil dripping onto the muffler"
+- [Loose steering](problems/loose-steering.md) — riding mower steering wheel has too much play, slips, won't steer one way, or the front wheels point outward or wobble: worn tie rods, steering shaft, sector gear, bushings, washers or gears, or a worn front axle or bent wheel spindle. Aliases: "steering wheel has too much play", "front wheels point outward", "front wheels wobble or don't align", "steering is loose on my riding mower", "mower won't steer one way or the other"
 
 ## Causes
 
@@ -138,6 +139,8 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Clogged deck chute](causes/clogged-deck-chute.md) — clippings packed under the deck and in the discharge chute: bad cut, no bagging, engine loaded until it bogs, overheats or dies; scrape the deck (easy). Overlaps Debris on deck or pulleys.
 - [Worn blade sail](causes/worn-blade-sail.md) — the blade's high side worn thin by dirt: no suction for an even cut or bagging; replace the blade when the sail is thinner than the center (moderate).
 - [Worn blower fan or bearing](causes/worn-blower-fan-or-bearing.md) — belt-driven bagger: worn impeller or housing, wide gap, or fan-shaft bearings ruined by wrapped string or grass (moderate).
+- [Loose steering linkage](causes/loose-steering-linkage.md) — worn or loose tie rods, steering shaft, sector gear, bushings, washers or gears: play in the wheel, slipping, won't steer one way; replace the failed parts or steering kit (moderate).
+- [Bad front axle](causes/bad-front-axle.md) — worn front axle or bent wheel spindle: loose steering, front wheels pointing outward or wobbling; replace the axle or spindle (moderate).
 
 ## Procedures
 
