@@ -82,3 +82,12 @@ A cluster may be split into **page writers** (parallel, each owning a disjoint l
 
 - **Page writer:** write only your listed pages. Never touch index.md, log.md, Problem pages, other pages, the ticket, or git. Problem links: only Problems that exist in `wiki/problems/` now, plus this cluster's Problem (the finalizer creates it if new). Procedure/Cause links: only pages that exist now or are in this cluster's lists. Everything else as plain text. Validator errors about sibling pages still being written, back-links and the index are expected; fix everything else in your pages. For pages with very many Sources, cite brand articles with nothing distinctive together in one line rather than repeating prose. Report pages written, links used, Source counts, conflicts, drops.
 - **Finalizer:** write or update the cluster's Problem page (re-rank its table from all `causes-named:` lines). Update shared pages from earlier clusters (add this Problem to their `problems`, Symptoms and Sources). Turn plain-text mentions of this cluster's pages on existing Problems into links, add back-links and re-rank those tables. Spot-check 5 random citations on each of the three largest new pages against notes or raw, and report the error rate. Then do "Finish the cluster".
+
+## Helpers
+
+Earlier finalizers left helper scripts in `.scratch/wiki-bootstrap/helpers/`. Read one before using it, and adapt it as needed:
+- `tally.py` ranks Causes from `causes-named:` lines.
+- `addprob.py` adds a Problem to a Cause, with its Sources.
+- `spot2.py` picks random citations to spot-check.
+- `logl.py` builds log lines.
+- `smap.py` keeps a page's existing S-numbers and appends new Sources.
