@@ -4,6 +4,7 @@ title: Worn pulley or idler bearing
 problems:
   - ../problems/mower-is-vibrating.md
   - ../problems/uneven-cut.md
+  - ../problems/mower-wont-move.md
 part_types:
   - idler pulley
   - deck pulley
@@ -42,7 +43,7 @@ Sources: [S62](../../raw/Articles/poweredoutdoors.com/replace-exmark-mower-deck-
 - [Uneven cut](../problems/uneven-cut.md): the pulley shifts side to side with the deck engaged, or a worn idler can't keep the belt tight on the blade pulleys.
 - Belt keeps coming off: the belt doesn't seat on a pulley that isn't flat and parallel, and vibration rolls it off. Usually a bad idler bearing.
 - Blades won't engage: the belt rolls off a rocking pulley, or a worn deck idler can't tighten the blade belt so the blades don't spin.
-- Mower won't move: a broken drive tensioner pulley or failed bearing lets the drive belt go slack or fall off. A tensioner pulley that can't keep tension on the drive belt also gives a weak hydrostatic drive.
+- [Mower won't move](../problems/mower-wont-move.md): a broken drive tensioner pulley or failed bearing lets the drive belt go slack or fall off. A tensioner pulley that can't keep tension on the drive belt also gives a weak hydrostatic drive.
 - Noise: grinding or screeching from the deck usually means a worn pulley or spindle.
 
 Vibration: [S2](../../raw/Articles/poweredoutdoors.com/ariens-mower-is-vibrating.md), [S4](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-is-vibrating.md), [S25](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-is-vibrating.md), [S27](../../raw/Articles/poweredoutdoors.com/exmark-lawn-mower-is-vibrating-solved.md), [S31](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-mower-deck-shakes-vibrates.md), [S40](../../raw/Articles/poweredoutdoors.com/how-to-stop-your-lawn-mower-from-shaking-vibrating.md), [S43](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-vibrating-problem.md), [S47](../../raw/Articles/poweredoutdoors.com/hustler-mower-vibrates.md), [S48](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-is-vibrating.md), [S55](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-is-vibrating.md), [S58](../../raw/Articles/poweredoutdoors.com/mower-deck-is-vibrating.md), [S63](../../raw/Articles/poweredoutdoors.com/riding-lawn-mower-vibration.md), [S66](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-is-vibrating-and-shaking.md), [S71](../../raw/Articles/poweredoutdoors.com/simplicity-mower-is-vibrating.md), [S75](../../raw/Articles/poweredoutdoors.com/snapper-lawn-mower-is-vibrating.md), [S77](../../raw/Articles/poweredoutdoors.com/spartan-lawn-mower-is-vibrating-shaking.md), [S84](../../raw/Articles/poweredoutdoors.com/toro-lawn-mower-is-vibrating-solved.md), [S88](../../raw/Articles/poweredoutdoors.com/walker-mower-vibrating.md), [S93](../../raw/Articles/poweredoutdoors.com/wright-mower-vibrates-shakes.md), [S99](../../raw/Articles/poweredoutdoors.com/your-craftsman-lawn-mower-vibration-solved.md), [S101](../../raw/Articles/poweredoutdoors.com/your-gravely-lawn-mower-vibration.md), [S102](../../raw/Articles/poweredoutdoors.com/your-lawn-tractor-is-vibrating.md), [S106](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-is-shaking-vibrating.md), [S108](../../raw/Articles/searspartsdirect.com/mower-deck-vibrates.ltrtr140.md)

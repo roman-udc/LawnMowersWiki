@@ -3,6 +3,7 @@ type: procedure
 title: Replace a tire
 causes:
   - ../causes/bad-tire.md
+  - ../causes/missing-axle-key.md
 part_types:
   - tire
 difficulty: moderate
@@ -21,12 +22,12 @@ tools:
   - compressed air supply
   - anti-seize compound
 source_count: 4
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Replace a tire
 
-Fixes: [Bad tire or wheel](../causes/bad-tire.md).
+Fixes: [Bad tire or wheel](../causes/bad-tire.md); refitting the square key also fixes a [Missing axle key](../causes/missing-axle-key.md).
 
 ## Before you start
 
