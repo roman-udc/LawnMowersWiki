@@ -6,9 +6,10 @@ problems:
 part_types:
   - piston rings
   - head gasket
-procedures: []
+procedures:
+  - ../procedures/check-compression.md
 source_count: 8
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Low compression
@@ -51,6 +52,8 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-s
 ## Fix
 
 Have a service technician do a leak-down test. It uses an air compressor and special tools to find where the air leaks. Depending on what the test finds, the repair may be a valve adjustment, a head gasket, new piston rings or a cylinder wall repair. This is a job for an experienced small-engine mechanic or a servicing dealer.
+
+- [Check compression](../procedures/check-compression.md) (the gauge test that shows whether compression is low)
 
 Sources: [S1](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S2](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but-wont-start.md), [S3](../../raw/Articles/searspartsdirect.com/runs-rough-or-misfires.ridtr03.md), [S4](../../raw/Articles/poweredoutdoors.com/bolens-mower-wont-start.md), [S5](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-wont-start.md), [S6](../../raw/Articles/poweredoutdoors.com/toro-push-mower-wont-start.md), [S8](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md)
 

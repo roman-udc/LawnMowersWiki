@@ -3,6 +3,8 @@ type: procedure
 title: Clean or replace the air filter
 causes:
   - ../causes/clogged-air-filter.md
+  - ../causes/oil-in-air-filter-or-tipped-mower.md
+  - ../causes/rich-fuel-mixture.md
 part_types:
   - air filter (paper element)
   - foam air filter
@@ -16,12 +18,12 @@ tools:
   - paper towel
   - work gloves
 source_count: 95
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Clean or replace the air filter
 
-Fixes: [Clogged air filter](../causes/clogged-air-filter.md).
+Fixes: [Clogged air filter](../causes/clogged-air-filter.md). Also used for [Oil in air filter or tipped mower](../causes/oil-in-air-filter-or-tipped-mower.md) (replace the oil-soaked filter) and [Rich fuel mixture](../causes/rich-fuel-mixture.md) (black smoke from a restricted air supply).
 
 The air filter traps dirt in the air going into the carburetor. A clogged filter starves the carburetor of air: the engine runs sluggish, loses power, and can overheat, because dirt also clogs the cooling fins. A paper filter is cleaned by tapping it, a foam filter by washing it; either is replaced when it's too dirty or damaged.
 

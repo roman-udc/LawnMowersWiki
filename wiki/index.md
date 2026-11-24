@@ -9,6 +9,7 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Engine starts then dies](problems/engine-starts-then-dies.md) — starts, then stalls after seconds or minutes or partway through mowing; usually a fuel or air restriction (old gas, carburetor, filters, lines, gas cap vent, choke), a weak spark, or overheating and overload (cooling fins, oil level, plugged deck). Aliases: "won't stay running", "keeps stalling", "keeps shutting off", "dies while mowing", "quits in the middle of the lawn", "only runs a few seconds then dies", "loses power and dies", "acts like it's not getting gas", "riding mower dies when I release the brake", "electric mower starts then stops"
 - [Mower cuts uneven](problems/uneven-cut.md) — strips of uncut grass, stair-step ridges, scalped spots or brown, ragged tips: the deck isn't level (tires, deck, shell), the blades or deck parts are worn or damaged, or the mower is run too fast or below full throttle. Aliases: "bad cut", "bad or uneven cut", "lawn mower cuts uneven", "cut looks terrible", "mower leaves strips of uncut grass", "leaves a row of grass", "uncut strip between passes", "streaking", "stringers or patches of uncut grass", "stair-step cut", "step cut or ridges in the lawn", "deck is lower on one side", "grass tips turn brown a couple of days after mowing", "grass looks shredded", "leaves piles of grass", "scalping", "riding mower not cutting evenly", "lawn tractor cuts unevenly", "zero turn cutting uneven", "push mower uneven or bad cut", "electric mower leaves uneven cuts"
 - [Mower is vibrating](problems/mower-is-vibrating.md) — mower or deck shakes far more than normal: unbalanced or bent blades, debris, spindle or pulley bearings, string on the blade shaft, loose engine bolts, worn belt, failing blade clutch; bent crankshaft on push mowers. Aliases: "lawn mower is vibrating", "mower is shaking", "mower deck vibrates", "deck vibrates when blades engaged", "mower vibrates when I engage the blades", "feels like riding a jackhammer", "push mower shakes my arms", "shake out of my seat", "lawn tractor is vibrating", "zero turn shaking and vibrating", "electric mower shaking or vibrating", "vibrating so badly it seems it will fall apart"
+- [Mower is smoking](problems/mower-is-smoking.md) — black smoke means the engine runs rich (plugged air filter, choke); blue or white smoke means oil is burning (too much or too little oil, spilled oil, leaking gasket, piston rings, valve train). Aliases: "lawn mower is smoking", "mower is blowing smoke", "white, blue or black smoke from the mower", "black smoke from mower", "blue smoke from mower", "white smoke from mower", "cloud of smoke from mower", "smoke rolling out of my mower", "mower started smoking once the engine got hot", "mower starts smoking after an oil change", "push mower is smoking", "riding mower is smoking", "zero turn smoking"
 
 ## Causes
 
@@ -67,6 +68,12 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Engine mount loose](causes/engine-mount-loose.md) — loose, worn or missing engine mounting bolts and other hardware; strong vibration; tighten or replace (easy).
 - [Worn or stretched belt](causes/worn-or-stretched-belt.md) — cracked, glazed, stretched or loose deck belt; vibration, slipping blades, bad cut; replace the belt.
 - [Worn pulley or idler bearing](causes/worn-pulley-or-idler-bearing.md) — deck or idler pulley restricted, noisy or wobbling; vibration, bad cut, belt trouble; replace the pulley.
+- [Bad head gasket](causes/bad-head-gasket.md) — a failed engine gasket (Sources rarely say which) leaks oil onto the hot muffler, which smokes; a bad head gasket also costs compression and power (moderate to pro).
+- [Bad valve train](causes/bad-valve-train.md) — a valve burnt by overheating; red-hot muffler, oil on the plug; confirmed by head removal or leak-down test, mechanic cuts valve and seat (pro).
+- [Oil in air filter or tipped mower](causes/oil-in-air-filter-or-tipped-mower.md) — push mower tipped or used on a slope runs oil into the air filter and carburetor; replace filter, clean carburetor (easy).
+- [Rich fuel mixture](causes/rich-fuel-mixture.md) — more fuel than air gives black smoke; clear the air filter or other air restriction, clean a rich carburetor (easy).
+- [Spilled oil on engine](causes/spilled-oil-on-engine.md) — oil dripped on the engine or muffler during an oil change burns off as smoke; wipe it off (easy).
+- [Worn piston rings or valve guides](causes/worn-piston-rings-or-valve-guides.md) — bad rings or a scored cylinder let oil burn in the combustion chamber; oil on the plug; engine teardown or replacement (pro).
 
 ## Procedures
 
@@ -106,6 +113,7 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Replace the idler pulley](procedures/replace-the-idler-pulley.md) — release belt tension, unbolt the worn idler or deck pulley, fit the new one and check tension.
 - [Replace the spindle assembly](procedures/replace-the-spindle-assembly.md) — remove the deck belt, blade and spindle housing, fit the new assembly and torque it (moderate).
 - [Test the PTO clutch](procedures/test-the-pto-clutch.md) — check an electric blade clutch with a multimeter.
+- [Check compression](procedures/check-compression.md) — gauge in the plug hole, spin the engine with the starter; over 40 psi expected, under 40 is a compression problem; leak-down test for ACR engines (moderate, time not stated).
 
 ## Guides
 
