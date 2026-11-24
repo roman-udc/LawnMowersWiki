@@ -68,7 +68,7 @@ Uneven-lawn, scalping and lawn-rolling content is lawn care: skip it. Anything e
 ## Finish the cluster
 
 1. Add an index line for every new page (`wiki/index.md`, under its page type; Problems with `Aliases:`), and add new aliases to existing Problem lines.
-2. Append one log entry to `wiki/log.md`: `## 2026-11-23 | ingest | fill pass: <cluster slug>`, then one `- raw/<path> → ingested → <pages>` line per Source this cluster used. A Source already logged by an earlier entry gets a new line here only if this cluster cited it on a new page. Add a `Note:` for pages dropped, Problems folded into a neighbour (with the reason), conflicts flagged, and mentions left as plain text for later clusters.
+2. Append one log entry to `wiki/log.md`: `## <today, YYYY-MM-DD> | ingest | fill pass: <cluster slug>`, then one `- raw/<path> → ingested → <pages>` line per Source this cluster used. A Source already logged by an earlier entry gets a new line here only if this cluster cited it on a new page. Add a `Note:` for pages dropped, Problems folded into a neighbour (with the reason), conflicts flagged, and mentions left as plain text for later clusters.
 3. `python tools/validate_wiki.py --allow-unlogged wiki raw` until it prints nothing. Fix every violation, including ones in pages you only updated.
 4. `python -m unittest discover tests` must pass.
 5. Commit only `wiki/`: `git add wiki && git commit -m "Fill pass: <cluster slug>" -m "<n> Sources. Pages created: …; updated: …" -m "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"`.
