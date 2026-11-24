@@ -4,6 +4,7 @@ title: Belt guard or keeper missing
 problems:
   - ../problems/belt-keeps-coming-off.md
   - ../problems/blades-wont-engage.md
+  - ../problems/mower-is-noisy.md
 part_types:
   - belt keeper (belt guide)
   - deck bracket or bracket bushing
@@ -36,6 +37,10 @@ Sources: [S3](../../raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-
 - [Blades won't engage](../problems/blades-wont-engage.md): the belt is off the pulleys.
 
 Sources for Belt keeps coming off: [S1](../../raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-gravely-lawn-mower.md), [S2](../../raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-scag-lawn-mower.md), [S10](../../raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-snapper-lawn-mower.md), [S3](../../raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-zero-turn-mower.md), [S6](../../raw/Articles/poweredoutdoors.com/cub-cadet-belt-keeps-coming-off-or-breaking.md), [S11](../../raw/Articles/poweredoutdoors.com/exmark-belt-keeps-coming-off-or-breaking.md), [S8](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-belt-keeps-coming-off.md), [S12](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md), [S13](../../raw/Articles/poweredoutdoors.com/how-to-replace-a-cub-cadet-mower-deck-belt.md), [S7](../../raw/Articles/poweredoutdoors.com/john-deere-mower-belt-keeps-coming-off.md), [S14](../../raw/Articles/poweredoutdoors.com/the-belt-keeps-coming-off-your-lawn-tractor.md), [S4](../../raw/Articles/poweredoutdoors.com/this-is-why-your-belt-keeps-falling-off-your-lawn-mower.md), [S5](../../raw/Articles/poweredoutdoors.com/toro-mower-belt-keeps-breaking.md), [S15](../../raw/Articles/poweredoutdoors.com/troubleshoot-cub-cadet-mower-deck-problems.md), [S16](../../raw/Articles/poweredoutdoors.com/why-your-craftsman-belt-keeps-coming-off-or-breaking.md), [S17](../../raw/Articles/poweredoutdoors.com/your-belt-keeps-coming-off-your-husqvarna-mower-solved.md), [S18](../../raw/Articles/poweredoutdoors.com/your-belt-keeps-falling-off-your-riding-mower-fixed.md), [S19](../../raw/Articles/poweredoutdoors.com/your-troy-bilt-lawn-mower-belt-keeps-coming-off-fixed.md), [S20](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-deck-problems.md). For Blades won't engage: [S21](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S22](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md), [S23](../../raw/Articles/poweredoutdoors.com/exmark-mower-blades-wont-engage.md), [S24](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md), [S25](../../raw/Articles/poweredoutdoors.com/john-deere-mower-blades-wont-engage-or-turn-on.md), [S26](../../raw/Articles/poweredoutdoors.com/kubota-mower-blades-wont-engage.md), [S27](../../raw/Articles/poweredoutdoors.com/scag-mower-blades-wont-engage.md), [S28](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md), [S29](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-blades-wont-engage-or-turn-on.md)
+
+- [Mower is noisy](../problems/mower-is-noisy.md): a belt stuck between the belt guides makes the deck squeal.
+
+Sources for Mower is noisy: [S20](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-deck-problems.md)
 
 ## How to confirm
 

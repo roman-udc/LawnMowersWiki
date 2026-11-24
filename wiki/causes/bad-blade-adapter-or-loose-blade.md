@@ -4,6 +4,7 @@ title: Bad blade adapter or loose blade
 problems:
   - ../problems/uneven-cut.md
   - ../problems/mower-is-vibrating.md
+  - ../problems/mower-is-noisy.md
 part_types:
   - blade adapter
   - blade bolt
@@ -43,7 +44,9 @@ Sources: [S3](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-mower-deck
 
 - [Uneven cut](../problems/uneven-cut.md): a loose blade slips and doesn't cut; a blade that doesn't fit cuts poorly. Sources: [S1](../../raw/Articles/poweredoutdoors.com/ego-electric-lawn-mower-is-cutting-uneven.md), [S4](../../raw/Articles/poweredoutdoors.com/greenworks-lawn-mower-is-cutting-uneven.md), [S8](../../raw/Articles/poweredoutdoors.com/kobalt-electric-mower-bad-cut.md), [S11](../../raw/Articles/poweredoutdoors.com/ryobi-electric-mower-bad-uneven-cut.md), [S12](../../raw/Articles/poweredoutdoors.com/sun-joe-electric-mower-bad-cut.md), [S13](../../raw/Articles/poweredoutdoors.com/toro-electric-mower-bad-cut.md), [S14](../../raw/Articles/poweredoutdoors.com/worx-mower-has-bad-uneven-cut.md)
 - [Mower is vibrating](../problems/mower-is-vibrating.md): a wrong, loose or wrongly mounted blade wobbles and shakes the mower; a broken or worn blade adapter also vibrates. Sources: [S7](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-vibrating-problem.md), [S15](../../raw/Articles/poweredoutdoors.com/your-craftsman-lawn-mower-vibration-solved.md), [S16](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-is-shaking-vibrating.md), [S3](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-mower-deck-shakes-vibrates.md), [S9](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-is-vibrating.md), [S2](../../raw/Articles/poweredoutdoors.com/ego-mower-is-vibrating.md), [S5](../../raw/Articles/poweredoutdoors.com/honda-mower-is-vibrating.md), [S10](../../raw/Articles/poweredoutdoors.com/push-mower-is-vibrating.md), [S32](../../raw/Articles/poweredoutdoors.com/troubleshoot-cub-cadet-mower-deck-problems.md), [S33](../../raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md)
-- Mower is noisy: a loose blade knocks or thuds. Source: [S17](../../raw/Articles/searspartsdirect.com/troubleshooting-a-noisy-riding-lawn-mower.md)
+- [Mower is noisy](../problems/mower-is-noisy.md): a loose blade knocks or thuds. Source: [S17](../../raw/Articles/searspartsdirect.com/troubleshooting-a-noisy-riding-lawn-mower.md)
+
+Sources for Mower is noisy: [S17](../../raw/Articles/searspartsdirect.com/troubleshooting-a-noisy-riding-lawn-mower.md)
 
 ## How to confirm
 

@@ -3,6 +3,7 @@ type: cause
 title: Wrong belt
 problems:
   - ../problems/belt-keeps-coming-off.md
+  - ../problems/mower-is-noisy.md
 part_types:
   - deck belt
 procedures:
@@ -31,6 +32,10 @@ Sources: [S5](../../raw/Articles/poweredoutdoors.com/how-to-change-a-craftsman-m
 - [Belt keeps coming off](../problems/belt-keeps-coming-off.md): a belt that isn't an exact match wears faster and shreds or comes off; a wrong type of belt can squeal.
 
 Sources: [S4](../../raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-bad-boy-lawn-mower.md), [S1](../../raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-kubota-lawn-mower.md), [S7](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-belt-keeps-coming-off.md), [S8](../../raw/Articles/poweredoutdoors.com/spartan-belt-keeps-coming-off.md), [S2](../../raw/Articles/poweredoutdoors.com/why-your-craftsman-belt-keeps-coming-off-or-breaking.md), [S3](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-belt-is-bad.md)
+
+- [Mower is noisy](../problems/mower-is-noisy.md): the wrong type of belt squeals.
+
+Sources for Mower is noisy: [S3](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-belt-is-bad.md)
 
 ## How to confirm
 

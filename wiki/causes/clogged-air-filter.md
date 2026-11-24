@@ -9,6 +9,7 @@ problems:
   - ../problems/engine-runs-rough.md
   - ../problems/engine-overheats.md
   - ../problems/engine-dies-when-hot.md
+  - ../problems/mower-is-noisy.md
 part_types:
   - air filter
   - foam pre-filter
@@ -71,6 +72,10 @@ Sources for Engine overheats: [S12](../../raw/Articles/poweredoutdoors.com/7-thi
 - [Engine dies when hot](../problems/engine-dies-when-hot.md): a dirty filter restricts air and the engine quits after running a while.
 
 Sources for Engine dies when hot: [S65](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-quits-when-hot.md), [S80](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-quits-when-hot.md), [S99](../../raw/Articles/poweredoutdoors.com/lawn-mower-quits-when-hot.md), [S113](../../raw/Articles/poweredoutdoors.com/push-mower-quits-when-hot.md), [S120](../../raw/Articles/poweredoutdoors.com/riding-lawn-mower-quits-when-hot.md), [S136](../../raw/Articles/poweredoutdoors.com/solved-toro-lawn-mower-quits-when-hot.md), [S160](../../raw/Articles/poweredoutdoors.com/your-cub-cadet-quits-when-it-gets-hot-solved.md), [S169](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-quits-when-hot.md), [S180](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S183](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S194](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md)
+
+- [Mower is noisy](../problems/mower-is-noisy.md): a clogged filter can cause engine noise.
+
+Sources for Mower is noisy: [S175](../../raw/Articles/searspartsdirect.com/troubleshooting-a-noisy-riding-lawn-mower.md)
 
 ## How to confirm
 

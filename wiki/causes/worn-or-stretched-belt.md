@@ -8,6 +8,7 @@ problems:
   - ../problems/engine-loses-power.md
   - ../problems/engine-overheats.md
   - ../problems/belt-keeps-coming-off.md
+  - ../problems/mower-is-noisy.md
 part_types:
   - deck belt (blade drive belt)
   - ground drive belt
@@ -62,6 +63,10 @@ Sources for Engine loses power: [S118](../../raw/Articles/searspartsdirect.com/w
 Sources for Engine overheats: [S97](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md)
 
 Sources for Belt keeps coming off: [S7](../../raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-bad-boy-lawn-mower.md), [S8](../../raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-gravely-lawn-mower.md), [S9](../../raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-kubota-lawn-mower.md), [S10](../../raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-scag-lawn-mower.md), [S11](../../raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-snapper-lawn-mower.md), [S12](../../raw/Articles/poweredoutdoors.com/belt-keeps-coming-off-your-zero-turn-mower.md), [S19](../../raw/Articles/poweredoutdoors.com/cub-cadet-belt-keeps-coming-off-or-breaking.md), [S22](../../raw/Articles/poweredoutdoors.com/exmark-belt-keeps-coming-off-or-breaking.md), [S24](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-belt-keeps-coming-off.md), [S25](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-mower-blades-wont-engage.md), [S30](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md), [S31](../../raw/Articles/poweredoutdoors.com/how-to-replace-a-cub-cadet-mower-deck-belt.md), [S43](../../raw/Articles/poweredoutdoors.com/john-deere-mower-belt-keeps-coming-off.md), [S60](../../raw/Articles/poweredoutdoors.com/scag-mower-blades-wont-engage.md), [S67](../../raw/Articles/poweredoutdoors.com/spartan-belt-keeps-coming-off.md), [S71](../../raw/Articles/poweredoutdoors.com/the-belt-keeps-coming-off-your-lawn-tractor.md), [S73](../../raw/Articles/poweredoutdoors.com/this-is-why-your-belt-keeps-falling-off-your-lawn-mower.md), [S74](../../raw/Articles/poweredoutdoors.com/toro-mower-belt-keeps-breaking.md), [S78](../../raw/Articles/poweredoutdoors.com/why-your-craftsman-belt-keeps-coming-off-or-breaking.md), [S83](../../raw/Articles/poweredoutdoors.com/your-ariens-mower-belt-keeps-coming-off.md), [S85](../../raw/Articles/poweredoutdoors.com/your-belt-keeps-coming-off-your-husqvarna-mower-solved.md), [S86](../../raw/Articles/poweredoutdoors.com/your-belt-keeps-falling-off-your-riding-mower-fixed.md), [S90](../../raw/Articles/poweredoutdoors.com/your-troy-bilt-lawn-mower-belt-keeps-coming-off-fixed.md), [S99](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-deck-problems.md), [S116](../../raw/Articles/poweredoutdoors.com/troubleshoot-cub-cadet-mower-deck-problems.md)
+
+- [Mower is noisy](../problems/mower-is-noisy.md): a high-pitched squeal when accelerating or engaging the blades.
+
+Sources for Mower is noisy: [S20](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-belt-is-bad.md), [S30](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md), [S96](../../raw/Articles/searspartsdirect.com/troubleshooting-a-noisy-riding-lawn-mower.md)
 
 ## How to confirm
 

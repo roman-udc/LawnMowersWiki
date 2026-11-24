@@ -4,12 +4,13 @@ title: Debris wrapped around blade spindle
 problems:
   - ../problems/mower-is-vibrating.md
   - ../problems/battery-mower-wont-start.md
+  - ../problems/mower-is-noisy.md
 part_types:
   - blade spindle
   - spindle housing
 procedures:
   - ../procedures/replace-the-spindle-assembly.md
-source_count: 29
+source_count: 30
 updated: 2026-11-24
 ---
 
@@ -40,6 +41,10 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/ariens-mower-is-vibrating.m
 - [Battery mower won't start](../problems/battery-mower-wont-start.md): debris restricting the blade's rotation stops a battery mower turning on.
 
 Sources for Battery mower won't start: [S30](../../raw/Articles/poweredoutdoors.com/electric-lawn-mower-wont-start.md)
+
+- [Mower is noisy](../problems/mower-is-noisy.md): material wrapped around the blade shaft makes the deck squeal.
+
+Sources for Mower is noisy: [S28](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-deck-problems.md), [S31](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md)
 
 ## How to confirm
 
@@ -107,3 +112,4 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/ariens-mower-is-vibrating.m
 - [S28](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-deck-problems.md) — Troubleshoot 6 Common Zero Turn Mower Deck Problems (expert-blog)
 - [S29](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-is-shaking-vibrating.md) — Solved! Your Zero Turn Mower is Shaking & Vibrating (expert-blog)
 - [S30](../../raw/Articles/poweredoutdoors.com/electric-lawn-mower-wont-start.md) — 16 Reasons Why Your Electric Lawn Mower Won't Start (expert-blog)
+- [S31](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md) — 6 Lawn Mower Deck Problems (With Troubleshooting Tables) (expert-blog)

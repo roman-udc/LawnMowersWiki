@@ -3,6 +3,7 @@ type: cause
 title: Engine mount loose
 problems:
   - ../problems/mower-is-vibrating.md
+  - ../problems/mower-is-noisy.md
 part_types:
   - engine mounting bolt
 procedures: []
@@ -35,6 +36,10 @@ Sources: [S3](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-is-vibra
 Loose parts also rattle: one Source says bouncing over rough ground works parts loose so they rattle and make the mower louder. That article talks about loose body parts in general, not the engine mount.
 
 Sources: [S2](../../raw/Articles/poweredoutdoors.com/ariens-mower-is-vibrating.md), [S10](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-mower-deck-shakes-vibrates.md), [S11](../../raw/Articles/poweredoutdoors.com/honda-mower-is-vibrating.md), [S1](../../raw/Articles/poweredoutdoors.com/5-reasons-why-lawn-mowers-are-louder-than-cars.md)
+
+- [Mower is noisy](../problems/mower-is-noisy.md): parts worked loose rattle.
+
+Sources for Mower is noisy: [S1](../../raw/Articles/poweredoutdoors.com/5-reasons-why-lawn-mowers-are-louder-than-cars.md)
 
 ## How to confirm
 
