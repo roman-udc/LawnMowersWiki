@@ -1,0 +1,232 @@
+---
+type: cause
+title: Dull or bent blade
+problems:
+  - ../problems/uneven-cut.md
+  - ../problems/engine-starts-then-dies.md
+part_types:
+  - mower blade
+  - blade balancer
+procedures:
+  - ../procedures/sharpen-and-replace-the-blades.md
+  - ../procedures/measure-a-mower-blade.md
+source_count: 123
+updated: 2026-11-23
+---
+
+# Dull or bent blade
+
+## Summary
+
+Mower blades are a wear item. Sand, dirt and debris drawn under the deck by the blade's suction dull the edge and wear the tips and sail thin; lawns with thin grass and exposed dirt wear blades faster than thick turf. Hitting a tree root, rock, stump, stick or toy can chip, gouge, bend or crack a blade. A blade can also become unbalanced (heavier at one end) from uneven wear or from removing more metal from one end when sharpening.
+
+- A **dull** blade beats, tears and bruises the grass instead of cutting it, and makes the engine or motor work harder.
+- A **worn** blade with rounded tips, or a sail thinner than the center of the blade, leaves strips of uncut grass.
+- A **bent** blade isn't parallel to the ground, so it cuts unevenly and vibrates; even a slight bend gives a bad cut.
+- An **unbalanced** blade wobbles, vibrates and can damage the spindle bearings.
+
+Sharpening or replacing a blade is an easy home repair.
+
+Sources: [S58](../../raw/Articles/poweredoutdoors.com/inspecting-your-lawn-mower-blades-saves-you-time-money.md), [S61](../../raw/Articles/poweredoutdoors.com/john-deere-mower-cuts-uneven.md), [S65](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-cuts-uneven.md), [S108](../../raw/Articles/poweredoutdoors.com/your-bad-or-uneven-exmark-mower-cut.md), [S94](../../raw/Articles/poweredoutdoors.com/spartan-mower-bad-or-uneven-cut.md), [S7](../../raw/Articles/poweredoutdoors.com/big-dog-bad-or-uneven-cut.md), [S39](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-cuts-uneven.md), [S75](../../raw/Articles/poweredoutdoors.com/push-mower-is-cutting-uneven.md), [S80](../../raw/Articles/poweredoutdoors.com/reasons-lawn-tractor-cuts-uneven.md), [S104](../../raw/Articles/poweredoutdoors.com/why-your-troy-bilt-lawn-mower-is-cutting-uneven-fixed.md), [S4](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-cuts-uneven.md), [S85](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-has-a-bad-or-uneven-cut.md), [S13](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-gravely-mower-blades.md), [S45](../../raw/Articles/poweredoutdoors.com/how-to-change-sharpen-your-john-deere-mower-blades.md), [S119](../../raw/Articles/searspartsdirect.com/mower-deck-vibrates.ltrtr140.md), [S120](../../raw/Articles/searspartsdirect.com/not-cutting-evenly.ridtr02.md), [S118](../../raw/Articles/searspartsdirect.com/how-to-replace-a-riding-lawn-mower-blade.md), [S2](../../raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-lawn-mower-to-overheat.md)
+
+## Before you start
+
+- When were the blades last sharpened or replaced, and how many hours has the mower run since?
+- Is the lawn sandy, dusty or thin? Blades wear faster there.
+- Did the mower hit something: a jolt, a clunk or a grinding sound? Small impacts can go unnoticed, so check for a bend whenever the cut turns bad.
+- Were the blades just sharpened? Uneven sharpening unbalances a blade.
+
+Sources: [S39](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-cuts-uneven.md), [S94](../../raw/Articles/poweredoutdoors.com/spartan-mower-bad-or-uneven-cut.md), [S8](../../raw/Articles/poweredoutdoors.com/bobcat-zero-turn-uneven-cut.md), [S65](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-cuts-uneven.md), [S85](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-has-a-bad-or-uneven-cut.md), [S104](../../raw/Articles/poweredoutdoors.com/why-your-troy-bilt-lawn-mower-is-cutting-uneven-fixed.md), [S114](../../raw/Articles/poweredoutdoors.com/zero-turn-lawn-mower-is-cutting-uneven.md), [S76](../../raw/Articles/poweredoutdoors.com/push-mower-is-vibrating.md)
+
+## Symptoms it produces
+
+- [Uneven cut](../problems/uneven-cut.md): grass tips turn brown a day or two after mowing (grab a handful: the tips are torn, bruised, brown or shredded); strips of uncut grass between blades or passes from worn, rounded blade ends; an uneven cut from a bent blade; ragged edges. Sources: [S4](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-cuts-uneven.md), [S7](../../raw/Articles/poweredoutdoors.com/big-dog-bad-or-uneven-cut.md), [S8](../../raw/Articles/poweredoutdoors.com/bobcat-zero-turn-uneven-cut.md), [S23](../../raw/Articles/poweredoutdoors.com/craftsman-mower-cut-is-uneven.md), [S30](../../raw/Articles/poweredoutdoors.com/ego-electric-lawn-mower-is-cutting-uneven.md), [S36](../../raw/Articles/poweredoutdoors.com/fix-your-exmark-mower-deck-problem.md), [S37](../../raw/Articles/poweredoutdoors.com/gravely-lawn-mower-cuts-uneven.md), [S38](../../raw/Articles/poweredoutdoors.com/greenworks-lawn-mower-is-cutting-uneven.md), [S39](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-cuts-uneven.md), [S50](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-cuts-uneven.md), [S54](../../raw/Articles/poweredoutdoors.com/hustler-mower-bad-uneven-cut.md), [S61](../../raw/Articles/poweredoutdoors.com/john-deere-mower-cuts-uneven.md), [S64](../../raw/Articles/poweredoutdoors.com/kobalt-electric-mower-bad-cut.md), [S65](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-cuts-uneven.md), [S69](../../raw/Articles/poweredoutdoors.com/lawn-mower-is-cutting-uneven.md), [S70](../../raw/Articles/poweredoutdoors.com/lawn-mowers-bad-cut-solved.md), [S75](../../raw/Articles/poweredoutdoors.com/push-mower-is-cutting-uneven.md), [S80](../../raw/Articles/poweredoutdoors.com/reasons-lawn-tractor-cuts-uneven.md), [S81](../../raw/Articles/poweredoutdoors.com/reasons-your-riding-mower-is-cutting-uneven.md), [S84](../../raw/Articles/poweredoutdoors.com/ryobi-electric-mower-bad-uneven-cut.md), [S85](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-has-a-bad-or-uneven-cut.md), [S88](../../raw/Articles/poweredoutdoors.com/simplicity-lawn-mower-bad-uneven-cut.md), [S90](../../raw/Articles/poweredoutdoors.com/snapper-lawn-mower-cuts-uneven.md), [S94](../../raw/Articles/poweredoutdoors.com/spartan-mower-bad-or-uneven-cut.md), [S95](../../raw/Articles/poweredoutdoors.com/sun-joe-electric-mower-bad-cut.md), [S97](../../raw/Articles/poweredoutdoors.com/toro-electric-mower-bad-cut.md), [S98](../../raw/Articles/poweredoutdoors.com/toro-lawn-mower-is-cutting-uneven.md), [S103](../../raw/Articles/poweredoutdoors.com/why-your-cub-cadet-lawn-mower-cuts-uneven.md), [S104](../../raw/Articles/poweredoutdoors.com/why-your-troy-bilt-lawn-mower-is-cutting-uneven-fixed.md), [S105](../../raw/Articles/poweredoutdoors.com/worx-mower-has-bad-uneven-cut.md), [S107](../../raw/Articles/poweredoutdoors.com/your-ariens-lawn-mower-is-cutting-uneven.md), [S108](../../raw/Articles/poweredoutdoors.com/your-bad-or-uneven-exmark-mower-cut.md), [S111](../../raw/Articles/poweredoutdoors.com/your-ferris-lawn-mower-cuts-uneven.md), [S114](../../raw/Articles/poweredoutdoors.com/zero-turn-lawn-mower-is-cutting-uneven.md), [S21](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md), [S22](../../raw/Articles/poweredoutdoors.com/common-zero-turn-problems-how-to-fix-them.md), [S48](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md), [S9](../../raw/Articles/poweredoutdoors.com/change-and-sharpen-your-husqvarna-lawn-mower-blades.md), [S10](../../raw/Articles/poweredoutdoors.com/change-and-sharpen-your-kubota-lawn-mower-blades.md), [S11](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-bad-boy-lawn-mower-blades.md), [S12](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-cub-cadet-mower-blades.md), [S13](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-gravely-mower-blades.md), [S14](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-honda-lawn-mower-blades.md), [S15](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-push-mower-blades.md), [S16](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-zero-turn-mower-blades.md), [S42](../../raw/Articles/poweredoutdoors.com/how-to-change-and-sharpen-your-exmark-mower-blades.md), [S43](../../raw/Articles/poweredoutdoors.com/how-to-change-sharpen-ariens-mower-blades.md), [S44](../../raw/Articles/poweredoutdoors.com/how-to-change-sharpen-your-craftsman-mower-blades.md), [S45](../../raw/Articles/poweredoutdoors.com/how-to-change-sharpen-your-john-deere-mower-blades.md), [S46](../../raw/Articles/poweredoutdoors.com/how-to-change-sharpen-your-lawn-tractor-blades.md), [S47](../../raw/Articles/poweredoutdoors.com/how-to-change-sharpen-your-troy-bilt-mower-blades.md), [S58](../../raw/Articles/poweredoutdoors.com/inspecting-your-lawn-mower-blades-saves-you-time-money.md), [S118](../../raw/Articles/searspartsdirect.com/how-to-replace-a-riding-lawn-mower-blade.md), [S119](../../raw/Articles/searspartsdirect.com/mower-deck-vibrates.ltrtr140.md), [S120](../../raw/Articles/searspartsdirect.com/not-cutting-evenly.ridtr02.md), [S122](../../raw/Articles/searspartsdirect.com/why-does-my-lawn-tractor-cut-unevenly.md)
+- [Engine starts then dies](../problems/engine-starts-then-dies.md): a dull blade alone rarely stops the engine or motor, but dull blades turning through a deck packed with clippings add to the load and magnify the plugged-deck problem. Sources: [S32](../../raw/Articles/poweredoutdoors.com/ego-mower-starts-then-stops.md), [S82](../../raw/Articles/poweredoutdoors.com/riding-lawn-mower-starts-then-dies.md), [S102](../../raw/Articles/poweredoutdoors.com/why-your-craftsman-lawn-mower-dies-how-to-fix.md)
+- Engine loses power or bogs down: dull, rounded blades make the engine work harder, and with a packed deck the power loss gets much worse. A bent blade or worn spindle bearing adds drag when the blades are engaged. Sources: [S6](../../raw/Articles/poweredoutdoors.com/bad-boy-loses-power.md), [S24](../../raw/Articles/poweredoutdoors.com/craftsman-mower-loses-power.md), [S27](../../raw/Articles/poweredoutdoors.com/cub-cadet-loses-power-bogs-down.md), [S40](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-loses-power.md), [S52](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-loses-power.md), [S67](../../raw/Articles/poweredoutdoors.com/kubota-mower-loses-power.md), [S73](../../raw/Articles/poweredoutdoors.com/mower-loses-power.md), [S77](../../raw/Articles/poweredoutdoors.com/push-mower-loses-power.md), [S87](../../raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-loses-power.md), [S96](../../raw/Articles/poweredoutdoors.com/this-is-why-your-riding-lawn-mower-loses-power.md), [S100](../../raw/Articles/poweredoutdoors.com/toro-mower-loses-power.md), [S116](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-loses-power.md), [S17](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S18](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S123](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md)
+- Engine overheats or quits when hot: the extra load from dull blades on a plugged deck strains the engine. Sources: [S2](../../raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-lawn-mower-to-overheat.md), [S25](../../raw/Articles/poweredoutdoors.com/craftsman-mower-overheating.md), [S28](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-engine-overheats.md), [S51](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-engine-overheats.md), [S55](../../raw/Articles/poweredoutdoors.com/hustler-mower-overheating.md), [S62](../../raw/Articles/poweredoutdoors.com/john-deere-mower-engine-overheats.md), [S66](../../raw/Articles/poweredoutdoors.com/kubota-mower-engine-overheats.md), [S74](../../raw/Articles/poweredoutdoors.com/push-mower-engine-overheats.md), [S60](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-quits-when-hot.md), [S78](../../raw/Articles/poweredoutdoors.com/push-mower-quits-when-hot.md), [S92](../../raw/Articles/poweredoutdoors.com/solved-toro-lawn-mower-quits-when-hot.md), [S110](../../raw/Articles/poweredoutdoors.com/your-cub-cadet-quits-when-it-gets-hot-solved.md), [S117](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-quits-when-hot.md)
+- Engine runs rough: dull blades through a packed deck bog the engine. Sources: [S26](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-running-rough-sputtering.md), [S34](../../raw/Articles/poweredoutdoors.com/ferris-runs-rough.md), [S56](../../raw/Articles/poweredoutdoors.com/hustler-mower-runs-rough.md), [S63](../../raw/Articles/poweredoutdoors.com/john-deere-mower-running-rough.md), [S68](../../raw/Articles/poweredoutdoors.com/kubota-mower-rough-sputtering.md), [S79](../../raw/Articles/poweredoutdoors.com/push-mower-runs-rough-sputters.md)
+- Mower is vibrating: a bent, damaged or unbalanced blade wobbles and shakes the deck, sometimes enough to feel in the seat. A damaged blade's vibration can even take out a crankshaft seal and cause an oil leak. Sources: [S3](../../raw/Articles/poweredoutdoors.com/ariens-mower-is-vibrating.md), [S5](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-is-vibrating.md), [S19](../../raw/Articles/poweredoutdoors.com/common-lawn-mower-problems-fixed.md), [S20](../../raw/Articles/poweredoutdoors.com/common-push-mower-problems-solutions.md), [S29](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-is-vibrating.md), [S31](../../raw/Articles/poweredoutdoors.com/ego-mower-is-vibrating.md), [S33](../../raw/Articles/poweredoutdoors.com/exmark-lawn-mower-is-vibrating-solved.md), [S35](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-mower-deck-shakes-vibrates.md), [S41](../../raw/Articles/poweredoutdoors.com/honda-mower-is-vibrating.md), [S49](../../raw/Articles/poweredoutdoors.com/how-to-stop-your-lawn-mower-from-shaking-vibrating.md), [S53](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-vibrating-problem.md), [S57](../../raw/Articles/poweredoutdoors.com/hustler-mower-vibrates.md), [S59](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-is-vibrating.md), [S71](../../raw/Articles/poweredoutdoors.com/mower-deck-is-vibrating.md), [S76](../../raw/Articles/poweredoutdoors.com/push-mower-is-vibrating.md), [S83](../../raw/Articles/poweredoutdoors.com/riding-lawn-mower-vibration.md), [S86](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-is-vibrating-and-shaking.md), [S89](../../raw/Articles/poweredoutdoors.com/simplicity-mower-is-vibrating.md), [S91](../../raw/Articles/poweredoutdoors.com/snapper-lawn-mower-is-vibrating.md), [S93](../../raw/Articles/poweredoutdoors.com/spartan-lawn-mower-is-vibrating-shaking.md), [S99](../../raw/Articles/poweredoutdoors.com/toro-lawn-mower-is-vibrating-solved.md), [S101](../../raw/Articles/poweredoutdoors.com/walker-mower-vibrating.md), [S106](../../raw/Articles/poweredoutdoors.com/wright-mower-vibrates-shakes.md), [S109](../../raw/Articles/poweredoutdoors.com/your-craftsman-lawn-mower-vibration-solved.md), [S112](../../raw/Articles/poweredoutdoors.com/your-gravely-lawn-mower-vibration.md), [S113](../../raw/Articles/poweredoutdoors.com/your-lawn-tractor-is-vibrating.md), [S115](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-is-shaking-vibrating.md)
+- Mower is noisy: bent, loose or unbalanced blades knock, thud, rattle or grind; even a small nick can throw off the balance. Sources: [S1](../../raw/Articles/poweredoutdoors.com/5-reasons-why-lawn-mowers-are-louder-than-cars.md), [S121](../../raw/Articles/searspartsdirect.com/troubleshooting-a-noisy-riding-lawn-mower.md)
+- Mower is not bagging grass: worn or damaged blades move less air. Source: [S72](../../raw/Articles/poweredoutdoors.com/mower-is-not-bagging-grass-solved.md)
+
+## How to confirm
+
+> **Safety:** park on a flat, level surface, set the parking brake, remove the key and disconnect the spark plug wire(s) (battery mowers: remove the safety key and battery pack), wait for all moving parts to stop, and wear thick work gloves before reaching under the deck.
+
+- **Dull:** grab a handful of freshly cut grass. Torn, brown tips mean a dull blade.
+- **Worn:** rounded tips, or a sail thinner than the center of the blade.
+- **Chipped or cracked:** small nicks and chips; large gouges; any crack.
+- **Bent, blade on the mower:** measure from the ground to one blade tip, rotate the blade 180 degrees and measure the other tip from the same spot on the ground. More than 1/8 inch difference means the blade is bent. Repeat for each blade. One Source first checks that the wheels are the same size and undamaged and the cutting height settings match.
+- **Bent, blade off:** lay it on a new or known-good blade. Any gap, or a blade that won't lie flat, is bent. Without a new blade, take it to a dealer, service center or parts store.
+- **Unbalanced:** put the blade on a blade balancer, or hang it by its center hole on a nail in the wall (head about 3/4 to 1 inch out from the wall) or a screwdriver held level in a vise. A balanced blade sits level. One Source calls the nail method less accurate than a balancer.
+- **Drag:** spin each blade by hand: it should turn smoothly.
+
+Full measuring steps are in [Measure a mower blade](../procedures/measure-a-mower-blade.md).
+
+Sources: [S61](../../raw/Articles/poweredoutdoors.com/john-deere-mower-cuts-uneven.md), [S81](../../raw/Articles/poweredoutdoors.com/reasons-your-riding-mower-is-cutting-uneven.md), [S30](../../raw/Articles/poweredoutdoors.com/ego-electric-lawn-mower-is-cutting-uneven.md), [S38](../../raw/Articles/poweredoutdoors.com/greenworks-lawn-mower-is-cutting-uneven.md), [S85](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-has-a-bad-or-uneven-cut.md), [S64](../../raw/Articles/poweredoutdoors.com/kobalt-electric-mower-bad-cut.md), [S4](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-cuts-uneven.md), [S7](../../raw/Articles/poweredoutdoors.com/big-dog-bad-or-uneven-cut.md), [S8](../../raw/Articles/poweredoutdoors.com/bobcat-zero-turn-uneven-cut.md), [S75](../../raw/Articles/poweredoutdoors.com/push-mower-is-cutting-uneven.md), [S15](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-push-mower-blades.md), [S31](../../raw/Articles/poweredoutdoors.com/ego-mower-is-vibrating.md), [S50](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-cuts-uneven.md), [S76](../../raw/Articles/poweredoutdoors.com/push-mower-is-vibrating.md), [S59](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-is-vibrating.md), [S123](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md), [S94](../../raw/Articles/poweredoutdoors.com/spartan-mower-bad-or-uneven-cut.md)
+
+## Fix
+
+- **Dull, or small chips and dings:** remove, sharpen and balance the blade, then reinstall it.
+- **Replace the blade** if it is extremely worn (rounded tips or sail thinner than the center), has gouges too large to sharpen out, is bent even slightly, or is cracked. Replace a cracked blade right away.
+- **Unbalanced:** shave a little metal off the heavier end (the end that hangs lower) until it sits level. Balance every resharpened blade before installing it; new blades are already balanced.
+- **After a bend or hard impact,** check the spindle and spindle bearing too: rock the blade ends up and down with gloves on, and play or knocking means the spindle housing needs checking.
+- A wrong-size or non-fitting replacement blade is covered on [Bad blade adapter or loose blade](bad-blade-adapter-or-loose-blade.md).
+
+> **⚠ Never straighten a bent blade.** Every Source that covers it agrees: bending it back weakens the metal, it is more likely to crack, and a piece breaking off at blade speed can fly out of the deck and injure people or pets or damage property.
+
+Steps: [Sharpen and replace the blades](../procedures/sharpen-and-replace-the-blades.md).
+
+Sources: [S30](../../raw/Articles/poweredoutdoors.com/ego-electric-lawn-mower-is-cutting-uneven.md), [S32](../../raw/Articles/poweredoutdoors.com/ego-mower-starts-then-stops.md), [S38](../../raw/Articles/poweredoutdoors.com/greenworks-lawn-mower-is-cutting-uneven.md), [S69](../../raw/Articles/poweredoutdoors.com/lawn-mower-is-cutting-uneven.md), [S13](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-gravely-mower-blades.md), [S45](../../raw/Articles/poweredoutdoors.com/how-to-change-sharpen-your-john-deere-mower-blades.md), [S11](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-bad-boy-lawn-mower-blades.md), [S4](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-cuts-uneven.md), [S85](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-has-a-bad-or-uneven-cut.md), [S108](../../raw/Articles/poweredoutdoors.com/your-bad-or-uneven-exmark-mower-cut.md), [S94](../../raw/Articles/poweredoutdoors.com/spartan-mower-bad-or-uneven-cut.md), [S37](../../raw/Articles/poweredoutdoors.com/gravely-lawn-mower-cuts-uneven.md), [S107](../../raw/Articles/poweredoutdoors.com/your-ariens-lawn-mower-is-cutting-uneven.md), [S80](../../raw/Articles/poweredoutdoors.com/reasons-lawn-tractor-cuts-uneven.md), [S8](../../raw/Articles/poweredoutdoors.com/bobcat-zero-turn-uneven-cut.md), [S54](../../raw/Articles/poweredoutdoors.com/hustler-mower-bad-uneven-cut.md), [S65](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-cuts-uneven.md), [S121](../../raw/Articles/searspartsdirect.com/troubleshooting-a-noisy-riding-lawn-mower.md), [S119](../../raw/Articles/searspartsdirect.com/mower-deck-vibrates.ltrtr140.md), [S57](../../raw/Articles/poweredoutdoors.com/hustler-mower-vibrates.md), [S93](../../raw/Articles/poweredoutdoors.com/spartan-lawn-mower-is-vibrating-shaking.md)
+
+## Brand notes
+
+- **Snapper:** the Source tells owners with dull but otherwise good blades to "remove your blades and replace them" and does not mention sharpening. Source: [S90](../../raw/Articles/poweredoutdoors.com/snapper-lawn-mower-cuts-uneven.md)
+- **Exmark:** after recent blade replacement, check the hardware: some blades use washers and bolts, others also use splined bushings. Source: [S33](../../raw/Articles/poweredoutdoors.com/exmark-lawn-mower-is-vibrating-solved.md)
+- **Honda push mowers:** sharpen after every 25 hours of use, more often in sandy or gravel conditions. Sources: [S39](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-cuts-uneven.md), [S40](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-loses-power.md)
+- **Battery mowers (EGO, Greenworks, Kobalt, RYOBI, Sun Joe, Toro, Worx):** remove the safety key and battery pack(s) before checking; compare a removed blade with a new blade of the same brand, or take it to the brand's service center. An unbalanced EGO blade can damage the motor shaft. Sources: [S30](../../raw/Articles/poweredoutdoors.com/ego-electric-lawn-mower-is-cutting-uneven.md), [S31](../../raw/Articles/poweredoutdoors.com/ego-mower-is-vibrating.md), [S38](../../raw/Articles/poweredoutdoors.com/greenworks-lawn-mower-is-cutting-uneven.md), [S64](../../raw/Articles/poweredoutdoors.com/kobalt-electric-mower-bad-cut.md), [S95](../../raw/Articles/poweredoutdoors.com/sun-joe-electric-mower-bad-cut.md), [S97](../../raw/Articles/poweredoutdoors.com/toro-electric-mower-bad-cut.md), [S105](../../raw/Articles/poweredoutdoors.com/worx-mower-has-bad-uneven-cut.md), [S84](../../raw/Articles/poweredoutdoors.com/ryobi-electric-mower-bad-uneven-cut.md)
+
+## Parts & fitment
+
+- **Mower blade:** match length and center hole to the deck; several Sources prefer OEM blades. See [Bad blade adapter or loose blade](bad-blade-adapter-or-loose-blade.md) for checking an aftermarket blade.
+- **Blade balancer:** an inexpensive tool, more accurate than the nail method.
+
+Sources: [S3](../../raw/Articles/poweredoutdoors.com/ariens-mower-is-vibrating.md), [S5](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-is-vibrating.md), [S29](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-is-vibrating.md), [S57](../../raw/Articles/poweredoutdoors.com/hustler-mower-vibrates.md), [S50](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-cuts-uneven.md), [S54](../../raw/Articles/poweredoutdoors.com/hustler-mower-bad-uneven-cut.md)
+
+## Tips & life hacks
+
+- Walk the lawn before every mowing and pick up sticks, rocks and toys; mow around tree roots.
+- How often to sharpen: about every 25 hours of use, or about twice a season for the average homeowner; more often in sandy, dusty or gravel conditions or with heavy use.
+- Some Sources' authors start each season with a new set of blades and sharpen them a couple of times during the season. One manufacturer Source says inspect the blades before every use and replace them at the start of each season or whenever damage is found.
+- Lawn chemicals can corrode the deck and fuse the blades to the spindle; take the blades off now and then so they don't seize.
+- One author has blades professionally sharpened for a better edge.
+
+> **⚠ Conflicting advice:** sharpen dull blades that are otherwise in good shape and replace them only when worn or damaged (most Sources, for example [S69](../../raw/Articles/poweredoutdoors.com/lawn-mower-is-cutting-uneven.md) and [S65](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-cuts-uneven.md), expert-blog) vs replace the blades at the start of every season ([S122](../../raw/Articles/searspartsdirect.com/why-does-my-lawn-tractor-cut-unevenly.md), manufacturer), with two other manufacturer Sources saying replace a blade that is damaged, bent or dull ([S119](../../raw/Articles/searspartsdirect.com/mower-deck-vibrates.ltrtr140.md), [S120](../../raw/Articles/searspartsdirect.com/not-cutting-evenly.ridtr02.md)).
+
+Sources: [S9](../../raw/Articles/poweredoutdoors.com/change-and-sharpen-your-husqvarna-lawn-mower-blades.md), [S85](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-has-a-bad-or-uneven-cut.md), [S4](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-cuts-uneven.md), [S25](../../raw/Articles/poweredoutdoors.com/craftsman-mower-overheating.md), [S28](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-engine-overheats.md), [S62](../../raw/Articles/poweredoutdoors.com/john-deere-mower-engine-overheats.md), [S80](../../raw/Articles/poweredoutdoors.com/reasons-lawn-tractor-cuts-uneven.md), [S69](../../raw/Articles/poweredoutdoors.com/lawn-mower-is-cutting-uneven.md), [S13](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-gravely-mower-blades.md), [S58](../../raw/Articles/poweredoutdoors.com/inspecting-your-lawn-mower-blades-saves-you-time-money.md), [S50](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-cuts-uneven.md), [S122](../../raw/Articles/searspartsdirect.com/why-does-my-lawn-tractor-cut-unevenly.md)
+
+## Sources
+
+- [S1](../../raw/Articles/poweredoutdoors.com/5-reasons-why-lawn-mowers-are-louder-than-cars.md) — 5 Reasons Why Lawn Mowers Are Louder Than Cars (expert-blog)
+- [S2](../../raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-lawn-mower-to-overheat.md) — 8 Things That Can Cause a Lawn Mower to Overheat (expert-blog)
+- [S3](../../raw/Articles/poweredoutdoors.com/ariens-mower-is-vibrating.md) — Your Ariens Mower is Vibrating: How to Make it Stop! (expert-blog)
+- [S4](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-cuts-uneven.md) — 13 Reasons a Bad Boy Lawn Mower Has a Bad or Uneven Cut (expert-blog)
+- [S5](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-is-vibrating.md) — This is Why Your Bad Boy Lawn Mower is Vibrating (Solved) (expert-blog)
+- [S6](../../raw/Articles/poweredoutdoors.com/bad-boy-loses-power.md) — SOLVED! 11 Reasons a Bad Boy Zero Turn Loses Power (expert-blog)
+- [S7](../../raw/Articles/poweredoutdoors.com/big-dog-bad-or-uneven-cut.md) — Big Dog Zero Turn Has a Bad or Uneven Cut (11 Reasons) (expert-blog)
+- [S8](../../raw/Articles/poweredoutdoors.com/bobcat-zero-turn-uneven-cut.md) — 12 Reasons a Bobcat Zero Turn Has an Uneven Cut: FIXED (expert-blog)
+- [S9](../../raw/Articles/poweredoutdoors.com/change-and-sharpen-your-husqvarna-lawn-mower-blades.md) — How to Change and Sharpen Your Husqvarna Lawn Mower Blades (expert-blog)
+- [S10](../../raw/Articles/poweredoutdoors.com/change-and-sharpen-your-kubota-lawn-mower-blades.md) — How to Change and Sharpen Your Kubota Lawn Mower Blades (expert-blog)
+- [S11](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-bad-boy-lawn-mower-blades.md) — How to Change & Sharpen Your Bad Boy Lawn Mower Blades (expert-blog)
+- [S12](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-cub-cadet-mower-blades.md) — Change & Sharpen Your Cub Cadet Mower Blades (expert-blog)
+- [S13](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-gravely-mower-blades.md) — How to Change & Sharpen Your Gravely Mower Blades (expert-blog)
+- [S14](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-honda-lawn-mower-blades.md) — How to Change & Sharpen Your Honda Lawn Mower Blades (expert-blog)
+- [S15](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-push-mower-blades.md) — How to Change & Sharpen Your Push Mower Blades: Step-By-Step (expert-blog)
+- [S16](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-zero-turn-mower-blades.md) — How to Change & Sharpen Your Zero Turn Mower Blades (expert-blog)
+- [S17](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md) — 13 Bad Boy Mower Problems (Troubleshooting Tables) (expert-blog)
+- [S18](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md) — Fix 14 Husqvarna Lawn Mower Problems (Troubleshooting Tables) (expert-blog)
+- [S19](../../raw/Articles/poweredoutdoors.com/common-lawn-mower-problems-fixed.md) — 8 Common Lawn Mower Problems: Solved! (expert-blog)
+- [S20](../../raw/Articles/poweredoutdoors.com/common-push-mower-problems-solutions.md) — 6 Common Push Mower Problems (Troubleshoot) (expert-blog)
+- [S21](../../raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md) — 10 Common Riding Lawn Mower Problems & Solutions (expert-blog)
+- [S22](../../raw/Articles/poweredoutdoors.com/common-zero-turn-problems-how-to-fix-them.md) — 10 Common Zero Turn Problems (Troubleshoot & Fix) (expert-blog)
+- [S23](../../raw/Articles/poweredoutdoors.com/craftsman-mower-cut-is-uneven.md) — 12 Reasons a Craftsman Mower Cut is Bad or Uneven (expert-blog)
+- [S24](../../raw/Articles/poweredoutdoors.com/craftsman-mower-loses-power.md) — Your Craftsman Mower Loses Power & Bogs Down (SOLVED) (expert-blog)
+- [S25](../../raw/Articles/poweredoutdoors.com/craftsman-mower-overheating.md) — Your Craftsman Lawn Mower is Overheating (Troubleshoot) (expert-blog)
+- [S26](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-running-rough-sputtering.md) — Cub Cadet Lawn Mower is Running Rough or Sputtering (12 Reasons) (expert-blog)
+- [S27](../../raw/Articles/poweredoutdoors.com/cub-cadet-loses-power-bogs-down.md) — 13 Reasons a Cub Cadet LOSES POWER and Bogs Down (expert-blog)
+- [S28](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-engine-overheats.md) — 8 Reasons a Cub Cadet Mower Engine Overheats (expert-blog)
+- [S29](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-is-vibrating.md) — Reasons Your Cub Cadet Mower is Vibrating (expert-blog)
+- [S30](../../raw/Articles/poweredoutdoors.com/ego-electric-lawn-mower-is-cutting-uneven.md) — 12 Reasons an Ego Electric Lawn Mower Has a Bad or Uneven Cut (expert-blog)
+- [S31](../../raw/Articles/poweredoutdoors.com/ego-mower-is-vibrating.md) — Your EGO Lawn Mower is Vibrating & Shaking (FIX IT) (expert-blog)
+- [S32](../../raw/Articles/poweredoutdoors.com/ego-mower-starts-then-stops.md) — 9 Reasons an EGO Electric Lawn Mower Starts Then Stops (expert-blog)
+- [S33](../../raw/Articles/poweredoutdoors.com/exmark-lawn-mower-is-vibrating-solved.md) — Exmark Lawn Mower is Vibrating: Solved! (expert-blog)
+- [S34](../../raw/Articles/poweredoutdoors.com/ferris-runs-rough.md) — 12 Reasons a Ferris Zero Turn Runs Rough (SOLVED) (expert-blog)
+- [S35](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-mower-deck-shakes-vibrates.md) — Your Ferris Zero Turn Mower Shakes & Vibrates (Fix It Now!) (expert-blog)
+- [S36](../../raw/Articles/poweredoutdoors.com/fix-your-exmark-mower-deck-problem.md) — Fix Your Exmark Mower Deck Problem (expert-blog)
+- [S37](../../raw/Articles/poweredoutdoors.com/gravely-lawn-mower-cuts-uneven.md) — 12 Reason Your Gravely Lawn Mower Has a Bad or Uneven Cut (expert-blog)
+- [S38](../../raw/Articles/poweredoutdoors.com/greenworks-lawn-mower-is-cutting-uneven.md) — 12 Reasons a Greenworks Lawn Mower Has a Bad or Uneven Cut (expert-blog)
+- [S39](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-cuts-uneven.md) — SOLVED! Your Honda Lawn Mower Has a Bad or Uneven Cut (expert-blog)
+- [S40](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-loses-power.md) — This is Why Your Honda Lawn Mower Loses Power (Solved!) (expert-blog)
+- [S41](../../raw/Articles/poweredoutdoors.com/honda-mower-is-vibrating.md) — This is Why Your Honda Mower is Vibrating (expert-blog)
+- [S42](../../raw/Articles/poweredoutdoors.com/how-to-change-and-sharpen-your-exmark-mower-blades.md) — How to Change & Sharpen Your Exmark Mower Blades (expert-blog)
+- [S43](../../raw/Articles/poweredoutdoors.com/how-to-change-sharpen-ariens-mower-blades.md) — How to Change & Sharpen Your Ariens Mower Blades (expert-blog)
+- [S44](../../raw/Articles/poweredoutdoors.com/how-to-change-sharpen-your-craftsman-mower-blades.md) — How to Change & Sharpen Your Craftsman Mower Blades (expert-blog)
+- [S45](../../raw/Articles/poweredoutdoors.com/how-to-change-sharpen-your-john-deere-mower-blades.md) — How to Change & Sharpen Your John Deere Mower Blades (expert-blog)
+- [S46](../../raw/Articles/poweredoutdoors.com/how-to-change-sharpen-your-lawn-tractor-blades.md) — How to Change & Sharpen Your Lawn Tractor Blades (expert-blog)
+- [S47](../../raw/Articles/poweredoutdoors.com/how-to-change-sharpen-your-troy-bilt-mower-blades.md) — How to Change & Sharpen Your Troy-Bilt Mower Blades (expert-blog)
+- [S48](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md) — 6 Lawn Mower Deck Problems (With Troubleshooting Tables) (expert-blog)
+- [S49](../../raw/Articles/poweredoutdoors.com/how-to-stop-your-lawn-mower-from-shaking-vibrating.md) — How to Stop Your Lawn Mower from Shaking & Vibrating (expert-blog)
+- [S50](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-cuts-uneven.md) — 12 Reasons a Husqvarna Mower Has a Bad or Uneven Cut (expert-blog)
+- [S51](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-engine-overheats.md) — 8 Reasons Your Husqvarna Mower Engine OVERHEATS (expert-blog)
+- [S52](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-loses-power.md) — Your Husqvarna Mower Loses Power (14 Reasons) (expert-blog)
+- [S53](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-vibrating-problem.md) — Fixed! Your Husqvarna Mower Vibrating Problem (expert-blog)
+- [S54](../../raw/Articles/poweredoutdoors.com/hustler-mower-bad-uneven-cut.md) — 13 Reasons a Hustler Mower Has a BAD CUT or Cuts Uneven (expert-blog)
+- [S55](../../raw/Articles/poweredoutdoors.com/hustler-mower-overheating.md) — Your Hustler Mower is OVERHEATING (8 Reasons) (expert-blog)
+- [S56](../../raw/Articles/poweredoutdoors.com/hustler-mower-runs-rough.md) — 12 Reasons a Hustler Mower Runs Rough: Troubleshoot & Fix (expert-blog)
+- [S57](../../raw/Articles/poweredoutdoors.com/hustler-mower-vibrates.md) — 9 Reasons a Hustler Mower Vibrates & Shakes (FIX IT) (expert-blog)
+- [S58](../../raw/Articles/poweredoutdoors.com/inspecting-your-lawn-mower-blades-saves-you-time-money.md) — Inspect, Sharpen and Replace Lawn Mower Blades (expert-blog)
+- [S59](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-is-vibrating.md) — Your John Deere Lawn Mower is Vibrating (Solved!) (expert-blog)
+- [S60](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-quits-when-hot.md) — Your John Deere Lawn Mower Quits When Hot (This is Why) (expert-blog)
+- [S61](../../raw/Articles/poweredoutdoors.com/john-deere-mower-cuts-uneven.md) — 13 Reasons a John Deere Mower Has a Bad or Uneven Cut (expert-blog)
+- [S62](../../raw/Articles/poweredoutdoors.com/john-deere-mower-engine-overheats.md) — John Deere Mower Engine OVERHEATS (8 Causes & Fixes) (expert-blog)
+- [S63](../../raw/Articles/poweredoutdoors.com/john-deere-mower-running-rough.md) — John Deere Mower Runs Rough & Sputters (FIND & FIX) (expert-blog)
+- [S64](../../raw/Articles/poweredoutdoors.com/kobalt-electric-mower-bad-cut.md) — Kobalt Electric Mower Has a Bad or Uneven Cut (9 Reasons) (expert-blog)
+- [S65](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-cuts-uneven.md) — 13 Reasons a Kubota Lawn Mower Has a Bad or Uneven Cut (expert-blog)
+- [S66](../../raw/Articles/poweredoutdoors.com/kubota-mower-engine-overheats.md) — 8 Things that OVERHEAT a Kubota Lawn Mower Engine (expert-blog)
+- [S67](../../raw/Articles/poweredoutdoors.com/kubota-mower-loses-power.md) — 13 Reasons Your Kubota Lawn Mower Loses Power: SOLVED! (expert-blog)
+- [S68](../../raw/Articles/poweredoutdoors.com/kubota-mower-rough-sputtering.md) — Kubota Mower is Running Rough or Sputtering (12 Reasons) (expert-blog)
+- [S69](../../raw/Articles/poweredoutdoors.com/lawn-mower-is-cutting-uneven.md) — 9 Reasons a Lawn Mower is Cutting Uneven (Bad Cut) FIX IT! (expert-blog)
+- [S70](../../raw/Articles/poweredoutdoors.com/lawn-mowers-bad-cut-solved.md) — Your Lawn Mower Cuts Uneven (Bad Cut Solved!) (expert-blog)
+- [S71](../../raw/Articles/poweredoutdoors.com/mower-deck-is-vibrating.md) — 8 Reasons Your Mower Deck is Vibrating: Solved! (expert-blog)
+- [S72](../../raw/Articles/poweredoutdoors.com/mower-is-not-bagging-grass-solved.md) — Why Your Mower is Not Bagging Grass: Solved! (expert-blog)
+- [S73](../../raw/Articles/poweredoutdoors.com/mower-loses-power.md) — 10 Reasons Your Lawn Mower Loses Power (Solved!) (expert-blog)
+- [S74](../../raw/Articles/poweredoutdoors.com/push-mower-engine-overheats.md) — Push Mower Engine Overheats (expert-blog)
+- [S75](../../raw/Articles/poweredoutdoors.com/push-mower-is-cutting-uneven.md) — This is Why Your Push Mower Has an Uneven or Bad Cut (expert-blog)
+- [S76](../../raw/Articles/poweredoutdoors.com/push-mower-is-vibrating.md) — Your Push Mower is Vibrating: SOLVED! (expert-blog)
+- [S77](../../raw/Articles/poweredoutdoors.com/push-mower-loses-power.md) — 12 Reasons Your Push Mower Loses Power: SOLVED! (expert-blog)
+- [S78](../../raw/Articles/poweredoutdoors.com/push-mower-quits-when-hot.md) — 11 Reasons Your Push Mower Quits When Hot: FIX IT! (expert-blog)
+- [S79](../../raw/Articles/poweredoutdoors.com/push-mower-runs-rough-sputters.md) — 12 Reasons a Push Mower Runs Rough and Sputters: FIXED! (expert-blog)
+- [S80](../../raw/Articles/poweredoutdoors.com/reasons-lawn-tractor-cuts-uneven.md) — 12 Reasons a Lawn Tractor Has a Bad or Uneven Cut (expert-blog)
+- [S81](../../raw/Articles/poweredoutdoors.com/reasons-your-riding-mower-is-cutting-uneven.md) — 13 Reasons a Riding Mower Has a Bad or Uneven Cut (expert-blog)
+- [S82](../../raw/Articles/poweredoutdoors.com/riding-lawn-mower-starts-then-dies.md) — 11 Reasons a Riding Lawn Mower Starts Then Dies (Solved!) (expert-blog)
+- [S83](../../raw/Articles/poweredoutdoors.com/riding-lawn-mower-vibration.md) — Riding Mower Vibration: Troubleshoot & Fix 9 Causes (expert-blog)
+- [S84](../../raw/Articles/poweredoutdoors.com/ryobi-electric-mower-bad-uneven-cut.md) — RYOBI Electric Mower Has a Bad and Uneven Cut (9 Reasons) (expert-blog)
+- [S85](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-has-a-bad-or-uneven-cut.md) — 13 Reasons Your SCAG Lawn Mower Has a Bad or Uneven Cut (expert-blog)
+- [S86](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-is-vibrating-and-shaking.md) — This is Why Your SCAG Lawn Mower is Vibrating and Shaking (expert-blog)
+- [S87](../../raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-loses-power.md) — SCAG Zero Turn Mower Loses Power (Check 10 Things) (expert-blog)
+- [S88](../../raw/Articles/poweredoutdoors.com/simplicity-lawn-mower-bad-uneven-cut.md) — 13 Reasons a Simplicity Mower Has a Bad or Uneven Cut (expert-blog)
+- [S89](../../raw/Articles/poweredoutdoors.com/simplicity-mower-is-vibrating.md) — Your Simplicity Mower is Vibrating & Shaking (Make it Stop) (expert-blog)
+- [S90](../../raw/Articles/poweredoutdoors.com/snapper-lawn-mower-cuts-uneven.md) — 12 Reasons a Snapper Lawn Mower Has a Bad or Uneven Cut (expert-blog)
+- [S91](../../raw/Articles/poweredoutdoors.com/snapper-lawn-mower-is-vibrating.md) — SOLVED! Your Snapper Lawn Mower is Vibrating (expert-blog)
+- [S92](../../raw/Articles/poweredoutdoors.com/solved-toro-lawn-mower-quits-when-hot.md) — SOLVED! Toro Lawn Mower Quits When Hot (expert-blog)
+- [S93](../../raw/Articles/poweredoutdoors.com/spartan-lawn-mower-is-vibrating-shaking.md) — 9 Reasons a Spartan Lawn Mower is Vibrating & Shaking (expert-blog)
+- [S94](../../raw/Articles/poweredoutdoors.com/spartan-mower-bad-or-uneven-cut.md) — 12 Reasons a Spartan Mower Has a Bad or Uneven Cut (expert-blog)
+- [S95](../../raw/Articles/poweredoutdoors.com/sun-joe-electric-mower-bad-cut.md) — Sun Joe Electric Mower Has a Bad or Uneven Cut (9 CAUSES) (expert-blog)
+- [S96](../../raw/Articles/poweredoutdoors.com/this-is-why-your-riding-lawn-mower-loses-power.md) — 14 Reasons Your Riding Lawn Mower Loses Power (expert-blog)
+- [S97](../../raw/Articles/poweredoutdoors.com/toro-electric-mower-bad-cut.md) — 9 Reasons a Toro Electric Mower Has a Bad or Uneven Cut (expert-blog)
+- [S98](../../raw/Articles/poweredoutdoors.com/toro-lawn-mower-is-cutting-uneven.md) — 12 Reasons a Toro Lawn Mower Has a Bad or Uneven Cut (expert-blog)
+- [S99](../../raw/Articles/poweredoutdoors.com/toro-lawn-mower-is-vibrating-solved.md) — Toro Lawn Mower is Vibrating: Solved! (expert-blog)
+- [S100](../../raw/Articles/poweredoutdoors.com/toro-mower-loses-power.md) — 14 Reasons Your Toro Mower Loses Power and Bogs Down (expert-blog)
+- [S101](../../raw/Articles/poweredoutdoors.com/walker-mower-vibrating.md) — 9 Reasons Your Walker Mower is Vibrating & Shaking (expert-blog)
+- [S102](../../raw/Articles/poweredoutdoors.com/why-your-craftsman-lawn-mower-dies-how-to-fix.md) — 12 Reasons a Craftsman Lawn Mower Starts Then Dies: FIXED (expert-blog)
+- [S103](../../raw/Articles/poweredoutdoors.com/why-your-cub-cadet-lawn-mower-cuts-uneven.md) — 13 Reasons a Cub Cadet Lawn Mower Has a Bad or Uneven Cut (expert-blog)
+- [S104](../../raw/Articles/poweredoutdoors.com/why-your-troy-bilt-lawn-mower-is-cutting-uneven-fixed.md) — 12 Reasons a Troy-Bilt Lawn Mower Has a Bad or Uneven Cut (Fixed!) (expert-blog)
+- [S105](../../raw/Articles/poweredoutdoors.com/worx-mower-has-bad-uneven-cut.md) — Worx Electric Mower Has a Bad or Uneven Cut (9 Causes) (expert-blog)
+- [S106](../../raw/Articles/poweredoutdoors.com/wright-mower-vibrates-shakes.md) — Your Wright Mower Vibrates and Shakes (Make It Stop) (expert-blog)
+- [S107](../../raw/Articles/poweredoutdoors.com/your-ariens-lawn-mower-is-cutting-uneven.md) — 12 Reasons an Ariens Lawn Mower Has a Bad or Uneven Cut (expert-blog)
+- [S108](../../raw/Articles/poweredoutdoors.com/your-bad-or-uneven-exmark-mower-cut.md) — Your Bad or Uneven Exmark Mower Cut Solved! (expert-blog)
+- [S109](../../raw/Articles/poweredoutdoors.com/your-craftsman-lawn-mower-vibration-solved.md) — Your Craftsman Lawn Mower Vibration (Solved!) (expert-blog)
+- [S110](../../raw/Articles/poweredoutdoors.com/your-cub-cadet-quits-when-it-gets-hot-solved.md) — Your Cub Cadet Quits When It Gets Hot (Solved!) (expert-blog)
+- [S111](../../raw/Articles/poweredoutdoors.com/your-ferris-lawn-mower-cuts-uneven.md) — 12 Reasons a Ferris Mower Gives a Bad or Uneven Cut: Solved! (expert-blog)
+- [S112](../../raw/Articles/poweredoutdoors.com/your-gravely-lawn-mower-vibration.md) — Your Gravely Lawn Mower Vibration SOLVED! (expert-blog)
+- [S113](../../raw/Articles/poweredoutdoors.com/your-lawn-tractor-is-vibrating.md) — This is Why Your Lawn Tractor is Vibrating (SOLVED) (expert-blog)
+- [S114](../../raw/Articles/poweredoutdoors.com/zero-turn-lawn-mower-is-cutting-uneven.md) — 13 Reasons Your Zero Turn Mower Has a Bad or Uneven Cut (expert-blog)
+- [S115](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-is-shaking-vibrating.md) — Solved! Your Zero Turn Mower is Shaking & Vibrating (expert-blog)
+- [S116](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-loses-power.md) — Your Zero Turn Mower Loses Power (Solved!) (expert-blog)
+- [S117](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-quits-when-hot.md) — SOLVED! Your Zero Turn Mower Quits When Hot (expert-blog)
+- [S118](../../raw/Articles/searspartsdirect.com/how-to-replace-a-riding-lawn-mower-blade.md) — How to replace a riding lawn mower blade (manufacturer)
+- [S119](../../raw/Articles/searspartsdirect.com/mower-deck-vibrates.ltrtr140.md) — Why does my riding mower deck vibrate? (manufacturer)
+- [S120](../../raw/Articles/searspartsdirect.com/not-cutting-evenly.ridtr02.md) — Why is my riding mower not cutting evenly? (manufacturer)
+- [S121](../../raw/Articles/searspartsdirect.com/troubleshooting-a-noisy-riding-lawn-mower.md) — Troubleshooting a noisy riding lawn mower (manufacturer)
+- [S122](../../raw/Articles/searspartsdirect.com/why-does-my-lawn-tractor-cut-unevenly.md) — Why does my lawn tractor cut unevenly? (manufacturer)
+- [S123](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md) — Why your mower loses power when the blades are engaged (manufacturer)

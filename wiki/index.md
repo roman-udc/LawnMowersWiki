@@ -7,6 +7,7 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Engine cranks but won't start](problems/engine-cranks-but-wont-start.md) — engine spins on the starter or recoil but never fires: air, fuel, spark or compression is missing. Aliases: "turns over but won't start", "engine spins but won't start", "cranks but won't fire", "starter works but the engine won't catch", "acts like it wants to start but doesn't", "engine spins but won't start when I turn the key", "you can hear the engine wanting to start but it just won't", "lawn mower won't start", "push mower won't start", "self-propelled mower won't start", "riding mower won't start", "lawn tractor won't start", "zero turn won't start", "diesel lawn mower won't start", "won't start after winter", "mower isn't getting gas", "carburetor isn't getting fuel"
 - [Engine won't crank or turn over](problems/engine-wont-crank.md) — turn the key and the engine doesn't spin: nothing happens, or only a click or hum; usually the starter isn't getting power (battery, cables, ground, fuse, switches, solenoid), then the starter motor. Aliases: "won't turn over", "won't crank", "nothing happens when I turn the key", "no click when I turn the key", "mower seems completely dead", "battery is good but nothing happens when I turn the key", "clicks but won't start", "clicks but won't start or turn over", "just clicks or hums when I turn the key", "click, click, click when I turn the key", "humming sound when starting", "starter clicks but no crank", "can't get the engine to turn over", "won't crank after sitting", "intermittent no-start", "lawn tractor doesn't start sometimes", "riding mower won't turn over or crank", "zero turn won't turn over or crank"
 - [Engine starts then dies](problems/engine-starts-then-dies.md) — starts, then stalls after seconds or minutes or partway through mowing; usually a fuel or air restriction (old gas, carburetor, filters, lines, gas cap vent, choke), a weak spark, or overheating and overload (cooling fins, oil level, plugged deck). Aliases: "won't stay running", "keeps stalling", "keeps shutting off", "dies while mowing", "quits in the middle of the lawn", "only runs a few seconds then dies", "loses power and dies", "acts like it's not getting gas", "riding mower dies when I release the brake", "electric mower starts then stops"
+- [Mower cuts uneven](problems/uneven-cut.md) — strips of uncut grass, stair-step ridges, scalped spots or brown, ragged tips: the deck isn't level (tires, deck, shell), the blades or deck parts are worn or damaged, or the mower is run too fast or below full throttle. Aliases: "bad cut", "bad or uneven cut", "lawn mower cuts uneven", "cut looks terrible", "mower leaves strips of uncut grass", "leaves a row of grass", "uncut strip between passes", "streaking", "stringers or patches of uncut grass", "stair-step cut", "step cut or ridges in the lawn", "deck is lower on one side", "grass tips turn brown a couple of days after mowing", "grass looks shredded", "leaves piles of grass", "scalping", "riding mower not cutting evenly", "lawn tractor cuts unevenly", "zero turn cutting uneven", "push mower uneven or bad cut", "electric mower leaves uneven cuts"
 
 ## Causes
 
@@ -46,6 +47,18 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Overfilled oil](causes/overfilled-oil.md) — oil above the full mark raises crankcase pressure, smokes, fouls the plug or hydrolocks the engine; drain the excess (easy).
 - [Wrong fuel](causes/wrong-fuel.md) — gas with too much ethanol, low octane, diesel, or straight gas in a 2-cycle engine; drain and refill with the right fuel (easy).
 - [Wrong oil or low oil](causes/wrong-oil-or-low-oil.md) — too little oil or the wrong grade causes friction and heat until the engine shuts down; correct the oil (easy if caught early).
+- [Dull or bent blade](causes/dull-or-bent-blade.md) — dull, worn, chipped or bent blade tears grass (brown tips) and leaves strips; tip-to-ground check over 1/8 inch means replace; sharpen or replace, never straighten (moderate).
+- [Mowing too fast](causes/mowing-too-fast.md) — ground speed too high for thick, tall or wet grass pushes it over and leaves alternating stripes; slow down (easy).
+- [Wrong tire pressure](causes/wrong-tire-pressure.md) — low or uneven tire pressure tilts the deck and gives a stair-step cut; check first, set to spec and equal left and right (easy).
+- [Wrong engine speed](causes/wrong-engine-speed.md) — engine not at full throttle, so the blades spin too slowly to cut cleanly; mow at full throttle (easy).
+- [Unlevel deck](causes/unlevel-deck.md) — deck out of level side to side or front to back gives ridges and scalping; measure the four corners and level it (moderate).
+- [Blade installed upside down](causes/blade-installed-upside-down.md) — blade sails pointing down instead of up toward the deck; reinstall with the correct hardware (moderate).
+- [Bent deck or deck shell](causes/bent-deck-or-deck-shell.md) — damaged or bent deck shell gives an uneven cut; straighten if possible, else replace the shell or deck (pro).
+- [Incorrect path overlap](causes/incorrect-path-overlap.md) — passes that don't overlap leave strips of uncut grass; overlap each pass (easy).
+- [Debris on deck or pulleys](causes/debris-on-deck-or-pulleys.md) — grass packed under the deck or around pulleys blocks airflow and loads the engine; scrape and clean the deck (easy).
+- [Wrong cutting height](causes/wrong-cutting-height.md) — wheels or deck set to different or too-low heights; set every height adjuster the same (easy).
+- [Bad tire or wheel](causes/bad-tire.md) — damaged, loose, flat or mismatched wheel stops the deck sitting level; repair or replace it (easy to moderate).
+- [Bad blade adapter or loose blade](causes/bad-blade-adapter-or-loose-blade.md) — loose blade, worn adapter, or wrong-size or aftermarket blade; tighten or replace with the correct blade (moderate).
 
 ## Procedures
 
@@ -77,6 +90,11 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Clean the cooling fins](procedures/clean-the-cooling-fins.md) — remove the engine shroud and clear dirt and grass from the fins (easy).
 - [Clean the gas tank](procedures/clean-the-gas-tank.md) — drain, remove and clean a dirty or rusty metal gas tank (easy).
 - [Drain excess oil](procedures/drain-excess-oil.md) — remove oil down to the full mark with an evacuator, baster or the drain plug (easy).
+- [Level the deck](procedures/level-the-deck.md) — set tire pressures, measure the deck at four corners and adjust side to side and front to back per the manual (moderate).
+- [Measure a mower blade](procedures/measure-a-mower-blade.md) — check a blade for a bend (tip-to-ground, over 1/8 inch means replace) and measure its diagonal length and center hole to order the right replacement (easy).
+- [Repair a flat tire](procedures/repair-a-flat-tire.md) — find a tread leak, inject tire sealant through the valve stem and reinflate; sidewall damage means replace the tire (easy).
+- [Replace a tire](procedures/replace-a-tire.md) — raise the mower, remove the wheel, break the bead and fit a new tire on the rim, then reinstall (moderate).
+- [Sharpen and replace the blades](procedures/sharpen-and-replace-the-blades.md) — remove the blades safely, sharpen and balance or replace them, reinstall sails up and torque the bolt (moderate).
 
 ## Guides
 
