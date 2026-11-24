@@ -8,6 +8,7 @@ problems:
   - ../problems/engine-loses-power.md
   - ../problems/engine-runs-rough.md
   - ../problems/engine-only-runs-with-choke-on.md
+  - ../problems/engine-hard-to-start-when-cold.md
 part_types:
   - fuel pump
 procedures: []
@@ -63,6 +64,10 @@ Sources for Engine runs rough: [S75](../../raw/Articles/poweredoutdoors.com/lawn
 - [Engine only runs with the choke on](../problems/engine-only-runs-with-choke-on.md): not enough fuel reaches the carburetor, so it only runs with the choke on.
 
 Sources for Engine only runs with the choke on: [S13](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md), [S66](../../raw/Articles/poweredoutdoors.com/john-deere-mower-runs-choke-on.md), [S72](../../raw/Articles/poweredoutdoors.com/kubota-mower-runs-choke-on.md), [S88](../../raw/Articles/poweredoutdoors.com/riding-mower-only-runs-choke-on.md), [S105](../../raw/Articles/poweredoutdoors.com/toro-only-runs-choke-on.md), [S134](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-only-runs-choke-on.md)
+
+- [Engine hard to start when cold](../problems/engine-hard-to-start-when-cold.md): a pump weakened by old fuel can make a cold start hard.
+
+Sources for Engine hard to start when cold: [S76](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-when-cold.md)
 
 ## How to confirm
 

@@ -3,11 +3,12 @@ type: cause
 title: Bad glow plugs
 problems:
   - ../problems/engine-cranks-but-wont-start.md
+  - ../problems/engine-hard-to-start-when-cold.md
 part_types:
   - glow plug
 procedures: []
 source_count: 1
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Bad glow plugs
@@ -28,6 +29,10 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/diesel-lawn-mower-wont-star
 - [Engine cranks but won't start](../problems/engine-cranks-but-wont-start.md): a diesel mower turns over but won't fire, especially from cold.
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/diesel-lawn-mower-wont-start.md)
+
+- [Engine hard to start when cold](../problems/engine-hard-to-start-when-cold.md): a diesel needs working glow plugs to warm a cold engine.
+
+Sources for Engine hard to start when cold: [S1](../../raw/Articles/poweredoutdoors.com/diesel-lawn-mower-wont-start.md)
 
 ## How to confirm
 

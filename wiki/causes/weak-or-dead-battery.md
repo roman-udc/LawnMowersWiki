@@ -8,6 +8,7 @@ problems:
   - ../problems/engine-starts-then-dies.md
   - ../problems/battery-keeps-dying.md
   - ../problems/battery-mower-wont-start.md
+  - ../problems/engine-hard-to-start-when-cold.md
 part_types:
   - 12-volt lawn and garden battery
   - battery charger
@@ -57,6 +58,10 @@ Sources for Blades won't engage: [S3](../../raw/Articles/poweredoutdoors.com/ari
 Sources for Battery keeps dying: [S1](../../raw/Articles/poweredoutdoors.com/5-things-that-are-draining-the-life-of-your-lawn-mower-battery.md), [S5](../../raw/Articles/poweredoutdoors.com/bad-boy-battery-keeps-dying.md), [S64](../../raw/Articles/poweredoutdoors.com/john-deere-mower-battery-keeps-dying.md), [S127](../../raw/Articles/searspartsdirect.com/dead-battery.ltrtr141.md), [S161](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-battery-keeps-dying.md), [S162](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-starts-then-dies.md), [S163](../../raw/Articles/poweredoutdoors.com/husqvarna-battery-keeps-dying.md), [S164](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-dies-while-mowing.md), [S165](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-starts-then-dies.md), [S166](../../raw/Articles/poweredoutdoors.com/lawn-mower-battery-charging-times-explained.md), [S167](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-starts-then-dies.md), [S168](../../raw/Articles/poweredoutdoors.com/troy-bilt-battery-keeps-dying.md), [S169](../../raw/Articles/poweredoutdoors.com/walker-mower-starts-then-dies.md), [S170](../../raw/Articles/searspartsdirect.com/lawn-tractor-won-t-start.ridtr04.md)
 
 Sources for Battery mower won't start: [S10](../../raw/Articles/poweredoutdoors.com/battery-lawn-mower-wont-start.md), [S37](../../raw/Articles/poweredoutdoors.com/electric-lawn-mower-wont-start.md), [S38](../../raw/Articles/poweredoutdoors.com/electric-lawn-mowers-dangers-and-safety-guide.md), [S49](../../raw/Articles/poweredoutdoors.com/greenworks-lawn-mower-wont-start.md), [S68](../../raw/Articles/poweredoutdoors.com/kobalt-electric-mower-wont-start.md), [S84](../../raw/Articles/poweredoutdoors.com/reasons-why-your-ego-electric-lawn-mower-wont-start.md), [S96](../../raw/Articles/poweredoutdoors.com/skil-electric-mower-wont-start-12-starting-problems.md), [S104](../../raw/Articles/poweredoutdoors.com/sun-joe-electric-mower-wont-start.md), [S116](../../raw/Articles/poweredoutdoors.com/worx-electric-mower-wont-start.md), [S171](../../raw/Articles/poweredoutdoors.com/dewalt-electric-mower-wont-start.md), [S172](../../raw/Articles/poweredoutdoors.com/ryobi-electric-battery-mower-wont-start.md), [S173](../../raw/Articles/poweredoutdoors.com/toro-electric-mower-wont-start.md)
+
+- [Engine hard to start when cold](../problems/engine-hard-to-start-when-cold.md): a battery left in the cold without a good charge can freeze and fail.
+
+Sources for Engine hard to start when cold: [S76](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-when-cold.md)
 
 ## How to confirm
 

@@ -9,6 +9,7 @@ problems:
   - ../problems/mower-wont-move.md
   - ../problems/engine-runs-rough.md
   - ../problems/battery-mower-wont-start.md
+  - ../problems/engine-hard-to-start-when-cold.md
 part_types:
   - seat switch
   - brake interlock switch
@@ -61,6 +62,10 @@ Sources for Engine runs rough: [S64](../../raw/Articles/poweredoutdoors.com/lawn
 - [Battery mower won't start](../problems/battery-mower-wont-start.md): a safety switch (handle, side rails, safety bar or safety button) that doesn't recognize the safety device keeps a battery mower from starting; test each with a jumper wire.
 
 Sources for Battery mower won't start: [S7](../../raw/Articles/poweredoutdoors.com/battery-lawn-mower-wont-start.md), [S30](../../raw/Articles/poweredoutdoors.com/dewalt-electric-mower-wont-start.md), [S34](../../raw/Articles/poweredoutdoors.com/electric-lawn-mower-wont-start.md), [S44](../../raw/Articles/poweredoutdoors.com/greenworks-lawn-mower-wont-start.md), [S59](../../raw/Articles/poweredoutdoors.com/kobalt-electric-mower-wont-start.md), [S75](../../raw/Articles/poweredoutdoors.com/reasons-why-your-ego-electric-lawn-mower-wont-start.md), [S79](../../raw/Articles/poweredoutdoors.com/ryobi-electric-battery-mower-wont-start.md), [S86](../../raw/Articles/poweredoutdoors.com/skil-electric-mower-wont-start-12-starting-problems.md), [S93](../../raw/Articles/poweredoutdoors.com/sun-joe-electric-mower-wont-start.md), [S94](../../raw/Articles/poweredoutdoors.com/toro-electric-mower-wont-start.md), [S108](../../raw/Articles/poweredoutdoors.com/worx-electric-mower-wont-start.md)
+
+- [Engine hard to start when cold](../problems/engine-hard-to-start-when-cold.md): a switch that doesn't recognise the operator stops the mower starting.
+
+Sources for Engine hard to start when cold: [S65](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-when-cold.md)
 
 ## How to confirm
 

@@ -6,6 +6,7 @@ problems:
   - ../problems/engine-cranks-but-wont-start.md
   - ../problems/engine-starts-then-dies.md
   - ../problems/engine-runs-rough.md
+  - ../problems/engine-hard-to-start-when-cold.md
 part_types:
   - choke cable
 procedures: []
@@ -45,6 +46,10 @@ Sources for Engine starts then dies: [S9](../../raw/Articles/poweredoutdoors.com
 Sources for Mower is smoking: [S27](../../raw/Articles/poweredoutdoors.com/gravely-is-blowing-blue-black-or-white-smoke.md), [S37](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-is-smoking.md), [S44](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-is-smoking.md), [S53](../../raw/Articles/poweredoutdoors.com/push-mower-is-smoking.md), [S62](../../raw/Articles/poweredoutdoors.com/scag-mower-is-blowing-white-blue-or-black-smoke.md), [S79](../../raw/Articles/poweredoutdoors.com/common-kubota-problems-and-solutions.md), [S85](../../raw/Articles/poweredoutdoors.com/cub-cadet-is-smoking.md)
 
 Sources for Engine runs rough: [S19](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-running-rough-sputtering.md), [S25](../../raw/Articles/poweredoutdoors.com/ferris-runs-rough.md), [S35](../../raw/Articles/poweredoutdoors.com/hustler-mower-runs-rough.md), [S38](../../raw/Articles/poweredoutdoors.com/john-deere-mower-running-rough.md), [S46](../../raw/Articles/poweredoutdoors.com/kubota-mower-rough-sputtering.md), [S49](../../raw/Articles/poweredoutdoors.com/lawn-mower-is-running-rough.md), [S54](../../raw/Articles/poweredoutdoors.com/push-mower-runs-rough-sputters.md), [S83](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md), [S86](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S87](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md)
+
+- [Engine hard to start when cold](../problems/engine-hard-to-start-when-cold.md): a choke that doesn't close leaves a cold engine without the rich mixture it needs.
+
+Sources for Engine hard to start when cold: [S7](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-when-cold.md)
 
 ## How to confirm
 

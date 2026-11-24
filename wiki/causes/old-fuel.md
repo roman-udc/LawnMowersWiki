@@ -10,6 +10,7 @@ problems:
   - ../problems/engine-overheats.md
   - ../problems/engine-dies-when-hot.md
   - ../problems/engine-only-runs-with-choke-on.md
+  - ../problems/engine-hard-to-start-when-cold.md
 part_types:
   - fuel stabilizer
   - fuel filter
@@ -68,6 +69,10 @@ Sources for Engine overheats: [S196](../../raw/Articles/searspartsdirect.com/why
 Sources for Engine dies when hot: [S77](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-quits-when-hot.md), [S90](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-quits-when-hot.md), [S109](../../raw/Articles/poweredoutdoors.com/lawn-mower-quits-when-hot.md), [S123](../../raw/Articles/poweredoutdoors.com/push-mower-quits-when-hot.md), [S130](../../raw/Articles/poweredoutdoors.com/riding-lawn-mower-quits-when-hot.md), [S150](../../raw/Articles/poweredoutdoors.com/solved-toro-lawn-mower-quits-when-hot.md), [S177](../../raw/Articles/poweredoutdoors.com/your-cub-cadet-quits-when-it-gets-hot-solved.md), [S191](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-quits-when-hot.md), [S198](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S201](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S210](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md)
 
 Sources for Engine only runs with the choke on: [S15](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md), [S93](../../raw/Articles/poweredoutdoors.com/john-deere-mower-runs-choke-on.md), [S102](../../raw/Articles/poweredoutdoors.com/kubota-mower-runs-choke-on.md), [S134](../../raw/Articles/poweredoutdoors.com/riding-mower-only-runs-choke-on.md), [S158](../../raw/Articles/poweredoutdoors.com/toro-only-runs-choke-on.md), [S190](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-only-runs-choke-on.md)
+
+- [Engine hard to start when cold](../problems/engine-hard-to-start-when-cold.md): old gas can stop a cold start.
+
+Sources for Engine hard to start when cold: [S112](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-when-cold.md)
 
 ## How to confirm
 

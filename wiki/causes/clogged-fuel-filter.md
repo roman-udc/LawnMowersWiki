@@ -8,6 +8,7 @@ problems:
   - ../problems/engine-loses-power.md
   - ../problems/engine-runs-rough.md
   - ../problems/engine-only-runs-with-choke-on.md
+  - ../problems/engine-hard-to-start-when-cold.md
 part_types:
   - fuel filter
 procedures:
@@ -64,6 +65,10 @@ Sources for Engine runs rough: [S42](../../raw/Articles/poweredoutdoors.com/cub-
 - [Engine only runs with the choke on](../problems/engine-only-runs-with-choke-on.md): reduced fuel flow may require the choke to correct the mixture.
 
 Sources for Engine only runs with the choke on: [S15](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md), [S77](../../raw/Articles/poweredoutdoors.com/john-deere-mower-runs-choke-on.md), [S85](../../raw/Articles/poweredoutdoors.com/kubota-mower-runs-choke-on.md), [S112](../../raw/Articles/poweredoutdoors.com/riding-mower-only-runs-choke-on.md), [S132](../../raw/Articles/poweredoutdoors.com/toro-only-runs-choke-on.md), [S159](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-only-runs-choke-on.md)
+
+- [Engine hard to start when cold](../problems/engine-hard-to-start-when-cold.md): a clogged filter can stop a cold start.
+
+Sources for Engine hard to start when cold: [S93](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-when-cold.md)
 
 ## How to confirm
 

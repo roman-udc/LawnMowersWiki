@@ -10,6 +10,7 @@ problems:
   - ../problems/engine-runs-rough.md
   - ../problems/engine-dies-when-hot.md
   - ../problems/engine-only-runs-with-choke-on.md
+  - ../problems/engine-hard-to-start-when-cold.md
 part_types:
   - carburetor
   - carburetor rebuild kit
@@ -74,6 +75,10 @@ Sources for Engine dies when hot: [S76](../../raw/Articles/poweredoutdoors.com/h
 - [Engine only runs with the choke on](../problems/engine-only-runs-with-choke-on.md): clogged passages restrict fuel, so the choke is needed to correct the mixture.
 
 Sources for Engine only runs with the choke on: [S10](../../raw/Articles/poweredoutdoors.com/riding-mower-only-runs-choke-on.md), [S15](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md), [S91](../../raw/Articles/poweredoutdoors.com/john-deere-mower-runs-choke-on.md), [S101](../../raw/Articles/poweredoutdoors.com/kubota-mower-runs-choke-on.md), [S159](../../raw/Articles/poweredoutdoors.com/toro-only-runs-choke-on.md), [S192](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-only-runs-choke-on.md)
+
+- [Engine hard to start when cold](../problems/engine-hard-to-start-when-cold.md): gummy deposits clog the small parts.
+
+Sources for Engine hard to start when cold: [S112](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-when-cold.md)
 
 ## How to confirm
 
