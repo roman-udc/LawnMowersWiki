@@ -4,6 +4,7 @@ title: Bad wiring or ground
 problems:
   - ../problems/engine-wont-crank.md
   - ../problems/engine-starts-then-dies.md
+  - ../problems/battery-keeps-dying.md
 part_types:
   - ground cable
   - starter cable
@@ -13,8 +14,8 @@ procedures:
   - ../procedures/read-a-wiring-schematic.md
   - ../procedures/test-the-starter-solenoid.md
   - ../procedures/test-and-replace-a-fuse.md
-source_count: 38
-updated: 2026-11-23
+source_count: 39
+updated: 2026-11-24
 ---
 
 # Bad wiring or ground
@@ -45,6 +46,10 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/bad-boy-zero-turn-wont-turn
 - [Engine starts then dies](../problems/engine-starts-then-dies.md): loose, pinched or damaged wiring stops a battery mower, and an unplugged seat-switch connector kills a riding mower's engine when the brake is released.
 
 Sources for Engine starts then dies: [S12](../../raw/Articles/poweredoutdoors.com/ego-mower-starts-then-stops.md), [S36](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-dies-when-you-release-the-brake-video.md)
+
+- [Battery keeps dying](../problems/battery-keeps-dying.md): dirty or loose wiring connections let the battery go flat; check them when the battery and charging system test good.
+
+Sources for Battery keeps dying: [S39](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-starts-then-dies.md)
 
 ## How to confirm
 
@@ -137,3 +142,4 @@ Sources: [S14](../../raw/Articles/poweredoutdoors.com/electric-lawn-mowers-dange
 - [S36](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-dies-when-you-release-the-brake-video.md) — Riding lawn mower engine dies when you release the brake video (manufacturer)
 - [S37](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-wont-turn-over-or-click-video.md) — Riding lawn mower engine won't turn over or click video (manufacturer)
 - [S38](../../raw/Articles/searspartsdirect.com/troubleshooting-a-riding-lawn-mower-blown-fuse-video.md) — Troubleshooting a riding lawn mower blown fuse video (manufacturer)
+- [S39](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-starts-then-dies.md) — 12 Reasons a SCAG Lawn Mower Starts Then Dies: SOLVED! (expert-blog)

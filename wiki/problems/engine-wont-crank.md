@@ -177,7 +177,7 @@ Sources: [S2](../../raw/Articles/poweredoutdoors.com/ariens-lawn-mower-wont-turn
 ## Related problems
 
 - **Not this problem? The engine spins normally but never fires:** see [Engine cranks but won't start](engine-cranks-but-wont-start.md).
-- **The battery keeps going flat:** see the Battery keeps dying Problem (page not written yet).
+- **The battery keeps going flat:** see [Battery keeps dying](battery-keeps-dying.md).
 - **Battery-powered (cordless) mower won't start:** see the Battery mower won't start Problem (page not written yet).
 
 ## Sources

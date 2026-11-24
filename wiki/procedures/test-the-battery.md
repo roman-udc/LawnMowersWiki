@@ -6,6 +6,7 @@ causes:
   - ../causes/faulty-charging-system.md
   - ../causes/loose-or-corroded-battery-cables.md
   - ../causes/bad-starter-motor.md
+  - ../causes/bad-alternator.md
 part_types:
   - battery
 difficulty: easy
@@ -15,12 +16,12 @@ tools:
   - work gloves
   - safety goggles
 source_count: 21
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Test the battery
 
-Fixes: [Weak or dead battery](../causes/weak-or-dead-battery.md), [Faulty charging system](../causes/faulty-charging-system.md). Also rules out [Loose or corroded battery cables](../causes/loose-or-corroded-battery-cables.md) and is the first check before blaming a [Bad starter motor](../causes/bad-starter-motor.md).
+Fixes: [Weak or dead battery](../causes/weak-or-dead-battery.md), [Faulty charging system](../causes/faulty-charging-system.md), [Bad alternator](../causes/bad-alternator.md) (running-voltage check). Also rules out [Loose or corroded battery cables](../causes/loose-or-corroded-battery-cables.md) and is the first check before blaming a [Bad starter motor](../causes/bad-starter-motor.md).
 
 A quick voltage reading tells you whether the battery is charged, needs a charge, or is too weak to crank the engine. Most riding and zero-turn mower batteries are 12 volts. A second reading with the engine running checks the charging system.
 

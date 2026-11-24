@@ -5,6 +5,7 @@ causes:
   - ../causes/weak-or-dead-battery.md
   - ../causes/faulty-charging-system.md
   - ../causes/bad-starter-solenoid.md
+  - ../causes/parasitic-battery-drain.md
 part_types:
   - battery
   - distilled water
@@ -17,12 +18,12 @@ tools:
   - safety glasses
   - work gloves
 source_count: 72
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Charge the battery
 
-Fixes: [Weak or dead battery](../causes/weak-or-dead-battery.md). A battery that charges but keeps going dead points to a [Faulty charging system](../causes/faulty-charging-system.md); a full charge is also the first step before you test for a [Bad starter solenoid](../causes/bad-starter-solenoid.md).
+Fixes: [Weak or dead battery](../causes/weak-or-dead-battery.md), and a battery flattened by [Parasitic battery drain](../causes/parasitic-battery-drain.md) (key left on). A battery that charges but keeps going dead points to a [Faulty charging system](../causes/faulty-charging-system.md); a full charge is also the first step before you test for a [Bad starter solenoid](../causes/bad-starter-solenoid.md).
 
 Charge the battery at the start of the mowing season, before winter storage, or whenever it's unexpectedly dead (for example when the ignition was left on). It can be charged without taking it out of the mower. If it won't take or hold a charge, replace it.
 
