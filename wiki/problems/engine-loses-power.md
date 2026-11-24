@@ -41,6 +41,7 @@ causes:
   - ../causes/low-compression.md
   - ../causes/worn-or-stretched-belt.md
   - ../causes/bad-gas-cap-seal.md
+  - ../causes/bad-cooling-shroud.md
 part_types:
   - air filter
   - fuel filter
@@ -112,7 +113,7 @@ Ranked by how many of the 25 Sources name the Cause for this Problem. Tie-break:
 | [Bad fuel pump](../causes/bad-fuel-pump.md) | 6 of 25 | Plenty of gas in the tank but the engine isn't getting enough | moderate |
 | [Plugged fuel cap vent](../causes/plugged-fuel-cap-vent.md) | 4 of 25 | Fuel held back in the tank; runs sluggish | easy |
 | Clogged deck chute | 3 of 25 | Plugged deck loads the engine | not yet rated |
-| Bad cooling shroud | 2 of 25 | Debris under the engine shroud; air passages blocked | not yet rated |
+| [Bad cooling shroud](../causes/bad-cooling-shroud.md) | 2 of 25 | Debris under the engine shroud; air passages blocked | easy |
 | [Wrong engine speed](../causes/wrong-engine-speed.md) | 2 of 25 | Engine not run at full throttle | easy |
 | [Bad governor](../causes/bad-governor.md) | 1 of 25 | Engine can't react fast enough when the blades engage | not rated by Sources |
 | [Bad ignition coil](../causes/bad-ignition-coil.md) | 1 of 25 | Loses power or stalls only after it heats up | moderate |
@@ -175,7 +176,7 @@ Sources: [S19](../../raw/Articles/poweredoutdoors.com/push-mower-loses-power.md)
 
 - Engine stalls instead of just bogging? See [Engine starts then dies](engine-starts-then-dies.md): when fuel doesn't reach it, the engine runs sluggish and may die and not restart.
 - Mower drives weakly or slowly while the engine sounds normal? See [Mower won't move](mower-wont-move.md) (weak hydrostatic transmission).
-- Working the engine harder can also overheat it (Engine overheats has no page yet). An oil-fouled plug also makes the engine run rough: see [Engine runs rough](engine-runs-rough.md).
+- Working the engine harder can also overheat it: see [Engine overheats](engine-overheats.md). An oil-fouled plug also makes the engine run rough: see [Engine runs rough](engine-runs-rough.md).
 - An underperforming mower also cuts badly: see [Mower cuts uneven](uneven-cut.md).
 
 Sources: [S28](../../raw/Articles/poweredoutdoors.com/zero-turn-lawn-mower-isnt-getting-fuel.md), [S18](../../raw/Articles/poweredoutdoors.com/mower-loses-power.md), [S25](../../raw/Articles/poweredoutdoors.com/too-much-oil-craftsman-mower.md), [S19](../../raw/Articles/poweredoutdoors.com/push-mower-loses-power.md)

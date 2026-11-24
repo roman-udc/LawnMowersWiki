@@ -60,6 +60,7 @@ causes:
   - ../causes/bad-gas-cap-seal.md
   - ../causes/cutting-wet-or-tall-grass.md
   - ../causes/water-in-fuel.md
+  - ../causes/bad-cooling-shroud.md
 part_types:
   - fuel filter
   - fuel line
@@ -147,7 +148,7 @@ Ranked by how many of the 82 Sources name the Cause for this Problem. Tie-break:
 | [Weak or dead battery](../causes/weak-or-dead-battery.md) | 4 of 82 | Battery mower shuts off; riding mower battery won't hold a charge | easy |
 | [Bad wiring or ground](../causes/bad-wiring-or-ground.md) | 2 of 82 | Loose, pinched or unplugged wires (seat switch, battery mower) | easy to moderate |
 | [Mowing too fast](../causes/mowing-too-fast.md) | 2 of 82 | Engine or motor overloaded by fast ground speed | not yet rated |
-| Bad cooling shroud | 1 of 82 | Dirty engine shroud or heat shield not in place | not yet rated |
+| [Bad cooling shroud](../causes/bad-cooling-shroud.md) | 1 of 82 | Dirty engine shroud or heat shield not in place | easy |
 | Bad motor | 1 of 82 | Battery mower; motor failed | not yet rated |
 | Battery not seated | 1 of 82 | Battery mower; battery loose in its slot | not yet rated |
 | [Cutting wet or tall grass](../causes/cutting-wet-or-tall-grass.md) | 1 of 82 | Battery mower stops in wet, tall or thick grass | easy |
@@ -206,7 +207,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/8-reasons-your-lawn-mower-w
 - **Not this problem? The engine spins but never fires:** see [Engine cranks but won't start](engine-cranks-but-wont-start.md).
 - **The engine doesn't spin at all, or only clicks:** see [Engine won't crank or turn over](engine-wont-crank.md).
 - **It dies only once it is hot:** see the Engine dies when hot Problem (page not written yet).
-- **It runs hot, smokes or loses power without stalling:** see [Engine loses power](engine-loses-power.md); Engine overheats has no page yet.
+- **It runs hot, smokes or loses power without stalling:** see [Engine loses power](engine-loses-power.md) and [Engine overheats](engine-overheats.md).
 - **It only keeps running with the choke on:** see the Engine only runs with the choke on Problem (page not written yet).
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/8-reasons-your-lawn-mower-wont-stay-running.md), [S32](../../raw/Articles/poweredoutdoors.com/fix-lawn-mower-starts-then-dies.md), [S52](../../raw/Articles/poweredoutdoors.com/lawn-mower-keeps-stalling.md)

@@ -4,10 +4,11 @@ title: Cutting wet or tall grass
 problems:
   - ../problems/engine-loses-power.md
   - ../problems/engine-starts-then-dies.md
+  - ../problems/engine-overheats.md
 part_types:
   - none (operator technique)
 procedures: []
-source_count: 31
+source_count: 41
 updated: 2026-11-24
 ---
 
@@ -31,17 +32,19 @@ Sources: [S22](../../raw/Articles/poweredoutdoors.com/mower-loses-power.md), [S1
 
 - [Engine loses power](../problems/engine-loses-power.md): the engine bogs down and feels sluggish in wet, tall or thick grass, especially with the blades engaged; wet clippings clump under the deck and strain it further.
 - [Engine starts then dies](../problems/engine-starts-then-dies.md): a battery mower stops when too-thick, tall or wet grass puts an extreme load on the motor, and may not restart until the load is reduced.
-- Engine overheats: long, thick or wet grass overworks the engine and can overheat it.
+- [Engine overheats](../problems/engine-overheats.md): long, thick or wet grass overworks the engine and can overheat it.
 - Mower doesn't bag grass well: wet grass or wet leaves build up under the deck and stick inside the chute, blower tubes and inlet tube, cutting the airflow that carries the clippings.
 - Poor or uneven cut: wet grass clumps on the deck and gives a poor cut.
 
-Engine overheats and Mower doesn't bag grass have no Problem pages yet.
+Mower doesn't bag grass has no Problem page yet.
 
 Sources for Engine loses power: [S3](../../raw/Articles/poweredoutdoors.com/bad-boy-loses-power.md), [S6](../../raw/Articles/poweredoutdoors.com/craftsman-mower-loses-power.md), [S8](../../raw/Articles/poweredoutdoors.com/cub-cadet-loses-power-bogs-down.md), [S13](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-loses-power.md), [S15](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-loses-power.md), [S20](../../raw/Articles/poweredoutdoors.com/kubota-mower-loses-power.md), [S22](../../raw/Articles/poweredoutdoors.com/mower-loses-power.md), [S25](../../raw/Articles/poweredoutdoors.com/push-mower-loses-power.md), [S26](../../raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-loses-power.md), [S28](../../raw/Articles/poweredoutdoors.com/this-is-why-your-riding-lawn-mower-loses-power.md), [S29](../../raw/Articles/poweredoutdoors.com/toro-mower-loses-power.md), [S30](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-loses-power.md), [S31](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md)
 
 Sources for Engine starts then dies: [S11](../../raw/Articles/poweredoutdoors.com/ego-mower-starts-then-stops.md), [S10](../../raw/Articles/poweredoutdoors.com/dewalt-electric-mower-wont-start.md), [S27](../../raw/Articles/poweredoutdoors.com/skil-electric-mower-wont-start-12-starting-problems.md)
 
 Sources for the other signs: [S2](../../raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-lawn-mower-to-overheat.md), [S7](../../raw/Articles/poweredoutdoors.com/craftsman-mower-overheating.md), [S9](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-engine-overheats.md), [S14](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-engine-overheats.md), [S16](../../raw/Articles/poweredoutdoors.com/hustler-mower-overheating.md), [S18](../../raw/Articles/poweredoutdoors.com/john-deere-mower-engine-overheats.md), [S24](../../raw/Articles/poweredoutdoors.com/push-mower-engine-overheats.md), [S32](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md), [S1](../../raw/Articles/poweredoutdoors.com/15-reasons-why-your-lawn-mower-is-not-picking-up-grass.md), [S21](../../raw/Articles/poweredoutdoors.com/mower-is-not-bagging-grass-solved.md), [S23](../../raw/Articles/poweredoutdoors.com/pick-up-leaves-with-a-mower.md), [S12](../../raw/Articles/poweredoutdoors.com/greenworks-lawn-mower-is-cutting-uneven.md), [S5](../../raw/Articles/poweredoutdoors.com/can-you-use-your-electric-lawn-mower-in-the-rain.md)
+
+Sources for Engine overheats: [S2](../../raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-lawn-mower-to-overheat.md), [S7](../../raw/Articles/poweredoutdoors.com/craftsman-mower-overheating.md), [S9](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-engine-overheats.md), [S14](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-engine-overheats.md), [S16](../../raw/Articles/poweredoutdoors.com/hustler-mower-overheating.md), [S18](../../raw/Articles/poweredoutdoors.com/john-deere-mower-engine-overheats.md), [S19](../../raw/Articles/poweredoutdoors.com/kubota-mower-engine-overheats.md), [S24](../../raw/Articles/poweredoutdoors.com/push-mower-engine-overheats.md), [S33](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S34](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S35](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S36](../../raw/Articles/poweredoutdoors.com/common-john-deere-lawn-mower-problems.md), [S37](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md), [S38](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md), [S39](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md), [S40](../../raw/Articles/poweredoutdoors.com/lawn-mower-engine-cooling-times-explained.md), [S41](../../raw/Articles/poweredoutdoors.com/mower-stopped-running.md), [S42](../../raw/Articles/poweredoutdoors.com/solved-toro-lawn-mower-quits-when-hot.md)
 
 ## How to confirm
 
@@ -116,3 +119,13 @@ Sources: [S13](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-loses-pow
 - [S30](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-loses-power.md) — Your Zero Turn Mower Loses Power (Solved!) (expert-blog)
 - [S31](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md) — Why your mower loses power when the blades are engaged (manufacturer)
 - [S32](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md) — Why your riding lawn mower overheats and how to cool it down (manufacturer)
+- [S33](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md) — 13 Bad Boy Mower Problems (Troubleshooting Tables) (expert-blog)
+- [S34](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md) — 14 Common Cub Cadet Mower Problems & Solutions (expert-blog)
+- [S35](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md) — Fix 14 Husqvarna Lawn Mower Problems (Troubleshooting Tables) (expert-blog)
+- [S36](../../raw/Articles/poweredoutdoors.com/common-john-deere-lawn-mower-problems.md) — 12 John Deere Mower Problems (John Deere Troubleshooting) (expert-blog)
+- [S37](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md) — 13 Common Ferris Zero Turn Problems (Troubleshooting) (expert-blog)
+- [S38](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md) — 13 Husqvarna Zero Turn Problems (Troubleshoot & Fix) (expert-blog)
+- [S39](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md) — (Troubleshoot) 13 Common John Deere Zero Turn Problems (expert-blog)
+- [S40](../../raw/Articles/poweredoutdoors.com/lawn-mower-engine-cooling-times-explained.md) — Lawn Mower Engine Cooling Times Explained (expert-blog)
+- [S41](../../raw/Articles/poweredoutdoors.com/mower-stopped-running.md) — 9 Reasons Your Mower Stopped Running: SOLVED! (expert-blog)
+- [S42](../../raw/Articles/poweredoutdoors.com/solved-toro-lawn-mower-quits-when-hot.md) — SOLVED! Toro Lawn Mower Quits When Hot (expert-blog)

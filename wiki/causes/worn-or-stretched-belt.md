@@ -6,6 +6,7 @@ problems:
   - ../problems/mower-is-vibrating.md
   - ../problems/uneven-cut.md
   - ../problems/engine-loses-power.md
+  - ../problems/engine-overheats.md
 part_types:
   - deck belt (blade drive belt)
   - ground drive belt
@@ -53,6 +54,10 @@ Sources for Blades won't engage: [S1](../../raw/Articles/poweredoutdoors.com/ari
 - [Engine loses power](../problems/engine-loses-power.md): a worn, loose or stretched blade drive belt slips under load and drags the engine down; squealing or a burning-rubber smell.
 
 Sources for Engine loses power: [S118](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md)
+
+- [Engine overheats](../problems/engine-overheats.md): slipping or misaligned belts generate extra friction or block airflow around the engine.
+
+Sources for Engine overheats: [S97](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md)
 
 ## How to confirm
 

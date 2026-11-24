@@ -1652,3 +1652,49 @@ Note: Cluster 18 (ticket 18), single writer and finalizer. Created problems/engi
 - raw/Articles/searspartsdirect.com/runs-rough-or-misfires.ridtr03.md → ingested → problems/engine-runs-rough.md
 
 Note: Cluster 19 (ticket 19), single writer and finalizer. Created problems/engine-runs-rough (34 Sources: 4 manufacturer, 30 expert-blog; push, self-propelled, riding, zero-turn; gas); causes/water-in-fuel (12, incl. the Bad Boy smoking article behind its mower-is-smoking row). Updated causes dirty-carburetor, fouled-spark-plug, old-fuel, clogged-fuel-filter, clogged-fuel-line, mowing-too-fast, plugged-fuel-cap-vent, wrong-engine-speed, dull-or-bent-blade, clogged-air-filter, debris-on-deck-or-pulleys, wrong-choke-setting, low-compression, sheared-flywheel-key, bad-fuel-pump, bad-gas-cap-seal, bad-safety-switch, dirty-cooling-fins, overfilled-oil (Problem added with "Sources for Engine runs rough"; plain mentions linked); procedures/replace-the-fuel-filter (fixes Water in fuel, two Sources added); problems engine-cranks-but-wont-start (2 of 121), engine-starts-then-dies (1 of 82), mower-is-smoking (2 of 64) (Water in fuel rows linked, order unchanged); engine-loses-power (Related line linked); index. Overfilled oil is ranked 1 of 34 from the too-much-oil article, whose note says an overfilled engine fouls the plug and runs rough but has no causes-named line. No Procedure for water-in-fuel beyond Replace the fuel filter (draining steps stay on the Cause page). The diesel water-in-tank advice is on water-in-fuel only. Conflicts flagged: none. Plain text for later clusters: Clogged deck chute (row); Engine overheats.
+
+## 2026-11-24 | ingest | fill pass: engine-overheats
+
+- raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-lawn-mower-to-overheat.md → ingested → causes/bad-cooling-shroud.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/common-ariens-lawn-mower-problems-solutions.md → ingested → causes/bad-cooling-shroud.md
+- raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md → ingested → causes/bad-cooling-shroud.md, causes/cutting-wet-or-tall-grass.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md → ingested → causes/bad-cooling-shroud.md, causes/cutting-wet-or-tall-grass.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md → ingested → causes/bad-cooling-shroud.md, causes/cutting-wet-or-tall-grass.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/common-john-deere-lawn-mower-problems.md → ingested → causes/bad-cooling-shroud.md, causes/cutting-wet-or-tall-grass.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/common-kubota-problems-and-solutions.md → ingested → problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/craftsman-lawn-mower-wont-stay-running.md → ingested → causes/wrong-oil-or-low-oil.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/craftsman-mower-loses-power.md → ingested → causes/bad-cooling-shroud.md
+- raw/Articles/poweredoutdoors.com/craftsman-mower-overheating.md → ingested → causes/bad-cooling-shroud.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-wont-stay-running.md → ingested → problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-mower-engine-overheats.md → ingested → causes/bad-cooling-shroud.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md → ingested → causes/bad-cooling-shroud.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/electric-lawn-mowers-dangers-and-safety-guide.md → ingested → problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md → ingested → causes/bad-cooling-shroud.md, causes/cutting-wet-or-tall-grass.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/how-to-service-a-push-lawn-mower.md → ingested → problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-quits-when-hot.md → ingested → problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/husqvarna-mower-engine-overheats.md → ingested → causes/bad-cooling-shroud.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/husqvarna-mower-wont-stay-running.md → ingested → problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md → ingested → causes/bad-cooling-shroud.md, causes/cutting-wet-or-tall-grass.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/hustler-mower-overheating.md → ingested → causes/bad-cooling-shroud.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/hustler-mower-problems.md → ingested → causes/bad-cooling-shroud.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/john-deere-mower-engine-overheats.md → ingested → causes/bad-cooling-shroud.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md → ingested → causes/bad-cooling-shroud.md, causes/cutting-wet-or-tall-grass.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/kubota-mower-engine-overheats.md → ingested → causes/bad-cooling-shroud.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md → ingested → causes/bad-cooling-shroud.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-engine-cooling-times-explained.md → ingested → causes/cutting-wet-or-tall-grass.md, causes/dirty-cooling-fins.md, causes/wrong-oil-or-low-oil.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-replacement.md → ingested → problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/mower-stopped-running.md → ingested → causes/cutting-wet-or-tall-grass.md, causes/dirty-cooling-fins.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/push-mower-engine-overheats.md → ingested → problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/push-mower-wont-stay-running.md → ingested → problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/riding-lawn-mower-wont-stay-running.md → ingested → causes/debris-on-deck-or-pulleys.md, causes/wrong-oil-or-low-oil.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-loses-power.md → ingested → causes/bad-cooling-shroud.md
+- raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md → ingested → causes/bad-cooling-shroud.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/solved-toro-lawn-mower-quits-when-hot.md → ingested → causes/bad-cooling-shroud.md, causes/cutting-wet-or-tall-grass.md, problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/this-is-what-happens-if-you-put-too-much-oil-in-a-lawn-mower.md → ingested → problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/this-is-why-your-riding-lawn-mower-loses-power.md → ingested → causes/bad-cooling-shroud.md
+- raw/Articles/poweredoutdoors.com/too-much-oil-cub-cadet-lawn-mower.md → ingested → problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/too-much-oil-husqvarna-mower.md → ingested → problems/engine-overheats.md
+- raw/Articles/poweredoutdoors.com/zero-turn-mower-quits-when-hot.md → ingested → problems/engine-overheats.md
+- raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md → ingested → causes/bad-engine-cooling-fan.md, problems/engine-overheats.md
+
+Note: Cluster 20 (ticket 20), single writer and finalizer. Created problems/engine-overheats (37 Sources: 1 manufacturer, 36 expert-blog; push, self-propelled, riding, zero-turn; gas, battery: one electric-mower safety guide covers motor vents clogging, corded and cordless); causes/bad-cooling-shroud (23, engine guard or shield and engine shroud) and bad-engine-cooling-fan (1, Sears only). Updated causes wrong-oil-or-low-oil, clogged-air-filter, dirty-cooling-fins, dull-or-bent-blade, cutting-wet-or-tall-grass, debris-on-deck-or-pulleys, mowing-too-fast, overfilled-oil, bad-head-gasket, old-fuel, worn-or-stretched-belt (Problem added with "Sources for Engine overheats"; plain mentions linked; stale "no page yet" notes removed); problems engine-loses-power (Bad cooling shroud row linked, 2 of 25; Related line), engine-starts-then-dies (Bad cooling shroud row linked, 1 of 82, from the Ariens article; Related line), mower-is-smoking (Related line); index. Counting: the won't-stay-running, quits-when-hot, stopped-running and too-much-oil articles whose notes name overheating causes in a fact line (no causes-named line) are counted for those Causes; "overworking the engine" counts as cutting-wet-or-tall-grass and "clogged mower deck" as clogged-deck-chute, as in their sibling notes (riding-lawn-mower-wont-stay-running follows its own note: debris-on-deck-or-pulleys). Not cited: the scrambled low-oil and cooling-fins rows in the Ferris, Cub Cadet zero-turn, Hustler, John Deere zero-turn, Kubota zero-turn and Husqvarna zero-turn overheating tables (those Sources still count for naming the Causes). Conflicts flagged: none. Plain text for later clusters: Clogged deck chute, Clogged blower tubes or inlet, Clogged motor vents (rows; clogged-motor-vents is not in the taxonomy: candidate page for the maintainer, Source electric-lawn-mowers-dangers-and-safety-guide); Problem Engine quits when hot.
