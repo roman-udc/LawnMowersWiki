@@ -75,3 +75,10 @@ Uneven-lawn, scalping and lawn-rolling content is lawn care: skip it. Anything e
 6. In your child ticket, tick the boxes, set `**Status:** resolved`, and append a `## Comments` entry (pages created and updated, pages dropped, conflicts flagged). Commit that as `"Resolve ticket NN"` (same co-author line).
 
 Reply with: commit hashes, pages created and updated, pages dropped and why, conflicts flagged, and anything the next cluster must know.
+
+## Split roles (large clusters)
+
+A cluster may be split into **page writers** (parallel, each owning a disjoint list of Cause or Procedure pages) and one **finalizer**.
+
+- **Page writer:** write only your listed pages. Never touch index.md, log.md, Problem pages, other pages, the ticket, or git. Problem links: only Problems that exist in `wiki/problems/` now, plus this cluster's Problem (the finalizer creates it if new). Procedure/Cause links: only pages that exist now or are in this cluster's lists. Everything else as plain text. Validator errors about sibling pages still being written, back-links and the index are expected; fix everything else in your pages. For pages with very many Sources, cite brand articles with nothing distinctive together in one line rather than repeating prose. Report pages written, links used, Source counts, conflicts, drops.
+- **Finalizer:** write or update the cluster's Problem page (re-rank its table from all `causes-named:` lines). Update shared pages from earlier clusters (add this Problem to their `problems`, Symptoms and Sources). Turn plain-text mentions of this cluster's pages on existing Problems into links, add back-links and re-rank those tables. Spot-check 5 random citations on each of the three largest new pages against notes or raw, and report the error rate. Then do "Finish the cluster".
