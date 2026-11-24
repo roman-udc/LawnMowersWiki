@@ -26,7 +26,8 @@ def load(path):
             try:
                 fm = yaml.safe_load(text[4:end]) or {}
             except yaml.YAMLError:
-                fm = {}
+                # Unquoted colons in titles break YAML; fall back to "key: value" lines.
+                fm = dict(re.findall(r"^(\w+): *(.*?)\s*$", text[4:end], re.M))
             text = text[end + 5:]
     sections = {}
     for m in re.finditer(r"^## page: *(\S+)\s*\n(.*?)(?=^## |\Z)", text, re.M | re.S):
