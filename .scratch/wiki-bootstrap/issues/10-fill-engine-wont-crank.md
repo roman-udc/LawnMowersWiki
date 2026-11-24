@@ -4,7 +4,7 @@ Child of [07: Fill pass](07-fill-pass.md). Cluster 2 of 27 in `.scratch/wiki-boo
 
 **Blocked by:** 09
 
-**Status:** ready-for-agent
+**Status:** resolved
 
 **What to build:** the Problem `problems/engine-wont-crank.md` with every Cause and Procedure this cluster owns, written or updated from all mapped Sources under the `/wiki-ingest` rules.
 
@@ -17,7 +17,18 @@ Cluster definition, as approved:
 
 Blocking: this child waits for every earlier cluster that owns a page it shares (09) and for the previous cluster, since clusters commit one at a time to the same index and log. Shared pages owned by later clusters (11) do not exist yet: mention them as plain text, and the owning cluster turns them into links, adds the back-link and re-ranks this Problem's table.
 
-- [ ] Every mapped Source is read in full (via the per-Source notes in `.scratch/wiki-bootstrap/notes/`); mappings the Source doesn't support are dropped.
-- [ ] Owned pages are created from `templates/` (or updated if they exist), with per-section citations, Trust tier ranking, conflict callouts, Brand notes and OEM part number caveats.
-- [ ] Shared pages owned by earlier clusters are updated, not recreated; links go both ways.
-- [ ] Index and log are updated; `python tools/validate_wiki.py --allow-unlogged wiki raw` is clean; the cluster gets its own commit.
+- [x] Every mapped Source is read in full (via the per-Source notes in `.scratch/wiki-bootstrap/notes/`); mappings the Source doesn't support are dropped.
+- [x] Owned pages are created from `templates/` (or updated if they exist), with per-section citations, Trust tier ranking, conflict callouts, Brand notes and OEM part number caveats.
+- [x] Shared pages owned by earlier clusters are updated, not recreated; links go both ways.
+- [x] Index and log are updated; `python tools/validate_wiki.py --allow-unlogged wiki raw` is clean; the cluster gets its own commit.
+
+## Comments
+
+**2026-11-23 (fill pass, commit f81a392):**
+
+- Created: problems/engine-wont-crank (102 Sources); causes/bad-ignition-switch, bad-safety-switch, bad-starter-motor, bad-starter-solenoid, bad-wiring-or-ground, blown-fuse, faulty-charging-system, hydrolocked-engine, loose-or-corroded-battery-cables, seized-engine, weak-or-dead-battery; procedures/charge-the-battery, jump-start-the-battery, read-a-wiring-schematic, replace-the-ignition-switch, replace-the-seat-switch, replace-the-starter-motor, replace-the-starter-solenoid, reset-the-ignition-code, test-and-replace-a-fuse, test-the-battery, test-the-starter-solenoid.
+- Updated: problems/engine-cranks-but-wont-start (seven rows linked with sourced difficulty, related link); causes/incorrect-starting-procedure, bad-recoil-starter, bad-ignition-coil, wet-electrical-components (engine-wont-crank added); index, log. 229 Sources logged.
+- Dropped: none. Cluster-09 fuel/air/spark Causes and wrong-choke-setting are not named by any engine-wont-crank note, so not linked.
+- Conflicts flagged: starter replace vs confirm/rebuild; baking-soda mix; full-charge voltage; disconnecting cables before charging; maximum charge rate; car key while jumping.
+- Plain text for later clusters: Bad PTO switch, Overfilled oil (table rows on engine-wont-crank); Battery keeps dying, Battery mower won't start Problems.
+- Spot-check (20 random citations on weak-or-dead-battery, bad-safety-switch, bad-starter-solenoid and 5 Procedures): 0 errors.
