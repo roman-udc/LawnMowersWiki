@@ -4,6 +4,7 @@ title: Bad tire or wheel
 problems:
   - ../problems/uneven-cut.md
   - ../problems/mower-pulls-to-one-side.md
+  - ../problems/flat-tire.md
 part_types:
   - wheel
   - tire
@@ -12,7 +13,7 @@ part_types:
 procedures:
   - ../procedures/repair-a-flat-tire.md
   - ../procedures/replace-a-tire.md
-source_count: 12
+source_count: 14
 updated: 2026-11-24
 ---
 
@@ -41,6 +42,10 @@ Sources: [S4](../../raw/Articles/poweredoutdoors.com/push-mower-is-cutting-uneve
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/kobalt-electric-mower-bad-cut.md), [S2](../../raw/Articles/poweredoutdoors.com/lawn-mower-is-cutting-uneven.md), [S3](../../raw/Articles/poweredoutdoors.com/lawn-mowers-bad-cut-solved.md), [S4](../../raw/Articles/poweredoutdoors.com/push-mower-is-cutting-uneven.md), [S5](../../raw/Articles/poweredoutdoors.com/riding-mower-storage.md), [S6](../../raw/Articles/poweredoutdoors.com/sun-joe-electric-mower-bad-cut.md), [S7](../../raw/Articles/poweredoutdoors.com/toro-electric-mower-bad-cut.md), [S8](../../raw/Articles/poweredoutdoors.com/worx-mower-has-bad-uneven-cut.md), [S12](../../raw/Articles/searspartsdirect.com/why-your-lawn-mower-pulls-to-one-side-while-cutting.md)
 
 Sources for Mower pulls to one side: [S12](../../raw/Articles/searspartsdirect.com/why-your-lawn-mower-pulls-to-one-side-while-cutting.md)
+
+- [Flat tire](../problems/flat-tire.md): a punctured tread or damaged sidewall lets the tire go flat; seal a tread puncture, replace a badly damaged tire.
+
+Sources for Flat tire: [S9](../../raw/Articles/searspartsdirect.com/flat-tire.ltrtr142.md), [S10](../../raw/Articles/searspartsdirect.com/how-to-replace-a-riding-lawn-mower-rear-tire.md), [S13](../../raw/Articles/searspartsdirect.com/how-to-repair-a-riding-lawn-mower-tire-video.md), [S14](../../raw/Articles/searspartsdirect.com/riding-mower-parts-and-supplies-to-stock-up-on-video.md)
 
 ## How to confirm
 
@@ -89,3 +94,5 @@ Sources: [S5](../../raw/Articles/poweredoutdoors.com/riding-mower-storage.md)
 - [S10](../../raw/Articles/searspartsdirect.com/how-to-replace-a-riding-lawn-mower-rear-tire.md) — How to replace a riding lawn mower rear tire (manufacturer)
 - [S11](../../raw/Articles/searspartsdirect.com/what-are-the-riding-mower-parts-that-require-replacement-most-often.md) — What are the riding mower parts that require replacement most often? (manufacturer)
 - [S12](../../raw/Articles/searspartsdirect.com/why-your-lawn-mower-pulls-to-one-side-while-cutting.md) — Why your lawn mower pulls to one side while cutting (manufacturer)
+- [S13](../../raw/Articles/searspartsdirect.com/how-to-repair-a-riding-lawn-mower-tire-video.md) — How to repair a riding lawn mower tire video (manufacturer)
+- [S14](../../raw/Articles/searspartsdirect.com/riding-mower-parts-and-supplies-to-stock-up-on-video.md) — Riding mower parts and supplies to stock up on video (manufacturer)
