@@ -5,6 +5,7 @@ causes:
   - ../causes/dull-or-bent-blade.md
   - ../causes/blade-installed-upside-down.md
   - ../causes/bad-blade-adapter-or-loose-blade.md
+  - ../causes/worn-blade-sail.md
 part_types:
   - mower blade
   - blade bolt
@@ -21,12 +22,12 @@ tools:
   - blade balancer or a nail in the wall
   - rags and wire brush
 source_count: 45
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Sharpen and replace the blades
 
-Fixes: [Dull or bent blade](../causes/dull-or-bent-blade.md), [Blade installed upside down](../causes/blade-installed-upside-down.md), [Bad blade adapter or loose blade](../causes/bad-blade-adapter-or-loose-blade.md).
+Fixes: [Dull or bent blade](../causes/dull-or-bent-blade.md), [Blade installed upside down](../causes/blade-installed-upside-down.md), [Bad blade adapter or loose blade](../causes/bad-blade-adapter-or-loose-blade.md), [Worn blade sail](../causes/worn-blade-sail.md).
 
 Dull blades tear the grass instead of cutting it, so the tips turn brown a day or two after mowing; very worn tips leave strips of uncut grass. Dull blades also strain the mower. Most Sources say to put on new blades once a year (more often with sand, gravel or rocks) and to sharpen about every 25 hours of mowing, which is about twice a year for an average homeowner. Sharpen more often in sandy, dry or dusty conditions.
 

@@ -10,6 +10,7 @@ problems:
   - ../problems/engine-overheats.md
   - ../problems/engine-dies-when-hot.md
   - ../problems/mower-is-noisy.md
+  - ../problems/not-bagging-grass.md
 part_types:
   - mower blade
   - blade balancer
@@ -66,6 +67,10 @@ Sources for Engine overheats: [S2](../../raw/Articles/poweredoutdoors.com/7-thin
 Sources for Engine dies when hot: [S60](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-quits-when-hot.md), [S78](../../raw/Articles/poweredoutdoors.com/push-mower-quits-when-hot.md), [S92](../../raw/Articles/poweredoutdoors.com/solved-toro-lawn-mower-quits-when-hot.md), [S110](../../raw/Articles/poweredoutdoors.com/your-cub-cadet-quits-when-it-gets-hot-solved.md), [S117](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-quits-when-hot.md), [S148](../../raw/Articles/poweredoutdoors.com/lawn-mower-quits-when-hot.md), [S149](../../raw/Articles/poweredoutdoors.com/riding-lawn-mower-quits-when-hot.md)
 
 Sources for Mower is noisy: [S1](../../raw/Articles/poweredoutdoors.com/5-reasons-why-lawn-mowers-are-louder-than-cars.md), [S121](../../raw/Articles/searspartsdirect.com/troubleshooting-a-noisy-riding-lawn-mower.md)
+
+- [Mower doesn't bag grass](../problems/not-bagging-grass.md): dull blades move less air and clippings into the bagger.
+
+Sources for Mower doesn't bag grass: [S72](../../raw/Articles/poweredoutdoors.com/mower-is-not-bagging-grass-solved.md)
 
 ## How to confirm
 

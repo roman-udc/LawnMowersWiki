@@ -6,6 +6,7 @@ problems:
   - ../problems/engine-starts-then-dies.md
   - ../problems/engine-overheats.md
   - ../problems/battery-mower-wont-start.md
+  - ../problems/not-bagging-grass.md
 part_types:
   - none (operator technique)
 procedures: []
@@ -34,10 +35,9 @@ Sources: [S22](../../raw/Articles/poweredoutdoors.com/mower-loses-power.md), [S1
 - [Engine loses power](../problems/engine-loses-power.md): the engine bogs down and feels sluggish in wet, tall or thick grass, especially with the blades engaged; wet clippings clump under the deck and strain it further.
 - [Engine starts then dies](../problems/engine-starts-then-dies.md): a battery mower stops when too-thick, tall or wet grass puts an extreme load on the motor, and may not restart until the load is reduced.
 - [Engine overheats](../problems/engine-overheats.md): long, thick or wet grass overworks the engine and can overheat it.
-- Mower doesn't bag grass well: wet grass or wet leaves build up under the deck and stick inside the chute, blower tubes and inlet tube, cutting the airflow that carries the clippings.
+- [Mower doesn't bag grass](../problems/not-bagging-grass.md): wet grass or wet leaves build up under the deck and stick inside the chute, blower tubes and inlet tube, cutting the airflow that carries the clippings.
 - Poor or uneven cut: wet grass clumps on the deck and gives a poor cut.
 
-Mower doesn't bag grass has no Problem page yet.
 
 Sources for Engine loses power: [S3](../../raw/Articles/poweredoutdoors.com/bad-boy-loses-power.md), [S6](../../raw/Articles/poweredoutdoors.com/craftsman-mower-loses-power.md), [S8](../../raw/Articles/poweredoutdoors.com/cub-cadet-loses-power-bogs-down.md), [S13](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-loses-power.md), [S15](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-loses-power.md), [S20](../../raw/Articles/poweredoutdoors.com/kubota-mower-loses-power.md), [S22](../../raw/Articles/poweredoutdoors.com/mower-loses-power.md), [S25](../../raw/Articles/poweredoutdoors.com/push-mower-loses-power.md), [S26](../../raw/Articles/poweredoutdoors.com/scag-zero-turn-mower-loses-power.md), [S28](../../raw/Articles/poweredoutdoors.com/this-is-why-your-riding-lawn-mower-loses-power.md), [S29](../../raw/Articles/poweredoutdoors.com/toro-mower-loses-power.md), [S30](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-loses-power.md), [S31](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md)
 
@@ -50,6 +50,8 @@ Sources for Engine overheats: [S2](../../raw/Articles/poweredoutdoors.com/7-thin
 - [Battery mower won't start](../problems/battery-mower-wont-start.md): on a battery mower, thick, tall or wet grass overloads the motor; it stops and won't restart. Raise the cutting height and slow down.
 
 Sources for Battery mower won't start: [S10](../../raw/Articles/poweredoutdoors.com/dewalt-electric-mower-wont-start.md), [S27](../../raw/Articles/poweredoutdoors.com/skil-electric-mower-wont-start-12-starting-problems.md), [S43](../../raw/Articles/poweredoutdoors.com/ryobi-electric-battery-mower-wont-start.md)
+
+Sources for Mower doesn't bag grass: [S1](../../raw/Articles/poweredoutdoors.com/15-reasons-why-your-lawn-mower-is-not-picking-up-grass.md), [S21](../../raw/Articles/poweredoutdoors.com/mower-is-not-bagging-grass-solved.md), [S23](../../raw/Articles/poweredoutdoors.com/pick-up-leaves-with-a-mower.md)
 
 ## How to confirm
 

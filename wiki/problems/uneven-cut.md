@@ -45,6 +45,8 @@ causes:
   - ../causes/worn-pulley-or-idler-bearing.md
   - ../causes/worn-or-stretched-belt.md
   - ../causes/bent-spindle-or-bad-spindle-bearing.md
+  - ../causes/clogged-deck-chute.md
+  - ../causes/worn-blade-sail.md
 part_types:
   - mower blade
   - deck belt
@@ -71,9 +73,9 @@ Collect the basics first with the [customer intake Guide](../guides/customer-int
 
 | Question | Answer A → Causes | Answer B → Causes |
 |---|---|---|
-| What does the cut look like? | Slanted stair-step pattern or ridges → [Wrong tire pressure](../causes/wrong-tire-pressure.md), [Unlevel deck](../causes/unlevel-deck.md), [Dull or bent blade](../causes/dull-or-bent-blade.md) (bent), [Blade installed upside down](../causes/blade-installed-upside-down.md), [Bent spindle or bad spindle bearing](../causes/bent-spindle-or-bad-spindle-bearing.md) | Strips or patches of uncut grass → [Dull or bent blade](../causes/dull-or-bent-blade.md), Worn blade sail, [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md), [Incorrect path overlap](../causes/incorrect-path-overlap.md), [Mowing too fast](../causes/mowing-too-fast.md), [Wrong engine speed](../causes/wrong-engine-speed.md) |
+| What does the cut look like? | Slanted stair-step pattern or ridges → [Wrong tire pressure](../causes/wrong-tire-pressure.md), [Unlevel deck](../causes/unlevel-deck.md), [Dull or bent blade](../causes/dull-or-bent-blade.md) (bent), [Blade installed upside down](../causes/blade-installed-upside-down.md), [Bent spindle or bad spindle bearing](../causes/bent-spindle-or-bad-spindle-bearing.md) | Strips or patches of uncut grass → [Dull or bent blade](../causes/dull-or-bent-blade.md), [Worn blade sail](../causes/worn-blade-sail.md), [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md), [Incorrect path overlap](../causes/incorrect-path-overlap.md), [Mowing too fast](../causes/mowing-too-fast.md), [Wrong engine speed](../causes/wrong-engine-speed.md) |
 | Are there alternating stripes of taller and shorter grass? | Yes → [Mowing too fast](../causes/mowing-too-fast.md); if slowing down doesn't help, [Dull or bent blade](../causes/dull-or-bent-blade.md) | No → keep checking |
-| Do the grass tips look ragged, shredded or brown a day or two after mowing? | Yes → [Dull or bent blade](../causes/dull-or-bent-blade.md) (also Worn blade sail) | No → keep checking |
+| Do the grass tips look ragged, shredded or brown a day or two after mowing? | Yes → [Dull or bent blade](../causes/dull-or-bent-blade.md) (also [Worn blade sail](../causes/worn-blade-sail.md)) | No → keep checking |
 | Are some areas cut too close (scalped)? | Yes → [Wrong tire pressure](../causes/wrong-tire-pressure.md), [Unlevel deck](../causes/unlevel-deck.md), [Wrong cutting height](../causes/wrong-cutting-height.md) (deck set too low) | No → keep checking |
 | Are the tire pressures correct and equal left and right, and are all wheels undamaged and the same size? | No → [Wrong tire pressure](../causes/wrong-tire-pressure.md), [Bad tire](../causes/bad-tire.md) | Yes → check the blades and the deck level |
 | Is the engine at full throttle and the ground speed slow enough for the grass? | Throttle not at full → [Wrong engine speed](../causes/wrong-engine-speed.md); going fast in thick, tall or wet grass → [Mowing too fast](../causes/mowing-too-fast.md) | Yes → check the blades and the deck |
@@ -109,8 +111,8 @@ Ranked by how many of the 78 Sources name the Cause for this Problem. Tie-break:
 | [Worn or stretched belt](../causes/worn-or-stretched-belt.md) | 50 of 78 | Belt stretched, cracked or glazed; blades slip in heavy grass | moderate |
 | [Bent deck or deck shell](../causes/bent-deck-or-deck-shell.md) | 50 of 78 | Damaged deck shell; row of grass left behind | pro |
 | [Worn pulley or idler bearing](../causes/worn-pulley-or-idler-bearing.md) | 46 of 78 | Pulley doesn't spin freely, is noisy or wobbles | moderate |
-| Clogged deck chute | 39 of 78 | Deck packed with grass; streaking and stringers | not yet rated |
-| Worn blade sail | 36 of 78 | Sails thinner than the blade center, ends worn and rounded | not yet rated |
+| [Clogged deck chute](../causes/clogged-deck-chute.md) | 39 of 78 | Deck packed with grass; streaking and stringers | easy |
+| [Worn blade sail](../causes/worn-blade-sail.md) | 36 of 78 | Sails thinner than the blade center, ends worn and rounded | easy |
 | [Incorrect path overlap](../causes/incorrect-path-overlap.md) | 33 of 78 | Strips of uncut grass between passes | easy |
 | [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md) | 26 of 78 | Clippings built up under the deck; streaking, piles of grass | easy |
 | [Wrong cutting height](../causes/wrong-cutting-height.md) | 12 of 78 | Push mower wheels set to different heights; deck set too low scalps | easy |

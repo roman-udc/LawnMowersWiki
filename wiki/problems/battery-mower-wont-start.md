@@ -27,6 +27,8 @@ causes:
   - ../causes/debris-wrapped-around-blade-spindle.md
   - ../causes/mowing-too-fast.md
   - ../causes/wet-electrical-components.md
+  - ../causes/clogged-deck-chute.md
+  - ../causes/bad-bagger-or-full-bag.md
 part_types:
   - battery pack
   - battery charger and cord
@@ -89,8 +91,8 @@ Ranked by how many of the 13 Sources name the Cause for this Problem. Tie-break:
 | [Clogged motor vents](../causes/clogged-motor-vents.md) | 3 of 13 | Vents packed with grass; motor or battery hot | easy |
 | [Cutting wet or tall grass](../causes/cutting-wet-or-tall-grass.md) | 3 of 13 | Stops in thick, tall or wet grass and won't restart | easy |
 | [Safety key missing](../causes/safety-key-missing.md) | 2 of 13 | Key out or not fully in; handle or side rails not locked | easy |
-| Bad bagger or full bag | 1 of 13 | Bag full, so the mower won't turn on | not yet rated |
-| Clogged deck chute | 1 of 13 | Overworked motor from a plugged deck | not yet rated |
+| [Bad bagger or full bag](../causes/bad-bagger-or-full-bag.md) | 1 of 13 | Bag full, so the mower won't turn on | easy |
+| [Clogged deck chute](../causes/clogged-deck-chute.md) | 1 of 13 | Overworked motor from a plugged deck | easy |
 | [Debris wrapped around blade spindle](../causes/debris-wrapped-around-blade-spindle.md) | 1 of 13 | Debris restricting blade rotation | easy |
 | [Mowing too fast](../causes/mowing-too-fast.md) | 1 of 13 | Overloaded motor stops | easy |
 | [Wet electrical components](../causes/wet-electrical-components.md) | 1 of 13 | After rain exposure; may smoke | moderate |

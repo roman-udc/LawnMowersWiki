@@ -1915,3 +1915,102 @@ Note: Cluster 26 (ticket 26), single writer and finalizer. Created problems/engi
 - raw/Articles/searspartsdirect.com/troubleshooting-a-noisy-riding-lawn-mower.md → ingested → causes/clogged-muffler-or-spark-arrestor.md, problems/mower-is-noisy.md
 
 Note: Cluster 27 (ticket 27), single writer and finalizer. Created problems/mower-is-noisy (5 Sources: 1 manufacturer, 4 expert-blog; push, riding, zero-turn; gas); causes/clogged-muffler-or-spark-arrestor (2). Updated causes worn-pulley-or-idler-bearing, bent-spindle-or-bad-spindle-bearing, worn-or-stretched-belt, dull-or-bent-blade, wrong-oil-or-low-oil, bad-belt-tensioner-spring, debris-wrapped-around-blade-spindle, bad-blade-adapter-or-loose-blade, clogged-air-filter, belt-guard-or-keeper-missing, debris-on-deck-or-pulleys, engine-mount-loose, wrong-belt (plain "Mower is noisy" bullets linked or Problem added, with "Sources for Mower is noisy"); index. No page dropped. Folded: the damaged muffler (cracked steel, broken baffles rattling; 5-reasons-why-lawn-mowers-are-louder-than-cars, suggested slug damaged-muffler) and the loose muffler (troubleshooting-a-noisy-riding-lawn-mower unmapped note, suggested slug loose-muffler) into causes/clogged-muffler-or-spark-arrestor; no Source describes a clogged muffler or spark arrestor, which the page says. The Sears loose muffler is counted on that row (2 of 5). Not counted: Sears "failing starter" (no detail). Folded: "loose body parts" rattling (louder-than-cars unmapped) stays on engine-mount-loose as its note maps it, with the Source's wording (parts generally). Inferred values: Fix difficulty on the table is finalizer judgement. Conflicts flagged: none. Plain text left: none. Spot-check of 10 random citations (5 each on mower-is-noisy and clogged-muffler-or-spark-arrestor): 0 errors.
+
+## 2026-11-24 | ingest | fill pass: not-bagging-grass
+
+- raw/Articles/poweredoutdoors.com/15-reasons-why-your-lawn-mower-is-not-picking-up-grass.md → ingested → causes/bad-bagger-or-full-bag.md, causes/clogged-blower-tubes-or-inlet.md, causes/clogged-deck-chute.md, causes/worn-blade-sail.md, causes/worn-blower-fan-or-bearing.md, causes/worn-or-stretched-belt.md, problems/not-bagging-grass.md
+- raw/Articles/poweredoutdoors.com/8-reasons-your-lawn-mower-wont-stay-running.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-cuts-uneven.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/big-dog-bad-or-uneven-cut.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/bobcat-zero-turn-uneven-cut.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/change-and-sharpen-your-husqvarna-lawn-mower-blades.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/change-and-sharpen-your-kubota-lawn-mower-blades.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/change-sharpen-your-bad-boy-lawn-mower-blades.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/change-sharpen-your-gravely-mower-blades.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/change-sharpen-your-honda-lawn-mower-blades.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/change-sharpen-your-push-mower-blades.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/change-sharpen-your-zero-turn-mower-blades.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/common-ariens-lawn-mower-problems-solutions.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/common-craftsman-lawn-mower-problems.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/common-exmark-mower-problems-and-solutions.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/common-gravely-lawn-mower-problems-solutions.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/common-john-deere-lawn-mower-problems.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/common-lawn-mower-problems-fixed.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/common-push-mower-problems-solutions.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/common-riding-lawn-mower-problems.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/common-snapper-lawn-mower-problems-solutions.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/common-toro-lawn-mower-problems-solutions.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/common-troy-bilt-lawn-mower-problems.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/craftsman-lawn-mower-wont-stay-running.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/craftsman-mower-cut-is-uneven.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-dies-while-mowing.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-running-rough-sputtering.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-wont-stay-running.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/ego-electric-lawn-mower-is-cutting-uneven.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/electric-lawn-mower-wont-start.md → ingested → causes/bad-bagger-or-full-bag.md
+- raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/gravely-lawn-mower-cuts-uneven.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/greenworks-lawn-mower-is-cutting-uneven.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/honda-lawn-mower-cuts-uneven.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/honda-mower-is-vibrating.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/how-to-change-and-sharpen-your-exmark-mower-blades.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/how-to-change-sharpen-ariens-mower-blades.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/how-to-change-sharpen-your-craftsman-mower-blades.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/how-to-change-sharpen-your-john-deere-mower-blades.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/how-to-change-sharpen-your-lawn-tractor-blades.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/how-to-change-sharpen-your-troy-bilt-mower-blades.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/husqvarna-mower-cuts-uneven.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/hustler-mower-bad-uneven-cut.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/hustler-mower-problems.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/hustler-mower-runs-rough.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/hustler-mower-starts-then-dies.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/john-deere-mower-cuts-uneven.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/kobalt-electric-mower-bad-cut.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/kubota-lawn-mower-cuts-uneven.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/kubota-mower-loses-power.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-is-cutting-uneven.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-keeps-stalling.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/lawn-mower-sputtering-solved.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/lawn-mowers-bad-cut-solved.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/mower-is-not-bagging-grass-solved.md → ingested → causes/bad-bagger-or-full-bag.md, causes/clogged-blower-tubes-or-inlet.md, causes/clogged-deck-chute.md, causes/worn-blade-sail.md, causes/worn-blower-fan-or-bearing.md, problems/not-bagging-grass.md
+- raw/Articles/poweredoutdoors.com/pick-up-leaves-with-a-mower.md → ingested → causes/bad-bagger-or-full-bag.md, causes/clogged-blower-tubes-or-inlet.md, causes/clogged-deck-chute.md, causes/worn-blade-sail.md, causes/worn-blower-fan-or-bearing.md, problems/not-bagging-grass.md
+- raw/Articles/poweredoutdoors.com/poulan-pro-starts-then-dies.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/push-mower-is-cutting-uneven.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/push-mower-loses-power.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/reasons-lawn-tractor-cuts-uneven.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/reasons-your-riding-mower-is-cutting-uneven.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/scag-lawn-mower-has-a-bad-or-uneven-cut.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/scag-lawn-mower-starts-then-dies.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/simplicity-lawn-mower-bad-uneven-cut.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/snapper-lawn-mower-cuts-uneven.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/spartan-lawn-mower-problems-solutions.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/spartan-mower-bad-or-uneven-cut.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/sun-joe-electric-mower-bad-cut.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/this-is-why-your-riding-lawn-mower-loses-power.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/toro-electric-mower-bad-cut.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/walker-mower-starts-then-dies.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/why-your-craftsman-lawn-mower-dies-how-to-fix.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/why-your-cub-cadet-lawn-mower-cuts-uneven.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/why-your-push-mower-dies-while-mowing-solved.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/why-your-troy-bilt-lawn-mower-is-cutting-uneven-fixed.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/worx-electric-mower-wont-start.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/worx-mower-has-bad-uneven-cut.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/your-ariens-lawn-mower-is-cutting-uneven.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/your-common-lawn-tractor-problems-solutions.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/your-cub-cadet-quits-when-it-gets-hot-solved.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/your-ferris-lawn-mower-cuts-uneven.md → ingested → causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/your-troy-bilt-lawn-mower-dies.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/zero-turn-lawn-mower-is-cutting-uneven.md → ingested → causes/clogged-deck-chute.md, causes/worn-blade-sail.md
+- raw/Articles/poweredoutdoors.com/zero-turn-mower-quits-when-hot.md → ingested → causes/clogged-deck-chute.md
+- raw/Articles/poweredoutdoors.com/zero-turn-mower-starts-then-dies.md → ingested → causes/clogged-deck-chute.md
+
+Note: Cluster 28 (ticket 28), single writer and finalizer. Created problems/not-bagging-grass, titled "Mower doesn't bag grass" to match the earlier plain-text mentions (3 Sources, all expert-blog; push, riding, zero-turn; gas); causes/bad-bagger-or-full-bag (4), clogged-blower-tubes-or-inlet (3), clogged-deck-chute (63), worn-blade-sail (53), worn-blower-fan-or-bearing (3). Updated causes blade-installed-upside-down, cutting-wet-or-tall-grass, worn-or-stretched-belt, wrong-engine-speed, debris-on-deck-or-pulleys, dull-or-bent-blade, mowing-too-fast (Problem added or plain bullet linked); procedures/sharpen-and-replace-the-blades (fixes Worn blade sail); problems uneven-cut, engine-starts-then-dies, engine-overheats, engine-runs-rough, engine-loses-power, engine-dies-when-hot, battery-mower-wont-start, mower-is-vibrating (plain Clogged deck chute, Worn blade sail and Bad bagger or full bag rows and diagnostic mentions linked, added to causes, Fix difficulty set to easy; counts and order unchanged); index. No page dropped. Clogged deck overlap decision: both pages kept. clogged-deck-chute covers clippings packed under the deck and in the discharge chute (the airflow path); debris-on-deck-or-pulleys leads on debris on top of the deck, under belt covers and around pulleys, and on sticks and stones. Each page now has a Scope paragraph pointing to the other. The Sources often say just "plugged deck" and the extraction split those mentions between the two pages, so the overlap for a packed deck stays and the earlier counts are not merged; a merge is a maintainer decision. Counting: Sources for lines on clogged-deck-chute and worn-blade-sail come from each Problem's causes-named lines and can differ from the earlier tables' counts (uneven-cut 38 cited vs 39 counted for Clogged deck chute; engine-starts-then-dies 19 vs 25; engine-runs-rough 6 vs 8); the earlier counts are left as they were. worn-drive-belt on this Problem is counted as Worn or stretched belt (3 of 3). Mis-mapped: cub-cadet-loses-power-bogs-down's clogged-blower-tubes-or-inlet note is about blocked air passageways around the engine, not the bagger. It is not cited on the new page; the "Clogged blower tubes or inlet" rows on engine-loses-power and engine-overheats (1 of N each) are left unlinked with that explanation, for the maintainer to move to Dirty cooling fins or drop. Candidate page for the maintainer: guides/grass-collection-system-types (flow, belt-driven, pull-behind; 15-reasons-why-your-lawn-mower-is-not-picking-up-grass, pick-up-leaves-with-a-mower); summarised in the Problem Summary meanwhile. Inferred values: Fix difficulty on the new table and the linked rows, and moderate for worn-blower-fan-or-bearing, are finalizer judgement. Conflicts flagged: none. Plain text left: none. Spot-check of 15 random citations (5 each on clogged-deck-chute, worn-blade-sail, not-bagging-grass): 0 errors.

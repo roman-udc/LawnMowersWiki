@@ -28,6 +28,7 @@ causes:
   - ../causes/fouled-spark-plug.md
   - ../causes/worn-piston-rings-or-valve-guides.md
   - ../causes/low-compression.md
+  - ../causes/clogged-deck-chute.md
 part_types:
   - ignition coil
   - air filter
@@ -53,7 +54,7 @@ Sources: [S4](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-quits-
 |---|---|---|
 | Is the oil level below the add mark, above the full mark, or the wrong type? | Low or wrong → [Wrong oil or low oil](../causes/wrong-oil-or-low-oil.md); too high → [Overfilled oil](../causes/overfilled-oil.md) | Correct → check cooling and load |
 | Are the cooling fins or the area under the engine shroud packed with dirt, oil or grass? | Yes → [Dirty cooling fins](../causes/dirty-cooling-fins.md) | No → check the deck and blades |
-| Is the deck packed with grass, or are the blades dull? | Yes → [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md), Clogged deck chute, [Dull or bent blade](../causes/dull-or-bent-blade.md) | No → check air and fuel |
+| Is the deck packed with grass, or are the blades dull? | Yes → [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md), [Clogged deck chute](../causes/clogged-deck-chute.md), [Dull or bent blade](../causes/dull-or-bent-blade.md) | No → check air and fuel |
 | Is the air filter dirty, or the gas old? | Yes → [Clogged air filter](../causes/clogged-air-filter.md), [Old fuel](../causes/old-fuel.md), [Dirty carburetor](../causes/dirty-carburetor.md) | No → check the gas cap and ignition |
 | Does it keep running with the gas cap loosened? | Yes → [Plugged fuel cap vent](../causes/plugged-fuel-cap-vent.md) | No → [Bad ignition coil](../causes/bad-ignition-coil.md), [Fouled spark plug](../causes/fouled-spark-plug.md) |
 
@@ -89,7 +90,7 @@ Ranked by how many of the 14 Sources name the Cause for this Problem. Tie-break:
 | [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md) | 8 of 14 | Plugged deck keeps the blades from turning easily and loads the engine | easy |
 | [Dull or bent blade](../causes/dull-or-bent-blade.md) | 7 of 14 | Dull blades add load | easy |
 | [Fouled spark plug](../causes/fouled-spark-plug.md) | 7 of 14 | Dirty or bad plug | easy |
-| Clogged deck chute | 3 of 14 | Plugged deck loads the engine | easy |
+| [Clogged deck chute](../causes/clogged-deck-chute.md) | 3 of 14 | Plugged deck loads the engine | easy |
 | [Worn piston rings or valve guides](../causes/worn-piston-rings-or-valve-guides.md) | 2 of 14 | Internal engine problem (piston ring, valve train, gasket) | pro |
 | [Low compression](../causes/low-compression.md) | 1 of 14 | Internal engine problem | pro |
 

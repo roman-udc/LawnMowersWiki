@@ -12,6 +12,7 @@ problems:
   - ../problems/battery-mower-wont-start.md
   - ../problems/engine-dies-when-hot.md
   - ../problems/mower-is-noisy.md
+  - ../problems/not-bagging-grass.md
 part_types:
   - deck scraper
   - mower deck spray
@@ -27,6 +28,8 @@ updated: 2026-11-24
 Grass clippings, mud and dirt pack the underside of the deck, and sticks, stones, acorns, bark and wood chips lodge on top of the deck, under the belt covers, in pulley grooves and under the belt tensioner. Every deck plugs sooner or later, and wet grass clumps and sticks fastest.
 
 Under the deck, the buildup takes away the open space the blades need to move air: the deck shell, baffles and blade airflow create suction that stands the grass up to be cut. A packed deck gives a bad cut and makes the engine (or electric motor) work harder to turn the blades, so it loses power, overheats and can shut down. On top of the deck, debris under a pulley keeps it from sitting flat, so the deck vibrates; debris under the tensioner leaves the belt slack; and debris in pulley grooves stretches the belt until it rolls off or snaps. Dry debris on top of the deck is also a fire risk from belt heat.
+
+Scope: this page leads on debris on top of the deck, under the belt covers and around the pulleys, and on sticks and stones. Clippings packed under the deck and in the discharge chute are covered in detail on [Clogged deck chute](clogged-deck-chute.md). The Sources often just say "plugged deck", and the extraction counted those mentions under one page or the other, so the two pages overlap for a packed deck.
 
 The fix is easy: scrape the deck and clean the belt and pulley area.
 
@@ -68,6 +71,10 @@ Sources for Battery mower won't start: [S9](../../raw/Articles/poweredoutdoors.c
 Sources for Engine dies when hot: [S50](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-quits-when-hot.md), [S60](../../raw/Articles/poweredoutdoors.com/john-deere-lawn-mower-quits-when-hot.md), [S74](../../raw/Articles/poweredoutdoors.com/lawn-mower-quits-when-hot.md), [S79](../../raw/Articles/poweredoutdoors.com/push-mower-quits-when-hot.md), [S85](../../raw/Articles/poweredoutdoors.com/riding-lawn-mower-quits-when-hot.md), [S99](../../raw/Articles/poweredoutdoors.com/solved-toro-lawn-mower-quits-when-hot.md), [S137](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S156](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md)
 
 Sources for Mower is noisy: [S2](../../raw/Articles/poweredoutdoors.com/5-reasons-why-lawn-mowers-are-louder-than-cars.md)
+
+- [Mower doesn't bag grass](../problems/not-bagging-grass.md): debris and leaf buildup under the deck cut the airflow to the bagger.
+
+Sources for Mower doesn't bag grass: [S1](../../raw/Articles/poweredoutdoors.com/15-reasons-why-your-lawn-mower-is-not-picking-up-grass.md), [S76](../../raw/Articles/poweredoutdoors.com/mower-is-not-bagging-grass-solved.md)
 
 ## How to confirm
 

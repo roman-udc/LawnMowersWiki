@@ -9,13 +9,14 @@ problems:
   - ../problems/engine-overheats.md
   - ../problems/belt-keeps-coming-off.md
   - ../problems/mower-is-noisy.md
+  - ../problems/not-bagging-grass.md
 part_types:
   - deck belt (blade drive belt)
   - ground drive belt
   - belt bracket or keeper bushing
 procedures:
   - ../procedures/replace-the-deck-belt.md
-source_count: 118
+source_count: 119
 updated: 2026-11-24
 ---
 
@@ -67,6 +68,10 @@ Sources for Belt keeps coming off: [S7](../../raw/Articles/poweredoutdoors.com/b
 - [Mower is noisy](../problems/mower-is-noisy.md): a high-pitched squeal when accelerating or engaging the blades.
 
 Sources for Mower is noisy: [S20](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-belt-is-bad.md), [S30](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md), [S96](../../raw/Articles/searspartsdirect.com/troubleshooting-a-noisy-riding-lawn-mower.md)
+
+- [Mower doesn't bag grass](../problems/not-bagging-grass.md): a bad deck belt or blower belt slows the blades or the blower fan, so the bagger loses airflow.
+
+Sources for Mower doesn't bag grass: [S51](../../raw/Articles/poweredoutdoors.com/mower-is-not-bagging-grass-solved.md), [S52](../../raw/Articles/poweredoutdoors.com/pick-up-leaves-with-a-mower.md), [S119](../../raw/Articles/poweredoutdoors.com/15-reasons-why-your-lawn-mower-is-not-picking-up-grass.md)
 
 ## How to confirm
 
@@ -245,3 +250,4 @@ Sources: [S73](../../raw/Articles/poweredoutdoors.com/this-is-why-your-belt-keep
 - [S116](../../raw/Articles/poweredoutdoors.com/troubleshoot-cub-cadet-mower-deck-problems.md) — Troubleshoot Cub Cadet Mower Deck Problems (expert-blog)
 - [S117](../../raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md) — Riding mower and tractor common questions (manufacturer)
 - [S118](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md) — Why your mower loses power when the blades are engaged (manufacturer)
+- [S119](../../raw/Articles/poweredoutdoors.com/15-reasons-why-your-lawn-mower-is-not-picking-up-grass.md) — Zero Turn or Riding Mower Is Not Picking Up Grass (15 Reasons) (expert-blog)

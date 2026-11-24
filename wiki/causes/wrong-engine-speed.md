@@ -6,6 +6,7 @@ problems:
   - ../problems/engine-starts-then-dies.md
   - ../problems/engine-loses-power.md
   - ../problems/engine-runs-rough.md
+  - ../problems/not-bagging-grass.md
 part_types:
   - throttle lever
 procedures: []
@@ -44,6 +45,10 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/15-reasons-why-your-lawn-mo
 Sources for Engine loses power: [S16](../../raw/Articles/poweredoutdoors.com/honda-lawn-mower-loses-power.md), [S30](../../raw/Articles/poweredoutdoors.com/push-mower-loses-power.md)
 
 Sources for Engine runs rough: [S6](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md), [S7](../../raw/Articles/poweredoutdoors.com/common-cub-cadet-mower-problems.md), [S8](../../raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md), [S10](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-running-rough-sputtering.md), [S12](../../raw/Articles/poweredoutdoors.com/ferris-runs-rough.md), [S19](../../raw/Articles/poweredoutdoors.com/hustler-mower-runs-rough.md), [S21](../../raw/Articles/poweredoutdoors.com/john-deere-mower-running-rough.md), [S23](../../raw/Articles/poweredoutdoors.com/kubota-mower-rough-sputtering.md), [S25](../../raw/Articles/poweredoutdoors.com/lawn-mower-sputtering-solved.md), [S31](../../raw/Articles/poweredoutdoors.com/push-mower-runs-rough-sputters.md), [S45](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-is-sputtering.md), [S47](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md), [S48](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-mower-problems.md), [S49](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md), [S50](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-problems.md), [S51](../../raw/Articles/poweredoutdoors.com/hustler-mower-problems.md), [S52](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-problems.md), [S53](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-problems.md), [S54](../../raw/Articles/poweredoutdoors.com/simplicity-mower-problems.md)
+
+- [Mower doesn't bag grass](../problems/not-bagging-grass.md): a slow engine moves less air; bag at full throttle.
+
+Sources for Mower doesn't bag grass: [S1](../../raw/Articles/poweredoutdoors.com/15-reasons-why-your-lawn-mower-is-not-picking-up-grass.md), [S27](../../raw/Articles/poweredoutdoors.com/mower-is-not-bagging-grass-solved.md), [S28](../../raw/Articles/poweredoutdoors.com/pick-up-leaves-with-a-mower.md)
 
 ## How to confirm
 

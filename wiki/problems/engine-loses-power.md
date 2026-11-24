@@ -42,6 +42,7 @@ causes:
   - ../causes/worn-or-stretched-belt.md
   - ../causes/bad-gas-cap-seal.md
   - ../causes/bad-cooling-shroud.md
+  - ../causes/clogged-deck-chute.md
 part_types:
   - air filter
   - fuel filter
@@ -112,7 +113,7 @@ Ranked by how many of the 25 Sources name the Cause for this Problem. Tie-break:
 | [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md) | 11 of 25 | Grass packed under the deck; runs fine until the blades engage | easy |
 | [Bad fuel pump](../causes/bad-fuel-pump.md) | 6 of 25 | Plenty of gas in the tank but the engine isn't getting enough | moderate |
 | [Plugged fuel cap vent](../causes/plugged-fuel-cap-vent.md) | 4 of 25 | Fuel held back in the tank; runs sluggish | easy |
-| Clogged deck chute | 3 of 25 | Plugged deck loads the engine | not yet rated |
+| [Clogged deck chute](../causes/clogged-deck-chute.md) | 3 of 25 | Plugged deck loads the engine | easy |
 | [Bad cooling shroud](../causes/bad-cooling-shroud.md) | 2 of 25 | Debris under the engine shroud; air passages blocked | easy |
 | [Wrong engine speed](../causes/wrong-engine-speed.md) | 2 of 25 | Engine not run at full throttle | easy |
 | [Bad governor](../causes/bad-governor.md) | 1 of 25 | Engine can't react fast enough when the blades engage | not rated by Sources |
@@ -121,7 +122,7 @@ Ranked by how many of the 25 Sources name the Cause for this Problem. Tie-break:
 | [Low compression](../causes/low-compression.md) | 1 of 25 | Still bogs with the blades engaged after fuel, air, belts and blades check out | pro |
 | [Worn or stretched belt](../causes/worn-or-stretched-belt.md) | 1 of 25 | Blade drive belt slips under load; squealing or burning-rubber smell | moderate |
 | [Bad gas cap seal](../causes/bad-gas-cap-seal.md) | 1 of 25 | Bad gas cap | easy |
-| Clogged blower tubes or inlet | 1 of 25 | Bagger tubes plugged | not yet rated |
+| Clogged blower tubes or inlet (not linked: the Source means blocked air passageways around the engine, not the bagger; see Dirty cooling fins) | 1 of 25 | Clippings and dirt around the engine and under the shroud | easy |
 
 Weak hydrostatic transmission (the mower drives weakly while the engine is fine) is not engine power loss: see [Mower won't move](mower-wont-move.md).
 

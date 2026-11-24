@@ -29,6 +29,7 @@ causes:
   - ../causes/old-fuel.md
   - ../causes/worn-or-stretched-belt.md
   - ../causes/clogged-motor-vents.md
+  - ../causes/clogged-deck-chute.md
 part_types:
   - engine oil
   - air filter
@@ -57,7 +58,7 @@ Sources: [S19](../../raw/Articles/poweredoutdoors.com/hustler-mower-overheating.
 | Are the cooling fins packed with grass and dirt, or is the engine guard loose, out of place or missing? | Fins packed or broken → [Dirty cooling fins](../causes/dirty-cooling-fins.md); guard loose or missing → [Bad cooling shroud](../causes/bad-cooling-shroud.md) | No → check the air filter and fan |
 | Riding mower: is the cooling fan broken, clogged or not spinning freely? | Yes → [Bad engine cooling fan](../causes/bad-engine-cooling-fan.md) | No → keep checking |
 | Does it get hot only in long, thick or wet grass, or at high ground speed? | Yes → [Cutting wet or tall grass](../causes/cutting-wet-or-tall-grass.md), [Mowing too fast](../causes/mowing-too-fast.md) | No → check the deck and blades |
-| Is the deck packed with clippings, or are the blades dull? | Yes → [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md), Clogged deck chute, [Dull or bent blade](../causes/dull-or-bent-blade.md) | No → keep checking |
+| Is the deck packed with clippings, or are the blades dull? | Yes → [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md), [Clogged deck chute](../causes/clogged-deck-chute.md), [Dull or bent blade](../causes/dull-or-bent-blade.md) | No → keep checking |
 
 Sources: [S19](../../raw/Articles/poweredoutdoors.com/hustler-mower-overheating.md), [S37](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md), [S10](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-engine-overheats.md), [S1](../../raw/Articles/poweredoutdoors.com/7-things-that-can-cause-a-lawn-mower-to-overheat.md), [S4](../../raw/Articles/poweredoutdoors.com/common-husqvarna-lawn-mower-problems-solutions.md)
 
@@ -86,13 +87,13 @@ Ranked by how many of the 37 Sources name the Cause for this Problem. Tie-break:
 | [Cutting wet or tall grass](../causes/cutting-wet-or-tall-grass.md) | 18 of 37 | Gets hot in long, thick or wet grass | easy |
 | [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md) | 18 of 37 | Deck full of clippings and debris; engine works harder | easy |
 | [Mowing too fast](../causes/mowing-too-fast.md) | 13 of 37 | Gets hot at high ground speed in heavy grass or uphill | easy |
-| Clogged deck chute | 8 of 37 | Clogged mower deck loads the engine | not yet rated |
+| [Clogged deck chute](../causes/clogged-deck-chute.md) | 8 of 37 | Clogged mower deck loads the engine | easy |
 | [Overfilled oil](../causes/overfilled-oil.md) | 5 of 37 | Oil above the full mark; crankcase pressure and load | easy |
 | [Bad engine cooling fan](../causes/bad-engine-cooling-fan.md) | 1 of 37 | Riding mower fan blades broken, clogged or not spinning freely | not rated by Sources |
 | [Bad head gasket](../causes/bad-head-gasket.md) | 1 of 37 | Oil keeps running low after topping off; oil spots, burning smell, smoke | not rated by Sources |
 | [Old fuel](../causes/old-fuel.md) | 1 of 37 | Stale gas burns lean and hotter | easy |
 | [Worn or stretched belt](../causes/worn-or-stretched-belt.md) | 1 of 37 | Slipping or misaligned belt adds friction or blocks airflow; cracked, frayed or glazed | moderate |
-| Clogged blower tubes or inlet | 1 of 37 | Bagger tubes plugged | not yet rated |
+| Clogged blower tubes or inlet (not linked: the Source means blocked air passageways around the engine, not the bagger; see Dirty cooling fins) | 1 of 37 | Clippings and dirt around the engine and under the shroud | easy |
 | [Clogged motor vents](../causes/clogged-motor-vents.md) | 1 of 37 | Electric mower: grass and debris in the motor's air vents | easy |
 
 > Six brand troubleshooting tables (Ferris, Cub Cadet zero-turn, Hustler, John Deere zero-turn, Kubota zero-turn, Husqvarna zero-turn) have scrambled "low engine oil" and "plugged cooling fins" rows. Those Sources are counted for naming the Causes, but their row text is not cited.

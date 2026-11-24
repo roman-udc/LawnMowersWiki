@@ -64,6 +64,7 @@ causes:
   - ../causes/bad-motor.md
   - ../causes/battery-not-seated.md
   - ../causes/overheated-battery.md
+  - ../causes/clogged-deck-chute.md
 part_types:
   - fuel filter
   - fuel line
@@ -102,7 +103,7 @@ Collect the basics first with the [customer intake Guide](../guides/customer-int
 | Where is the oil on the dipstick? | Above the full mark → [Overfilled oil](../causes/overfilled-oil.md) | Below the add mark, or the wrong grade → [Wrong oil or low oil](../causes/wrong-oil-or-low-oil.md) |
 | Does it start on a spray of carburetor cleaner and then die again? | Yes → [Dirty carburetor](../causes/dirty-carburetor.md) | No → check the air filter and spark |
 | Riding mower: does it die when you release the brake, even while seated? | Yes → [Bad safety switch](../causes/bad-safety-switch.md) (seat switch broken or unplugged), [Bad wiring or ground](../causes/bad-wiring-or-ground.md) | No → keep checking |
-| Does it die under load (blades engaged, thick, tall or wet grass)? | Yes → [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md), Clogged deck chute, [Dull or bent blade](../causes/dull-or-bent-blade.md), [Mowing too fast](../causes/mowing-too-fast.md), [Wrong engine speed](../causes/wrong-engine-speed.md) | No → work through the fuel and air checks |
+| Does it die under load (blades engaged, thick, tall or wet grass)? | Yes → [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md), [Clogged deck chute](../causes/clogged-deck-chute.md), [Dull or bent blade](../causes/dull-or-bent-blade.md), [Mowing too fast](../causes/mowing-too-fast.md), [Wrong engine speed](../causes/wrong-engine-speed.md) | No → work through the fuel and air checks |
 | Is it a battery (cordless) mower? | Yes → [Weak or dead battery](../causes/weak-or-dead-battery.md), [Overheated battery](../causes/overheated-battery.md), [Battery not seated](../causes/battery-not-seated.md), [Bad wiring or ground](../causes/bad-wiring-or-ground.md), [Bad safety switch](../causes/bad-safety-switch.md), [Bad motor](../causes/bad-motor.md); see also [Battery mower won't start](battery-mower-wont-start.md) | No (gas) → use the questions above |
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/8-reasons-your-lawn-mower-wont-stay-running.md), [S37](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-isnt-getting-fuel.md), [S77](../../raw/Articles/poweredoutdoors.com/your-lawn-tractor-isnt-getting-fuel.md), [S75](../../raw/Articles/poweredoutdoors.com/your-john-deere-mower-isnt-getting-gas.md), [S82](../../raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md), [S13](../../raw/Articles/poweredoutdoors.com/common-john-deere-lawn-mower-problems.md), [S17](../../raw/Articles/poweredoutdoors.com/common-scag-lawn-mower-problems-solutions.md), [S81](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-dies-when-you-release-the-brake-video.md), [S52](../../raw/Articles/poweredoutdoors.com/lawn-mower-keeps-stalling.md), [S28](../../raw/Articles/poweredoutdoors.com/ego-mower-starts-then-stops.md)
@@ -141,7 +142,7 @@ Ranked by how many of the 82 Sources name the Cause for this Problem. Tie-break:
 | [Bad fuel pump](../causes/bad-fuel-pump.md) | 42 of 82 | Carburetor sits above the tank and the pump doesn't move fuel | moderate |
 | [Wrong choke setting](../causes/wrong-choke-setting.md) | 42 of 82 | Choke left on after warm-up; sluggish, then shuts off | easy |
 | [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md) | 30 of 82 | Plugged deck strains the engine; dies with the blades engaged | not yet rated |
-| Clogged deck chute | 25 of 82 | Deck packed with grass, often after cutting wet grass | not yet rated |
+| [Clogged deck chute](../causes/clogged-deck-chute.md) | 25 of 82 | Deck packed with grass, often after cutting wet grass | easy |
 | [Empty fuel tank](../causes/empty-fuel-tank.md) | 10 of 82 | Low or empty tank; runs out of gas mid-job | easy |
 | [Faulty charging system](../causes/faulty-charging-system.md) | 10 of 82 | Riding mower; battery doesn't hold a charge and it dies after running | pro |
 | [Wrong fuel](../causes/wrong-fuel.md) | 9 of 82 | Wrong type of fuel in the tank (too much ethanol, diesel) | easy |

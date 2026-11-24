@@ -41,6 +41,7 @@ causes:
   - ../causes/bad-safety-switch.md
   - ../causes/dirty-cooling-fins.md
   - ../causes/overfilled-oil.md
+  - ../causes/clogged-deck-chute.md
 part_types:
   - carburetor
   - spark plug
@@ -67,7 +68,7 @@ Sources: [S10](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-runni
 
 | Question | Answer A → Causes | Answer B → Causes |
 |---|---|---|
-| Does it run rough only with the blades engaged, in thick, tall or wet grass? | Yes → [Mowing too fast](../causes/mowing-too-fast.md), [Wrong engine speed](../causes/wrong-engine-speed.md), [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md), Clogged deck chute, [Dull or bent blade](../causes/dull-or-bent-blade.md) | No → check fuel, air and spark |
+| Does it run rough only with the blades engaged, in thick, tall or wet grass? | Yes → [Mowing too fast](../causes/mowing-too-fast.md), [Wrong engine speed](../causes/wrong-engine-speed.md), [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md), [Clogged deck chute](../causes/clogged-deck-chute.md), [Dull or bent blade](../causes/dull-or-bent-blade.md) | No → check fuel, air and spark |
 | Is the throttle at its highest (fastest) position when the blades are engaged? | No → [Wrong engine speed](../causes/wrong-engine-speed.md) | Yes → keep checking |
 | Does it sputter like it's running out of gas although the tank has fuel? | Yes → [Old fuel](../causes/old-fuel.md), [Water in fuel](../causes/water-in-fuel.md), [Clogged fuel filter](../causes/clogged-fuel-filter.md), [Clogged fuel line](../causes/clogged-fuel-line.md), [Bad fuel pump](../causes/bad-fuel-pump.md), [Dirty carburetor](../causes/dirty-carburetor.md), [Plugged fuel cap vent](../causes/plugged-fuel-cap-vent.md) | No → check the air filter, choke and spark plug |
 | Was the mower left out in the rain or stored a long time? | Yes → [Water in fuel](../causes/water-in-fuel.md), [Old fuel](../causes/old-fuel.md) | No → keep checking |
@@ -108,7 +109,7 @@ Ranked by how many of the 34 Sources name the Cause for this Problem. Tie-break:
 | [Clogged air filter](../causes/clogged-air-filter.md) | 14 of 34 | Not enough air; may blow black smoke | easy |
 | [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md) | 12 of 34 | Plugged deck overworks the engine | easy |
 | [Wrong choke setting](../causes/wrong-choke-setting.md) | 10 of 34 | Choke not open once the engine is warm; too much or too little air | easy |
-| Clogged deck chute | 8 of 34 | Plugged deck overworks the engine | not yet rated |
+| [Clogged deck chute](../causes/clogged-deck-chute.md) | 8 of 34 | Plugged deck overworks the engine | easy |
 | [Water in fuel](../causes/water-in-fuel.md) | 4 of 34 | Left in the rain or stored long; water at the bottom of the tank | easy |
 | [Low compression](../causes/low-compression.md) | 1 of 34 | Riding mower runs rough or misfires; compression too low | pro |
 | [Sheared flywheel key](../causes/sheared-flywheel-key.md) | 1 of 34 | Runs rough after the blade hit a rock or stump | moderate |
