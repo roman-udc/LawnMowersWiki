@@ -2372,3 +2372,7 @@ Report: reports/lint/2026-11-25.md. Compared Source `published` dates and Trust 
 ## 2026-11-25 | fix | ticket 40: superseded claims 1–2
 
 Applied items 1 and 2 from reports/lint/2026-11-25.md. Blade replacement: causes/dull-or-bent-blade.md cites how-to-measure-a-mower-blade (S150, manufacturer, 2025) and its callout now says the 1–3 seasons figure supersedes the 2019 every-season rule; procedures/sharpen-and-replace-the-blades.md leads with 1–3 seasons and marks the yearly rule superseded. Paper air filter: causes/clogged-air-filter.md leads with tap-then-replace and notes that the 2025 manufacturer article supersedes the 2017 video's replace-if-dirty advice.
+
+## 2026-11-25 | lint | whole wiki
+
+Report: reports/lint/2026-11-25-2.md. Structural: 0 violations (0 unlogged, 0 other), 0 orphans. Content: 6 missing pages (0 Problems, 0 Causes, 6 Procedures, 0 Guides), 5 unflagged conflicts, 5 superseded claims (1 new, 4 carried over), 3 overlap suspicions, 14 thin pages (9 near-thin).
