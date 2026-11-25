@@ -31,7 +31,7 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/how-to-replace-the-starter
 
 ## Before you start
 
-- Is the battery fully charged? It must read at least 12.3 V on a voltmeter, or the test means nothing (see [Test the battery](test-the-battery.md)).
+- Is the battery fully charged? It must read at least 12.3 V on a voltmeter (about 12.7 V is fully charged), or the test means nothing (see [Test the battery](test-the-battery.md)).
 - Are the battery cables and solenoid wires tight and clean, and is the ground good? Many "bad solenoids" are only a loose wire or a bad ground: check them before you replace the solenoid.
 - Is the solenoid a separate part on the frame, or mounted on the starter? Starter-mounted solenoids get a bench test instead.
 

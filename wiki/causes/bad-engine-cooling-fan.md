@@ -14,7 +14,7 @@ updated: 2026-11-24
 
 ## Summary
 
-Many riding mower engines use a fan to draw air over the engine to cool it. If the fan is damaged (broken blades, cracked) or clogged with dirt or leaves, it can't move enough air and the engine overheats. Clearing the debris is easy; the one Source gives no difficulty rating for replacing the fan.
+Many riding mower engines use a fan to draw air over the engine to cool it. If the fan is damaged (broken blades, cracked) or clogged with dirt or leaves, it can't move enough air and the engine overheats. Clearing the debris is easy; the Source gives no difficulty rating for replacing the fan. Only one Source covers this Cause.
 
 Sources: [S1](../../raw/Articles/searspartsdirect.com/why-your-riding-lawn-mower-overheats-and-how-to-cool-it-down.md)
 

@@ -130,7 +130,7 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/how-to-replace-a-riding-la
 - Blades go out of balance from uneven wear by sand, or from taking more metal off one end when sharpening.
 - Lawn chemicals can corrode blades and fuse them to the deck. Take the blades off now and then.
 - Walk the yard first and pick up sticks, rocks and toys; they bend and gouge blades. Sand wears blades faster.
-- Keep a spare sharpened set. Install new blades at the annual service and sharpen the old set as spares, so a damaged blade doesn't stop the mowing.
+- Keep a spare sharpened set. When the blades are due for replacement (every 1–3 seasons), install the new set and sharpen the old set as spares, so a damaged blade doesn't stop the mowing.
 - A dealer or shop can sharpen for you: the Sources say it's safer, often cheaper than a new blade, a pro can grind out large nicks and gouges, and the blade comes back balanced. Expect to leave them a day or a couple of days. If you aren't comfortable sharpening and balancing, use a pro.
 - Do the blades when the deck is already off or open: at the annual service, at winterizing, or when you scrape the deck. A plugged deck gives an uneven cut and loads the engine.
 - A thin coat of oil before winter storage helps keep electric-mower blades fresh.

@@ -17,7 +17,7 @@ updated: 2026-11-24
 
 ## Summary
 
-The mower moves forward or backward on its own with the controls in neutral: a zero-turn with both drive levers in neutral, or a lawn tractor with an automatic transmission with the motion control lever in neutral. It shouldn't move at all, and creeping is dangerous. The fix is to adjust the neutral position of the control.
+The mower moves forward or backward on its own with the controls in neutral: a zero-turn with both drive levers in neutral, or a lawn tractor with an automatic transmission with the motion control lever in neutral. It shouldn't move at all, and creeping is dangerous. The fix is to adjust the neutral position of the control. Only one Source covers this Problem.
 
 Sources: [S1](../../raw/Articles/searspartsdirect.com/creeps-in-neutral.ltr44448.md)
 

@@ -33,7 +33,7 @@ Sources: [S26](../../raw/Articles/searspartsdirect.com/what-are-the-riding-mower
 
 | Part | Typical replacement | Notes |
 |---|---|---|
-| Blades | Replace once a year (every 1–3 seasons per one maker); sharpen every 25 hours | Sand, dirt, rocks, sticks and toys wear and damage them; lawn chemicals corrode them. A cracked or damaged blade must be replaced. See [Dull or bent blade](../causes/dull-or-bent-blade.md). |
+| Blades | Replace every 1–3 seasons depending on mowing frequency and terrain (the older once-a-year rule is superseded; see [Sharpen and replace the blades](../procedures/sharpen-and-replace-the-blades.md)); sharpen every 25 hours | Sand, dirt, rocks, sticks and toys wear and damage them; lawn chemicals corrode them. A cracked or damaged blade must be replaced. See [Dull or bent blade](../causes/dull-or-bent-blade.md). |
 | Blade (deck) belt | End of each cutting season, or when excessively worn | Wears and can slip after a season; cracked, glazed, stretched or shredded belts should be replaced. See [Worn or stretched belt](../causes/worn-or-stretched-belt.md). |
 | Drive belt | Yearly on riding mowers per one maker; about 3–4 years under ideal conditions per another Source | See [Worn drive belt](../causes/worn-drive-belt.md). |
 | Spindle (mandrel) bearings | When worn; often after a season | See [Bent spindle or bad spindle bearing](../causes/bent-spindle-or-bad-spindle-bearing.md). |
@@ -60,7 +60,7 @@ Sources: [S2](../../raw/Articles/poweredoutdoors.com/change-and-sharpen-your-hus
 
 ## Recommendations
 
-1. **Replace the blades at the annual service** and sharpen them every 25 hours (more often on sandy or gravelly lawns). Step by step: [Sharpen and replace the blades](../procedures/sharpen-and-replace-the-blades.md); to match a new blade, [Measure a mower blade](../procedures/measure-a-mower-blade.md).
+1. **Replace the blades every 1–3 seasons**, or sooner if one is bent, cracked or worn, and sharpen them every 25 hours (more often on sandy or gravelly lawns). Step by step: [Sharpen and replace the blades](../procedures/sharpen-and-replace-the-blades.md); to match a new blade, [Measure a mower blade](../procedures/measure-a-mower-blade.md).
 2. **Replace the engine tune-up parts every season:** air filter, oil filter, spark plug and fuel filter.
 3. **Inspect belts, pulleys and spindle bearings at every service**, and replace cracked, glazed or stretched belts. See [Replace the deck belt](../procedures/replace-the-deck-belt.md) and [Replace the spindle assembly](../procedures/replace-the-spindle-assembly.md).
 4. **Keep spares on hand**, especially with a big lawn. Worth stocking: blades, a spare set of mandrels (spindles), blade and drive belts, deck spray (a nonstick coating that keeps clippings from sticking under the deck), fuel stabilizer, and tire sealant (seals punctures up to 1/4 inch). Nice to have: air filters, spark plugs, engine oil, an oil filter, a blade removal tool and flywheel keys.

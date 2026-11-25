@@ -55,7 +55,7 @@ Charging output test with a volt-ohm meter set to read 12 volts DC (see [Test th
 
 1. Engine off: red lead on the positive (+) terminal, black lead on the negative (−). It should read 12.4 to 12.8 volts (some batteries read higher depending on charge and condition). Write the number down.
 2. Set the parking brake, start the engine and run it at about 3/4 throttle. Read the battery again.
-3. It should read 13.2 to 13.9 volts or higher. Higher than the engine-off reading means the alternator is charging.
+3. It should read 13.2 to 13.9 volts or higher. Higher than the engine-off reading means the alternator is charging. Manufacturer Sources give 13 to 14 volts instead; see the conflicting-advice callout on [Bad alternator](bad-alternator.md).
 4. If the reading doesn't change, the charging system has a problem: possibly a bad regulator or a bad stator/alternator. Another test, or a repair shop, is needed to tell which.
 
 Some charging systems are 15 amp and others 20 amp, depending on the manufacturer and engine.

@@ -14,7 +14,7 @@ updated: 2026-11-24
 
 ## Summary
 
-The engine governor adjusts the throttle automatically to hold the engine speed (RPM) steady. If the governor is misadjusted or not working properly, the engine can't react quickly enough to the extra load when the blades engage, so it bogs down. The one Source that names it gives no repair steps and no difficulty rating.
+The engine governor adjusts the throttle automatically to hold the engine speed (RPM) steady. If the governor is misadjusted or not working properly, the engine can't react quickly enough to the extra load when the blades engage, so it bogs down. Only one Source covers this Cause. It gives no repair steps and no difficulty rating.
 
 Sources: [S1](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-power-when-the-blades-are-engaged.md)
 

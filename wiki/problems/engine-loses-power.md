@@ -72,7 +72,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/bad-boy-loses-power.md), [S
 |---|---|---|
 | Does it lose power only in wet, long or thick grass, or when going fast? | Yes → [Cutting wet or tall grass](../causes/cutting-wet-or-tall-grass.md), [Mowing too fast](../causes/mowing-too-fast.md) | No → check air, fuel and oil |
 | Does it run fine until the blades are engaged, then bog down? | Yes → [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md), [Dull or bent blade](../causes/dull-or-bent-blade.md), [Worn or stretched belt](../causes/worn-or-stretched-belt.md), [Bent spindle or bad spindle bearing](../causes/bent-spindle-or-bad-spindle-bearing.md), [Dirty carburetor](../causes/dirty-carburetor.md), [Bad governor](../causes/bad-governor.md) | No → check air, fuel and oil |
-| Has the gas been in the tank more than a month or two? | Yes → [Old fuel](../causes/old-fuel.md), then [Dirty carburetor](../causes/dirty-carburetor.md), [Clogged fuel filter](../causes/clogged-fuel-filter.md), [Clogged fuel line](../causes/clogged-fuel-line.md) | No → [Clogged air filter](../causes/clogged-air-filter.md), [Fouled spark plug](../causes/fouled-spark-plug.md) |
+| Has the gas been in the tank more than about 30 days? | Yes → [Old fuel](../causes/old-fuel.md), then [Dirty carburetor](../causes/dirty-carburetor.md), [Clogged fuel filter](../causes/clogged-fuel-filter.md), [Clogged fuel line](../causes/clogged-fuel-line.md) | No → [Clogged air filter](../causes/clogged-air-filter.md), [Fouled spark plug](../causes/fouled-spark-plug.md) |
 | Is the oil level right (not low, not above the full mark)? | Low or wrong oil → [Wrong oil or low oil](../causes/wrong-oil-or-low-oil.md) | Above full → [Overfilled oil](../causes/overfilled-oil.md) |
 | Does it lose power only after it gets hot, or after mowing a while? | Yes → [Dirty cooling fins](../causes/dirty-cooling-fins.md), [Bad ignition coil](../causes/bad-ignition-coil.md) | No → keep checking air and fuel |
 | Is the engine at full throttle while mowing? | No → [Wrong engine speed](../causes/wrong-engine-speed.md) | Yes → keep checking |
@@ -84,7 +84,7 @@ Sources: [S30](../../raw/Articles/searspartsdirect.com/why-your-mower-loses-powe
 1. **Make it safe.** Remove the ignition key and the spark plug wire(s) or boot(s) before any repair, and follow the operator's manual.
 2. **Ease the load.** Slow the ground speed, raise the deck for tall grass, and mow when the grass is dry.
 3. **Check the air filter** first; replace it if it's dark, damp or covered in debris ([Clean or replace the air filter](../procedures/clean-or-replace-the-air-filter.md)).
-4. **Check the fuel.** Gas more than a month or two old can make the engine struggle: drain it and refill with fresh fuel. Then look for a clogged fuel filter ([Replace the fuel filter](../procedures/replace-the-fuel-filter.md)), clogged lines, a failing fuel pump and a plugged fuel cap vent.
+4. **Check the fuel.** Gas more than about 30 days old can make the engine struggle (some Sources say a month or two; see the conflicting-advice callout on [Old fuel](../causes/old-fuel.md)): drain it and refill with fresh fuel. Then look for a clogged fuel filter ([Replace the fuel filter](../procedures/replace-the-fuel-filter.md)), clogged lines, a failing fuel pump and a plugged fuel cap vent.
 5. **Check the oil** before each mowing: top up low oil, drain excess oil ([Drain excess oil](../procedures/drain-excess-oil.md)).
 6. **Clean the deck, blades and cooling fins.** Scrape packed grass from under the deck, sharpen or replace dull blades ([Sharpen and replace the blades](../procedures/sharpen-and-replace-the-blades.md)), and clean the cooling fins and the area under the engine shroud ([Clean the cooling fins](../procedures/clean-the-cooling-fins.md)).
 7. **Check the spark plug** ([Replace the spark plug](../procedures/replace-the-spark-plug.md)) and the carburetor ([Clean the carburetor](../procedures/clean-the-carburetor.md), [Rebuild the carburetor](../procedures/rebuild-the-carburetor.md)).
@@ -99,7 +99,7 @@ Ranked by how many of the 25 Sources name the Cause for this Problem. Tie-break:
 | Cause | How common | Telltale signs | Fix difficulty |
 |---|---|---|---|
 | [Dirty carburetor](../causes/dirty-carburetor.md) | 21 of 25 | Bogs when the blades load the engine; not enough fuel when it needs more power | moderate |
-| [Old fuel](../causes/old-fuel.md) | 21 of 25 | Gas more than a month or two old; engine struggles and runs sluggish | easy |
+| [Old fuel](../causes/old-fuel.md) | 21 of 25 | Gas more than about 30 days old; engine struggles and runs sluggish | easy |
 | [Clogged fuel line](../causes/clogged-fuel-line.md) | 19 of 25 | Fuel restriction; sluggish, acts like it's going to die | easy |
 | [Clogged fuel filter](../causes/clogged-fuel-filter.md) | 18 of 25 | Fuel flow restricted just when the engine needs it most | easy |
 | [Clogged air filter](../causes/clogged-air-filter.md) | 16 of 25 | Filter dark, damp or covered in debris; engine starved of air under load | easy |

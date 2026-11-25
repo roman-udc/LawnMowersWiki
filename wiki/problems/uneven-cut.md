@@ -139,7 +139,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-cuts-une
 - Service the deck at least twice a mowing season, more often on heavily watered or fertilized lawns. Sources: [S63](../../raw/Articles/poweredoutdoors.com/troubleshoot-cub-cadet-mower-deck-problems.md)
 - Grease the idler bracket during routine checks: a binding bracket lets the belt and blades slip in heavy grass, which shows up as a bad cut the next day. Sources: [S63](../../raw/Articles/poweredoutdoors.com/troubleshoot-cub-cadet-mower-deck-problems.md)
 - Double- or triple-cut very tall grass. Sources: [S36](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md), [S63](../../raw/Articles/poweredoutdoors.com/troubleshoot-cub-cadet-mower-deck-problems.md)
-- Inspect blades before every use and replace them at the start of each season or whenever damaged. Sources: [S77](../../raw/Articles/searspartsdirect.com/why-does-my-lawn-tractor-cut-unevenly.md)
+- Inspect blades before every use, and replace any that are bent, cracked or worn. Sources: [S77](../../raw/Articles/searspartsdirect.com/why-does-my-lawn-tractor-cut-unevenly.md). This Source also says to replace blades at the start of each season. A newer manufacturer Source says every 1–3 seasons and supersedes that rule; see the callout on [Dull or bent blade](../causes/dull-or-bent-blade.md).
 - A loose or worn deck belt can keep the blades from spinning fast enough for a good cut. Sources: [S64](../../raw/Articles/poweredoutdoors.com/why-your-craftsman-belt-keeps-coming-off-or-breaking.md), [S27](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-belt-is-bad.md)
 
 ## Parts commonly needed

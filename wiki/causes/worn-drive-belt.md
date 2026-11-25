@@ -8,8 +8,8 @@ part_types:
   - drive belt
 procedures:
   - ../procedures/replace-the-drive-belt.md
-source_count: 29
-updated: 2026-11-24
+source_count: 30
+updated: 2026-11-25
 ---
 
 # Worn drive belt
@@ -64,6 +64,7 @@ Sources: [S26](../../raw/Articles/searspartsdirect.com/won-t-move.ltr1818.md), [
 - **Husqvarna:** on zero-turns, a worn pump drive belt slips and the mower moves slowly; on lawn tractors, check the motion drive belt is routed correctly, seated and inside the belt guards.
 - **Ariens and John Deere zero-turns:** the hydraulic pump is driven by a V-belt off the engine; loose or off the pulley means no movement.
 - **Cub Cadet:** a belt that can't grip the pulley won't drive forward or reverse.
+- **Bad Boy:** pump drive belt tension should be 60 to 65 lbs, set with the jam nuts on the tensioner (one Source; verify against the manual). Sources: [S30](../../raw/Articles/poweredoutdoors.com/bad-boy-zero-turn-wont-move-forward-or-reverse.md)
 - Craftsman, Exmark, Ferris, Hustler, Kubota, Simplicity, Spartan, Toro, Troy-Bilt and Walker articles give the same check-and-replace advice with nothing brand-specific.
 
 Sources: [S11](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-wont-move-or-go-forward.md), [S1](../../raw/Articles/poweredoutdoors.com/ariens-zero-turn-mower-wont-move-forward-or-reverse-fix-it.md), [S14](../../raw/Articles/poweredoutdoors.com/john-deere-zero-turn-wont-move-or-go-forward.md), [S9](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-wont-move-or-go-forward.md), [S2](../../raw/Articles/poweredoutdoors.com/common-craftsman-lawn-mower-problems.md), [S3](../../raw/Articles/poweredoutdoors.com/common-exmark-mower-problems-and-solutions.md), [S10](../../raw/Articles/poweredoutdoors.com/ferris-zero-turn-mower-wont-move-or-go-forward.md), [S12](../../raw/Articles/poweredoutdoors.com/hustler-zero-turn-wont-move-forward.md), [S15](../../raw/Articles/poweredoutdoors.com/kubota-zero-turn-wont-move-forward-or-reverse.md), [S17](../../raw/Articles/poweredoutdoors.com/simplicity-zero-turn-wont-move-forward-reverse.md), [S18](../../raw/Articles/poweredoutdoors.com/spartan-zero-turn-wont-move-or-go-forward.md), [S6](../../raw/Articles/poweredoutdoors.com/common-toro-lawn-mower-problems-solutions.md), [S7](../../raw/Articles/poweredoutdoors.com/common-troy-bilt-lawn-mower-problems.md), [S20](../../raw/Articles/poweredoutdoors.com/walker-mower-wont-move-forward-or-reverse.md)
@@ -115,3 +116,4 @@ Sources: [S24](../../raw/Articles/searspartsdirect.com/what-are-the-riding-mower
 - [S27](../../raw/Articles/poweredoutdoors.com/common-bad-boy-lawn-mower-problems-solutions.md) — 13 Bad Boy Mower Problems (Troubleshooting Tables) (expert-blog)
 - [S28](../../raw/Articles/poweredoutdoors.com/ferris-lawn-mower-problems-and-solutions.md) — 13 Common Ferris Zero Turn Problems (Troubleshooting) (expert-blog)
 - [S29](../../raw/Articles/poweredoutdoors.com/your-common-lawn-tractor-problems-solutions.md) — 9 Common Lawn Tractor Problems & Solutions (Troubleshoot) (expert-blog)
+- [S30](../../raw/Articles/poweredoutdoors.com/bad-boy-zero-turn-wont-move-forward-or-reverse.md) — Bad Boy Zero Turn Won't Move Forward or Reverse (7 Reasons) (expert-blog)

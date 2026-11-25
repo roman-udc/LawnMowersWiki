@@ -40,7 +40,7 @@ Sources for Mower pulls to one side: [S32](../../raw/Articles/searspartsdirect.c
 - Check the tires first and set them to spec.
 - Park on a flat, level, hard surface.
 - Measure from the ground to the bottom of the deck at all four corners, or from the ground to the blade tips on each side and at the front and rear of one blade. Record the readings.
-- Compare side to side (should match) and front to rear against the manual's spec. On most decks the front sits slightly lower than the rear; some models want it even.
+- Compare side to side (should match) and front to rear against the manual's spec. On most decks the front sits slightly lower than the rear; some models want it even. Sources disagree on the exact front-to-rear spec; see the conflicting-advice callout on [Level the deck](../procedures/level-the-deck.md).
 
 Sources: [S4](../../raw/Articles/poweredoutdoors.com/craftsman-mower-cut-is-uneven.md), [S7](../../raw/Articles/poweredoutdoors.com/fix-your-exmark-mower-deck-problem.md), [S10](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md), [S11](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-cuts-uneven.md), [S15](../../raw/Articles/poweredoutdoors.com/reasons-lawn-tractor-cuts-uneven.md), [S16](../../raw/Articles/poweredoutdoors.com/reasons-your-riding-mower-is-cutting-uneven.md), [S21](../../raw/Articles/poweredoutdoors.com/toro-lawn-mower-is-cutting-uneven.md), [S23](../../raw/Articles/poweredoutdoors.com/why-your-cub-cadet-lawn-mower-cuts-uneven.md), [S27](../../raw/Articles/poweredoutdoors.com/zero-turn-lawn-mower-is-cutting-uneven.md), [S32](../../raw/Articles/searspartsdirect.com/why-your-lawn-mower-pulls-to-one-side-while-cutting.md)
 
