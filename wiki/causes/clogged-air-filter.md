@@ -10,7 +10,6 @@ problems:
   - ../problems/engine-overheats.md
   - ../problems/engine-dies-when-hot.md
   - ../problems/mower-is-noisy.md
-  - ../problems/engine-hard-to-start-when-cold.md
 part_types:
   - air filter
   - foam pre-filter
@@ -77,7 +76,6 @@ Sources for Engine dies when hot: [S65](../../raw/Articles/poweredoutdoors.com/h
 
 Sources for Mower is noisy: [S175](../../raw/Articles/searspartsdirect.com/troubleshooting-a-noisy-riding-lawn-mower.md)
 
-- [Engine hard to start when cold](../problems/engine-hard-to-start-when-cold.md): a dirty filter can stop a cold start.
 
 Sources for Engine hard to start when cold: [S10](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-when-cold.md)
 

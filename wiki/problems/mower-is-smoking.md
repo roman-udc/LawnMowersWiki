@@ -139,7 +139,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/5-reasons-your-lawn-mower-m
 
 ## Related problems
 
-Smoke often comes with an engine that runs hot: a smoking engine can also overheat or quit when hot (see [Engine overheats](engine-overheats.md) and [Engine dies when hot](engine-dies-when-hot.md)). Not this problem? If the engine starts and then stalls, see [Engine starts then dies](engine-starts-then-dies.md).
+Smoke often comes with an engine that runs hot: a smoking engine can also overheat or quit when hot (see [Engine overheats](engine-overheats.md) and [Engine dies when hot](engine-dies-when-hot.md)). Not this problem? If the engine starts and then stalls, see [Engine starts then dies](engine-starts-then-dies.md). Oil dripping under the mower or onto the muffler, from an overfill or a bad gasket? See [Mower is leaking oil](mower-is-leaking-oil.md); the two share their oil Causes.
 
 Sources: [S19](../../raw/Articles/poweredoutdoors.com/common-honda-lawn-mower-problems-solutions.md), [S64](../../raw/Articles/poweredoutdoors.com/solved-toro-lawn-mower-quits-when-hot.md), [S58](../../raw/Articles/poweredoutdoors.com/guide-to-draining-oil-from-your-lawn-mower.md)
 

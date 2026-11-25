@@ -10,7 +10,6 @@ problems:
   - ../problems/engine-overheats.md
   - ../problems/engine-dies-when-hot.md
   - ../problems/engine-only-runs-with-choke-on.md
-  - ../problems/engine-hard-to-start-when-cold.md
 part_types:
   - fuel stabilizer
   - fuel filter
@@ -71,7 +70,6 @@ Sources for Engine dies when hot: [S77](../../raw/Articles/poweredoutdoors.com/h
 
 Sources for Engine only runs with the choke on: [S15](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-runs-with-choke-on.md), [S93](../../raw/Articles/poweredoutdoors.com/john-deere-mower-runs-choke-on.md), [S102](../../raw/Articles/poweredoutdoors.com/kubota-mower-runs-choke-on.md), [S134](../../raw/Articles/poweredoutdoors.com/riding-mower-only-runs-choke-on.md), [S158](../../raw/Articles/poweredoutdoors.com/toro-only-runs-choke-on.md), [S190](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-only-runs-choke-on.md)
 
-- [Engine hard to start when cold](../problems/engine-hard-to-start-when-cold.md): old gas can stop a cold start.
 
 Sources for Engine hard to start when cold: [S112](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-when-cold.md)
 

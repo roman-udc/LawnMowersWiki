@@ -5,7 +5,6 @@ problems:
   - ../problems/engine-wont-crank.md
   - ../problems/engine-cranks-but-wont-start.md
   - ../problems/battery-keeps-dying.md
-  - ../problems/engine-hard-to-start-when-cold.md
 part_types:
   - battery cable
   - battery terminal
@@ -43,7 +42,6 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/5-things-that-are-draining-
 
 Sources for Battery keeps dying: [S1](../../raw/Articles/poweredoutdoors.com/5-things-that-are-draining-the-life-of-your-lawn-mower-battery.md), [S4](../../raw/Articles/poweredoutdoors.com/bad-boy-battery-keeps-dying.md), [S21](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-battery-keeps-dying.md), [S37](../../raw/Articles/poweredoutdoors.com/husqvarna-battery-keeps-dying.md), [S48](../../raw/Articles/poweredoutdoors.com/john-deere-mower-battery-keeps-dying.md), [S73](../../raw/Articles/poweredoutdoors.com/troy-bilt-battery-keeps-dying.md), [S104](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-starts-then-dies.md), [S105](../../raw/Articles/poweredoutdoors.com/lawn-mower-battery-charging-times-explained.md)
 
-- [Engine hard to start when cold](../problems/engine-hard-to-start-when-cold.md): loose or corroded cables can stop a cold start.
 
 Sources for Engine hard to start when cold: [S54](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-when-cold.md)
 

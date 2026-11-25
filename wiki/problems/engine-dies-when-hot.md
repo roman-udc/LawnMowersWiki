@@ -52,6 +52,7 @@ Sources: [S4](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-quits-
 
 | Question | Answer A → Causes | Answer B → Causes |
 |---|---|---|
+| When does it stop: only after running a while and getting hot, or within seconds or minutes of starting at any temperature? And does it actually shut off? | Stops only once hot → this page, keep going | Stops soon after starting, even cold → see [Engine starts then dies](engine-starts-then-dies.md); runs hot, smells or smokes but keeps running → see [Engine overheats](engine-overheats.md) |
 | Is the oil level below the add mark, above the full mark, or the wrong type? | Low or wrong → [Wrong oil or low oil](../causes/wrong-oil-or-low-oil.md); too high → [Overfilled oil](../causes/overfilled-oil.md) | Correct → check cooling and load |
 | Are the cooling fins or the area under the engine shroud packed with dirt, oil or grass? | Yes → [Dirty cooling fins](../causes/dirty-cooling-fins.md) | No → check the deck and blades |
 | Is the deck packed with grass, or are the blades dull? | Yes → [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md), [Clogged deck chute](../causes/clogged-deck-chute.md), [Dull or bent blade](../causes/dull-or-bent-blade.md) | No → check air and fuel |
@@ -144,8 +145,8 @@ Sources: [S8](../../raw/Articles/poweredoutdoors.com/riding-lawn-mower-quits-whe
 
 ## Related problems
 
-- Dies soon after starting, or at any temperature? See [Engine starts then dies](engine-starts-then-dies.md).
-- Engine smells hot, smokes or runs too hot but keeps running? See [Engine overheats](engine-overheats.md).
+- **Not this problem?** Dies soon after starting, or at any temperature? See [Engine starts then dies](engine-starts-then-dies.md).
+- **Not this problem?** Engine smells hot, smokes or runs too hot but keeps running? See [Engine overheats](engine-overheats.md).
 
 Sources: [S13](../../raw/Articles/poweredoutdoors.com/your-cub-cadet-quits-when-it-gets-hot-solved.md), [S4](../../raw/Articles/poweredoutdoors.com/husqvarna-lawn-mower-quits-when-hot.md)
 

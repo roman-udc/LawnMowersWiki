@@ -146,7 +146,7 @@ Sources: [S8](../../raw/Articles/poweredoutdoors.com/craftsman-mower-overheating
 
 ## Related problems
 
-- Engine shuts off once it gets hot? See [Engine starts then dies](engine-starts-then-dies.md); several Sources list overheating as a reason the mower won't stay running. If it shuts off once hot, see [Engine dies when hot](engine-dies-when-hot.md).
+- Engine shuts off once it gets hot? See [Engine dies when hot](engine-dies-when-hot.md). Stalls soon after starting, even cold? See [Engine starts then dies](engine-starts-then-dies.md); several Sources list overheating as a reason the mower won't stay running.
 - Engine bogs down rather than running hot? See [Engine loses power](engine-loses-power.md).
 - Smoke from the engine? See [Mower is smoking](mower-is-smoking.md).
 

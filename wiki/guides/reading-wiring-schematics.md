@@ -34,7 +34,7 @@ Sources: [S7](../../raw/Articles/searspartsdirect.com/wiring-schematic-symbols-e
 
 1. Get the schematic for the exact model: it may be in the owner's manual, on a sticker on the machine, or on the model's parts-diagram page online.
 2. Find the circuit for the fault (for example, the starting circuit when the [engine won't crank](../problems/engine-wont-crank.md)) and follow it from the battery through each part and wire.
-3. Disconnect power, then test each switch and wire in that circuit for continuity with a multimeter. The part left when everything else tests good is the likely culprit. Full steps: [Read a wiring schematic](../procedures/read-a-wiring-schematic.md); for the solenoid itself, [Test the starter solenoid](../procedures/test-the-starter-solenoid.md).
+3. Trace that circuit with a multimeter until only one part is left untested: that is the likely culprit. The step-by-step method is in [Read a wiring schematic](../procedures/read-a-wiring-schematic.md); for the solenoid itself, [Test the starter solenoid](../procedures/test-the-starter-solenoid.md).
 4. Repair or replace broken wires or bad connections. See [Bad wiring or ground](../causes/bad-wiring-or-ground.md).
 
 Sources: [S4](../../raw/Articles/searspartsdirect.com/how-to-read-a-wiring-schematic-video.md), [S6](../../raw/Articles/searspartsdirect.com/using-a-wiring-schematic-to-trace-a-current-video.md), [S7](../../raw/Articles/searspartsdirect.com/wiring-schematic-symbols-explained-video.md)

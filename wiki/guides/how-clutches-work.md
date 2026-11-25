@@ -38,12 +38,7 @@ Signs the clutch may need replacing:
 - The deck doesn't spin fast enough, or the blades vibrate too much and slow down as they start.
 - Unusual sounds, rough running or vibration (see [Mower is vibrating](../problems/mower-is-vibrating.md)).
 
-Before replacing it, test it (see [Test the PTO clutch](../procedures/test-the-pto-clutch.md)):
-
-1. If you don't hear the click, check the power reaching the clutch with a multimeter. It should get about 12 volts. Too little means the fault is elsewhere (for example the [PTO switch](../causes/bad-pto-switch.md) or wiring), not the clutch.
-2. With power present, measure the electromagnet's resistance: it should read between 1 and 3 ohms. A high reading means too much resistance; a low reading may mean a wiring problem.
-3. Inspect the brake pad and hub for buildup, corrosion or obstructions that stop the pulley making good contact. Replace a worn brake pad.
-4. Inspect plates, bolts, springs and pulleys for wear and make sure everything is tight. Then replace the damaged parts or the whole clutch; the mower's dealer usually has the part.
+Before replacing it, test it: if the clutch isn't getting about 12 volts, the fault is elsewhere (for example the [PTO switch](../causes/bad-pto-switch.md) or wiring), not the clutch. The full power, resistance and inspection steps are in [Test the PTO clutch](../procedures/test-the-pto-clutch.md). If the tests confirm it, replace the damaged parts (a worn brake pad, for example) or the whole clutch; the mower's dealer usually has the part.
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/a-look-into-how-lawn-mower-clutches-work.md)
 

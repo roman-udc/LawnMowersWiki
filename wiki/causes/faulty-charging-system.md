@@ -6,7 +6,6 @@ problems:
   - ../problems/engine-cranks-but-wont-start.md
   - ../problems/engine-starts-then-dies.md
   - ../problems/battery-keeps-dying.md
-  - ../problems/engine-hard-to-start-when-cold.md
 part_types:
   - stator
   - alternator
@@ -47,7 +46,6 @@ Sources for Engine starts then dies: [S11](../../raw/Articles/poweredoutdoors.co
 
 Sources for Battery keeps dying: [S1](../../raw/Articles/poweredoutdoors.com/5-things-that-are-draining-the-life-of-your-lawn-mower-battery.md), [S2](../../raw/Articles/poweredoutdoors.com/bad-boy-battery-keeps-dying.md), [S12](../../raw/Articles/poweredoutdoors.com/cub-cadet-lawn-mower-battery-keeps-dying.md), [S15](../../raw/Articles/poweredoutdoors.com/cub-cadet-zero-turn-starts-then-dies.md), [S24](../../raw/Articles/poweredoutdoors.com/husqvarna-battery-keeps-dying.md), [S27](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-dies-while-mowing.md), [S33](../../raw/Articles/poweredoutdoors.com/john-deere-mower-battery-keeps-dying.md), [S48](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-starts-then-dies.md), [S56](../../raw/Articles/poweredoutdoors.com/troy-bilt-battery-keeps-dying.md), [S78](../../raw/Articles/poweredoutdoors.com/husqvarna-zero-turn-starts-then-dies.md), [S79](../../raw/Articles/poweredoutdoors.com/lawn-mower-battery-charging-times-explained.md), [S80](../../raw/Articles/poweredoutdoors.com/walker-mower-starts-then-dies.md)
 
-- [Engine hard to start when cold](../problems/engine-hard-to-start-when-cold.md): a battery not being recharged struggles to start the engine in the cold.
 
 Sources for Engine hard to start when cold: [S41](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-when-cold.md)
 

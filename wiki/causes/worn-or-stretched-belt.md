@@ -28,7 +28,7 @@ The deck belt (blade belt) runs around the deck pulleys and spins the blades. It
 
 Blade speed matters: fast-spinning blades create the air movement and suction under the deck that stands the grass up for an even cut. A slipping belt lowers blade tip speed, and the cut suffers even when the blades still turn.
 
-The same wear hits other belts: a worn ground drive belt or hydrostatic pump belt slips and the mower moves slowly or poorly, and on a belt-driven bagger the deck belt also drives the blower belt.
+The same wear hits other belts: a worn ground drive belt or hydrostatic pump belt slips and the mower moves slowly or poorly (see [Worn drive belt](worn-drive-belt.md)), and on a belt-driven bagger the deck belt also drives the blower belt.
 
 The fix is to replace the belt. Most homeowners can replace a riding mower deck belt with a few hand tools (one Source).
 
@@ -36,7 +36,7 @@ Sources: [S98](../../raw/Articles/searspartsdirect.com/won-t-cut-grass.ridtr01.m
 
 ## Before you start
 
-- Which belt is it: the deck belt that spins the blades, or a drive belt that moves the mower? Some mowers (some Ferris models) have two deck belts.
+- Which belt is it: the deck belt that spins the blades, or a drive belt that moves the mower (then see [Worn drive belt](worn-drive-belt.md))? Some mowers (some Ferris models) have two deck belts.
 - Have the owner's manual, the routing decal on the mower, or the parts diagram ready: routing is the first thing to check on a shredded belt.
 - There is no set replacement interval: it depends on how much the mower is used and how well it is kept up.
 - A belt that keeps breaking often means something else is wrong, such as a deck packed with clippings or an oil leak.
