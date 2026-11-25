@@ -27,6 +27,7 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/how-to-replace-the-starter
 
 - Have you confirmed the starter is the problem? A click from the solenoid with no motor movement points to the starter; the solenoid test is in [Test the starter solenoid](test-the-starter-solenoid.md).
 - This procedure is for a riding mower or lawn tractor with the starter under the engine blower housing.
+- Only one Source covers this job; check the owner's manual for your model before relying on it.
 
 Sources: [S1](../../raw/Articles/searspartsdirect.com/how-to-replace-the-starter-motor-on-a-riding-lawn-mower.md)
 

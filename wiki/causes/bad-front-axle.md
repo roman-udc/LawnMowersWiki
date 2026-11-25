@@ -15,7 +15,7 @@ updated: 2026-11-24
 
 ## Summary
 
-On a riding mower the front wheels turn on wheel spindles mounted on the front axle. A worn front axle, or a bent or worn wheel spindle, won't allow proper steering: the steering is loose, the front wheels point outward, or they wobble and don't line up. The fix is to replace the damaged part. Fix difficulty: moderate (finalizer judgement; the Source gives none).
+On a riding mower the front wheels turn on wheel spindles mounted on the front axle. A worn front axle, or a bent or worn wheel spindle, won't allow proper steering: the steering is loose, the front wheels point outward, or they wobble and don't line up. The fix is to replace the damaged part. Fix difficulty: moderate (finalizer judgement; the Source gives none). Only one Source covers this Cause.
 
 Sources: [S1](../../raw/Articles/searspartsdirect.com/loose-steering.ridtr09.md)
 

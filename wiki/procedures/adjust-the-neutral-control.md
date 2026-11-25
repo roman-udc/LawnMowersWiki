@@ -24,6 +24,7 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/creeps-in-neutral.ltr44448
 
 - Zero-turn (two drive levers) or lawn tractor with an automatic transmission (motion control lever)? The steps differ.
 - If these steps don't match your tractor's drive system, use the owner's manual for adjusting neutral.
+- Only one Source covers this job; check the owner's manual for your model before relying on it.
 
 Sources: [S1](../../raw/Articles/searspartsdirect.com/creeps-in-neutral.ltr44448.md)
 

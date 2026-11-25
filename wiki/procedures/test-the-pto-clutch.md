@@ -21,6 +21,7 @@ Fixes: [Bad PTO clutch](../causes/bad-pto-clutch.md). Use this test on a riding 
 
 - Flip the PTO switch and listen. If you don't hear the clutch click on, start with the power check (step 1).
 - Find your mower's own clutch torque specification before you take anything apart. Each machine is different.
+- Only one Source covers this job; check the owner's manual for your model before relying on it.
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/a-look-into-how-lawn-mower-clutches-work.md)
 

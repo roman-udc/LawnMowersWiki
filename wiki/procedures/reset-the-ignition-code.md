@@ -25,6 +25,7 @@ Sources: [S1](../../raw/Articles/searspartsdirect.com/how-to-change-the-smart-sw
 
 - Is the parking brake set? The control won't accept a code (no green blink) without it.
 - Do you know the current code? The factory default is 3-2-1.
+- Only one Source covers this job; check the owner's manual for your model before relying on it.
 
 Sources: [S1](../../raw/Articles/searspartsdirect.com/how-to-change-the-smart-switch-ignition-password-on-a-lawn-tractor-video.md)
 

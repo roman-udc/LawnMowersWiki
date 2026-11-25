@@ -134,7 +134,7 @@ The routing table for the wiki. One line per page, grouped by page type. Problem
 - [Clogged motor vents](causes/clogged-motor-vents.md) — grass in an electric mower's motor vents: overheats, won't turn on; wipe dry or use compressed air, no liquids (easy).
 - [Overheated battery](causes/overheated-battery.md) — battery mower shuts down and won't restart while the battery is hot; let it cool, clean the vents (easy).
 - [Safety key missing](causes/safety-key-missing.md) — battery mower safety key out or not fully in, or handle and side rails not locked: mower won't start (easy).
-- [Clogged muffler or spark arrestor](causes/clogged-muffler-or-spark-arrestor.md) — the Sources describe a cracked, broken or loose muffler (baffles rattling inside), not a clogged one: loud exhaust or metal rattle; repair or replace the muffler (easy).
+- [Damaged or loose muffler](causes/damaged-or-loose-muffler.md) — a cracked, broken or loose muffler (baffles rattling inside): loud exhaust or metal rattle; repair or replace the muffler (easy).
 - [Bad bagger or full bag](causes/bad-bagger-or-full-bag.md) — bags wrong, worn (2 to 3 years) or not passing air, or bagger not secured so air escapes; a full bag can stop an electric mower starting (easy).
 - [Clogged blower tubes or inlet](causes/clogged-blower-tubes-or-inlet.md) — old grass, sticks or leaves in the bagger blower tubes, inlet tube or the hidden inlet screen; clean and coat with silicone (easy).
 - [Clogged deck chute](causes/clogged-deck-chute.md) — clippings packed under the deck and in the discharge chute: bad cut, no bagging, engine loaded until it bogs, overheats or dies; scrape the deck (easy). Overlaps Debris on deck or pulleys.

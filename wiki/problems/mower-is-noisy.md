@@ -18,7 +18,7 @@ causes:
   - ../causes/worn-pulley-or-idler-bearing.md
   - ../causes/bent-spindle-or-bad-spindle-bearing.md
   - ../causes/worn-or-stretched-belt.md
-  - ../causes/clogged-muffler-or-spark-arrestor.md
+  - ../causes/damaged-or-loose-muffler.md
   - ../causes/dull-or-bent-blade.md
   - ../causes/wrong-oil-or-low-oil.md
   - ../causes/bad-belt-tensioner-spring.md
@@ -55,7 +55,7 @@ Sources: [S1](../../raw/Articles/poweredoutdoors.com/5-reasons-why-lawn-mowers-a
 | Is it grinding or screeching from the deck, especially with the blades spinning? | Yes → [Bent spindle or bad spindle bearing](../causes/bent-spindle-or-bad-spindle-bearing.md), [Worn pulley or idler bearing](../causes/worn-pulley-or-idler-bearing.md), [Debris wrapped around blade spindle](../causes/debris-wrapped-around-blade-spindle.md) | No → next question |
 | Is it a deep knock or thud with strong vibration? | Yes → [Dull or bent blade](../causes/dull-or-bent-blade.md), [Bad blade adapter or loose blade](../causes/bad-blade-adapter-or-loose-blade.md), [Debris on deck or pulleys](../causes/debris-on-deck-or-pulleys.md) | No → next question |
 | Does the knocking or squealing come from the engine? | Yes → [Wrong oil or low oil](../causes/wrong-oil-or-low-oil.md), [Clogged air filter](../causes/clogged-air-filter.md), [Engine mount loose](../causes/engine-mount-loose.md) | No → next question |
-| Is the exhaust loud, or is there a metal rattle from the muffler? | Yes → [Clogged muffler or spark arrestor](../causes/clogged-muffler-or-spark-arrestor.md) (damaged or loose muffler) | No → do a full tune-up |
+| Is the exhaust loud, or is there a metal rattle from the muffler? | Yes → [Damaged or loose muffler](../causes/damaged-or-loose-muffler.md) | No → do a full tune-up |
 
 Sources: [S5](../../raw/Articles/searspartsdirect.com/troubleshooting-a-noisy-riding-lawn-mower.md), [S2](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-belt-is-bad.md), [S3](../../raw/Articles/poweredoutdoors.com/how-to-find-prevent-substantial-lawn-mower-deck-problems.md), [S1](../../raw/Articles/poweredoutdoors.com/5-reasons-why-lawn-mowers-are-louder-than-cars.md)
 
@@ -80,7 +80,7 @@ Ranked by how many of the 5 Sources name the Cause for this Problem. Tie-break: 
 | [Worn pulley or idler bearing](../causes/worn-pulley-or-idler-bearing.md) | 4 of 5 | Squeal or grinding from a pulley; play in the bearing | moderate |
 | [Bent spindle or bad spindle bearing](../causes/bent-spindle-or-bad-spindle-bearing.md) | 3 of 5 | Grinding or screeching from the deck, especially with the blades spinning | moderate |
 | [Worn or stretched belt](../causes/worn-or-stretched-belt.md) | 3 of 5 | High-pitched squeal when accelerating or engaging the blades; belt cracked, glazed or slipping | easy |
-| [Clogged muffler or spark arrestor](../causes/clogged-muffler-or-spark-arrestor.md) | 2 of 5 | Loud exhaust or metal rattle: cracked muffler, broken baffles, loose muffler | easy |
+| [Damaged or loose muffler](../causes/damaged-or-loose-muffler.md) | 2 of 5 | Loud exhaust or metal rattle: cracked muffler, broken baffles, loose muffler | easy |
 | [Dull or bent blade](../causes/dull-or-bent-blade.md) | 2 of 5 | Deep knocking or thudding, strong vibration | easy |
 | [Wrong oil or low oil](../causes/wrong-oil-or-low-oil.md) | 2 of 5 | Loud engine from an overdue oil change; squealing or knocking from the engine | easy |
 | [Bad belt tensioner spring](../causes/bad-belt-tensioner-spring.md) | 2 of 5 | Broken tensioner spring; deck squeal | easy |

@@ -14,7 +14,7 @@ updated: 2026-11-24
 
 ## Summary
 
-Filling the tank to the brim leaves no room for the fuel to expand. As it warms up, fuel spills out or vents as vapor. It is common when the tank is filled in the morning and the mower is then left in the sun. The fix is easy: fill less.
+Filling the tank to the brim leaves no room for the fuel to expand. As it warms up, fuel spills out or vents as vapor. It is common when the tank is filled in the morning and the mower is then left in the sun. The fix is easy: fill less. Only one Source covers this Cause.
 
 > **Safety:** spilled gasoline and its vapor are flammable. Fill the tank with the engine off, and wipe up any spill before starting the mower.
 

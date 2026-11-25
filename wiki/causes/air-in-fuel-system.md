@@ -14,7 +14,7 @@ updated: 2026-11-23
 
 ## Summary
 
-On a diesel mower, air trapped in the fuel system hurts starting and running. Fix difficulty: easy. Sources: [S1](../../raw/Articles/poweredoutdoors.com/diesel-lawn-mower-wont-start.md)
+On a diesel mower, air trapped in the fuel system hurts starting and running. Fix difficulty: easy. Only one Source covers this Cause. Sources: [S1](../../raw/Articles/poweredoutdoors.com/diesel-lawn-mower-wont-start.md)
 
 ## Before you start
 

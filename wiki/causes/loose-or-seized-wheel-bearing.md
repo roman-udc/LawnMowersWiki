@@ -14,7 +14,7 @@ updated: 2026-11-24
 
 ## Summary
 
-Over time, wheel bearings can wear out or seize and axles can begin to bind, especially after the mower has been used on rough terrain. A dragging or sticking wheel throws off the mower's balance and makes it favor one side. The fix is to replace the wheel, which the Source calls a straightforward fix.
+Over time, wheel bearings can wear out or seize and axles can begin to bind, especially after the mower has been used on rough terrain. A dragging or sticking wheel throws off the mower's balance and makes it favor one side. The fix is to replace the wheel, which the Source calls a straightforward fix. Only one Source covers this Cause.
 
 Sources: [S1](../../raw/Articles/searspartsdirect.com/why-your-lawn-mower-pulls-to-one-side-while-cutting.md)
 

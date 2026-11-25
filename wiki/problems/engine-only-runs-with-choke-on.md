@@ -63,7 +63,7 @@ Sources: [S7](../../raw/Articles/poweredoutdoors.com/zero-turn-mower-only-runs-c
 
 ## Possible causes
 
-Ranked by how many of the 6 Sources name the Cause for this Problem. Tie-break: on equal counts, the Cause named by more manufacturer Sources ranks higher, then alphabetical order. All 6 Sources are expert-blog, so the seven Causes named by every Source tie and are listed alphabetically.
+Ranked by how many of the 6 run-with-choke Sources (S1–S3, S5–S7) name the Cause for this Problem. Tie-break: on equal counts, the Cause named by more manufacturer Sources ranks higher, then alphabetical order. S4, a general starts-then-dies article, backs only Related problems and is not counted. All 6 counted Sources are expert-blog, so the seven Causes named by every Source tie and are listed alphabetically.
 
 | Cause | How common | Telltale signs | Fix difficulty |
 |---|---|---|---|

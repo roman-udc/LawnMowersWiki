@@ -15,7 +15,7 @@ updated: 2026-11-24
 
 ## Summary
 
-Diesel mowers use glow plugs to help a cold engine start. Each glow plug electrifies a heating element at its tip. The hot tip ignites the compressed air in the cylinder together with the injected fuel. A glow plug that no longer heats leaves a cold diesel engine unable to start. Sources: [S1](../../raw/Articles/poweredoutdoors.com/diesel-lawn-mower-wont-start.md)
+Diesel mowers use glow plugs to help a cold engine start. Each glow plug electrifies a heating element at its tip. The hot tip ignites the compressed air in the cylinder together with the injected fuel. A glow plug that no longer heats leaves a cold diesel engine unable to start. Only one Source covers this Cause. Sources: [S1](../../raw/Articles/poweredoutdoors.com/diesel-lawn-mower-wont-start.md)
 
 ## Before you start
 
