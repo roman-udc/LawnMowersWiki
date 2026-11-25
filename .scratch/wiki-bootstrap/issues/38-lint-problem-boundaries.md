@@ -2,7 +2,7 @@
 
 Found by [08: First full lint](08-first-full-lint.md); details in `reports/lint/2026-11-24.md`.
 
-**Status:** done
+**Status:** resolved
 
 **What to build:** Problems stay keyed on one symptom (ADR-0001) and route readers to their neighbours.
 
