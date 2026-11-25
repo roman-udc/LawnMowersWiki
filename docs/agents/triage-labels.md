@@ -11,6 +11,8 @@ The skills speak in terms of five canonical triage roles. This file maps those r
 | `wontfix`                  | `wontfix`            | Will not be actioned                     |
 | (none)                     | `resolved`           | Work is done and committed               |
 
+`resolved` is this repo's own addition, not one of the five roles: set it when a ticket's work is done and committed.
+
 When a skill mentions a role (e.g. "apply the AFK-ready triage label"), use the corresponding label string from this table.
 
 Edit the "Label in our tracker" column to match whatever vocabulary you actually use.
