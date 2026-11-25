@@ -2368,3 +2368,7 @@ Applied ticket 39 from reports/lint/2026-11-24.md. No other Source in raw/ cover
 ## 2026-11-25 | lint | ticket 40: superseded-claims date pass
 
 Report: reports/lint/2026-11-25.md. Compared Source `published` dates and Trust tiers on all 65 conflict callouts (47 pages) and the six highest-Source Problems. 6 superseded-claim suspicions: blade replacement interval and paper-filter clean-or-replace (a newer manufacturer Source differs from an older one); ignition coil difficulty and gas age (newer manufacturer Source, weaker difference); starter fluid and battery threshold (newer Sources are a lower tier, so the maintainer decides). No wiki page edited.
+
+## 2026-11-25 | fix | ticket 40: superseded claims 1–2
+
+Applied items 1 and 2 from reports/lint/2026-11-25.md. Blade replacement: causes/dull-or-bent-blade.md cites how-to-measure-a-mower-blade (S150, manufacturer, 2025) and its callout now says the 1–3 seasons figure supersedes the 2019 every-season rule; procedures/sharpen-and-replace-the-blades.md leads with 1–3 seasons and marks the yearly rule superseded. Paper air filter: causes/clogged-air-filter.md leads with tap-then-replace and notes that the 2025 manufacturer article supersedes the 2017 video's replace-if-dirty advice.

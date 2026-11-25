@@ -17,8 +17,8 @@ part_types:
 procedures:
   - ../procedures/sharpen-and-replace-the-blades.md
   - ../procedures/measure-a-mower-blade.md
-source_count: 149
-updated: 2026-11-24
+source_count: 150
+updated: 2026-11-25
 ---
 
 # Dull or bent blade
@@ -124,10 +124,10 @@ Sources: [S3](../../raw/Articles/poweredoutdoors.com/ariens-mower-is-vibrating.m
 - Lawn chemicals can corrode the deck and fuse the blades to the spindle; take the blades off now and then so they don't seize.
 - One author has blades professionally sharpened for a better edge.
 
-> **⚠ Conflicting advice:** sharpen dull blades that are otherwise in good shape and replace them only when worn or damaged (most Sources, for example [S69](../../raw/Articles/poweredoutdoors.com/lawn-mower-is-cutting-uneven.md) and [S65](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-cuts-uneven.md), expert-blog) vs replace the blades at the start of every season ([S122](../../raw/Articles/searspartsdirect.com/why-does-my-lawn-tractor-cut-unevenly.md), manufacturer), with two other manufacturer Sources saying replace a blade that is damaged, bent or dull ([S119](../../raw/Articles/searspartsdirect.com/mower-deck-vibrates.ltrtr140.md), [S120](../../raw/Articles/searspartsdirect.com/not-cutting-evenly.ridtr02.md)).
+> **⚠ Conflicting advice:** sharpen dull blades that are otherwise in good shape and replace them only when worn or damaged (most Sources, for example [S69](../../raw/Articles/poweredoutdoors.com/lawn-mower-is-cutting-uneven.md) and [S65](../../raw/Articles/poweredoutdoors.com/kubota-lawn-mower-cuts-uneven.md), expert-blog) vs replace the blades at the start of every season ([S122](../../raw/Articles/searspartsdirect.com/why-does-my-lawn-tractor-cut-unevenly.md), manufacturer, published 2019). A newer manufacturer Source says most blades need replacing every 1–3 seasons, depending on how often you mow and the terrain ([S150](../../raw/Articles/searspartsdirect.com/how-to-measure-a-mower-blade.md), published 2025), which supersedes the every-season rule. Two other manufacturer Sources saying replace a blade that is damaged, bent or dull ([S119](../../raw/Articles/searspartsdirect.com/mower-deck-vibrates.ltrtr140.md), [S120](../../raw/Articles/searspartsdirect.com/not-cutting-evenly.ridtr02.md)).
 - For general owner know-how, see the Guide: [Mower parts that wear out](../guides/mower-parts-that-wear-out.md).
 
-Sources: [S9](../../raw/Articles/poweredoutdoors.com/change-and-sharpen-your-husqvarna-lawn-mower-blades.md), [S85](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-has-a-bad-or-uneven-cut.md), [S4](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-cuts-uneven.md), [S25](../../raw/Articles/poweredoutdoors.com/craftsman-mower-overheating.md), [S28](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-engine-overheats.md), [S62](../../raw/Articles/poweredoutdoors.com/john-deere-mower-engine-overheats.md), [S80](../../raw/Articles/poweredoutdoors.com/reasons-lawn-tractor-cuts-uneven.md), [S69](../../raw/Articles/poweredoutdoors.com/lawn-mower-is-cutting-uneven.md), [S13](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-gravely-mower-blades.md), [S58](../../raw/Articles/poweredoutdoors.com/inspecting-your-lawn-mower-blades-saves-you-time-money.md), [S50](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-cuts-uneven.md), [S122](../../raw/Articles/searspartsdirect.com/why-does-my-lawn-tractor-cut-unevenly.md)
+Sources: [S9](../../raw/Articles/poweredoutdoors.com/change-and-sharpen-your-husqvarna-lawn-mower-blades.md), [S85](../../raw/Articles/poweredoutdoors.com/scag-lawn-mower-has-a-bad-or-uneven-cut.md), [S4](../../raw/Articles/poweredoutdoors.com/bad-boy-lawn-mower-cuts-uneven.md), [S25](../../raw/Articles/poweredoutdoors.com/craftsman-mower-overheating.md), [S28](../../raw/Articles/poweredoutdoors.com/cub-cadet-mower-engine-overheats.md), [S62](../../raw/Articles/poweredoutdoors.com/john-deere-mower-engine-overheats.md), [S80](../../raw/Articles/poweredoutdoors.com/reasons-lawn-tractor-cuts-uneven.md), [S69](../../raw/Articles/poweredoutdoors.com/lawn-mower-is-cutting-uneven.md), [S13](../../raw/Articles/poweredoutdoors.com/change-sharpen-your-gravely-mower-blades.md), [S58](../../raw/Articles/poweredoutdoors.com/inspecting-your-lawn-mower-blades-saves-you-time-money.md), [S50](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-cuts-uneven.md), [S122](../../raw/Articles/searspartsdirect.com/why-does-my-lawn-tractor-cut-unevenly.md), [S150](../../raw/Articles/searspartsdirect.com/how-to-measure-a-mower-blade.md)
 
 ## Sources
 
@@ -280,3 +280,4 @@ Sources: [S9](../../raw/Articles/poweredoutdoors.com/change-and-sharpen-your-hus
 - [S147](../../raw/Articles/searspartsdirect.com/riding-mower-and-tractor-common-questions.md) — Riding mower and tractor common questions (manufacturer)
 - [S148](../../raw/Articles/poweredoutdoors.com/lawn-mower-quits-when-hot.md) — 11 Reasons a Lawn Mower Quits When Hot (expert-blog)
 - [S149](../../raw/Articles/poweredoutdoors.com/riding-lawn-mower-quits-when-hot.md) — 11 Reasons a Riding Lawn Mower Quits When Hot (Solved!) (expert-blog)
+- [S150](../../raw/Articles/searspartsdirect.com/how-to-measure-a-mower-blade.md) — How to measure a mower blade (manufacturer)

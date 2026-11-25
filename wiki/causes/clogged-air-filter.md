@@ -18,7 +18,7 @@ procedures:
   - ../procedures/clean-or-replace-the-air-filter.md
   - ../procedures/tune-up.md
 source_count: 200
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 # Clogged air filter
@@ -104,7 +104,7 @@ Sources: [S11](../../raw/Articles/poweredoutdoors.com/5-reasons-your-lawn-mower-
 
 > **⚠ Conflicting advice (oil for a foam primary filter):** [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md) and [S8](../../raw/Articles/poweredoutdoors.com/guide-to-lawn-mower-air-filters-differences-how-to-clean-them.md) say to use filter oil (expert-blog) vs [S3](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-turns-over-but-wont-start.md) and [S10](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-when-cold.md) say to use clean engine oil (expert-blog).
 
-> **⚠ Conflicting advice (clean or replace a dirty paper filter):** [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S2](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but-wont-start.md) and [S10](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-when-cold.md) say to tap it out and reuse it if light shows through (expert-blog) vs [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md) says to replace the filter if it is dirty, and [S9](../../raw/Articles/searspartsdirect.com/how-to-clean-the-air-filter-in-your-lawn-tractor.md) says to replace it if it is still dirty after tapping (manufacturer).
+> **⚠ Conflicting advice (clean or replace a dirty paper filter):** tap it out first and replace it only if it is still dirty or torn. [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S2](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but-wont-start.md) and [S10](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-when-cold.md) say to tap it out and reuse it if light shows through (expert-blog) and [S9](../../raw/Articles/searspartsdirect.com/how-to-clean-the-air-filter-in-your-lawn-tractor.md) says to replace it if it is still dirty after tapping (manufacturer, published 2025) vs [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md) says to replace the filter if it is dirty (manufacturer, published 2017). The newer manufacturer Source supersedes the older video's advice to replace a dirty filter outright.
 
 Sources: [S1](../../raw/Articles/poweredoutdoors.com/lawn-mower-turns-over-but-wont-start.md), [S2](../../raw/Articles/poweredoutdoors.com/riding-mower-turns-over-but-wont-start.md), [S3](../../raw/Articles/poweredoutdoors.com/husqvarna-mower-turns-over-but-wont-start.md), [S7](../../raw/Articles/searspartsdirect.com/riding-lawn-mower-engine-spins-but-wont-start-video.md), [S8](../../raw/Articles/poweredoutdoors.com/guide-to-lawn-mower-air-filters-differences-how-to-clean-them.md), [S9](../../raw/Articles/searspartsdirect.com/how-to-clean-the-air-filter-in-your-lawn-tractor.md), [S10](../../raw/Articles/poweredoutdoors.com/lawn-mower-wont-start-when-cold.md)
 
