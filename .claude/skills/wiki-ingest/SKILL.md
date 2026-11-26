@@ -110,10 +110,10 @@ While the bootstrap ingest is unfinished (raw/ still holds Sources no ingest has
 
 ## 8. Commit
 
-Stage only `wiki/` and commit once:
+Stage `wiki/` plus this batch's Source files (the maintainer drops Sources into `raw/` without committing them; the ingest commit saves them). Stage only the batch's paths, never all of `raw/`, so Sources outside the batch stay out of the commit. Commit once:
 
 ```bash
-git add wiki
+git add wiki <each raw/ path in this batch>
 git commit -m "Ingest: <label>" -m "<n> ingested, <m> skipped. Pages created: …; updated: …"
 ```
 

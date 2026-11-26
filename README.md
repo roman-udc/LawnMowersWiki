@@ -146,13 +146,13 @@ This is how the support agent uses the wiki, and it's also the best way to revie
    published: '2024-05-01'
    ---
    ```
-2. **Commit the new Sources** so they are saved in Git. Ask Claude Code: *"commit the new files in raw/"*.
-3. **Run the skill** in Claude Code:
+2. **Run the skill** in Claude Code:
    ```
    /wiki-ingest
    ```
-4. **Read Claude's report.** It lists the Sources ingested or skipped (with reasons) and the pages created or updated, and it flags any conflicts. Open a few of the changed pages in Obsidian and check them with your expert eye.
-5. **Push**: ask Claude *"push"* or run `git push`.
+   You don't need to commit the new Sources first. Ingest commits them together with the wiki changes.
+3. **Read Claude's report.** It lists the Sources ingested or skipped (with reasons) and the pages created or updated, and it flags any conflicts. Open a few of the changed pages in Obsidian and check them with your expert eye.
+4. **Push**: ask Claude *"push"* or run `git push`.
 
 ### 5. Walkthrough: checking wiki health (lint)
 
@@ -197,7 +197,7 @@ Every claim in the wiki must cite a Source, including corrections that come from
    the solenoid is … (state the correct fact, which models it applies to,
    and why you know).
    ```
-2. Commit it, then run `/wiki-ingest`. Claude treats your note as an **expert**-tier Source: it corrects the affected pages, cites your note, and flags any conflict with weaker Sources.
+2. Run `/wiki-ingest`, which commits your note along with the page changes. Claude treats your note as an **expert**-tier Source: it corrects the affected pages, cites your note, and flags any conflict with weaker Sources.
 
 **B. Typos and wording** (no facts change). Fix the text directly in Obsidian, then ask Claude Code: *"validate the wiki, log a fix entry for my edit and commit"*.
 
