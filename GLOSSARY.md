@@ -34,7 +34,7 @@ _Avoid_: article (too narrow, since forum threads are also Sources), raw file
 
 ## Trust tier
 
-How much weight a Source's claims carry: **manufacturer** (OEM manuals, parts-supplier repair guides) > **expert-blog** > **forum**. Within forum Sources, a confirmed fix ("that fixed it") outranks an untested suggestion.
+How much weight a Source's claims carry: **manufacturer** (OEM manuals, parts-supplier repair guides) > **expert** (notes written by the wiki's own lawn-mower specialist, kept in `raw/Expert/`) > **expert-blog** > **forum**. Within forum Sources, a confirmed fix ("that fixed it") outranks an untested suggestion.
 
 ## Brand note
 

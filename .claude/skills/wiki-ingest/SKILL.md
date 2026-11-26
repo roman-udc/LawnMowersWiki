@@ -39,6 +39,7 @@ Read each Source in full. Record for each:
 | Domain / type | Trust tier |
 |---|---|
 | searspartsdirect.com, OEM manuals, parts-supplier repair guides | manufacturer |
+| `raw/Expert/`, any `type: expert-note` (the specialist's own corrections) | expert |
 | poweredoutdoors.com, other repair blogs | expert-blog |
 | forum domains (reddit.com, mytractorforum.com, lawnmowerforum.com, any `type: forum`) | forum |
 
